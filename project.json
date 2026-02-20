@@ -1,5 +1,5 @@
 {
-    "name": "Alice2026",
+    "name": "Alice im Wunderland",
     "encounter_sets": [
         {
             "name": "Arkham im Wunderland",
@@ -4235,13 +4235,13 @@
             "id": "5f74ac8b-bd5f-432b-be1d-211b37bb2f8f"
         },
         {
-            "name": "Croquet Grounds",
+            "name": "Croquetplatz",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Castle.",
-                "text": "\n<action>: You try to impress the courtiers to get them on your side. Test <combat> or <agility> (3). If you succeed, remove 1\u00a0blame from your copy of Royal Suspicion. If you fail by 2\u00a0or more, add 1\u00a0blame to your copy of Royal Suspicion instead.",
-                "flavor_text": "A small group of the queen's courtiers play croquet \non the open terrace, albeit with flamingos and rolled-up hedgehogs instead of mallets and balls.",
+                "traits": "Wunderland. Burg.",
+                "text": "<action>: Du versuchst, die H\u00f6flinge zu beeindrucken, um sie auf deine Seite zu ziehen. Lege eine <combat>- oder <agility>-Probe (3) ab. Falls dir die Probe gelingt, entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht.  Falls die Probe um 2 oder mehr misslingt, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht.",
+                "flavor_text": "Eine kleine Gruppe von H\u00f6flingen der K\u00f6nigin spielt Croquet auf der offenen Terrasse, allerdings mit Flamingos und zusammengerollten Igeln anstelle von Schl\u00e4gern und B\u00e4llen.",
                 "victory": "",
                 "illustration": "./images/Croquet - William Merritt Chase.jpg",
                 "clues": "1<per>",
@@ -4259,13 +4259,11 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. William Merritt Chase",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Castle.",
                 "text": "\n",
-                "flavor_text": "The sounds of laughter coming from the grounds mix\nwith the squawks and squeaks of distressed animals.\nJust what sort of games are being played here?",
+                "flavor_text": "Das Gel\u00e4chter, das vom Gel\u00e4nde her\u00fcberhallt, vermischt sich mit dem Kreischen und Quieken von gequ\u00e4lten Tieren. Was f\u00fcr Spiele werden hier gespielt?",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4275,13 +4273,13 @@
             "id": "13763520-e5e4-43ee-a49a-919e73da35a7"
         },
         {
-            "name": "Hedge Maze",
+            "name": "Heckenlabyrinth",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Castle.",
-                "text": "\n<action>: You try to give directions to one of the lost courtiers. Test <willpower> or <intellect> (3). If you succeed, remove 1\u00a0blame from your copy of Royal Suspicion. If you fail by 2\u00a0or more, add 1\u00a0blame to your copy of Royal Suspicion instead.",
-                "flavor_text": "Several members of the royal court amble about the maze, \nutterly lost but too proud to admit it. Perhaps you could gain their favor by helping them out of the labyrinth.",
+                "traits": "Wunderland. Burg.",
+                "text": "<action>: Du versuchst, einem der verlorenen H\u00f6flinge den Weg zu weisen. Lege eine <willpower>- oder <intellect>-Probe (3) ab. Falls dir die Probe gelingt, entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht.  Falls die Probe um 2 oder mehr misslingt, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht.",
+                "flavor_text": "Mehrere Mitglieder des K\u00f6nigshofes schlendern durch das Labyrinth, v\u00f6llig verloren, aber zu stolz, um es zuzugeben. Vielleicht k\u00f6nntest du ihre Gunst gewinnen, wenn du ihnen aus dem Labyrinth heraushilfst.",
                 "victory": "",
                 "illustration": "./images/Hedge Maze - Milivoj \u0106eran.jpg",
                 "clues": "1<per>",
@@ -4299,13 +4297,12 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Milivoj \u0106eran",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Castle.",
                 "text": "\n",
-                "flavor_text": "With how difficult Wonderland has been to navigate,\nyou can only guess how much more frustrating a\ndeliberate maze would be.",
+                "flavor_text": "Wenn man bedenkt, wie schwierig es ist, sich im Wunderland zurechtzufinden, ist es kaum vorstellbar, wie frustrierend ein\nabsichtlich angelegtes Labyrinth wohl sein muss.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4391,14 +4388,14 @@
             "id": "e1496454-61e8-42cc-a2fa-cff867ab7622"
         },
         {
-            "name": "Courtroom",
+            "name": "Gerichtssaal",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Castle. Restricted.",
-                "text": "\n<action> If there are no clues on <name>:\nRemove up to 4 blame from your copy of Royal Suspicion and place the same amount of clues on <name> (from the token bank).",
-                "flavor_text": "The jurors sit in their box with chalkboards \nin hand. Perhaps you can influence them \nbefore any trials get underway.",
-                "victory": "Victory 1.",
+                "traits": "Wunderland. Burg. Gesperrt.",
+                "text": "<action> Falls sich keine Hinweise auf dem <name> befinden: Entferne bis zu 4 Anschuldigungen von deiner Kopie K\u00f6niglicher Verdacht und f\u00fcge dem <name> so viele Hinweise hinzu <i>(aus dem Markervorrat)</i>.",
+                "flavor_text": "Die Geschworenen sitzen mit Kreidetafeln in der Hand in ihrer Loge. Vielleicht kannst du sie beeinflussen, bevor die Verhandlung beginnt.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Courtroom - David Hall.jpg",
                 "clues": "0",
                 "shroud": "5",
@@ -4411,19 +4408,24 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. David Hall"
+                "illustrator": "Illus. David Hall",
+                "illustration_scale": 1.08,
+                "illustration_pan_x": 20,
+                "illustration_pan_y": 120
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. David Hall",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Castle. Restricted.",
-                "text": "\nIf there is at least 2 blame on your copy of Royal Suspicion, you cannot enter <name>.",
-                "flavor_text": "With blame being constantly thrown your way, you don't relish the idea of being in a place that can make it official.",
+                "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du den <name> nicht betreten.",
+                "flavor_text": "Unter all den Vorw\u00fcrfen findest du es nicht besonders reizvoll, an den Ort zu gehen, an dem diese amtlich festgemacht werden k\u00f6nnten.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "heart",
+                    "hourglass"
+                ],
+                "illustration_scale": 1.08
             },
             "encounter_number": "13",
             "expansion_number": "99",
@@ -4475,7 +4477,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Castle. Restricted.",
+                "traits": "Wunderland. Burg. Gesperrt.",
                 "text": "\nWhile you are investigating <name>, if you have 2 or fewer cards in your hand, <name> gains +2 shroud.\n<for> When the investigator phase ends: Each investigator at <name> must discard 1 card from their hand at random.",
                 "flavor_text": "Most of the card guards are out scouring the castle grounds for the culprit. The few that remain take offense at your intrusion here.",
                 "victory": "Victory 1.",
@@ -4491,12 +4493,10 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. George Factor",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Castle. Restricted.",
-                "text": "\nIf there is at least 2 blame on your copy of Royal Suspicion, you cannot enter <name>.",
+                "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du die <name> nicht betreten.",
                 "flavor_text": "The queen's card guards cross their spears as you approach, highly suspicious of anyone that \nshe has accused of thievery.",
                 "connection": "<copy>",
                 "connections": "<copy>"
@@ -4645,15 +4645,18 @@
             "amount": 3
         },
         {
-            "name": "Damning Evidence",
+            "name": "Vernichtende Beweise",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme. Blunder.",
-                "text": "Peril.\n<rev> You must (choose one):\n<bullet> Place 1 doom on the current agenda. This effect can\ncause the current agenda to advance.\n<bullet> Add 2 blame to your copy of Royal Suspicion.\n<bullet> Add 4 blame to another investigator's copy of\nRoyal Suspicion.\n",
+                "traits": "Komplott. Patzer.",
+                "text": "Wagnis.\n<rev> Du musst entscheiden (w\u00e4hle eins):\n<bullet> Platziere 1 Verderben auf die aktuelle Agenda (durch diesen Effekt kann die aktuelle Agenda vorr\u00fccken).\n<bullet> Lege 2 Anschludigungen auf deine Kopie von K\u00f6niglicher Verdacht.\n<bullet> Lege 4 Anschuldigungen auf die Kopie von K\u00f6niglicher Verdacht eines anderen Ermittlers.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/King of Hearts - Rodney Matthews.jpg",
-                "illustrator": "Illus. Rodney Matthews"
+                "illustrator": "Illus. Rodney Matthews",
+                "illustration_pan_x": -818,
+                "illustration_pan_y": -874,
+                "illustration_scale": 1.6
             },
             "back": {
                 "type": "encounter"
@@ -4661,7 +4664,8 @@
             "encounter_number": "28-29",
             "expansion_number": "108",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
-            "id": "f1459cdb-45b7-415c-b721-068ef7fb2661"
+            "id": "f1459cdb-45b7-415c-b721-068ef7fb2661",
+            "amount": 2
         },
         {
             "name": "\"Den Kopf ihr ab!\"",
@@ -4686,15 +4690,18 @@
             "amount": 3
         },
         {
-            "name": "Pointing Fingers",
+            "name": "Mit dem Finger zeigen",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme. Blunder.",
-                "text": "Peril.\n<rev> Choose an investigator and place 1 blame on their copy of Royal Suspicion. If that copy of Royal Suspicion has 4\u00a0or more blame on it, place 1\u00a0doom on the <t>Card</t> enemy closest to that investigator. That investigator tests <willpower> (X), where X is the amount of blame on their copy of Royal Suspicion. If they fail, they take 1\u00a0horror and lose 1\u00a0action.",
+                "traits": "Komplott. Patzer.",
+                "text": "Wagnis.\n<rev> W\u00e4hle einen Ermittler und lege 1 Anschuldigung auf seine Kopie von K\u00f6niglicher Verdacht. Falls dieser Ermittler nun 4 oder mehr Anschuldigungen hat, platziere 1 Verderben auf dem zu diesem Ermittler n\u00e4chsten <t>Karte</t>-Gegner. Der Ermittler legt eine <willpower>-Probe (X) ab. X ist die Anzahl an Anschuldigungen des Ermittlers. Falls die Probe misslingt, nimmt der Ermittler 1 Horror und verliert 1 Aktion.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Queen of Hearts - John Tenniel.jpg",
-                "illustrator": "Illus. John Tenniel"
+                "illustrator": "Illus. John Tenniel",
+                "illustration_pan_x": 14,
+                "illustration_pan_y": -438,
+                "illustration_scale": 0.8
             },
             "back": {
                 "type": "encounter"
@@ -4702,7 +4709,8 @@
             "encounter_number": "33-35",
             "expansion_number": "110",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
-            "id": "998d0e94-df05-4ffe-8e13-584b171326a5"
+            "id": "998d0e94-df05-4ffe-8e13-584b171326a5",
+            "amount": 3
         },
         {
             "name": "Der Scharfrichter",
