@@ -199,20 +199,20 @@
                         "y": 427.03611152717974
                     },
                     "dd26e6d0-e4fc-4802-ae5a-8a1f4a9a07bc_front": {
-                        "x": 364.98494113355395,
-                        "y": 73.23833602677668
+                        "x": 331.922441133554,
+                        "y": 69.27083602677666
                     },
                     "6cac64a8-1daf-486c-bc58-b3b4d7908e73_front": {
-                        "x": 303.1337897469607,
-                        "y": -223.67389865719736
+                        "x": 178.81878974696073,
+                        "y": -210.44889865719736
                     },
                     "528b70c5-c923-4f54-876c-bd1a95825098_front": {
-                        "x": 75.8012053164527,
-                        "y": -109.29840199807087
+                        "x": -65.70629468354728,
+                        "y": -66.9784019980709
                     },
                     "5f74ac8b-bd5f-432b-be1d-211b37bb2f8f_front": {
-                        "x": 466.2742286390773,
-                        "y": 358.48220448007584
+                        "x": 449.02422863907736,
+                        "y": 335.4822044800758
                     },
                     "a0c3ab9d-ded1-4589-b071-3d64db19e9a2_front": {
                         "x": 107.23863410859026,
@@ -223,8 +223,8 @@
                         "y": 567.8927548809543
                     },
                     "fda0ab39-984d-4f84-849b-16b87a87cb8b_front": {
-                        "x": -115.34180161343437,
-                        "y": 334.0529744380014
+                        "x": -153.34930161343436,
+                        "y": 287.2479744380013
                     }
                 }
             }
@@ -251,6 +251,13 @@
             "order": 9
         },
         {
+            "name": "Kartenwachen",
+            "icon": "./images/Card Guards.png",
+            "id": "57972c01-bce0-4512-9573-eabcc71a5ac1",
+            "card_amount": 6,
+            "order": 9
+        },
+        {
             "name": "R\u00e4tsel und Spiele",
             "icon": "./images/Riddles and Games.png",
             "id": "aff37008-a4ad-4fab-96de-29f9febd1bab",
@@ -269,12 +276,6 @@
             "icon": "./images/Alice in Arkham.png",
             "id": "723ad8cf-9f1f-4c04-a3f8-c9e78f3caffd",
             "card_amount": 1
-        },
-        {
-            "name": "Card Guards.png",
-            "icon": "./images/Card Guards.png",
-            "id": "57972c01-bce0-4512-9573-eabcc71a5ac1",
-            "card_amount": 6
         },
         {
             "name": "Chessmen.png",
@@ -4019,10 +4020,9 @@
             "name": "Lippenbekenntnis",
             "front": {
                 "type": "act",
-                "text": "<obj> If 1<per> or more <t>Restricted</t> locations are revealed, you must advance.",
+                "text": "<obj> Falls 1<per> oder mehr <t>Gesperrt</t>-Orte enth\u00fcllt sind, r\u00fccke vor.",
                 "flavor_text": "Die Herz-K\u00f6nigin scheint bereit zu sein, jeden in ihrer N\u00e4he zu enthaupten, wenn der Raub nicht aufgekl\u00e4rt wird. Als Erstes musst du dir aber Zugang zu den Tatorten verschaffen, um deine Unschuld zu beweisen. Das w\u00e4re einfacher, wenn du nicht der Hauptverd\u00e4chtige w\u00e4rst...",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
-                "clues": "-",
                 "index": "1a",
                 "illustrator": "Illus. Scott Gustafson"
             },
@@ -4030,7 +4030,7 @@
                 "type": "act_back",
                 "name": "Freunde am Hof",
                 "victory": "",
-                "text": "\n<blockquote>You manage to ingratiate yourself with the queen's court enough for the guards to ease up on their restrictions. Now that you have access to the more closely-guarded parts of the castle, you can finally make some progress on tracking down the culprit. However, a greater problem has risen to light during your initial scouting of the castle. Shadowy creatures lurk in the darker recesses of the castle, and often found wherever crumbs of the tarts lie scattered. If Gurathnaka's minions are going to attack the castle, they certainly are biding their time.</blockquote>\n\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Es gelingt dir, dich beim Hofstaat der K\u00f6nigin so beliebt zu machen, dass die Wachen ihre Kontrollen lockern. Nun, da du Zugang zu den besser bewachten Teilen des Schlosses hast, kannst du endlich Fortschritte bei der Suche nach dem T\u00e4ter machen. Allerdings ist w\u00e4hrend deiner ersten Erkundung des Schlosses ein gr\u00f6\u00dferes Problem zutage getreten. In den dunkleren Ecken des Schlosses lauern schattenhafte Kreaturen, die oft dort anzutreffen sind, wo Kr\u00fcmel von den T\u00f6rtchen verstreut liegen. Wenn Gurathnakas Schergen das Schloss angreifen wollen, lassen sie sich auf jeden Fall Zeit damit.</blockquote>"
             },
             "encounter_number": "5",
             "expansion_number": "91",
@@ -4041,8 +4041,8 @@
             "name": "Spur aus T\u00f6rtchenkrumen",
             "front": {
                 "type": "act",
-                "text": "<obj> Only investigators at Hedge Maze may spend the requisite number of clues to advance.",
-                "flavor_text": "While the queen's cronies have been quick about locking down the castle, they certainly haven't been thorough at their investigations. Between the missing tarts and the lurking threat of the shadows, finding the thief seems to be the key to both mysteries.",
+                "text": "<obj> Nur Ermittler am Heckenlabyrinth k\u00f6nnen als Gruppe die ben\u00f6tigten Hinweise ausgeben, um vorzur\u00fccken.",
+                "flavor_text": "Die Vertrauten der K\u00f6nigin haben zwar schnell das Schloss abgeriegelt, aber ihre Ermittlungen waren sicherlich nicht gr\u00fcndlich genug. Angesichts der verschwundenen Torten und der lauernden Bedrohung durch die Schatten k\u00f6nnte die Suche nach dem Dieb der Schl\u00fcssel zur L\u00f6sung beider R\u00e4tsel zu sein.",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
                 "clues": "3<per>",
                 "index": "2a",
@@ -4052,7 +4052,7 @@
                 "type": "act_back",
                 "name": "Auf frischem Mampf ertappt",
                 "victory": "",
-                "text": "\n<blockquote>In a lonely branch of the hedge maze, you are finally able to locate the thief - the Knave of Hearts, as you might have expected. He sits on the grass with half a plate of tarts beside him and some red smudges at the corners of his mouth. Your approach startles the Knave, and he quickly stands to appraise you. \"You are neither guard nor card. Good, you can assist in my plan. The tarts were a start, but the Queen must be driven into a greater fury.\" He leans in toward you to whisper, but keeps a bit of distance still. \"I've seen shadowy creatures lurking in the darkest corners of the palace. You've seen them too, haven't you? I know what they can do to people, and I've no desire to follow suit. The trouble is, I can't get at them. Only intense emotions seem to draw them out out of hiding. The Queen's rage should be bait enough, but she must be in a state of rage like never before. I can vandalize the castle to provoke her, but I shall need your assistance.\"</blockquote>\nPut the set-aside The Knave of Hearts into play at Hedge Maze.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n",
+                "text": "<blockquote>In einem einsamen Ast des Heckenlabyrinths findest du endlich den Dieb \u2013 den Herzbuben, wie du schon vermutet hast. Er sitzt auf dem Gras, neben ihm steht ein halb leerer Teller mit T\u00f6rtchen, und an seinen Mundwinkeln kleben rote Kr\u00fcmel. Dein Herannahen erschreckt den Buben, und er steht schnell auf, um dich zu mustern. \u201eDu bist weder Wache noch Karte. Gut, dann kannst du mir bei meinem Plan helfen. Die T\u00f6rtchen waren ein Anfang, aber die K\u00f6nigin muss noch w\u00fctender gemacht werden.\u201c Er beugt sich zu dir hin, um dir etwas zuzufl\u00fcstern, h\u00e4lt aber dennoch etwas Abstand. \u201eIch habe schattenhafte Kreaturen gesehen, die in den dunkelsten Ecken des Palastes lauern. Du hast sie auch gesehen, nicht wahr? Ich wei\u00df, was sie mit Menschen anstellen, und ich habe keine Lust, ihnen zu folgen. Das Problem ist, dass ich nicht an sie herankomme. Nur starke Gef\u00fchle scheinen sie aus ihrem Versteck zu locken. Die Wut der K\u00f6nigin sollte als K\u00f6der ausreichen, aber sie muss in einen rasenden Wutausbruch geraten, wie sie ihn noch nie zuvor erlebt hat. Ich kann das Schloss verw\u00fcsten, um sie zu provozieren, aber daf\u00fcr brauche ich deine Hilfe.\u201c</blockquote>\nBringe den beiseitegelegten Herz-Buben am Heckenlabyrinth ins Spiel.",
                 "index": "2b"
             },
             "encounter_number": "6",
@@ -4061,21 +4061,21 @@
             "id": "c6d3ce00-ec8b-4365-9c89-7da0a6dec52b"
         },
         {
-            "name": "Anger Management",
+            "name": "Wutbew\u00e4ltigung",
             "front": {
                 "type": "act",
-                "text": "<action> If you are at The Knave of Hearts' location, spend 1 clue: Place 1 damage token on your location and move The Knave of Hearts to a connecting location.\n<reaction> After you defeat an enemy: Place 1 damage token on your location.\n<reaction> After The Queen of Hearts enters a location, if there is any amount of damage tokens on that location: Remove all damage tokens from that location and place an equal amount of horror on The Queen of Hearts.\n<obj> If there is 3<per> or more horror on The Queen of Hearts, advance.",
-                "flavor_text": "The Knave may not be the most trustworthy person you've met, but the threat of Gurathnaka's shadows consuming the palace has forced your hand.",
+                "text": "<action> Wenn du am Ort des Herz-Bubens bist, gib 1 Hinweis aus: Platziere 1 Schaden auf deinen Ort und bewege den Herz-Buben an einen verbundenen Ort.\n<reaction> Nachdem du einen Gegner besiegt hast: Platziere 1 Schaden auf deinen Ort.\n<reaction> Nachdem die Herz-K\u00f6nigin einen Ort betreten hat: Entferne allen Schaden von diesem Ort und platziere so viel Horror auf der Herz-K\u00f6nigin.\n<obj> Falls sich 3<per> oder mehr Horror auf der Herz-K\u00f6nigin befinden, r\u00fccke vor.",
+                "flavor_text": "Der Knabe ist vielleicht nicht die vertrauensw\u00fcrdigste Person, die du je getroffen hast, aber die Gefahr, dass Gurathnakas Schatten das Schloss verschlingen, l\u00e4sst dir keine andere Wahl.",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
-                "clues": "-",
                 "index": "3a",
                 "illustrator": "Illus. Scott Gustafson"
             },
             "back": {
                 "type": "act_back",
-                "name": "Stay of Execution",
+                "name": "Aufschub der Vollstreckung",
                 "victory": "",
-                "text": "\n<blockquote>Your attempts at provoking the Queen's short temper reach immediate success. Between your direct interference and the Knave's expert sabotage of the castle, the Queen of Hearts has been pushed past her limit. \"OFF WITH ALL OF YOUR HEADS!\" she blasts, her face red as her own roses as she begins a tantrum. Shadows shift around the castle, reaching toward the queen in the midst of her meltdown.</blockquote>\n(<res>2</res>)\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Deine Versuche, die K\u00f6nigin zu provozieren, zeigen sofort Wirkung. Deine direkte Einmischung und die gekonnte Sabotage des Schlosses durch den Buben haben die Herzk\u00f6nigin endg\u00fcltig \u00fcber ihre Grenzen hinausgetrieben. \u201eDEN KOPF IHNEN AB!\u201c, br\u00fcllt sie mit einem Gesicht, so rot ist wie ihre eigenen Rosen, und beginnt einen Wutanfall. Schatten huschen durch das Schloss und n\u00e4hern sich der K\u00f6nigin, die mitten in ihrem Zusammenbruch steckt.</blockquote>\n(<b><resolution>A2</b>)",
+                "index": "3b"
             },
             "encounter_number": "7",
             "expansion_number": "93",
@@ -4097,7 +4097,7 @@
                 "type": "agenda_back",
                 "name": "Zack zack oder Kopf ab!",
                 "victory": "",
-                "text": "<blockquote>\u201eHabt ihr den Schuldigen noch immer nicht gefunden?! Den Kopf ihr ab!\u201c\nDie Laune der K\u00f6nigin wird sichtlich immer schlecht, und der Scharfrichter wetzt schon die Axt, um ihrem Wunsch Folge zu leisten.</blockquote>\nFalls der Scharfrichter im Spiel ist, platziere 1 Verderben auf ihm.\nAnsonsten durchsuche das Begegnungsdeck und den Ablagestapel nach dem Scharfrichter und bringe ihn ins Spiel."
+                "text": "<blockquote>\u201eHabt ihr den Schuldigen noch immer nicht gefunden?! Den Kopf ihr ab!\u201c\nDie Laune der K\u00f6nigin wird sichtlich immer schlechter, und der Scharfrichter wetzt schon die Axt, um ihrem Wunsch Folge zu leisten.</blockquote>\nFalls der Scharfrichter im Spiel ist, platziere 1 Verderben auf ihm.\nAnsonsten durchsuche das Begegnungsdeck und den Ablagestapel nach dem Scharfrichter und bringe ihn ins Spiel."
             },
             "encounter_number": "2",
             "expansion_number": "88",
@@ -4105,11 +4105,11 @@
             "id": "5f2e80ab-c5e2-4822-97f4-3a77ce791d31"
         },
         {
-            "name": "Scapegoats",
+            "name": "S\u00fcndenb\u00f6cke",
             "front": {
                 "type": "agenda",
-                "text": "The Queen of Hearts gains alert.\n<for> At the end of the mythos phase: In player order, each investigator who has 7 or more blame on their copy of Royal Suspicion draws an additional encounter card.",
-                "flavor_text": "The Queen stalks the castle grounds on the hunt for a victim. You're beginning to wonder just how much the Queen cares about the tarts, or if she just wants an excuse to execute someone.",
+                "text": "Die Herz-K\u00f6nigin erh\u00e4lt alarmiert.\n<for> Am Ende der Mythosphase: In Spielerreihenfolge zieht jeder Spieler, der 7 oder mehr Anschuldigungen auf seiner Kopie von K\u00f6niglicher Verdacht hat, eine weitere Begegungskarte.",
+                "flavor_text": "Die K\u00f6nigin streift auf der Suche nach einem Opfer \u00fcber das Schlossgel\u00e4nde. Du fragst dich langsam, wie sehr sich die K\u00f6nigin wirklich f\u00fcr die T\u00f6rtchen interessiert oder ob sie nur nach einem Anlass sucht, jemanden hinrichten zu lassen.",
                 "illustration": "./images/Miscellaneous - Marylou Deserson.jpg",
                 "doom": "7",
                 "index": "2a",
@@ -4117,9 +4117,10 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Heads Will Roll",
+                "name": "K\u00f6pfe werden rollen",
                 "victory": "",
-                "text": "\n<blockquote>Another bellow from the Queen sends the executioner scrambling after you. You've given him the slip a few times already, but he's not about to lose his job over you, or his head for that matter.</blockquote>\nIf The Executioner is in play, place 1 doom on him.\nOtherwise, search the encounter deck and discard pile for The Executioner and spawn him normally.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Ein weiterer Schrei der K\u00f6nigin schickt den Henker auf die Jagd nach dir. Du bist ihm schon ein paar Mal entkommen, aber er wird wegen dir weder seinen Job noch seinen Kopf verlieren.</blockquote>\nFalls der Scharfrichter im Spiel ist, platziere 1 Verderben auf ihm.\nAnsonsten durchsuche das Begegnungsdeck und den Ablagestapel nach dem Scharfrichter und bringe ihn ins Spiel.",
+                "index": "2b"
             },
             "encounter_number": "3",
             "expansion_number": "89",
@@ -4127,10 +4128,10 @@
             "id": "b9fcfed3-d42e-421f-973a-1947b3cf0c06"
         },
         {
-            "name": "Eliminating Suspects",
+            "name": "Verd\u00e4chtige beseitigen",
             "front": {
                 "type": "agenda",
-                "text": "The Executioner and The Queen of Hearts gain alert.\n<for> At the end of the mythos phase: In player order, each investigator who has 7 or more blame on their copy of Royal Suspicion draws an additional encounter card.",
+                "text": "Der Scharfrichter und die Herz-K\u00f6nigin erhalten alarmiert.\n<for> Am Ende der Mythosphase: In Spielerreihenfolge zieht jeder Spieler, der 7 oder mehr Anschuldigungen auf seiner Kopie von K\u00f6niglicher Verdacht hat, eine weitere Begegungskarte.",
                 "flavor_text": "If this keeps up, the whole castle will soon be after your head. If you don't make these next few minutes count, then there won't be a chance to redeem yourself.",
                 "illustration": "./images/Miscellaneous - Marylou Deserson.jpg",
                 "doom": "6",
@@ -4139,9 +4140,10 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Next on the Chopping Block",
                 "victory": "",
-                "text": "\n<blockquote>The sheer number of card guards cut off every possible avenue of escape. Cornered against stone walls with your resources depleted, you stare grimly as the Queen and her executioner approach. \"There can be no doubt! Off with their heads this instant!\"</blockquote>\nEach investigator who has not resigned is defeated.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Die schiere Anzahl der Kartenwachen versperrt jeden Fluchtweg. Mit dem R\u00fccken zur Steinwand und Ausweg starrst du grimmig auf die K\u00f6nigin und ihren Henker, die sich dir n\u00e4hern. \u201eDen Kopf ihnen ab! Kopf ab!\u201c</blockquote>\nJeder Ermittler, der nicht aufgegeben hat, wird besiegt.",
+                "name": "N\u00e4chster auf dem Schafott",
+                "index": "3b"
             },
             "encounter_number": "4",
             "expansion_number": "90",
@@ -4149,49 +4151,66 @@
             "id": "dfb6018d-e17b-4352-b6f1-ace36004cc53"
         },
         {
-            "name": "Bleeding Hearts",
+            "name": "Blutende Herzen",
             "front": {
                 "type": "chaos",
                 "entries": [
                     {
-                        "token": "skull",
-                        "text": "\u2013X. X is half the amount of blame on your copy of Royal Suspicion (rounded up)."
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die H\u00e4lfte an Anschuldigungen auf deiner Kopie von K\u00f6niglicher Verdacht (aufgerundet)."
                     },
                     {
-                        "token": "cultist",
-                        "text": "\u20132. \u20134 instead if The Queen of Hearts is at your location."
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132 (\u20134 stattdessen, falls sich die Herz-K\u00f6nigin an deinem Ort befindet)."
                     },
                     {
-                        "token": "tablet",
-                        "text": "\u20133. If you fail, add 1 blame to your copy of Royal Suspicion."
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20133. Bei Misserfolg, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht."
                     },
                     {
-                        "token": "elder_thing",
-                        "text": "\u20132. \u20134 instead if The Executioner is in play."
-                    }
-                ]
-            },
-            "back": {
-                "type": "chaos_back",
-                "entries": [
-                    {
-                        "token": "skull",
-                        "text": "\u2013X. X is the amount of blame on your copy of Royal Suspicion."
-                    },
-                    {
-                        "token": "cultist",
-                        "text": "\u20132. \u20134 instead if The Queen of Hearts is at your location or a connecting location."
-                    },
-                    {
-                        "token": "tablet",
-                        "text": "\u20134. If you fail, add 1 blame to your copy of Royal Suspicion."
-                    },
-                    {
-                        "token": "elder_thing",
-                        "text": "\u20133. \u20135 instead if The Executioner is in play."
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20132 (\u20134 stattdessen, falls sich der Scharfrichter im Spiel befindet)."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "EINFACH/STANDARD"
+            },
+            "back": {
+                "type": "chaos",
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die Anzahl an Anschuldigungen auf deiner Kopie von K\u00f6niglicher Verdacht."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132 (\u20134 stattdessen, falls sich die Herz-K\u00f6nigin an deinem Ort oder einem angrenzenden Ort befindet)."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20134. Bei Misserfolg, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20133 (\u20135 stattdessen, falls sich der Scharfrichter im Spiel befindet)."
+                    }
+                ],
+                "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
             "expansion_number": "87",
@@ -4199,13 +4218,13 @@
             "id": "2c46e417-58f5-400c-936e-264a10f58067"
         },
         {
-            "name": "Rose Garden",
+            "name": "Rosengarten",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Castle.",
-                "text": "\n<action> <action> You replant one of the white rose bushes with a red one: Remove 1 blame from your copy of Royal Suspicion.\n<action> If there is 0 blame on your copy of Royal Suspicion: <b>Resign</b>. You flee before anyone else tries to condemn you.",
-                "flavor_text": "Buckets and brushes lie abandoned by the white rose bushes. \nIf the queen is as passionate about her roses as she was \nabout her tarts, then you might be able to get in her good \ngraces by doing a bit of impromptu gardening.",
+                "traits": "Wunderland. Schloss.",
+                "text": "<action> <action> Du malst einen der wei\u00dfen Rosenb\u00fcsche rot an: Entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht.\n<action> Falls sich keine Anschuldigungen auf deiner Kopie von K\u00f6niglicher Verdacht befinden: <b>Aufgeben.</b> Du fliehst, bevor dich noch jemand beschuldigen kann.",
+                "flavor_text": "Eimer und Pinsel liegen verlassen neben den wei\u00dfen Rosenb\u00fcschen. Wenn die K\u00f6nigin f\u00fcr ihre Rosen genauso viel Leidenschaft empfindet wie f\u00fcr ihre T\u00f6rtchen, dann k\u00f6nntest du dich vielleicht mit ein wenig improvisierter Gartenarbeit in ihre Gunst bringen.",
                 "victory": "",
                 "illustration": "./images/Rose Garden - Mike Savad.jpg",
                 "clues": "0",
@@ -4219,13 +4238,11 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Mike Savad",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Castle.",
                 "text": "\n",
-                "flavor_text": "The royal gardens bristle with bright red flowers of every variety, though you notice a small section of rose bushes that glisten and drip with a coating of red paint.",
+                "flavor_text": "Die k\u00f6niglichen G\u00e4rten sind \u00fcbers\u00e4t mit leuchtend roten Blumen aller Art. Dir f\u00e4llt ein kleines Beet mit gl\u00e4nzenden Rosenb\u00fcschen auf, von denen rote Farbe tropft.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4239,7 +4256,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wunderland. Burg.",
+                "traits": "Wunderland. Schloss.",
                 "text": "<action>: Du versuchst, die H\u00f6flinge zu beeindrucken, um sie auf deine Seite zu ziehen. Lege eine <combat>- oder <agility>-Probe (3) ab. Falls dir die Probe gelingt, entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht.  Falls die Probe um 2 oder mehr misslingt, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht.",
                 "flavor_text": "Eine kleine Gruppe von H\u00f6flingen der K\u00f6nigin spielt Croquet auf der offenen Terrasse, allerdings mit Flamingos und zusammengerollten Igeln anstelle von Schl\u00e4gern und B\u00e4llen.",
                 "victory": "",
@@ -4277,7 +4294,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wunderland. Burg.",
+                "traits": "Wunderland. Schloss.",
                 "text": "<action>: Du versuchst, einem der verlorenen H\u00f6flinge den Weg zu weisen. Lege eine <willpower>- oder <intellect>-Probe (3) ab. Falls dir die Probe gelingt, entferne 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht.  Falls die Probe um 2 oder mehr misslingt, lege 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht.",
                 "flavor_text": "Mehrere Mitglieder des K\u00f6nigshofes schlendern durch das Labyrinth, v\u00f6llig verloren, aber zu stolz, um es zuzugeben. Vielleicht k\u00f6nntest du ihre Gunst gewinnen, wenn du ihnen aus dem Labyrinth heraushilfst.",
                 "victory": "",
@@ -4300,7 +4317,6 @@
                 "illustrator": "Illus. Milivoj \u0106eran",
                 "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Castle.",
                 "text": "\n",
                 "flavor_text": "Wenn man bedenkt, wie schwierig es ist, sich im Wunderland zurechtzufinden, ist es kaum vorstellbar, wie frustrierend ein\nabsichtlich angelegtes Labyrinth wohl sein muss.",
                 "connection": "<copy>",
@@ -4312,15 +4328,15 @@
             "id": "dd26e6d0-e4fc-4802-ae5a-8a1f4a9a07bc"
         },
         {
-            "name": "Throne Room",
+            "name": "Thronsaal",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wunderland. Burg.",
-                "text": "<for> After you discover any number of clues on <name>: Add 1 blame to your copy of Royal Suspicion or draw the top card of the encounter deck (choose one).",
-                "flavor_text": "The eye of scrutiny is definitely strongest here.\nThe members of the queen's court are all too eager to\ngain her favor by getting her angry at someone else.",
+                "traits": "Wunderland. Schloss.",
+                "text": "<for> Nachdem du eine beliebige Anzahl Hinweise im <name> entdeckt hast: F\u00fcge 1 Anschuldigung zu deiner Kopie von K\u00f6niglicher Verdacht hinzu oder ziehe die oberste Karte des Begegnungsdecks.",
+                "flavor_text": "Der Saal ist voller kritischer Augen. Um die Gunst der K\u00f6nigin zu erlangen, werfen die H\u00f6flinge nur allzu gerne mit Anschuldigungen um sich.",
                 "victory": "Sieg 1.",
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Heart Castle - Kaylea Hampson.jpg",
+                "illustration": "./images/Heart Castle - Kaylea Hampson.jpg",
                 "clues": "1<per>",
                 "shroud": "1",
                 "connection": "heart",
@@ -4338,9 +4354,10 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "\n",
-                "flavor_text": "Heart motifs decorate every column, arch, and \nbanner of the castle. Even the double doors leading to \nthe royal audience chamber are heart-shaped.",
+                "flavor_text": "Herz-Motive zieren jede S\u00e4ule, jeden Bogen und jedes Wimpel des Schlosses. Selbst die Doppelt\u00fcren, die in den k\u00f6niglichen Audienzsaal f\u00fchren, sind herzf\u00f6rmig.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "traits": "Wunderland. Schloss."
             },
             "encounter_number": "11",
             "expansion_number": "97",
@@ -4348,14 +4365,14 @@
             "id": "a0c3ab9d-ded1-4589-b071-3d64db19e9a2"
         },
         {
-            "name": "Verlie\u00df",
+            "name": "Verlies",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Castle. Restricted.",
-                "text": "\n<reaction> After you evade or defeat The Executioner at this location: Place 1 resource on <name> (from the token bank) as a key.\n<for> If there are 1<per> or more keys on <name>: in your Campaign Log, under \"Fragments of Alice,\" record <i>Compassion.</i>",
-                "flavor_text": "The Queen's gardeners are awaiting execution forlornly, but patiently.\nIf only there was something you could do for the poor doomed cards.",
-                "victory": "Victory 1.",
+                "traits": "Wunderland. Schloss. Gesperrt.",
+                "text": "<reaction> Nachdem du den Scharfrichter an diesem Ort besiegt hast oder ihm entkommen bist: Lege 1 Ressource <i>(aus dem Markervorrat)</i> als Schl\u00fcssel auf <name>.\n<for> Falls sich 1<per> oder mehr Schl\u00fcssel auf dem <name> befinden: Notiere im Kampagnenlogbuch unter \"Fragmente von Alice\" <i>Mitgef\u00fchl.</i>",
+                "flavor_text": "Die G\u00e4rtner der K\u00f6nigin warten hoffnungslos, aber geduldig auf ihre Hinrichtung. Wenn es doch nur etwas g\u00e4be, was man f\u00fcr die armen, zum Tode verurteilten Karten tun k\u00f6nnte.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Dungeon - Lucy Lisett.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
@@ -4374,11 +4391,10 @@
                 "type": "location_back",
                 "illustration": "./images/0_",
                 "illustrator": "Illus. Lucy Lisett",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Castle. Restricted.",
-                "text": "\nIf there is at least 2 blame on your copy of Royal Suspicion, you cannot enter <name>.",
-                "flavor_text": "The castle dungeons are under strict lock and key, \nas you might expect. The sighs and groans of \nlanguishing prisoners fill the air.",
+                "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du das <name> nicht betreten.",
+                "flavor_text": "Die Verliese des Schlosses sind, wie zu erwarten, streng verschlossen. \nDie Seufzer und St\u00f6hnen der darin schmachtenden Gefangenen erf\u00fcllen die Luft.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4392,7 +4408,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wunderland. Burg. Gesperrt.",
+                "traits": "Wunderland. Schloss. Gesperrt.",
                 "text": "<action> Falls sich keine Hinweise auf dem <name> befinden: Entferne bis zu 4 Anschuldigungen von deiner Kopie K\u00f6niglicher Verdacht und f\u00fcge dem <name> so viele Hinweise hinzu <i>(aus dem Markervorrat)</i>.",
                 "flavor_text": "Die Geschworenen sitzen mit Kreidetafeln in der Hand in ihrer Loge. Vielleicht kannst du sie beeinflussen, bevor die Verhandlung beginnt.",
                 "victory": "Sieg 1.",
@@ -4433,14 +4449,14 @@
             "id": "fda0ab39-984d-4f84-849b-16b87a87cb8b"
         },
         {
-            "name": "Kitchens",
+            "name": "K\u00fcchen",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Castle. Restricted.",
-                "text": "\n<reaction> After the last clue is discovered from <name>: Remove 2 blame from each investigator's copy of Royal Suspicion (group limit once per game).\n",
-                "flavor_text": "The kitchens are a mess as the queen's servants ready the tarts. As they haven't cleaned up, there may be some \nevidence left from whoever stole the first set.",
-                "victory": "Victory 1.",
+                "traits": "Wunderland. Schloss. Gesperrt.",
+                "text": "<reaction> Nachdem der letzten Hinweis in den <name> entdeckt worden ist: Entferne je 2 Anschuldigungen von jeder Kopie von K\u00f6niglicher Verdacht im Spiel (Nur ein Mal pro Spiel f\u00fcr die gesamte Gruppe).",
+                "flavor_text": "In den K\u00fcchen herrscht das reinste Chaos, als die Diener der K\u00f6nigin die Torten vorbereiten. Da sie noch nicht aufger\u00e4umt haben, k\u00f6nnten noch Spuren von demjenigen zu finden sein, der die erste Ladung gestohlen hat.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Kitchen - Maxime Gayral.jpg",
                 "clues": "2<per>",
                 "shroud": "3",
@@ -4457,13 +4473,11 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Maxime Gayral",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Castle. Restricted.",
-                "text": "\nIf there is at least 2 blame on your copy of Royal Suspicion, you cannot enter <name>.",
-                "flavor_text": "The smell of freshly-baked tarts slips through the door \nto the royal kitchens. This new batch is being \nclosely guarded, and anyone suspected of \nfilching the first bunch is not allowed inside.",
+                "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du die <name> nicht betreten.",
+                "flavor_text": "Der Duft frisch gebackener T\u00f6rtchen dringt durch die T\u00fcr der k\u00f6niglichen K\u00fcchen. Diese neue Charge wird streng bewacht, und wer im Verdacht steht,  sich von den ersten Torten bedient zu haben, darf nicht hinein.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4477,10 +4491,10 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wunderland. Burg. Gesperrt.",
-                "text": "\nWhile you are investigating <name>, if you have 2 or fewer cards in your hand, <name> gains +2 shroud.\n<for> When the investigator phase ends: Each investigator at <name> must discard 1 card from their hand at random.",
-                "flavor_text": "Most of the card guards are out scouring the castle grounds for the culprit. The few that remain take offense at your intrusion here.",
-                "victory": "Victory 1.",
+                "traits": "Wunderland. Schloss. Gesperrt.",
+                "text": "Solange du in der <name> ermittelst, bekommt die <name> +2 Schleier, falls du 2 oder weniger Karten auf der Hand hast.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler in der <name> legt 1 zuf\u00e4llige Karte von seiner Hand ab.",
+                "flavor_text": "Die meisten Wachen durchk\u00e4mmen das Schlossgel\u00e4nde nach dem Schuldigen. Die wenigen, die zur\u00fcckgeblieben sind, nehmen dir dein Eindringen \u00fcbel.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Cards - George Factor.jpg",
                 "clues": "1<per>",
                 "shroud": "2",
@@ -4497,7 +4511,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du die <name> nicht betreten.",
-                "flavor_text": "The queen's card guards cross their spears as you approach, highly suspicious of anyone that \nshe has accused of thievery.",
+                "flavor_text": "Die Kartenwachen der K\u00f6nigin kreuzen ihre Speere, als du dich n\u00e4herst, misstrauisch gegen\u00fcber jedem, den sie des Diebstahls bezichtigt hat.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4507,24 +4521,26 @@
             "id": "6cac64a8-1daf-486c-bc58-b3b4d7908e73"
         },
         {
-            "name": "The King of Hearts",
+            "name": "Der Herz-K\u00f6nig",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Majestic Magistrate",
-                "traits": "Wonderland. Card. Royalty.",
-                "text": "\n<action>: <b>Parley</b>. Move up to 3 blame from your copy of Royal Suspicion to a copy of Royal Suspicion controlled by another investigator. Any investigator at <name>'s location may activate this ability.\n<action> Spend any amount of resources: <b>Parley</b>. For every 3 resources spent, remove 1 blame from your copy of Royal Suspicion. Any investigator at <name>'s location may activate this ability.",
+                "subtitle": "Majest\u00e4tischer Magistrat",
+                "traits": "Wunderland. Karte. Adlig.",
+                "text": "<action>: <b>Verhandlung</b>. Bewege bis zu 3 Anschuldigungen von deiner Kopie von K\u00f6niglicher Verdacht auf eine andere Kopie von K\u00f6niglicher Verdacht. Jeder Ermittler am Ort des Herz-K\u00f6nigs darf diese F\u00e4higkeit aktivieren.\n<action>: Gib eine beliebige Anzahl Ressourcen aus: <b>Verhandlung</b>. F\u00fcr je drei ausgegebene Ressourcen darfst du 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht entfernen. Jeder Ermittler am Ort des Herz-K\u00f6nigs darf diese F\u00e4higkeit aktivieren.",
                 "cost": "<dash>",
-                "flavor_text": "He puts both the \"judge\" and \"mental\" into \"judgmental.\"",
+                "flavor_text": "Seiner \"Verurteilung\" folgt meist auch eine \"Teilung\".",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "illustration": "./images/King of Hearts - Alexandra Vardanian.jpg",
-                "illustrator": "Illus. Alexandra Vardanian"
+                "illustrator": "Illus. Alexandra Vardanian",
+                "level": "None",
+                "name": "<unique><name>"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "16",
             "expansion_number": "102",
@@ -4760,26 +4776,32 @@
             "amount": 3
         },
         {
-            "name": "Executioner's Axe",
+            "name": "Axt des Scharfrichters",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Hearty Hewer",
-                "traits": "Item. Weapon. Melee. Wonderland.",
-                "text": "\n<action> <b>Fight</b>. You get +1 <combat> for this attack. This attack deals +1 damage. If a <skull> or <elder_thing> token is revealed during this attack, you may either (choose one):\n<bullet> Treat that token's modifier as 0.\n<bullet> Deal +1 additional damage.",
+                "subtitle": "Herzhafter Hacker",
+                "traits": "Gegenstand. Waffe. Nahkampf. Wunderland.",
+                "text": "<action>: <b>Kampf</b>. Du bekommst f\u00fcr diesen Angriff +1 <combat>. Dieser Angriff f\u00fcgt +1 Schaden zu. Falls ein <skull> oder <elder_thing>-Symbol w\u00e4hrend dieses Angriffes enth\u00fcllt wird, darfst du entweder den Modifikator des Markers als 0 behandeln oder +1 Schaden zuf\u00fcgen.",
                 "cost": "3",
                 "slot": "1 Hand",
-                "flavor_text": "Have a heart.",
+                "flavor_text": "Fass dir ein Herz.",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "icons": "WCQ",
                 "illustration": "./images/Heart Axe.png",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "slots": [
+                    "hand"
+                ],
+                "name": "<unique><name>",
+                "illustration_pan_x": 52,
+                "illustration_pan_y": -32
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "39",
             "expansion_number": "112",
@@ -4787,28 +4809,32 @@
             "id": "2570dfde-4427-4261-947d-7029b3ec479c"
         },
         {
-            "name": "The Knave of Hearts",
+            "name": "Der Herz-Bube",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Larcenous Lordling",
-                "traits": "Ally. Card. Royalty. Wonderland.",
-                "text": "\nYou get +1 <agility>.\n<reaction> After you reveal a chaos token during an attack or evasion attempt, exhaust <name>: Cancel that attack or evasion attempt, including all effects of the revealed token. Return each card played or committed during this action to their owners' hands.",
+                "subtitle": "Lord Langfinger",
+                "traits": "Verb\u00fcndeter. Karte. Adlig. Wunderland.",
+                "text": "Du bekommst +1 <agility>.\n<reaction> Nachdem du einen Chaosmarker w\u00e4hrend einem Angriff oder Entkommen-Versuch enth\u00fcllst, ersch\u00f6pfe den Herz-Buben: Hebe den Angriff oder Entkommen-Versuch und alle Effekte des Markers auf. Schicke jede Karte, die f\u00fcr diese Aktion gespielt oder beigetragen wurde, auf deine Hand zur\u00fcck.",
                 "cost": "3",
                 "slot": "Ally",
                 "health": "2",
                 "sanity": "2",
-                "flavor_text": "If you need to get out of danger quickly,\nthe Knave might be around or he might not be.",
+                "flavor_text": "Wenn du schnell aus Gefahr fliehen musst,\nist der Bube zur stelle - oder auch nicht.",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "icons": "IAQ",
                 "illustration": "./images/Knave of Hearts - Eric Kincaid.jpg",
-                "illustrator": "Illus. Eric Kincaid"
+                "illustrator": "Illus. Eric Kincaid",
+                "slots": [
+                    "ally"
+                ],
+                "name": "<unique><name>"
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "40",
             "expansion_number": "113",
@@ -7371,13 +7397,13 @@
             "id": "44dedb59-c476-4bef-8db5-7202aae2877d"
         },
         {
-            "name": "Card Guard (Clubs)",
+            "name": "Kreuz-Kartenwache",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Wonderland. Humanoid. Card. Soldier.",
-                "text": "\n<for> After <name> attacks you: Choose and discard a card from your hand with at least 1 <combat> icon. If you cannot, take 1\u00a0horror.",
+                "traits": "Wunderland. Humanoid. Karte. Soldat.",
+                "text": "<for> Nachdem dich die Kreuz-Kartenwache angegriffen hat: W\u00e4hle 1 Karte von deiner Hand mit mindestens einem <combat>-Fertigkeitssymbol und lege sie ab. Falls du dies nicht kannst, nimm 1 Horror.",
                 "health": "3",
                 "evade": "2",
                 "attack": "3",
@@ -7386,7 +7412,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Card Guards - Rodney Matthews 2.jpg",
-                "illustrator": "Illus. Rodney Matthews"
+                "illustrator": "Illus. Rodney Matthews",
+                "illustration_pan_x": -60,
+                "illustration_pan_y": 144,
+                "illustration_scale": 0.82
             },
             "back": {
                 "type": "encounter"
@@ -7394,16 +7423,17 @@
             "encounter_number": "1-2",
             "expansion_number": "267",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
-            "id": "5cd6a949-df21-44cd-9f41-2e7ce8abedd3"
+            "id": "5cd6a949-df21-44cd-9f41-2e7ce8abedd3",
+            "amount": 2
         },
         {
-            "name": "Card Guard (Diamonds)",
+            "name": "Karo-Kartenwache",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Wonderland. Humanoid. Card. Soldier.",
-                "text": "\n<for> After <name> attacks you: Choose and discard a card from your hand with at least 1 <agility> icon. If you cannot, take 1 damage.",
+                "traits": "Wunderland. Humanoid. Karte. Soldat.",
+                "text": "<for> Nachdem dich die Kreuz-Kartenwache angegriffen hat: W\u00e4hle 1 Karte von deiner Hand mit mindestens einem <agility>-Fertigkeitssymbol und lege sie ab. Falls du dies nicht kannst, nimm 1 Schaden.",
                 "health": "3",
                 "evade": "3",
                 "attack": "2",
@@ -7420,16 +7450,17 @@
             "encounter_number": "3-4",
             "expansion_number": "268",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
-            "id": "97b22c75-275f-4288-86b5-42233c27d621"
+            "id": "97b22c75-275f-4288-86b5-42233c27d621",
+            "amount": 2
         },
         {
-            "name": "Card Guard (Hearts)",
+            "name": "Herz-Kartensoldat",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Wonderland. Humanoid. Card. Soldier.",
-                "text": "\n<for> After <name> attacks you: Choose and discard a card from your hand with at least 1 <willpower> icon. If you cannot, take 1\u00a0damage.",
+                "traits": "Wunderland. Humanoid. Karte. Soldat.",
+                "text": "<for> Nachdem dich die Herz-Kartenwache angegriffen hat: W\u00e4hle 1 Karte von deiner Hand mit mindestens einem <willpower>-Fertigkeitssymbol und lege sie ab. Falls du dies nicht kannst, nimm 1 Schaden.",
                 "health": "2",
                 "evade": "3",
                 "attack": "3",
@@ -7438,7 +7469,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Card Guards - Andrea Anselmi.jpg",
-                "illustrator": "Illus. Andrea Anselmi"
+                "illustrator": "Illus. Andrea Anselmi",
+                "illustration_pan_x": 6,
+                "illustration_pan_y": 572,
+                "illustration_scale": 0.52
             },
             "back": {
                 "type": "encounter"
@@ -7446,16 +7480,17 @@
             "encounter_number": "5-6",
             "expansion_number": "269",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
-            "id": "22f20896-299b-403a-a6bd-d955b1048eb7"
+            "id": "22f20896-299b-403a-a6bd-d955b1048eb7",
+            "amount": 2
         },
         {
-            "name": "Card Guard (Spades)",
+            "name": "Pik-Kartenwache",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Wonderland. Humanoid. Card. Soldier.",
-                "text": "\n<for> After <name> attacks you: Choose and discard a card from your hand with at least 1 <intellect> icon. If you cannot, take 1\u00a0horror.",
+                "traits": "Wunderland. Humanoid. Karte. Soldat.",
+                "text": "<for> Nachdem dich die Pik-Kartenwache angegriffen hat: W\u00e4hle 1 Karte von deiner Hand mit mindestens einem <intellect>-Fertigkeitssymbol und lege sie ab. Falls du dies nicht kannst, nimm 1 Horror.",
                 "health": "2",
                 "evade": "2",
                 "attack": "4",
@@ -7464,7 +7499,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Card Guards - Andrea Bettin.jpg",
-                "illustrator": "Illus. "
+                "illustrator": "Illus. ",
+                "illustration_pan_x": 18,
+                "illustration_pan_y": 544,
+                "illustration_scale": 0.4
             },
             "back": {
                 "type": "encounter"
@@ -7472,18 +7510,22 @@
             "encounter_number": "7-8",
             "expansion_number": "270",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
-            "id": "08483e63-98b9-409a-bc97-937484951450"
+            "id": "08483e63-98b9-409a-bc97-937484951450",
+            "amount": 2
         },
         {
-            "name": "Misdeal",
+            "name": "Falsch ausgeteilt",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme.",
-                "text": "\n<rev> Test <agility> (1). This test's difficulty increases by 1 for every 2 <t>Card</t> enemies in the encounter discard pile. If you fail, discard 2 cards from your hand at random. Then, if you have 2 or fewer cards in your hand, take 1 damage.",
+                "traits": "Komplott.",
+                "text": "<rev> Lege eine <agility>-Probe (1) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr je 2  <t>Karten</t>-Gegner im Begegnungsabslagestapel. Falls die Probe misslings, lege 2 zuf\u00e4llige Karten von deiner Hand ab. Falls du dann 2 oder weniger Karten auf deiner Hand hast, nimm 1 Schaden.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Cards - John Lobster.jpg",
-                "illustrator": "Illus. John Lobster"
+                "illustrator": "Illus. John Lobster",
+                "illustration_pan_x": 50,
+                "illustration_pan_y": 26,
+                "illustration_scale": 1.0
             },
             "back": {
                 "type": "encounter"
@@ -7491,18 +7533,19 @@
             "encounter_number": "9-10",
             "expansion_number": "271",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
-            "id": "e4003688-62e9-4ef7-b566-a1b8af5efa8c"
+            "id": "e4003688-62e9-4ef7-b566-a1b8af5efa8c",
+            "amount": 2
         },
         {
-            "name": "Weak Hand",
+            "name": "Schlechte Hand",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme.",
-                "text": "\n<rev> Test <willpower> (3). This test gets +1 difficulty and peril if there is a <t>Card</t> enemy at your location. For each point you fail by, take 1 horror or choose and discard a card from your hand.",
+                "text": "<rev> Lege eine <willpower>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich ein  <t>Karten</t>-Gegner an deinem Ort befindet. F\u00fcr jeden Punkt, um den die Probe missling, nimm 1 Horror und lege 1 Karte von deiner Hand ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Cards - Rahul Bhardwaj.jpg",
-                "illustrator": "Illus. Rahul Bhardwaj"
+                "illustrator": "Illus. Rahul Bhardwaj",
+                "traits": "Komplott."
             },
             "back": {
                 "type": "encounter"
@@ -7510,7 +7553,8 @@
             "encounter_number": "11-12",
             "expansion_number": "272",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
-            "id": "6ad146d8-ffa1-4292-9e50-22dfeb6de195"
+            "id": "6ad146d8-ffa1-4292-9e50-22dfeb6de195",
+            "amount": 2
         },
         {
             "name": "Unsinnige Ratschl\u00e4ge",
@@ -8578,7 +8622,8 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "38734b3a-623c-4b75-9d9a-755f1262d539"
+            "38734b3a-623c-4b75-9d9a-755f1262d539",
+            "6ad146d8-ffa1-4292-9e50-22dfeb6de195"
         ]
     },
     "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
