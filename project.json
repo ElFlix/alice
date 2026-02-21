@@ -230,6 +230,65 @@
             }
         },
         {
+            "name": "Eine wilde Schlarg-Jagd",
+            "icon": "./images/Wild Snark Chase.png",
+            "id": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
+            "card_amount": 31,
+            "order": 5,
+            "meta": {
+                "location_graph": {
+                    "eca9a8a9-c310-4a2e-9a75-ca08abab369b_front": {
+                        "x": 518.1052580639462,
+                        "y": 396.30311081637194
+                    },
+                    "67ae1b9c-87f3-4bcd-922a-443936daef27_front": {
+                        "x": 113.56229613377114,
+                        "y": 384.86294297864436
+                    },
+                    "f31e7367-b5f0-4ed0-ae41-816e36151438_back": {
+                        "x": 513.8167346084876,
+                        "y": 94.90452660647871
+                    },
+                    "eced1904-5a92-4c7b-a168-5c62e38217b6_back": {
+                        "x": 412.6668871520132,
+                        "y": 202.31960278321503
+                    },
+                    "8690f39e-6673-40ab-adad-ae527166eda1_back": {
+                        "x": 402.5281550046264,
+                        "y": 39.09000066240293
+                    },
+                    "d2d6602f-7ada-4366-a6c3-c7df17716575_back": {
+                        "x": 266.7226116845251,
+                        "y": 240.43045774231334
+                    },
+                    "957a47a2-fe86-47bb-bd41-1db41df7bcfa_back": {
+                        "x": 340.5963718442493,
+                        "y": 334.74209212958476
+                    },
+                    "779e7b30-84e7-446a-87a8-2c1c7ce874cf_back": {
+                        "x": 250.85240425879277,
+                        "y": 62.04675991871673
+                    },
+                    "661bed2c-9366-43fc-b0b8-58d18872da0b_back": {
+                        "x": 189.11574840077728,
+                        "y": 149.5609906937525
+                    },
+                    "c8ee2ff2-ec4e-4ef9-8abb-844aa2b8dbfe_back": {
+                        "x": 534.9455916234255,
+                        "y": 224.40121124971853
+                    },
+                    "83fe89e9-bbf8-4b8d-a91d-69d06bbe7c5b_front": {
+                        "x": 231.52106324344885,
+                        "y": 560.1555334142736
+                    },
+                    "f42dab6e-3e0e-4e4e-86c4-c01b303db3b9_front": {
+                        "x": 25.566877981931523,
+                        "y": 275.1827710045205
+                    }
+                }
+            }
+        },
+        {
             "name": "Das Walross und der Zimmermann",
             "icon": "./images/Walrus and Carpenter.png",
             "id": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
@@ -265,6 +324,13 @@
             "order": 9
         },
         {
+            "name": "Schebberoch",
+            "icon": "./images/Jabberwock.png",
+            "id": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
+            "card_amount": 3,
+            "order": 9
+        },
+        {
             "name": "Verzerrte Realit\u00e4t",
             "icon": "./images/Warped Reality.png",
             "id": "f65a386b-aa46-41cc-b5d7-5bebd924f2ee",
@@ -290,12 +356,6 @@
             "card_amount": 26
         },
         {
-            "name": "Jabberwock.png",
-            "icon": "./images/Jabberwock.png",
-            "id": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
-            "card_amount": 3
-        },
-        {
             "name": "Sibling Rivalry.png",
             "icon": "./images/Sibling Rivalry.png",
             "id": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
@@ -306,12 +366,6 @@
             "icon": "./images/Waking Nightmare.png",
             "id": "609e4283-cd05-4bff-97b9-30e239af582c",
             "card_amount": 29
-        },
-        {
-            "name": "Wild Snark Chase.png",
-            "icon": "./images/Wild Snark Chase.png",
-            "id": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "card_amount": 31
         },
         {
             "name": "Wonderland Banes.png",
@@ -4842,21 +4896,20 @@
             "id": "5534e475-cb2a-4977-a5d8-f7251573933c"
         },
         {
-            "name": "Babes in the Woods",
+            "name": "Jungs im Wald",
             "front": {
                 "type": "act",
-                "text": "Investigators at any location may activate\nThe Bellman's abilities.\n<action> If there is no horror on your location, spend 1<per> clues as a group: Place a horror token on that location (from the token bank).\n<obj> If there are six revealed <t>Tulgey Wood</t> locations, advance.",
-                "flavor_text": "\"Onward to the Snark!\" the Bellman shouts as the hunters scatter into the Tulgey Wood. \"Search high and low, for a Snark may lurk in any tree or hollow! Once we've gotten our bearings, it's as good as found!\" You're not convinced it'll be that easy, or if the creature even resides in these woods at all, but some reconnaissance can't hurt.",
+                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Falls sich 6 enth\u00fcllte  <t>Tuglen Wald</t>-Orte im Spiel befinden, r\u00fccke vor.",
+                "flavor_text": "\u201eAuf zum Schlarg!\u201c, ruft der B\u00fcttel, w\u00e4hrend sich die J\u00e4ger im Tulgen Wald verstreuen. \u201eSucht \u00fcberall, denn ein Schlarg kann in jedem Baum oder jeder H\u00f6hle lauern! Sobald wir die Orientierung gefunden haben, ist es so gut wie gefunden!\u201c Ihr seid nicht \u00fcberzeugt, dass es so einfach sein wird oder dass die Kreatur \u00fcberhaupt in diesen W\u00e4ldern lebt, aber ein wenig Erkundung kann nicht schaden.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
-                "clues": "-",
                 "index": "1a",
                 "illustrator": "Illus. Jeffrey Fisher"
             },
             "back": {
                 "type": "act_back",
-                "name": "Lay of the Land",
+                "name": "Die Lage der Dinge",
                 "victory": "",
-                "text": "\n<blockquote>You and the other Snark hunters report your survey of the immediate area, but the Bellman is occupied with his own discovery. Near the tumtum tree, he stands above a small ditch where a discarded sword lies half-buried in mud. \"Bodyguard!\" he cries, looking for you, \"it's sensible that the Bodyguard should manage all our weaponry for once we've found the Snark. Come collect this one! It should help us threaten the beast into submission!\" You oblige the Bellman reluctantly, but are pleasantly surprised to find the weapon of surprisingly good quality and condition.</blockquote>\nChoose an investigator to take control of the set-aside The Vorpal Blade asset. For the remainder of the scenario, this asset does not take up any slots.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Du und die anderen Schlarg-J\u00e4ger berichten von eurer Erkundung der unmittelbaren Umgebung, aber der B\u00fcttel ist mit seinem eigenen Fund besch\u00e4ftigt. In der N\u00e4he des Tamtam-Baums steht er \u00fcber einem kleinen Graben, in dem ein weggeworfenes Schwert halb im Schlamm vergraben liegt. \u201eBodyguard!\u201c, ruft er und sucht dich mit den Augen. \u201eEs ist wichtig, dass der Bodyguard alle unsere Waffen verwaltet, bis wir den Schlarg finden. Komm und nimm sie mit! Sie sollte uns helfen, das Biest in die Knie zu zwingen!\u201c Du kommst dem B\u00fcttel widerwillig nach, bist aber \u00fcberrascht, eine Waffe von hoher Qualit\u00e4t und in gutem Zustand vorzufinden.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Storyvorteilskarte Das vorpale Schwert \u00fcbernimmt. F\u00fcr den Rest des Szenarios ben\u00f6tigt die Karten keinen Handslot."
             },
             "encounter_number": "5",
             "expansion_number": "118",
@@ -4864,21 +4917,21 @@
             "id": "c5e393ba-92c4-4cfe-9597-aa1684e4aa24"
         },
         {
-            "name": "The Hunting of the Snark",
+            "name": "Die Jagd nach dem Schlarg",
             "front": {
                 "type": "act",
-                "text": "Investigators at any location may activate The Bellman's abilities.\n<action> If there is no horror on your location, spend 1<per> clues as a group: Place a horror token on that location (from the token bank).\n<obj> When The Snark enters play, advance.",
-                "flavor_text": "Despite the magnitude of the task and the inexperience of the other hunters, there seems to be some promise of success. All that remains now is to chase the trails wherever they may lead.",
+                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Wenn der Schlarg ins Spiel kommt, r\u00fccke voran.",
+                "flavor_text": "Trotz dieser gewaltigen Aufgabe und der Unerfahrenheit der anderen J\u00e4ger scheint es doch Aussicht auf Erfolg zu geben. Nun gilt es, den Spuren zu folgen, wohin auch immer sie f\u00fchren m\u00f6gen.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
-                "clues": "-",
                 "index": "2a",
                 "illustrator": "Illus. Jeffrey Fisher"
             },
             "back": {
                 "type": "act_back",
-                "name": "Trail's End",
+                "name": "Das Ende des Weges",
                 "victory": "",
-                "text": "\n<blockquote>\"Snark ahoy!\" the Bellman hollers, \"if it should prove no Boojum, then after it with haste!\" You hurry toward the commotion and finally catch your first real glimpse of the Snark. Its appearance strikes you as being rather plain compared with the majority of Wonderland's other odd creatures. Could this really be the beast whose talents\nyou need to escape these darkening woods alive?</blockquote>\n\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Schlarg in Sicht!\u201c, ruft der B\u00fcttel, \u201ewenn es kein Buhmalm ist, dann schnell hinterher!\u201c Du eilst zu dem Tumult und erhaschst endlich deinen ersten richtigen Blick auf den Schlarg. Sein Aussehen erscheint dir im Vergleich zu den meisten anderen seltsamen Kreaturen im Wunderland eher unscheinbar. Kann das wirklich das Tier sein, dessen Talente du brauchst, um lebend aus den dunklen W\u00e4ldern zu entkommen?</blockquote>",
+                "index": "2b"
             },
             "encounter_number": "6",
             "expansion_number": "119",
@@ -4886,21 +4939,21 @@
             "id": "93652d2a-b379-43c1-a20d-67a45d3b162e"
         },
         {
-            "name": "Catchall",
+            "name": "Ein Allesk\u00f6nner",
             "front": {
                 "type": "act",
-                "text": "Investigators at any location may activate The Bellman's abilities.\n<action> If you are at The Snark's location: <b>Parley</b>. Test any skill (4). If you succeed, place a token on The Snark from the token pool according to the skill used:\n<bullet> If you used <willpower>: 1 horror.\n<bullet> If you used <intellect>: 1 clue.\n<bullet> If you used <combat>: 1 damage.\n<bullet> If you used <agility>: 1 resource.\nIf you fail, move The Snark to a connecting location.\n<obj> If there are 2<per> total tokens on The Snark, you must immediately advance.",
-                "flavor_text": "\"Now's our chance!\" the Bellman bellows, \"Seek it with thimbles, seek it with care! Pursue it with forks and hope! Threaten its life with a railway-share! Charm it with smiles and soap! Only vary your methods, or the Snark may grow suspicious!\"",
+                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls du dich am Ort des Schlargs befindest: <b>Verhandlung</b>. Lege eine beliebige Fertigkeitsprobe (4) ab. Falls die Probe gelingt, lege entsprechend des Fertigkeitswerts einen Marker auf den Schlarg:\n<bullet> Wenn du eine <willpower>-Probe abgelegt hast: 1 Horror.\n<bullet> Wenn du eine <intellect>-Probe abgelegt hast: 1 Hinweis.\n<bullet> Wenn du eine <combat>-Probe abgelegt hast: 1 Schaden.\n<bullet> Wenn du eine <agility>-Probe abgelegt hast: 1 Ressource.\nFalls die Probe misslingt, bewege den Schlarg an einen angrenzenden Ort.\n<obj> Wenn sich 2<per> Marker auf dem Schlarg befinden, r\u00fccke vor.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
-                "clues": "-",
                 "index": "3a",
-                "illustrator": "Illus. Jeffrey Fisher"
+                "illustrator": "Illus. Jeffrey Fisher",
+                "flavor_text": "\u201eDas ist unsere Chance!\u201c, br\u00fcllt der B\u00fcttel. \u201eSucht es mit Fingerh\u00fcten, sucht es mit Sorgfalt! Verfolgt es mit Gabeln und Hoffnung! Bedroht sein Leben mit einer Eisenbahn-Aktie! Bezaubert es mit L\u00e4cheln und Seife! Variiert nur eure Methoden, sonst k\u00f6nnte der Snark misstrauisch werden!\u201c"
             },
             "back": {
                 "type": "act_back",
-                "name": "O Frabjous Day!",
+                "name": "Fantabler Tag!",
                 "victory": "",
-                "text": "\n<blockquote>You try every tactic you can to lure the Snark into capture. After minutes of half-hearted interest, the strange creature finally calms enough for you to approach and lay hands on it. \"Masterfully snatched, Bodyguard!\" the Bellman cheers, clanging his bell to gather the scattered expedition around.</blockquote>\n(<res>2</res>)\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Du versuchst alles, um den Schlarg einzufangen. Nach einigen Minuten halbherzigen Interesses beruhigt sich das seltsame Wesen endlich so weit, dass du dich ihm n\u00e4hern und es festhalten kannst. \u201eMeisterhaft gefangen, Bodyguard!\u201c, jubelt der B\u00fcttel und l\u00e4utet seine Glocke, um die verstreute Expedition zusammenzurufen.</blockquote>\n<b>(<resolution>A2)</b>",
+                "index": "3b"
             },
             "encounter_number": "7",
             "expansion_number": "120",
@@ -4908,11 +4961,11 @@
             "id": "21385529-32cf-400c-a1db-fa2899971e1d"
         },
         {
-            "name": "Twas Brillig",
+            "name": "'s war britzlich",
             "front": {
                 "type": "agenda",
-                "text": "<action> Take 1 physical trauma and 1 mental trauma: <b>Resign</b>. You break away from the search and hope to find the trail out.",
-                "flavor_text": "Despite the enthusiasm of the Bellman and his party, you have some reservations about searching through these woods in the dark. You get the unsettling feeling that as you search for the Snark, something far stranger and far stronger hunts for you. ",
+                "text": "<action> Erleide 1 k\u00f6rperliches Trauma und 1 seelisches Trauma: <b>Aufgeben.</b> Du brichst die Suche ab und hoffst, den Pfad hinaus zu finden.",
+                "flavor_text": "Trotz der Begeisterung des B\u00fcttels und seiner Gruppe hast du einige Vorbehalte, diese W\u00e4lder im Dunkeln zu durchsuchen. Du hast das beunruhigende Gef\u00fchl, dass w\u00e4hrend ihr nach dem Schlarg sucht, etwas viel Seltsameres und viel St\u00e4rkeres euch jagt.",
                 "illustration": "./images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -4920,9 +4973,9 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "An Awful Burbling",
+                "name": "Ein schreckliches Burbeln",
                 "victory": "",
-                "text": "\n<blockquote>The Tulgey Wood reverberates with a horrible noise, an indescribable hissing, gurgling, roaring sound. You don't have to ask what sort of monster could make that noise as you see it hurtling through the woods toward you. It is an enormous loathsome thing with fiery eyes and razor-sharp claws that rend trees apart as it passes. Fear courses through your veins and you have scant seconds to decide whether to run or fight.</blockquote>\nSearch all play areas and out of play areas (including the victory display) for The Jabberwock and move it to the lead investigator's location. Shuffle the remainder of the set-aside <i>Jabberwocky</i> encounter set into the encounter deck.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Der Tulgen-Wald hallt wider von einem schrecklichen Ger\u00e4usch, einem unbeschreiblichen Zischen, Gurgeln und Br\u00fcllen. Du musst nicht fragen, was f\u00fcr ein Monster dieses Ger\u00e4usch verursachen k\u00f6nnte, denn du siehst es durch den Wald auf dich zurasen. Es ist ein riesiges, abscheuliches Wesen mit feurigen Augen und messerscharfen Klauen, das beim Vorbeilaufen B\u00e4ume zerrei\u00dft. Angst durchstr\u00f6mt deine Adern und du hast nur wenige Sekunden Zeit, dich f\u00fcr fliehen oder k\u00e4mpfen zu entscheiden.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch und dieser erscheint am Ort des Ermittlungsleiter. Der Rest des beseitegelegten Begegnungssets <i>Schebberoch</i> wird ins Begegnungsdeck gemischt."
             },
             "encounter_number": "2",
             "expansion_number": "115",
@@ -4930,11 +4983,11 @@
             "id": "9b307efe-a805-4ac3-817d-73f9920c1e7f"
         },
         {
-            "name": "A Manxome Foe",
+            "name": "Ein kattmaner Feind",
             "front": {
                 "type": "agenda",
-                "text": "<action> Take 1 physical trauma and 1 mental trauma: <b>Resign</b>. You break away from the search and hope to find the trail out.",
-                "flavor_text": "\"It's the Jabberwock!\" the Bellman cries, and rings his bell in wild alarm. The warning doesn't help you in the slightest however, as you are already in the throes of battle with it. The monster swoops and vanishes in its wild attacks, making you wonder just where and when it will strike next. You try to keep up the search while accounting for this added menace, but the Jabberwock's attack has drawn the attention of much darker beings.",
+                "text": "<action> Erleide 1 k\u00f6rperliches Trauma und 1 seelisches Trauma: <b>Aufgeben.</b> Du brichst die Suche ab und hoffst, den Pfad hinaus zu finden.",
+                "flavor_text": "\u201eEs ist der Schebberoch!\u201c, ruft der B\u00fcttel und schwingt wild seine Glocke. Die Warnung hilft dir nicht im Geringsten, da du dich bereits mitten im Kampf mit ihm befindest. Das Monster st\u00fcrzt sich auf dich und verschwindet mitten in seinen wilden Angriffen, sodass du dich fragst, wo und wann es als N\u00e4chstes zuschlagen wird. Du versuchst, die Suche fortzusetzen und gleichzeitig diese zus\u00e4tzliche Bedrohung im Blick zu halten, aber der Angriff des Schebberochs bringt auch noch viel finstererer Wesen mit sich.",
                 "illustration": "./images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
                 "doom": "5",
                 "index": "2a",
@@ -4942,9 +4995,10 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Hast Thou Slain the Jabberwock?",
+                "name": "Erschlugst den Schebberoch?",
                 "victory": "",
-                "text": "\n<blockquote>The fiendish creature attacks with increasing frequency and fervor as you attempt to scour the Tulgey Wood. No matter where you turn, the Jabberwock's burning eyes and vicious claws are there to meet you. Even your best attacks leave you wondering if the beast can actually be killed at all.</blockquote>\nSearch all play areas and out of play areas (including the victory display) for The Jabberwock and move it to the lead investigator's location. If The Jabberwock entered play from the victory display, place 2<per> damage on it.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>Die teuflische Kreatur greift mit zunehmender H\u00e4ufigkeit und Heftigkeit an, w\u00e4hrend du versuchst, den Tuglen Wald zu durchk\u00e4mmen. Wohin du dich auch wendest, die brennenden Augen und b\u00f6sartigen Klauen des Schebberochs sind \u00fcberall. Selbst deine besten Angriffe lassen dich daran zweifeln, ob das Biest \u00fcberhaupt get\u00f6tet werden kann.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch und dieser erscheint am Ort des Ermittlungsleiter. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per> Schaden auf ihn.",
+                "index": "2b"
             },
             "encounter_number": "3",
             "expansion_number": "116",
@@ -4952,11 +5006,11 @@
             "id": "be130ac0-0b64-4fb2-9009-240b99ecce45"
         },
         {
-            "name": "The Trail Grows Cold",
+            "name": "Die Spur wird kalt",
             "front": {
                 "type": "agenda",
-                "text": "<action> Take 1 physical trauma and 1 mental trauma: <b>Resign</b>. You break away from the search and hope to find the trail out.",
-                "flavor_text": "Even without accounting for the menace of the Jabberwock, the expedition's hopes are rapidly dwindling. The motley hunters cower in fear while the Bellman proudly declares that the Bodyguard will see them through yet. You have every intention of doing so, but the growing darkness and ravenous beasts of the wood may prove otherwise.",
+                "text": "<action> Erleide 1 k\u00f6rperliches Trauma und 1 seelisches Trauma: <b>Aufgeben.</b> Du brichst die Suche ab und hoffst, den Pfad hinaus zu finden.",
+                "flavor_text": "Selbst ohne die Bedrohung durch den Schebberoch zu ber\u00fccksichtigen, schwinden die Hoffnungen der Expedition rapide. Die bunt zusammengew\u00fcrfelten J\u00e4ger zittern vor Angst, w\u00e4hrend der B\u00fcttel stolz verk\u00fcndet, dass der Bodyguard sie zum Ziel bringen werde. Du hast fest vor, dies zu tun, aber die zunehmende Dunkelheit und die gefr\u00e4\u00dfigen Bestien des Waldes k\u00f6nnten dir einen Strich durch die Rechnung machen.",
                 "illustration": "./images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
                 "doom": "8",
                 "index": "3a",
@@ -4966,7 +5020,8 @@
                 "type": "agenda_back",
                 "name": "Eight Bells",
                 "victory": "",
-                "text": "\n<blockquote>As the Snark hunters grow more separated in their pursuit, the Bellman attempts to keep the group's morale in check. The bell clamors and clangs, but by now, all it can do is attract the attention of the many shadows drawn by the Jabberwock's attack.</blockquote>\nEach investigator who has not resigned is defeated.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<blockquote>W\u00e4hrend die Schlarg-J\u00e4ger bei ihrer Suche immer weiter auseinander geraten, versucht der B\u00fcttel, die Moral der Gruppe aufrechtzuerhalten. Die Glocke l\u00e4utet und klirrt, aber mittlerweile kann sie nur noch die Aufmerksamkeit der Schatten auf sich ziehen, die durch den Angriff des Schebberochs entstanden sind.</blockquote>\nJeder Ermittler, der nicht aufgegeben hat, ist besiegt.",
+                "index": "3b"
             },
             "encounter_number": "4",
             "expansion_number": "117",
@@ -4974,29 +5029,7 @@
             "id": "9835ddb3-3523-41ea-9501-07003e930a8c"
         },
         {
-            "name": "The Trail Grows Cold",
-            "front": {
-                "type": "agenda",
-                "text": "<action> Take 1 physical trauma and 1 mental trauma: <b>Resign</b>. You break away from the search and hope to find the trail out.",
-                "flavor_text": "Even without accounting for the menace of the Jabberwock, the expedition's hopes are rapidly dwindling. The motley hunters cower in fear while the Bellman proudly declares that the Bodyguard will see them through yet. You have every intention of doing so, but the growing darkness and ravenous beasts of the wood may prove otherwise.",
-                "illustration": "./images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
-                "doom": "8",
-                "index": "3a",
-                "illustrator": "Illus. Antonio Jos\u00e9 Manzanedo"
-            },
-            "back": {
-                "type": "agenda_back",
-                "name": "Eight Bells",
-                "victory": "",
-                "text": "\n<blockquote>As the Snark hunters grow more separated in their pursuit, the Bellman attempts to keep the group's morale in check. The bell clamors and clangs, but by now, all it can do is attract the attention of the many shadows drawn by the Jabberwock's attack.</blockquote>\nEach investigator who has not resigned is defeated.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
-            },
-            "encounter_number": "4",
-            "expansion_number": "117",
-            "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "28f1f2d9-81dc-4624-8804-422820e190b6"
-        },
-        {
-            "name": "Wild Snark Chase",
+            "name": "Eine wilde Schlarg-Jagd",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -5206,7 +5239,7 @@
             "id": "67ae1b9c-87f3-4bcd-922a-443936daef27"
         },
         {
-            "name": "The Baker's Trail",
+            "name": "Die Spur des B\u00e4ckers",
             "front": {
                 "type": "story",
                 "victory": "",
@@ -5217,7 +5250,7 @@
                 "type": "enemy",
                 "illustration": "./images/Snark - Bobby Chiu.jpg",
                 "illustrator": "Illus. Bobby Chiu",
-                "name": "The Snark",
+                "name": "<unique>The Snark",
                 "subtitle": "Puzzling Prey",
                 "traits": "Wonderland. Creature. Elite.",
                 "text": "Aloof. \n<spawn> Location without horror on it.\nThe Snark cannot be engaged, damaged, or defeated.",
@@ -5228,7 +5261,9 @@
                 "attack": "?",
                 "evade": "?",
                 "damage": 0,
-                "horror": 0
+                "horror": 0,
+                "illustration_pan_x": -38,
+                "illustration_pan_y": 567
             },
             "encounter_number": "14",
             "expansion_number": "127",
@@ -5236,7 +5271,7 @@
             "id": "5d38b698-7f15-42a1-903a-565ddea9fd92"
         },
         {
-            "name": "The Butcher's Trail",
+            "name": "Die Spur des Butchers",
             "front": {
                 "type": "story",
                 "victory": "",
@@ -5269,7 +5304,7 @@
             "id": "c8ee2ff2-ec4e-4ef9-8abb-844aa2b8dbfe"
         },
         {
-            "name": "The Beaver's Trail",
+            "name": "Die Spur des Bibers",
             "front": {
                 "type": "story",
                 "victory": "",
@@ -5302,7 +5337,7 @@
             "id": "8690f39e-6673-40ab-adad-ae527166eda1"
         },
         {
-            "name": "The Barrister's Trail",
+            "name": "Die Spur des Barristers",
             "front": {
                 "type": "story",
                 "victory": "",
@@ -5335,7 +5370,7 @@
             "id": "eced1904-5a92-4c7b-a168-5c62e38217b6"
         },
         {
-            "name": "The Banker's Trail",
+            "name": "Die Spur des Bankiers",
             "front": {
                 "type": "story",
                 "victory": "",
@@ -5368,7 +5403,7 @@
             "id": "f31e7367-b5f0-4ed0-ae41-816e36151438"
         },
         {
-            "name": "The Billiard-Maker's Trail",
+            "name": "Die Spur des Billard-Mark\u00f6rs",
             "front": {
                 "type": "story",
                 "victory": "",
@@ -5401,22 +5436,22 @@
             "id": "d2d6602f-7ada-4366-a6c3-c7df17716575"
         },
         {
-            "name": "The Billiard-Maker's Trail",
+            "name": "Die Spur des B\u00f6rsenh\u00e4ndlers",
             "front": {
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\"It's taken our cue,\" the Billiard-Maker bemoans, dusting off his hands, \"and so it will want chalk to dust the tip, from somewhere rocky, I presume.\" His theory seems far-fetched at best, but you can't deny the trail of white powder leading down the\u00a0rocks.</i>\n<for> If there are exactly 3 locations without horror on them: Flip this card and put it into play.\n"
+                "text": "<i>\"We must search both high and low,\" the Broker declares, \"but let us start low for the sake of our stock.\" Though the premise is flawed, this still leads you toward soft mud and bent plants that betray the passage of some creature very recently.</i>\n<for> If there are exactly 3 locations without horror on them: Flip this card and put it into play."
             },
             "back": {
                 "type": "location",
-                "illustration": "./images/Environment - Alex Alexandrov.png",
-                "illustrator": "Illus. Alex Alexandrov",
+                "illustration": "./images/Environment - Dongjun Lu.jpg",
+                "illustrator": "Illus. Dongjun Lu",
                 "name": "Rough Hinterlands",
-                "subtitle": "The Billiard-Maker's Trail",
+                "subtitle": "Die Spur des B\u00f6rsenh\u00e4ndlers",
                 "traits": "Wonderland. Tulgey Wood.",
-                "text": "\n<action>: If there is no horror on Rough Hinterlands: Test any skill (3). This test gets +1<per> difficulty. If you succeed, place a horror token on Rough Hinterlands <i>(from the token bank)</i>.",
-                "flavor_text": "The Billiard-Maker's chase requires you to bridge\na vast canyon by whatever means you can.",
+                "text": "<act> If there is no horror on Rough Hinterlands: Discard cards with total cost of 3<per> from among all investigators' hands at this location. Place a horror token on Rough Hinterlands <i>(from the token bank)</i>.",
+                "flavor_text": "The Broker's track treads over marshy ground\nthat severely limits your options.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5424,17 +5459,19 @@
                 "connections": [
                     "star",
                     "square",
-                    "quote",
+                    "tear",
                     "moon"
-                ]
+                ],
+                "illustration_pan_x": -642,
+                "illustration_pan_y": 115
             },
-            "encounter_number": "18",
-            "expansion_number": "131",
+            "encounter_number": "21",
+            "expansion_number": "134",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "957a47a2-fe86-47bb-bd41-1db41df7bcfa"
         },
         {
-            "name": "The Bonnet-Maker's Trail",
+            "name": "Die Spur des Bonnet-Machers",
             "front": {
                 "type": "story",
                 "victory": "",
@@ -5446,7 +5483,7 @@
                 "illustration": "./images/Environment - Arin Fitri 1.jpg",
                 "illustrator": "Illus. Arin Fitri",
                 "name": "Rough Hinterlands",
-                "subtitle": "The Bonnet-Maker's Trail",
+                "subtitle": "Die Spur des Bonnet-Machers",
                 "traits": "Wonderland. Tulgey Wood.",
                 "text": "\n<action>: If there is no horror on Rough Hinterlands: Test <willpower> (2). This test gets +1<per> difficulty. If you succeed, place a horror token on Rough Hinterlands <i>(from the token bank)</i>.",
                 "flavor_text": "The Bonnet-Maker's path leads to \nthe entrance of a deep and eerie cave.",
@@ -5467,7 +5504,7 @@
             "id": "779e7b30-84e7-446a-87a8-2c1c7ce874cf"
         },
         {
-            "name": "The Boots' Trail",
+            "name": "Die Spur des Bootblacks",
             "front": {
                 "type": "story",
                 "victory": "",
@@ -5479,7 +5516,7 @@
                 "illustration": "./images/Environment - Cory Trego-Erdner 1.jpg",
                 "illustrator": "Illus. Cory Trego-Erdner",
                 "name": "Rough Hinterlands",
-                "subtitle": "The Boots' Trail",
+                "subtitle": "Die Spur des Bootblacks",
                 "traits": "Wonderland. Tulgey Wood.",
                 "text": "\n<action>: If there is no horror on Rough Hinterlands: Test <agility> (2). This test gets +1<per> difficulty. If you succeed, place a horror token on Rough Hinterlands <i>(from the token bank)</i>.",
                 "flavor_text": "The Boots' route directs you to\na small ledge atop a sheer cliff face.",
@@ -5500,25 +5537,33 @@
             "id": "661bed2c-9366-43fc-b0b8-58d18872da0b"
         },
         {
-            "name": "The Bellman",
+            "name": "Der B\u00fcttel",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Level-Headed Leader",
-                "traits": "Ally. Humanoid. Wonderland.",
-                "text": "\nYou get +1 <willpower>.\n<reaction> When a card effect would force you to lose any amount of resources, exhaust <name> and deal 1 damage to him: You ignore that part of the effect.\n<reaction> When a card effect would force you to discard any amount of cards from your hand, exhaust <name> and deal 1 horror to him: You ignore that part of the effect.",
+                "subtitle": "Besonnener Anf\u00fchrer",
+                "traits": "Verb\u00fcndeter. Humanoid. Wunderland.",
+                "text": "Du bekommst +1 <willpower>.\n<reaction> Wenn eine Karte dich dazu zwingen w\u00fcrde, Ressourcen zu verlieren, ersch\u00f6pfe den B\u00fcttel und f\u00fcge ihm 1 Schaden zu: Du ignorierst jenen Aspekt des Effekts.\n<reaction> Wenn eine Karte dich dazu zwingen w\u00fcrde, Karten von deiner Hand abzulegen, ersch\u00f6pfe den B\u00fcttel und f\u00fcge ihm 1 Horror zu: Du ignorierst jenen Aspekt des Effekts.",
                 "cost": "4",
                 "slot": "Ally",
                 "health": "3",
                 "sanity": "3",
-                "flavor_text": "With the confidence he carries, one might assume that he knows what he's doing.",
+                "flavor_text": "Angesichts seines Selbstbewusstseins k\u00f6nnte man annehmen, dass er wei\u00df, was er tut.",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/Hunting of the Snark - Mike Batt.jpg",
-                "illustrator": "Illus. Mike Batt"
+                "illustrator": "Illus. Mike Batt",
+                "level": "None",
+                "name": "<unique><name>",
+                "slots": [
+                    "ally"
+                ],
+                "illustration_pan_x": -188,
+                "illustration_pan_y": -9,
+                "illustration_scale": 0.94
             },
             "back": {
                 "type": "story"
@@ -5544,7 +5589,9 @@
                 "flavor_text": "You've never seen something so frumious before.",
                 "victory": "",
                 "illustration": "./images/Bandersnatch - Dave Allsop.jpg",
-                "illustrator": "Illus. Dave Allsop"
+                "illustrator": "Illus. Dave Allsop",
+                "illustration_pan_x": -152,
+                "illustration_pan_y": 547
             },
             "back": {
                 "type": "encounter"
@@ -5552,7 +5599,8 @@
             "encounter_number": "23-24",
             "expansion_number": "136",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "d7a8ea2e-c8ae-4a42-9e00-237f9c295166"
+            "id": "d7a8ea2e-c8ae-4a42-9e00-237f9c295166",
+            "amount": 2
         },
         {
             "name": "Borogrove",
@@ -5578,7 +5626,8 @@
             "encounter_number": "25-26",
             "expansion_number": "137",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "bba7ab5b-e87b-43ef-95bf-38f5f286f1ce"
+            "id": "bba7ab5b-e87b-43ef-95bf-38f5f286f1ce",
+            "amount": 2
         },
         {
             "name": "Going in Circles",
@@ -5597,7 +5646,8 @@
             "encounter_number": "33-34",
             "expansion_number": "141",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "e9c54243-2589-46c3-bd45-c238243cb245"
+            "id": "e9c54243-2589-46c3-bd45-c238243cb245",
+            "amount": 2
         },
         {
             "name": "Jubjub Bird",
@@ -5615,7 +5665,9 @@
                 "flavor_text": "Desperate and in perpetual passion.",
                 "victory": "",
                 "illustration": "./images/Jubjub Bird - Richard Svensson.jpg",
-                "illustrator": "Illus. Richard Svensson"
+                "illustrator": "Illus. Richard Svensson",
+                "illustration_pan_x": 11,
+                "illustration_pan_y": 565
             },
             "back": {
                 "type": "encounter"
@@ -5623,7 +5675,8 @@
             "encounter_number": "27-28",
             "expansion_number": "138",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "79028978-dfde-4f25-85a2-70b576f31bfd"
+            "id": "79028978-dfde-4f25-85a2-70b576f31bfd",
+            "amount": 2
         },
         {
             "name": "Looking-Glass Swarm",
@@ -5634,7 +5687,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Looking Glass Swarm - Adam Ferrando.jpg",
-                "illustrator": "Illus. David Ferrando"
+                "illustrator": "Illus. David Ferrando",
+                "illustration_scale": 1.32,
+                "illustration_pan_x": -390,
+                "illustration_pan_y": -202
             },
             "back": {
                 "type": "encounter"
@@ -5642,7 +5698,8 @@
             "encounter_number": "35-37",
             "expansion_number": "142",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "ad79a0b2-46ce-49c5-b1bb-5967d67d4000"
+            "id": "ad79a0b2-46ce-49c5-b1bb-5967d67d4000",
+            "amount": 3
         },
         {
             "name": "Mome Rath",
@@ -5660,7 +5717,10 @@
                 "flavor_text": "The only creature that could outgribe this loudly.",
                 "victory": "",
                 "illustration": "./images/Mome Rath - Simon Holland.jpg",
-                "illustrator": "Illus. Michael Kutsche"
+                "illustrator": "Illus. Michael Kutsche",
+                "illustration_pan_x": -261,
+                "illustration_pan_y": 360,
+                "illustration_scale": 0.8
             },
             "back": {
                 "type": "encounter"
@@ -5668,55 +5728,67 @@
             "encounter_number": "29-30",
             "expansion_number": "139",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "c441b750-4334-4de1-b7ed-02b9d551038a"
+            "id": "c441b750-4334-4de1-b7ed-02b9d551038a",
+            "amount": 2
         },
         {
-            "name": "Mome Rath",
+            "name": "Slithy Tove",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wonderland. Creature.",
-                "text": "Retaliate.\nIf there is a horror on <name>'s location, it gets +2 fight and +1 horror.",
-                "health": "3",
-                "evade": "2",
-                "attack": "2",
+                "text": "Hunter. Alert.\n<for> After <name> is successfuly evaded: Move it to a connecting location and ready it.",
+                "health": "2",
+                "evade": "1",
+                "attack": "3",
                 "damage": 1,
                 "horror": 1,
-                "flavor_text": "The only creature that could outgribe this loudly.",
+                "flavor_text": "Gyring and gimbling away.",
                 "victory": "",
-                "illustration": "./images/Mome Rath - Simon Holland.jpg",
-                "illustrator": "Illus. Michael Kutsche"
+                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Slithy Tove - Michael Kutsche.jpg",
+                "illustrator": "Illus. Michael Kutsche",
+                "illustration_pan_x": 36,
+                "illustration_pan_y": 518
             },
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "29-30",
-            "expansion_number": "139",
+            "encounter_number": "31-32",
+            "expansion_number": "140",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "4f16de46-7650-4fba-a69e-e66e956a643e"
+            "id": "4f16de46-7650-4fba-a69e-e66e956a643e",
+            "amount": 2
         },
         {
-            "name": "The Vorpal Blade",
+            "name": "Das vorpale Schwert",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Snicker-Snacking Sword",
-                "traits": "Wonderland. Item. Weapon.",
-                "text": "\n<action> <b>Fight</b>. You get +1 <combat> for this attack. This attack deals +1 damage. If a <elder_sign>, <blessing>, +1, or 0 token is revealed during this attack, you may either heal 1 horror or deal an additional +1 damage (choose one, if your target has the <t>Monster, Abomination,</t> or <t>Shadow</t> traits, you may chose both instead).",
+                "subtitle": "Schnacke-schnicke Klinge",
+                "traits": "Wunderland. Gegenstand. Waffe.",
+                "text": "<action>: <b>Kampf.</b> Du bekommst f\u00fcr diesen Angriff +1 <combat>. Dieser Angriff f\u00fcgt +1 Schaden zu. Falls w\u00e4hrend dieses Angriffs ein <elder_sign>-, <blessing>-, +1-, oder 0-Chaosmarker enth\u00fcllt wird, darfst du entweder 1 Horror heilen oder dieser Angriff f\u00fcgt +2 Schaden zu. Falls der angegriffene Gegner ein <t>Monster</t>-,  <t>Abscheulichkeit</t>- oder <t>Schatten</t>-Gegner ist, darfst du beides w\u00e4hlen.",
                 "cost": "3",
                 "slot": "1 Hand",
-                "flavor_text": "'One, two! One, two! And through and through!'\t",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "icons": "CAQ",
                 "illustration": "./images/Jabberwock - Aaron Nakahara.jpg",
-                "illustrator": "Illus. Aaron Nakahara"
+                "illustrator": "Illus. Aaron Nakahara",
+                "name": "<unique><name>",
+                "flavor_text": "'Eins, zwo! Eins, zwo! Und so! Und so!'",
+                "level": "None",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": -915,
+                "illustration_pan_y": -180,
+                "illustration_scale": 1.1
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "38",
             "expansion_number": "143",
@@ -5724,38 +5796,11 @@
             "id": "45ba6ce9-2f98-4c26-9980-283775889a72"
         },
         {
-            "name": "The Vorpal Blade",
-            "front": {
-                "type": "asset",
-                "title": "<unique> <name>",
-                "subtitle": "Snicker-Snacking Sword",
-                "traits": "Wonderland. Item. Weapon.",
-                "text": "\n<action> <b>Fight</b>. You get +1 <combat> for this attack. This attack deals +1 damage. If a <elder_sign>, <blessing>, +1, or 0 token is revealed during this attack, you may either heal 1 horror or deal an additional +1 damage (choose one, if your target has the <t>Monster, Abomination,</t> or <t>Shadow</t> traits, you may chose both instead).",
-                "cost": "3",
-                "slot": "1 Hand",
-                "flavor_text": "'One, two! One, two! And through and through!'\t",
-                "victory": "",
-                "classes": [
-                    "neutral"
-                ],
-                "icons": "CAQ",
-                "illustration": "./images/Jabberwock - Aaron Nakahara.jpg",
-                "illustrator": "Illus. Aaron Nakahara"
-            },
-            "back": {
-                "type": "story"
-            },
-            "encounter_number": "38",
-            "expansion_number": "143",
-            "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
-            "id": "c4a6f6e0-084f-4601-b853-4ee6151d822d"
-        },
-        {
-            "name": "Eyes of Flame",
+            "name": "Mit Flammenblick",
             "front": {
                 "type": "treachery",
-                "traits": "Terror.",
-                "text": "\n<rev> Test <willpower> (3). This test gets +1 difficulty and peril if The Jabberwock is in play. If you fail, take 1 horror and discard 2 cards from your hand at random.",
+                "traits": "Schrecken.",
+                "text": "<rev> Lege eine  <willpower>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich der Schebberoch im Spiel befindet. Falls die Probe misslingt,  nimm 1 Horror und lege 2 zuf\u00e4llige Karten von deiner Hand ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Jabberwock - Aaron Nakahara.jpg",
@@ -5767,23 +5812,24 @@
             "encounter_number": "5-7",
             "expansion_number": "146",
             "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
-            "id": "9bef0748-552e-4b08-acc6-6bd860ed532e"
+            "id": "9bef0748-552e-4b08-acc6-6bd860ed532e",
+            "amount": 3
         },
         {
-            "name": "The Jabberwock",
+            "name": "Der Schebberoch",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Abhorrent Aberration",
-                "traits": "Wonderland. Monster. Abomination. Elite.",
-                "text": "Massive. Retaliate. Alert.\n<name> gets +1 damage and +1 horror during the enemy phase.\n<for> At the end of the round, disengage <name> from all investigators and move it and all tokens on it next to the agenda deck, out of play.",
+                "subtitle": "Absto\u00dfende Abscheulichkeit",
+                "traits": "Wunderland. Monster. Abscheulichkeit. Elite.",
+                "text": "Alaermiert. Gewaltig. Zur\u00fcckschlagen.\n<for> Sobald der Schebberock w\u00e4hrend der Gegnerphase angreift: Er f\u00fcgt +1 Schaden und +1 Horror zu.\n<for> Am Ende der Runde: L\u00f6se den Schebberoch von allen Ermittlern und lege ihn mit allen Markern auf ihm neben die Agenda aus des Spiels.",
                 "health": "4<per>",
                 "evade": "3",
                 "attack": "4",
                 "damage": 1,
                 "horror": 1,
                 "flavor_text": "",
-                "victory": "Victory 2.",
+                "victory": "Sieg 2.",
                 "illustration": "./images/Jabberwock - Dave Melvin.jpg",
                 "illustrator": "Illus. Dave Melvin"
             },
@@ -5794,32 +5840,6 @@
             "expansion_number": "144",
             "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
             "id": "54b853aa-3b35-461f-85aa-ab99740708a2"
-        },
-        {
-            "name": "The Jabberwock",
-            "front": {
-                "type": "enemy",
-                "title": "<unique> <name>",
-                "subtitle": "Abhorrent Aberration",
-                "traits": "Wonderland. Monster. Abomination. Elite.",
-                "text": "Massive. Retaliate. Alert.\n<name> gets +1 damage and +1 horror during the enemy phase.\n<for> At the end of the round, disengage <name> from all investigators and move it and all tokens on it next to the agenda deck, out of play.",
-                "health": "4<per>",
-                "evade": "3",
-                "attack": "4",
-                "damage": 1,
-                "horror": 1,
-                "flavor_text": "",
-                "victory": "Victory 2.",
-                "illustration": "./images/Jabberwock - Dave Melvin.jpg",
-                "illustrator": "Illus. Dave Melvin"
-            },
-            "back": {
-                "type": "encounter"
-            },
-            "encounter_number": "1",
-            "expansion_number": "144",
-            "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
-            "id": "128d48dc-21b9-4640-a6f5-a3bce76c9b25"
         },
         {
             "name": "Thinning the Ranks",
@@ -7518,7 +7538,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "<rev> Lege eine <agility>-Probe (1) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr je 2  <t>Karten</t>-Gegner im Begegnungsabslagestapel. Falls die Probe misslings, lege 2 zuf\u00e4llige Karten von deiner Hand ab. Falls du dann 2 oder weniger Karten auf deiner Hand hast, nimm 1 Schaden.",
+                "text": "<rev> Lege eine <agility>-Probe (1) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr je 2  <t>Karten</t>-Gegner im Begegnungsabslagestapel. Falls die Probe misslingt, lege 2 zuf\u00e4llige Karten von deiner Hand ab. Falls du dann 2 oder weniger Karten auf deiner Hand hast, nimm 1 Schaden.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Cards - John Lobster.jpg",
@@ -8617,13 +8637,78 @@
             "expansion_number": "55",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "c9090448-042d-4cf9-90cd-0307a3fcaf80"
+        },
+        {
+            "name": "Laut jiffelnd durch den Wald",
+            "id": "0a6a0554-9dc1-4c1e-b03e-87063b69b9ef",
+            "amount": 3,
+            "front": {
+                "type": "treachery",
+                "illustration": "./images/Jabberwock - Juan Calle.jpg",
+                "illustration_pan_x": 65,
+                "illustration_pan_y": 10,
+                "illustrator": "Illus. Juan Calle",
+                "text": "<rev> Falls sich der Schebberoch im Spiegpunktestapel befindet, erh\u00e4lt <name> Nachr\u00fcsten. \nAnsonsten, falls der Schebberoch sich im Spiel befindet, nimmt jeder Ermittler an seinem Ort 1 Schaden und 1 Horror. Dann bewegt sich der Schebberoch an deinen Ort. Falls der Schebberock sich nicht im Spiel befindet, platziere ihn an deinem Ort <i>(nur, wenn er nicht im Siegpunktestapel ist)</i>."
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
+            "expansion_number": "147",
+            "encounter_number": "8-10"
+        },
+        {
+            "id": "482d6b1f-3da1-45f9-8c88-4098a62fba85",
+            "amount": 3,
+            "front": {
+                "type": "treachery",
+                "text": "<rev> Lege eine <agi>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich der Schebberoch im Spiel befindet. Falls die Probe misslingt,  nimm 1 Schaden und verliere 2 Ressourcen.",
+                "traits": "Gefahr.",
+                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Jabberwock - Stacy LeFevre.jpg",
+                "illustration_pan_x": 75,
+                "illustration_pan_y": 34,
+                "illustration_scale": 1.22
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
+            "encounter_number": "2-4",
+            "name": "Der Klaueln Krall!",
+            "expansion_number": "145"
+        },
+        {
+            "id": "e2e2b5e9-a37f-45ca-91ee-9f7e88ca76d2",
+            "front": {
+                "type": "location",
+                "connections": [
+                    "cross_alt",
+                    "moon"
+                ],
+                "connection": "hourglass",
+                "traits": "Wonderland. Tulgey Wood.",
+                "text": "<act> If there are no horror and no clues on <fullname>: Place a horror token on <fullname> (from the token bank).",
+                "flavor_text": "A number of different nests \nclump together under the sundial.",
+                "shroud": "2",
+                "clues": "2<per>",
+                "illustrator": "Illus. Daria Chu",
+                "illustration": "./images/Sundial - Daria Chu.jpg"
+            },
+            "back": {
+                "type": "location_back",
+                "flavor_text": "Inexplicably, the wood parts in a small clearing \nwhere a sundial sits in a circle of grass.",
+                "illustrator": "Illus. Daria Chu"
+            },
+            "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
+            "name": "Geweech",
+            "expansion_number": "122",
+            "encounter_number": "9"
         }
     ],
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "38734b3a-623c-4b75-9d9a-755f1262d539",
-            "6ad146d8-ffa1-4292-9e50-22dfeb6de195"
+            "38734b3a-623c-4b75-9d9a-755f1262d539"
         ]
     },
     "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
