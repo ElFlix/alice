@@ -4420,7 +4420,8 @@
             "encounter_number": "11",
             "expansion_number": "97",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
-            "id": "a0c3ab9d-ded1-4589-b071-3d64db19e9a2"
+            "id": "a0c3ab9d-ded1-4589-b071-3d64db19e9a2",
+            "amount": 1
         },
         {
             "name": "Verlies",
@@ -4903,7 +4904,7 @@
             "name": "Jungs im Wald",
             "front": {
                 "type": "act",
-                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Falls sich 6 enth\u00fcllte  <t>Tuglen Wald</t>-Orte im Spiel befinden, r\u00fccke vor.",
+                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Falls sich 6 enth\u00fcllte  <t>Tulger Wald</t>-Orte im Spiel befinden, r\u00fccke vor.",
                 "flavor_text": "\u201eAuf zum Schlarg!\u201c, ruft der B\u00fcttel, w\u00e4hrend sich die J\u00e4ger im Tulgen Wald verstreuen. \u201eSucht \u00fcberall, denn ein Schlarg kann in jedem Baum oder jeder H\u00f6hle lauern! Sobald wir die Orientierung gefunden haben, ist es so gut wie gefunden!\u201c Ihr seid nicht \u00fcberzeugt, dass es so einfach sein wird oder dass die Kreatur \u00fcberhaupt in diesen W\u00e4ldern lebt, aber ein wenig Erkundung kann nicht schaden.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "1a",
@@ -4979,7 +4980,7 @@
                 "type": "agenda_back",
                 "name": "Ein schreckliches Burbeln",
                 "victory": "",
-                "text": "<blockquote>Der Tulgen-Wald hallt wider von einem schrecklichen Ger\u00e4usch, einem unbeschreiblichen Zischen, Gurgeln und Br\u00fcllen. Du musst nicht fragen, was f\u00fcr ein Monster dieses Ger\u00e4usch verursachen k\u00f6nnte, denn du siehst es durch den Wald auf dich zurasen. Es ist ein riesiges, abscheuliches Wesen mit feurigen Augen und messerscharfen Klauen, das beim Vorbeilaufen B\u00e4ume zerrei\u00dft. Angst durchstr\u00f6mt deine Adern und du hast nur wenige Sekunden Zeit, dich f\u00fcr fliehen oder k\u00e4mpfen zu entscheiden.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiter. Der Rest des beseitegelegten Begegnungssets <i>Schebberoch</i> wird ins Begegnungsdeck gemischt."
+                "text": "<blockquote>Der tulge Wald hallt wider von einem schrecklichen Ger\u00e4usch, einem unbeschreiblichen Zischen, Gurgeln und Br\u00fcllen. Du musst nicht fragen, was f\u00fcr ein Monster dieses Ger\u00e4usch verursachen k\u00f6nnte, denn du siehst es durch den Wald auf dich zurasen. Es ist ein riesiges, abscheuliches Wesen mit feurigen Augen und messerscharfen Klauen, das beim Vorbeilaufen B\u00e4ume zerrei\u00dft. Angst durchstr\u00f6mt deine Adern und du hast nur wenige Sekunden Zeit, dich f\u00fcr fliehen oder k\u00e4mpfen zu entscheiden.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiter. Der Rest des beseitegelegten Begegnungssets <i>Schebberoch</i> wird ins Begegnungsdeck gemischt."
             },
             "encounter_number": "2",
             "expansion_number": "115",
@@ -5038,44 +5039,61 @@
                 "type": "chaos",
                 "entries": [
                     {
-                        "token": "skull",
-                        "text": "\u2013X. X is equal to half the doom on the current agenda (rounded up)."
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die H\u00e4lfte des Verderbens im Spiel (aufgerundet)."
                     },
                     {
-                        "token": "cultist",
-                        "text": "\u20134. If it is your turn, you may spend 1 action to make this token \u20132 instead."
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20134. Falls es dein Zug ist, darfst du 1 Aktion ausgeben, um diesen Marker stattdessen als --2 zu behandeln."
                     },
                     {
-                        "token": "tablet",
-                        "text": "\u20133. If you fail and your location has a horror on it, take 1 horror."
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20133. Falls die Probe misslingt und sich Horror auf deinem Ort befindet, nimmst du 1 Horror."
                     },
                     {
-                        "token": "elder_thing",
-                        "text": "\u20132. \u20134 instead if The Jabberwock is in play."
-                    }
-                ]
-            },
-            "back": {
-                "type": "chaos_back",
-                "entries": [
-                    {
-                        "token": "skull",
-                        "text": "\u2013X. X is equal to 1 + half the doom on the current agenda (rounded up)."
-                    },
-                    {
-                        "token": "cultist",
-                        "text": "\u20135. If it is your turn, you may spend 1 action to make this token \u20133 instead."
-                    },
-                    {
-                        "token": "tablet",
-                        "text": "\u20134. If your location has a horror on it, take 1 horror."
-                    },
-                    {
-                        "token": "elder_thing",
-                        "text": "\u20133. \u20135 instead if The Jabberwock is in play."
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20132  (\u20134 stattdessen, falls sich der Schebberoch im Spiel befindet)."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "EINFACH/STANDARD"
+            },
+            "back": {
+                "type": "chaos",
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die H\u00e4lfte des Verderbens im Spiel (aufgerundet) plus 1."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20135. Falls es dein Zug ist, darfst du 1 Aktion ausgeben, um diesen Marker stattdessen als --3 zu behandeln."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20134. Falls sich Horror auf deinem Ort befindet, nimmst du 1 Horror."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20133 (\u20134 stattdessen, falls sich der Schebberoch im Spiel befindet)."
+                    }
+                ],
+                "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
             "expansion_number": "114",
@@ -5087,9 +5105,8 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wunderland. Tulgen Wald.",
+                "traits": "Wunderland. Tulger Wald.",
                 "text": "<action>: Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels <i>(auch den Siegpunktestapel</i> nach dem Gegner Der Schebberoch. Mache ihn bereit und bewege ihn an den <name>. Notiere dir im Kampagnenlogbuch unter Fragmente von Alice <i>Mut.</i>",
-                "flavor_text": "The signs of a monstrous attack are \netched into the lone tree.",
                 "victory": "",
                 "illustration": "./images/Tumtum Tree - Sarah Ireland.jpg",
                 "clues": "1<per>",
@@ -5101,17 +5118,25 @@
                     "hourglass",
                     "square"
                 ],
-                "illustrator": "Illus. Sarah Ireland"
+                "illustrator": "Illus. Sarah Ireland",
+                "flavor_text": "Die Rinde des Baums zeigt Spuren eines monstr\u00f6sen Angriffs.",
+                "illustration_scale": 1.0,
+                "illustration_pan_x": -624,
+                "illustration_pan_y": -180
             },
             "back": {
                 "type": "location_back",
                 "illustrator": "Illus. Sarah Ireland",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "text": "\n",
-                "flavor_text": "The perfect spot for resting and standing in thought.\nThe Bellman rallies the Snark hunters from the tree, encouraging them with the loud clanging of his bell.",
+                "flavor_text": "Ein perfekter Ort, um sich auszuruhen und in Gedanken zu versinken.\nDer B\u00fcttel trommelt mit lautem L\u00e4uten seiner Glocke die Schlarg-J\u00e4ger vom Baum herunter.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "traits": "Wunderland. Tulger Wald.",
+                "illustration_pan_x": -624,
+                "illustration_pan_y": -180,
+                "illustration_scale": 1.0
             },
             "encounter_number": "8",
             "expansion_number": "121",
@@ -5119,13 +5144,13 @@
             "id": "83fe89e9-bbf8-4b8d-a91d-69d06bbe7c5b"
         },
         {
-            "name": "Field of Chasms",
+            "name": "Feld voller Abgr\u00fcnde",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action> If there is no horror on <name>: Discard 1<per> assets from among all investigators' hands at this location. Place a horror token on <name> (from the token bank).",
-                "flavor_text": "You'll have to repurpose several of \nyour supplies to explore here.",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Vorteilskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "flavor_text": "Du musst einige deiner Vorr\u00e4te umfunktionieren, um hier auf Erkundung zu gehen.",
                 "victory": "",
                 "illustration": "./images/Chasms - Noah Bradley.jpg",
                 "clues": "1<per>",
@@ -5139,18 +5164,22 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. "
+                "illustrator": "Illus. ",
+                "illustration_pan_x": -64,
+                "illustration_pan_y": -188,
+                "illustration_scale": 1.02
             },
             "back": {
                 "type": "location_back",
                 "illustrator": "Illus. ",
                 "name": "",
                 "subtitle": "",
-                "traits": "Wunderland. Tulgen Wald.",
+                "traits": "Wunderland. Tulger Wald.",
                 "text": "\n",
-                "flavor_text": "The tall grass forms rings around rocky openings in \nthe ground, each leading down several yards.",
+                "flavor_text": "Das hohe Gras bildet Ringe um felsige \u00d6ffnungen im \nBoden, die weit in die Tiefe f\u00fchren.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_scale": 1.02
             },
             "encounter_number": "10",
             "expansion_number": "123",
@@ -5158,12 +5187,11 @@
             "id": "f42dab6e-3e0e-4e4e-86c4-c01b303db3b9"
         },
         {
-            "name": "Mound of Crags",
+            "name": "Anh\u00e4ufung von Felsen",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "text": "\n<action> If there is no horror on <name>: Discard 1<per> skills from among all investigators' hands at this location. Place a horror token on <name> (from the token bank).",
-                "flavor_text": "Scaling the top of the mound will take \nno little amount of skill.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Fertigkeitskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "victory": "",
                 "illustration": "./images/Environment - Logan Feliciano 2.jpg",
                 "clues": "1<per>",
@@ -5178,16 +5206,17 @@
                     "none"
                 ],
                 "illustrator": "Illus. Logan Feliciano",
-                "traits": "Wunderland. Tulgen Wald."
+                "traits": "Wunderland. Tulger Wald.",
+                "flavor_text": "Ohne ausreichend Fertigkeit wird die Spitze dieses H\u00fcgels unerklimmbar."
             },
             "back": {
                 "type": "location_back",
                 "illustrator": "Illus. Logan Feliciano",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wunderland. Tulgen Wald.",
+                "traits": "Wunderland. Tulger Wald.",
                 "text": "\n",
-                "flavor_text": "A large hill rises out of the woods, covered on all faces by a network of stony outcroppings and ledges.",
+                "flavor_text": "Aus dem Wald erhebt sich ein gro\u00dfer H\u00fcgel, der auf allen Seiten von einem Geflecht aus Felsvorspr\u00fcngen und Kanten bedeckt ist.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -5197,13 +5226,12 @@
             "id": "eca9a8a9-c310-4a2e-9a75-ca08abab369b"
         },
         {
-            "name": "Narrow Valley",
+            "name": "Enges Tal",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action> If there is no horror on <name>: Discard 1<per> events from among all investigators' hands at this location. Place a horror token on <name> (from the token bank).",
-                "flavor_text": "Fully exploring the valley \nwill take quite a bit of maneuvering.",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Ereigniskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "victory": "",
                 "illustration": "./images/Environment - Niels Hoyle-Dodson 1.jpg",
                 "clues": "1<per>",
@@ -5217,7 +5245,8 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Niels Hoyle-Dodson"
+                "illustrator": "Illus. Niels Hoyle-Dodson",
+                "flavor_text": "Die Erkundung dieses Tales scheint ereignisreich."
             },
             "back": {
                 "type": "location_back",
@@ -5225,9 +5254,10 @@
                 "name": "",
                 "subtitle": "",
                 "text": "\n",
-                "flavor_text": "This part of the wood sinks in a deep crevasse, scarcely big enough for a single person to walk down the center of.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "traits": "Wunderland. Tulger Wald.",
+                "flavor_text": "Dieser Teil des Waldes erstreckt sich \u00fcber eine tiefe Felsspalte, die gerade gro\u00df genug ist, dass eine Person die Mitte \u00fcberqueren kann."
             },
             "encounter_number": "12",
             "expansion_number": "125",
@@ -5240,16 +5270,16 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>Your attention is finally drawn to the Baker, who shouts without restraint and waves his arms wildly. \"It's a Snark! Callooh! Callay! Our quarry is finally in sight!\" The Baker's confirmation sounds too good to be true. Seeing as you've scoured the rest of the Tulgey Wood, however, if a Snark can be found here at all, then the Baker's proclamation might be believed.</i>\n<for> Wenn sich genau 1 Ort ohne Horror im Spiel befindet: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>Zuletzt f\u00e4llt deine Aufmerksamkeit auf den B\u00e4cker, der unb\u00e4ndig schreit und wild mit den Armen wedelt. \u201eHier ist ein Schlarg! Juch! Jach! Endlich ist unsere Beute in Sicht!\u201c Die Meldung des B\u00e4ckers klingt zu sch\u00f6n, um wahr zu sein. Da du den Rest des tulgen Waldes bereits durchk\u00e4mmt hast, k\u00f6nnte die Behauptung des B\u00e4ckers glaubw\u00fcrdig sein - wenn hier \u00fcberhaupt ein Snark zu finden ist.</i>\n<for> Wenn sich genau 1 Ort ohne Horror im Spiel befindet: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/Snark - Bobby Chiu.jpg",
                 "illustrator": "Illus. Bobby Chiu",
-                "name": "<unique>The Snark",
-                "subtitle": "Puzzling Prey",
-                "traits": "Wonderland. Creature. Elite.",
-                "text": "Aloof. \n<spawn> Location without horror on it.\nThe Snark cannot be engaged, damaged, or defeated.",
+                "name": "<unique>Der Schlarg",
+                "subtitle": "R\u00e4tselhafte Beute",
+                "traits": "Wunderland. Kreatur. Elite.",
+                "text": "Zur\u00fcckhaltend. \n<spawn> Ort ohne Horror.\nDer Schlarg kann nicht in einen Kampf verwickelt werden, kann keinen Schaden nehmen und kann nicht besiegt werden.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -5272,18 +5302,18 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\"The Snark has cut and run,\" the Butcher declares, \"We've sent it packing, and so it must have returned to its pack.\" You don't recall anything about Snarks being social creatures, but you are drawn to a nearby grove by a jumble of strange sounds.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDer Schlarg hat sich aus dem Staub gemacht\u201c, erkl\u00e4rt der Metzger. \u201eWir haben ihn verscheucht, und so muss er zu seinem Rudel zur\u00fcckgekehrt sein.\u201c Du kannst dich nicht daran erinnern, dass Schlargs gesellige Wesen sind, aber du wirst von einem Durcheinander seltsamer Ger\u00e4usche zu einem nahe gelegenen W\u00e4ldchen gelockt.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
                 "illustration": "./images/Environment - Thomas Wievegg 1.jpg",
                 "illustrator": "Illus. Thomas Wievegg",
                 "name": "Einsames Waldgebiet",
-                "subtitle": "The Butcher's Trail",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action> If there is no horror on Lonely Backwoods: Search the encounter deck and discard pile for 1 enemy that does not have surge (2 instead if there are 3 or 4 players) and draw it. Place a horror token on Lonely Backwoods <i>(from the token bank)</i>.",
-                "flavor_text": "The Butcher's detour passes by a hollow tree \noccupied by a variety of agitated creatures.",
-                "victory": "Victory 1.",
+                "subtitle": "Die Spur des Butchers",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, durchsuche das Begegnungsdeck und Ablagestapel nach 1 Gegner ohne Nachr\u00fcsten und ziehe ihn (stattdessen 2 Gegner, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "flavor_text": "Der Umweg des Butchers f\u00fchrt an einem hohlen Baum vorbei, in dem sich einige aufgekratzte Kreaturenen niedergelassen haben.",
+                "victory": "Sieg 1.",
                 "shroud": "4",
                 "clues": "1<per>",
                 "connection": "moon",
@@ -5305,17 +5335,17 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\"I tailed the Snark, but mine fell flat,\" the Beaver grumbles, holding its flat tail, \"Its own tail must be frought with danger.\" The woods are already filled with danger, but at the Beaver's insistence, you proceed toward a shadowy and isolated valley.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDurchs dichte Geh\u00f6lz nagte ich mich, aber vom Schlarg ist keine Spur,\" murrt der Biber, Er muss sich noch tiefer im Unterholz verstecken.\u201c Der Wald ist ohnehin schon voller Gefahren, aber auf Dr\u00e4ngen des Bibers gehst du weiter in Richtung eines schattigen und abgelegenen Tals.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
                 "illustration": "./images/Environment - Mateusz Katzig 2.jpg",
                 "illustrator": "Illus. Mateusz Katzig",
                 "name": "Einsames Waldgebiet",
-                "subtitle": "The Beaver's Trail",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action> If there is no horror on Lonely Backwoods: Search the encounter deck and discard pile for 1 treachery that does not have surge (2 instead if there are 3 or 4 players) and draw it. Place a horror token on Lonely Backwoods <i>(from the token bank)</i>.",
-                "flavor_text": "The Beaver's directions lead to\na particularly dark and dismal chasm.",
+                "subtitle": "Die Spur des Bibers",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, durchsuche das Begegnungsdeck und Ablagestapel nach 1 Verratskarte ohne Nachr\u00fcsten und ziehe sie (stattdessen 2 Verratskarten, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "flavor_text": "Die Wegbeschreibung des Bibers f\u00fchrt zu einer besonders dunklen und trostlosen Schlucht.",
                 "victory": "Victory 1.",
                 "shroud": "4",
                 "clues": "1<per>",
@@ -5325,7 +5355,9 @@
                     "hourglass",
                     "squiggle_alt",
                     "star"
-                ]
+                ],
+                "illustration_pan_x": 18,
+                "illustration_pan_y": 128
             },
             "encounter_number": "17",
             "expansion_number": "130",
@@ -5338,18 +5370,18 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\"The Snark must be somewhere deep and lonely,\" the Barrister speculates, \"Or it would have answered the summons I sent it.\" You're not certain of the Snark's ability to read at all, but the strange noises emanating from a nearby cavern give reason enough to search it.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDer Schlarg muss an einem tiefen, einsamen Ort sein\u201c, spekuliert der Barrister, \u201esonst h\u00e4tte er auf meine Vorladung zu Gericht reagiert.\u201c Du bist dir nicht sicher, ob der Snark \u00fcberhaupt lesen kann, aber die seltsamen Ger\u00e4usche, die aus einer nahe gelegenen H\u00f6hle dringen, sind Grund genug, sie zu durchsuchen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
                 "illustration": "./images/Environment - Uzi-Muzi.jpg",
                 "illustrator": "Illus. Uzi-Muzi",
                 "name": "Einsames Waldgebiet",
-                "subtitle": "The Barrister's Trail",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action> If there is no horror on Lonely Backwoods: Search your deck and discard pile for a weakness and draw it. Place a horror token on Lonely Backwoods <i>(from the token bank)</i>.",
+                "subtitle": "Die Spur des Barristers",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, durchsuche dein Deck und deinen Ablagestapel nach einer Schw\u00e4che und ziehe diese Karte: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "The Barrister's course winds through\na claustrophobic series of tunnels.",
-                "victory": "Victory 1.",
+                "victory": "Sieg 1.",
                 "shroud": "4",
                 "clues": "1<per>",
                 "connection": "moon",
@@ -5358,7 +5390,10 @@
                     "hourglass",
                     "squiggle_alt",
                     "star"
-                ]
+                ],
+                "illustration_pan_x": 12,
+                "illustration_pan_y": -10,
+                "illustration_scale": 1.02
             },
             "encounter_number": "16",
             "expansion_number": "129",
@@ -5379,9 +5414,9 @@
                 "illustration": "./images/Environment - Alex van der Linde 12.jpg",
                 "illustrator": "Illus. Alex van der Linde",
                 "name": "Einsames Waldgebiet",
-                "subtitle": "The Banker's Trail",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action> If there is no horror on Lonely Backwoods: Spend a total of 3<per> resources from among all investigators' resource pools at this location. Place a horror token on Lonely Backwoods <i>(from the token bank)</i>.",
+                "subtitle": "Die Spur des Bankiers",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, geben Ermittler an diesem Ort als Gruppe 3 <per> Ressourcen aus: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "The Banker's pursuit ends at the banks of\na dangerous series of river rapids.",
                 "victory": "Victory 1.",
                 "shroud": "4",
@@ -5392,7 +5427,9 @@
                     "hourglass",
                     "squiggle_alt",
                     "star"
-                ]
+                ],
+                "illustration_pan_x": 2,
+                "illustration_pan_y": 130
             },
             "encounter_number": "15",
             "expansion_number": "128",
@@ -5406,17 +5443,16 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\"It's taken our cue,\" the Billiard-Maker bemoans, dusting off his hands, \"and so it will want chalk to dust the tip, from somewhere rocky, I presume.\" His theory seems far-fetched at best, but you can't deny the trail of white powder leading down the rocks.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eEs hat unseren Impuls aufgegriffen\u201c beklagt sich der Billard-Mark\u00f6r, w\u00e4hrend er sich die H\u00e4nde abwischt, \u201eund deshalb wird es Kreide brauchen, um die Spitze zu best\u00e4uben, vermutlich von irgendwo aus den Felsen.\u201c Seine Theorie scheint bestenfalls weit hergeholt, aber man kann die Spur aus wei\u00dfem Pulver, die den Felsen hinunterf\u00fchrt, nicht leugnen.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
                 "illustration": "./images/Environment - Alex Alexandrov.png",
                 "illustrator": "Illus. Alex Alexandrov",
                 "name": "Raues Hinterland",
-                "subtitle": "The Billiard-Maker's Trail",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action>: If there is no horror on Rough Hinterlands: Test any skill (3). This test gets +1<per> difficulty. If you succeed, place a horror token on Rough Hinterlands <i>(from the token bank)</i>.",
-                "flavor_text": "The Billiard-Maker's chase requires you to bridge\na vast canyon by whatever means you can.",
+                "subtitle": "Die Spur des Billard-Mark\u00f6rs",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5426,7 +5462,8 @@
                     "square",
                     "tear",
                     "moon"
-                ]
+                ],
+                "flavor_text": "Die F\u00e4hrte des Billard-Mark\u00f6rs zwingt dich, eine riesige Schlucht zu \u00fcberqueren."
             },
             "encounter_number": "18",
             "expansion_number": "131",
@@ -5439,7 +5476,7 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\"We must search both high and low,\" the Broker declares, \"but let us start low for the sake of our stock.\" Though the premise is flawed, this still leads you toward soft mud and bent plants that betray the passage of some creature very recently.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eWir m\u00fcssen von oben nach unten alles absuchen, erkl\u00e4rt der B\u00f6rsenmakler, \u201eaber beginnen wir unten, zum Wohle unserer Aktien.\u201c Obwohl diese Pr\u00e4misse dir fragw\u00fcrdig scheint, f\u00fchrt sie dich zu Spuren in weichem Schlamm und geknickten Pflanzen, die darauf hindeuten, dass hier vor kurzem ein Tier vorbeigekommen ist.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
@@ -5447,9 +5484,9 @@
                 "illustrator": "Illus. Dongjun Lu",
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des B\u00f6rsenh\u00e4ndlers",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "<act> If there is no horror on Rough Hinterlands: Discard cards with total cost of 3<per> from among all investigators' hands at this location. Place a horror token on Rough Hinterlands <i>(from the token bank)</i>.",
-                "flavor_text": "The Broker's track treads over marshy ground\nthat severely limits your options.",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens 3 <per> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "flavor_text": "Der Weg des B\u00f6rsenmaklers f\u00fchrt \u00fcber sumpfigen Boden, der deine M\u00f6glichkeiten stark einschr\u00e4nkt.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5474,7 +5511,7 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\"No arrangement could be made to satisfy the beast!\" the Bonnet-Maker despairs, \"If it refuses a bonnet, then it must be indoors!\" You hold your tongue at the notion, but the echoes of some strange beast from a secluded cave cause you to reconsider.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eEs gibt nichts, was dieses Biest zufriedenstellen k\u00f6nnte!\u201c, verzweifelt der Hutmacher. \u201eWenn es keinen Hut tragen will, muss es wohl drinnen leben!\u201c Du h\u00e4ltst dich mit einer Antwort zur\u00fcck, aber das Echo eines seltsamen Tieres aus einer abgelegenen H\u00f6hle l\u00e4sst dich umdenken.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
@@ -5482,9 +5519,9 @@
                 "illustrator": "Illus. Arin Fitri",
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bonnet-Machers",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action>: If there is no horror on Rough Hinterlands: Test <willpower> (2). This test gets +1<per> difficulty. If you succeed, place a horror token on Rough Hinterlands <i>(from the token bank)</i>.",
-                "flavor_text": "The Bonnet-Maker's path leads to \nthe entrance of a deep and eerie cave.",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "flavor_text": "Der Weg des Hutmachers f\u00fchrt zum Eingang einer tiefen und unheimlichen H\u00f6hle.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5507,7 +5544,7 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\"We've bared our soles in this chase,\" the Boots grumbles, staring at a hole in his shoe, \"And yet the Snark hasn't worn out its own shoes. It must be climbing instead.\" The assumption doesn't seem quite right to you, though you spot movement atop a nearby cliff.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eWir haben uns bei dieser Verfolgung die Sohlen abgelaufen, murrt der Stiefel und starrt auf ein Loch in seinem Schuh. \u201eUnd doch hat der Schlarg seine eigenen Schuhe nicht abgenutzt. Er muss stattdessen klettern!\u201c Diese Vermutung erscheint dir nicht ganz richtig, obwohl du eine Bewegung an einer nahe gelegenen Klippe erkennst.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
@@ -5515,9 +5552,8 @@
                 "illustrator": "Illus. Cory Trego-Erdner",
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bootblacks",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "\n<action>: If there is no horror on Rough Hinterlands: Test <agility> (2). This test gets +1<per> difficulty. If you succeed, place a horror token on Rough Hinterlands <i>(from the token bank)</i>.",
-                "flavor_text": "The Boots' route directs you to\na small ledge atop a sheer cliff face.",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5527,7 +5563,11 @@
                     "square",
                     "tear",
                     "moon"
-                ]
+                ],
+                "flavor_text": "Die Route des Bootblacks f\u00fchrt dich zu einem kleinen Felsvorsprung an einer steilen Felswand.",
+                "illustration_pan_x": 26,
+                "illustration_pan_y": -82,
+                "illustration_scale": 1.06
             },
             "encounter_number": "20",
             "expansion_number": "133",
@@ -9581,19 +9621,25 @@
                     "moon"
                 ],
                 "connection": "hourglass",
-                "traits": "Wunderland. Tulgen Wald.",
-                "text": "<act> If there are no horror and no clues on <fullname>: Place a horror token on <fullname> (from the token bank).",
-                "flavor_text": "A number of different nests \nclump together under the sundial.",
+                "traits": "Wunderland. Tulger Wald.",
+                "text": "<action> Falls kein Horror und keine Hinweise auf dem einsamen Waldgebiet liegen: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "flavor_text": "Eine ganze Reihe verschiedener V\u00f6gel nisten gemeinsam unter der Sonnenuhr.",
                 "shroud": "2",
                 "clues": "2<per>",
                 "illustrator": "Illus. Daria Chu",
-                "illustration": "./images/Sundial - Daria Chu.jpg"
+                "illustration": "./images/Sundial - Daria Chu.jpg",
+                "illustration_pan_x": -380,
+                "illustration_pan_y": 0,
+                "illustration_scale": 0.84
             },
             "back": {
                 "type": "location_back",
-                "flavor_text": "Inexplicably, the wood parts in a small clearing \nwhere a sundial sits in a circle of grass.",
+                "flavor_text": "Unerkl\u00e4rlicherweise teilt sich der Wald zu einer kleinen Lichtung auf, in deren Mitte eine Sonnenuhr steht.",
                 "illustrator": "Illus. Daria Chu",
-                "traits": "Wunderland. Tulgen Wald."
+                "traits": "Wunderland. Tulger Wald.",
+                "illustration_scale": 0.84,
+                "illustration_pan_x": -380,
+                "illustration_pan_y": 0
             },
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "name": "Geweech",
@@ -9604,7 +9650,8 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "38734b3a-623c-4b75-9d9a-755f1262d539"
+            "38734b3a-623c-4b75-9d9a-755f1262d539",
+            "f31e7367-b5f0-4ed0-ae41-816e36151438"
         ]
     },
     "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
