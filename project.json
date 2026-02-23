@@ -293,6 +293,13 @@
             }
         },
         {
+            "name": "Geschwisterrivalit\u00e4t",
+            "icon": "./images/Sibling Rivalry.png",
+            "id": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
+            "card_amount": 25,
+            "order": 6
+        },
+        {
             "name": "Das Walross und der Zimmermann",
             "icon": "./images/Walrus and Carpenter.png",
             "id": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
@@ -358,12 +365,6 @@
             "icon": "./images/Fools Mate.png",
             "id": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "card_amount": 26
-        },
-        {
-            "name": "Sibling Rivalry.png",
-            "icon": "./images/Sibling Rivalry.png",
-            "id": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
-            "card_amount": 25
         },
         {
             "name": "Waking Nightmare.png",
@@ -5886,7 +5887,6 @@
                 "text": "<obj> If there are no enemies in play, advance.",
                 "flavor_text": "To end the pointless war between Tweedledum and Tweedledee and get that rattle, you're going to have to be creative, especially if you don't want to just kill one of them. Unfortunately, the massive amounts of cards and chess pieces recruited by the Tweedles are bogging down any plans you've devised.",
                 "illustration": "./images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
-                "clues": "-",
                 "index": "1a",
                 "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez"
             },
@@ -5930,7 +5930,6 @@
                 "text": "<action> If you are at the same location as Tweedledum or Tweedledee: <b>Parley</b>. Test <willpower> or <intellect> (4). If you succeed, place 1 horror on an uncontrolled story asset at your location.\n<obj> If Tweedledum <i>(Terrified Twin)</i> and Tweedledee <i>(Terrified Twin)</i>\nare both in the victory display,\nadvance.",
                 "flavor_text": "The Tweedles are already panicking, but still attempting to marshal their troops into action. With the shadowy crow bearing down on the battlefield, you have the tool you need to scare some sense into the twins.",
                 "illustration": "./images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
-                "clues": "-",
                 "index": "3a",
                 "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez"
             },
@@ -5946,7 +5945,7 @@
             "id": "55cc01b4-17d4-4046-9eea-a0f3ca283228"
         },
         {
-            "name": "Brother Against Brother",
+            "name": "Bruder gegen Bruder",
             "front": {
                 "type": "agenda",
                 "text": "<for> When a <t>Card</t> enemy is defeated: Place 1 damage token on the scenario card (from the token bank).\n<for> When a <t>Chess</t> enemy is defeated: Place 1 horror token on the scenario card (from the token bank).",
@@ -5968,7 +5967,7 @@
             "id": "96529f78-cb92-4880-9deb-0b55ede55564"
         },
         {
-            "name": "Sibling Rivalry",
+            "name": "Geschwisterrivalit\u00e4t",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -6298,42 +6297,42 @@
             "id": "0af4e1b6-5689-4d36-a24e-8d60a62223be"
         },
         {
-            "name": "Northeast Slope",
+            "name": "Southwest Slope",
             "front": {
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wonderland. Slope.",
-                "text": "\n<for> At the end of the round, heal 1\u00a0damage from each <t>Chess</t> enemy at <name>.",
-                "flavor_text": "The horde of chess pieces rally here \nfor their assault on the central valley.",
+                "text": "\n<reaction> After a <t>Chess</t> enemy is defeated at <name>: This location gets \u20133 shroud until the end of the round (group limit once per round).",
+                "flavor_text": "The chess pieces mustered here seem particularly tense.\nIt might be easy getting them to panic.",
                 "victory": "",
-                "illustration": "./images/Environment - Domen Kozelj 1.jpg",
+                "illustration": "./images/Environment - Alex van der Linde 4.jpg",
                 "clues": "1<per>",
-                "shroud": "3",
-                "connection": "doubleslash",
+                "shroud": "5",
+                "connection": "cross",
                 "connections": [
-                    "triangle",
-                    "slash",
+                    "square",
                     "t",
+                    "slash",
                     "none",
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Domen Kozelj"
+                "illustrator": "Illus. Alex van der Linde"
             },
             "back": {
                 "type": "location_back",
                 "illustration": "./images/0_",
-                "illustrator": "Illus. Domen Kozelj",
+                "illustrator": "Illus. Alex van der Linde",
                 "name": "",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wonderland. ",
                 "text": "\n",
-                "flavor_text": "The path up the north side of Tweedledee's hill is swarming with chess pieces determined to join battle.\nYou may not be able to get back down the way you came.",
+                "flavor_text": "The path up the south side of Tweedledum's hill is overflowing with cards rushing down to the valley.\nYou may not be able to get back down the way you came.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
-            "encounter_number": "12",
-            "expansion_number": "159",
+            "encounter_number": "13",
+            "expansion_number": "160",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "8fdfc740-59c9-4149-8c84-94c23f7de896"
         },
@@ -6484,68 +6483,97 @@
             "id": "2db7b0b3-d001-4b6d-b2af-24b756481a62"
         },
         {
-            "name": "Monstrous Crow",
-            "front": {
-                "type": "enemy",
-                "title": "<unique> <name>",
-                "subtitle": "Horrific Harbinger",
-                "traits": "Wonderland. Monster. Shadow. Elite.",
-                "text": "<for> At the end of the enemy phase, <name> attacks each investigator in player order, regardless of location. Investigators as a group may spend 1 clue to cancel an attack made against any investigator.\n",
-                "health": "-",
-                "evade": "-",
-                "attack": "-",
-                "damage": 0,
-                "horror": 1,
-                "flavor_text": "",
-                "victory": "",
-                "illustration": "./images/Crow - Anastasia Matveeva.png",
-                "illustrator": "Illus. Anastasia Matveeva"
-            },
-            "back": {
-                "type": "encounter"
-            },
-            "encounter_number": "19",
-            "expansion_number": "166",
-            "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
-            "id": "59a215b1-e318-47d3-bb43-6db244e82c7a"
-        },
-        {
-            "name": "Tweedledum",
+            "name": "Dideldei",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Troublesome Twin",
-                "traits": "Wonderland. Humanoid.",
+                "subtitle": "Zankhafter Zwilling",
+                "traits": "Wunderland. Humanoid.",
                 "text": "\n<action>: Deal 3 damage to <name>. Any investigator at <name>'s location may activate this ability. This action does not provoke attacks of opportunity.\n<for> If there is 1<per> horror on <name>: Flip <name> and move him to the victory display.\n<for> If <name> is defeated by damage: (<res>2</res>).",
                 "cost": "<dash>",
                 "health": "3",
                 "sanity": "-",
                 "flavor_text": "",
                 "victory": "Victory 0.\n<vs>",
-                "classes": [
-                    "neutral"
-                ],
                 "illustration": "./images/Tweedledum Tweedledee - Lisa Falkenstern.jpg",
-                "illustrator": "Illus. Lisa Falkenstern"
+                "illustrator": "Illus. Lisa Falkenstern",
+                "illustration_pan_x": -344,
+                "illustration_pan_y": -36,
+                "illustration_scale": 1.12,
+                "classes": [
+                    "story"
+                ]
             },
             "back": {
                 "type": "asset",
-                "illustration": "./images/0_Tweedledum Tweedledee - Lisa Falkenstern.jpg",
+                "illustration": "./images/Tweedledum Tweedledee - Lisa Falkenstern.jpg",
                 "illustrator": "Illus. Lisa Falkenstern",
-                "name": "Tweedledum",
-                "subtitle": "Terrified Twin",
-                "traits": "Wonderland. Humanoid.",
+                "name": "<name>",
+                "subtitle": "Be\u00e4ngstigter Bruder",
+                "traits": "Wunderland. Humanoid.",
                 "text": "\n",
-                "flavor_text": "Just then flew down a monstrous crow,\nAs black as a tar-barrel!\nWhich frightened both the heroes so,\nThey quite forgot their quarrel.\n",
+                "flavor_text": "Die Riesenkr\u00e4he flog herzu,\nSo schwarz wie Pech im Fasse;\nDas Heldenpaar gab sogleich Ruh,\nEntsagend allem Hasse.",
                 "victory": "Victory 2.",
                 "title": "<unique> <name>",
                 "health": "-",
                 "sanity": "-",
                 "cost": "<dash>",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
-                "slot": "None"
+                "slot": "None",
+                "illustration_scale": 1.12,
+                "illustration_pan_x": -344,
+                "illustration_pan_y": -36
+            },
+            "encounter_number": "17",
+            "expansion_number": "164",
+            "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
+            "id": "59a215b1-e318-47d3-bb43-6db244e82c7a"
+        },
+        {
+            "name": "Dideldum",
+            "front": {
+                "type": "asset",
+                "title": "<unique> <name>",
+                "subtitle": "Zankhafter Zwilling",
+                "traits": "Wunderland. Humanoid.",
+                "text": "\n<action>: Deal 3 damage to <name>. Any investigator at <name>'s location may activate this ability. This action does not provoke attacks of opportunity.\n<for> If there is 1<per> horror on <name>: Flip <name> and move him to the victory display.\n<for> If <name> is defeated by damage: (<res>2</res>).",
+                "cost": "<dash>",
+                "flavor_text": "",
+                "victory": "Victory 0.",
+                "illustration": "./images/Tweedledum Tweedledee - Lisa Falkenstern.jpg",
+                "illustrator": "Illus. Lisa Falkenstern",
+                "health": "3",
+                "level": "None",
+                "illustration_pan_x": 34,
+                "illustration_pan_y": 52,
+                "illustration_scale": 1.12,
+                "classes": [
+                    "story"
+                ]
+            },
+            "back": {
+                "type": "asset",
+                "illustration": "./images/0_Tweedledum Tweedledee - Lisa Falkenstern.jpg",
+                "illustrator": "Illus. Lisa Falkenstern",
+                "name": "<name>",
+                "subtitle": "Be\u00e4ngstigter Bruder",
+                "traits": "Wunderland. Humanoid.",
+                "text": "\n",
+                "flavor_text": "Die Riesenkr\u00e4he flog herzu,\nSo schwarz wie Pech im Fasse;\nDas Heldenpaar gab sogleich Ruh,\nEntsagend allem Hasse.",
+                "victory": "Victory 2.",
+                "title": "<unique> <name>",
+                "health": "-",
+                "sanity": "-",
+                "cost": "<dash>",
+                "classes": [
+                    "story"
+                ],
+                "slot": "None",
+                "illustration_scale": 1.12,
+                "illustration_pan_x": 34,
+                "illustration_pan_y": 52
             },
             "encounter_number": "18",
             "expansion_number": "165",
@@ -6629,21 +6657,21 @@
             "id": "c8ce2590-3beb-4896-9544-58bed9d0bfc2"
         },
         {
-            "name": "Gaining Ground",
+            "name": "Contested Area",
             "front": {
                 "type": "treachery",
                 "traits": "Scheme.",
-                "text": "\n<rev> Resolve whichever is true:\n<bullet> If there is more damage on Tweedledum than on Tweedledee:\n Place 1 damage on the scenario card, then take 1 damage.\n<bullet> If there is more damage on Tweedledee than on Tweedledum:\n Place 1 horror on the scenario card, then take 1 horror.\n<bullet> If there is an equal amount of damage on both Tweedledum\n and Tweedledee: Place 1 damage and 1 horror on the scenario\n card, then take 1 damage and 1 horror.",
+                "text": "\n<rev> Attach <name> to your location.\n<for> When an enemy would spawn at or enter the attached location: Place 1 doom on that enemy.\n<action>: Test <intellect> or <combat> (4). If you succeed, discard <name>.",
                 "flavor_text": "",
                 "victory": "",
-                "illustration": "./images/Tweedledum Tweedledee - Brian Partridge.jpg",
-                "illustrator": "Illus. Brian Partridge"
+                "illustration": "./images/Chess - Aneikhaar.jpg",
+                "illustrator": "Illus. AneiKhaar"
             },
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "28-30",
-            "expansion_number": "170",
+            "encounter_number": "23-25",
+            "expansion_number": "168",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "f0c3bce8-81c8-4515-a9ad-e12f59260d50"
         },
@@ -9651,7 +9679,7 @@
     "meta": {
         "dirty": [
             "38734b3a-623c-4b75-9d9a-755f1262d539",
-            "f31e7367-b5f0-4ed0-ae41-816e36151438"
+            "59a215b1-e318-47d3-bb43-6db244e82c7a"
         ]
     },
     "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
