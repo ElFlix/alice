@@ -297,7 +297,55 @@
             "icon": "./images/Sibling Rivalry.png",
             "id": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "card_amount": 25,
-            "order": 6
+            "order": 6,
+            "meta": {
+                "location_graph": {
+                    "5e213d11-b222-4b10-9525-0b513e23f845_front": {
+                        "x": 6.460813866033817,
+                        "y": -74.74347786090169
+                    },
+                    "0af4e1b6-5689-4d36-a24e-8d60a62223be_front": {
+                        "x": 6.037919501741172,
+                        "y": -76.5805441477898
+                    },
+                    "cb85add6-cd68-4771-99e3-83b7eea59efd_front": {
+                        "x": 352.4292578854638,
+                        "y": -83.0741406870361
+                    },
+                    "22ec312a-ef12-4af9-bea7-eb83522880c5_front": {
+                        "x": 349.25073440157496,
+                        "y": -79.6837151057295
+                    },
+                    "d4b331e2-7a7c-4f9c-8022-cf2e42fa9fb1_front": {
+                        "x": 204.99245309289492,
+                        "y": 157.32371567258443
+                    },
+                    "b06b2927-c73d-442a-b253-4dbf129eed9e_front": {
+                        "x": 16.72407869931874,
+                        "y": 385.4341543963859
+                    },
+                    "1d7a9d39-cd96-44bb-8770-75ac5def1d89_front": {
+                        "x": 11.542530308364007,
+                        "y": 379.8013379056364
+                    },
+                    "8fdfc740-59c9-4149-8c84-94c23f7de896_front": {
+                        "x": 410.83450801058575,
+                        "y": 369.28844703738514
+                    },
+                    "d33c4bb6-c2c9-428f-a8df-1da71fe6e021_front": {
+                        "x": 413.6239916308432,
+                        "y": 369.4852540408235
+                    },
+                    "4d662916-5c5c-4753-b405-a43ab8b2c173_front": {
+                        "x": 562.7255161892192,
+                        "y": 208.05591252617816
+                    },
+                    "fa54f326-f19d-405a-9a0c-10a83c601772_front": {
+                        "x": -152.77539054255496,
+                        "y": 106.8002301355093
+                    }
+                }
+            }
         },
         {
             "name": "Das Walross und der Zimmermann",
@@ -5902,11 +5950,11 @@
             "id": "cc0f9d2f-653f-4e6c-ad0f-b6a40db7b920"
         },
         {
-            "name": "Scare Tactics",
+            "name": "Einsch\u00fcchterungstaktik",
             "front": {
                 "type": "act",
-                "text": "<obj> Only investigators at Overgrown Dell may spend the requisite number of clues to advance.",
-                "flavor_text": "As the battle drags on, the shadows initially banished by the rattle have begun to creep back toward the valley. You think on the childish personalities of the Tweedles and their old nursery rhyme, and you wonder if you can somehow focus the shadows to scare them out of their duel.",
+                "text": "<obj> Nur Ermittler an der \u00fcberwucherten Senke d\u00fcrfen als Gruppe die ben\u00f6tigten Hinweise ausgeben, um vorzur\u00fccken.",
+                "flavor_text": "W\u00e4hrend sich der Kampf hinzieht, beginnen die Schatten, die urspr\u00fcnglich durch das Rasseln vertrieben worden waren, wieder in Richtung Tal zur\u00fcckzuschleichen. Du denkst an die kindlichen Pers\u00f6nlichkeiten der Br\u00fcder und ihren alten Reim und fragst dich, ob du die Schatten irgendwie b\u00fcndeln kannst, um sie aus ihrem Zweikampf zu vertreiben.",
                 "illustration": "./images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
                 "clues": "3<per>",
                 "index": "2a",
@@ -5914,9 +5962,10 @@
             },
             "back": {
                 "type": "act_back",
-                "name": "A Pound of Feathers",
+                "name": "Ein Pfund Federn",
                 "victory": "",
-                "text": "\n<blockquote>At first it seems to be impossible to corral the shadows toward any specific part of the battlefield. However, on the sloped terrain around the battlefield, you find several fallen crow feathers that seem to draw nearby shadows toward them. You gather as many as you can find and collect them in the central valley. Within minutes, darkness begins to coalesce around the bundle of feathers and expand into an enormous shape. You take several steps back and cover your ears as the unearthly cawing of an unnatural crow screams out from the growing darkness. Tweedledum and Tweedledee stop barking orders at their minions and stand in frightened awe as the shadowy crow takes shape.</blockquote>\nPut the set-aside Monstrous Crow into play next to the agenda deck.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "Bringe den beiseitegelegten Gegner Monstr\u00f6se Kr\u00e4he neben der aktuellen Agenda ins Spiel.",
+                "flavor_text": "Zun\u00e4chst scheint es unm\u00f6glich, die Schatten auf einen bestimmten Teil des Schlachtfeldes zu lenken. Auf dem absch\u00fcssigen Gel\u00e4nde rund um das Schlachtfeld findest du jedoch mehrere heruntergefallene Kr\u00e4henfedern, welche die Schatten anzuziehen scheinen. Du sammelst so viele du finden kannst und bringst sie ins die zentrale Senke. Innerhalb weniger Minuten beginnt sich Dunkelheit um das Federb\u00fcndel zu sammeln und zu einer riesigen Gestalt auszudehnen. Du trittst mehrere Schritte zur\u00fcck und h\u00e4ltst dir die Ohren zu, als das unheimliches Kr\u00e4chzen einer unnat\u00fcrlichen Kr\u00e4he aus der wachsenden Dunkelheit ert\u00f6nt. Dideldei und Dideldum h\u00f6ren auf, Befehle zu ihren Untergebenen zu br\u00fcllen, und stehen vor Ehrfurcht erstarrte da, w\u00e4hrend die schattenhafte Kr\u00e4he Gestalt annimmt."
             },
             "encounter_number": "4",
             "expansion_number": "151",
@@ -5948,8 +5997,8 @@
             "name": "Bruder gegen Bruder",
             "front": {
                 "type": "agenda",
-                "text": "<for> When a <t>Card</t> enemy is defeated: Place 1 damage token on the scenario card (from the token bank).\n<for> When a <t>Chess</t> enemy is defeated: Place 1 horror token on the scenario card (from the token bank).",
-                "flavor_text": "Acting on the Tweedles' orders, the cards and chess pieces clash with each other on every available point in the small wooded valley. At the rate this battle is escalating, the soldiers might actually kill one of the Tweedles before you can get the rattle.",
+                "text": "<for> Nachdem ein  <t>Karte</t>-Gegner besiegt wurde: is: Platziere 1 Schaden auf der Szenario\u00fcbersichtskarte.\n<for> Nachdem ein  <t>Schach</t>-Gegner besiegt wurde: Platziere 1 Schaden auf der Szenario\u00fcbersichtskarte.",
+                "flavor_text": "Auf Befehl der Didel-Br\u00fcder bek\u00e4mpfen sich die Karten und Schachfiguren an jedem nur m\u00f6glichen Ort in dem kleinen bewaldeten Tal. Bei dem rasanten Tempo, mit dem diese Schlacht eskaliert, k\u00f6nnten die Soldaten noch einen der Br\u00fcder t\u00f6ten, bevor du die Rassel in die H\u00e4nde bekommst.",
                 "illustration": "./images/Environment - Darek Zabrocki.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -5957,9 +6006,11 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Tit for Tat",
+                "name": "Auge um Auge",
                 "victory": "",
-                "text": "\n<blockquote>With the slight shifting of the flow of combat, one of the soldiers gets an opportunity to storm the opposing hill and attack the dismayed twin on it.</blockquote>\nCount the damage and horror tokens on the scenario card and resolve the following:\n<bullet> If there are more damage tokens on the scenario card\n than horror tokens and Tweedledum is in play: Deal 1\n damage to Tweedledum.\n<bullet> If there are more horror tokens on the scenario card\n than damage tokens and Tweedledee is in play: Deal 1\n damage to Tweedledee.\n<bullet> Otherwise: Deal 1 damage to either Tweedledum or\n Tweedledee (choose one in play).\nIf no resolution was reached through this effect, remove all tokens from the scenario card. Then, flip this agenda.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<bullet> Falls sich mehr Schadensmarker als Horrormarker auf der Szenario\u00fcbersichtskarte befinden: F\u00fcge Dideldum 1 Schaden zu.\n<bullet> Ansonsten, falls sich mehr Horrormarker als Schadensmarker auf der Szenario\u00fcbersichtskarte befinden: F\u00fcge Dideldei 1 Schaden zu.\n<bullet> Ansonsten f\u00fcge Dideldei oder Dideldum 1 Schaden zu <i>(w\u00e4hle 1  im Spiel)</i>\nFalls durch diesen Effekt keine Aufl\u00f6sung erreicht wurde, entferne alle Marker von der Szenario\u00fcbersichtskarte. Drehe danach diese Agenda zur\u00fcck auf ihre \u201ea\u201d-Seite.",
+                "index": "1b",
+                "flavor_text": "Einer der Soldaten nutzt eine L\u00fccke im Kampfgeschehen, um den gegnerischen H\u00fcgel zu st\u00fcrmen und den verwirrten Zwilling darauf anzugreifen."
             },
             "encounter_number": "2",
             "expansion_number": "149",
@@ -5972,44 +6023,51 @@
                 "type": "chaos",
                 "entries": [
                     {
-                        "token": "skull",
-                        "text": "\u20131. \u20133 instead if there are at least 1<per> total tokens on the scenario card."
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20131  (\u20133 stattdessen, falls sich 1<per> oder mehr Marker auf der Szenario\u00fcbersichtskarte befinden)."
                     },
                     {
-                        "token": "cultist,tablet",
-                        "text": "\u20132. \u20134 instead if there is not an equal number of damage and horror tokens on the scenario card."
+                        "token": [
+                            "cultist",
+                            "tablet"
+                        ],
+                        "text": "\u20132. (\u20134 stattdessen, falls sich ungleich viele Schadensmarker und Horrormarker auf der Szenario\u00fcbersichtskarte befinden)."
                     },
                     {
-                        "token": "tablet",
-                        "text": ""
-                    },
-                    {
-                        "token": "elder_thing",
-                        "text": "\u20132. If you fail, place 1 damage token and 1 horror token on the scenario card."
-                    }
-                ]
-            },
-            "back": {
-                "type": "chaos_back",
-                "entries": [
-                    {
-                        "token": "skull",
-                        "text": "\u20132. \u20134 instead if there are at least 1<per> total tokens on the scenario card."
-                    },
-                    {
-                        "token": "cultist,tablet",
-                        "text": "\u20133. \u20135 instead if there is not an equal number of damage and horror tokens on the scenario card."
-                    },
-                    {
-                        "token": "tablet",
-                        "text": ""
-                    },
-                    {
-                        "token": "elder_thing",
-                        "text": "\u20133. If you fail, place 1 damage token and 1 horror token on the scenario card."
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20132. Falls die Probe misslingt, platziere 1 Schaden und 1 Horror auf der Szenario\u00fcbersichskarte."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "EINFACH/STANDARD"
+            },
+            "back": {
+                "type": "chaos",
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20132 (\u20134 stattdessen, falls sich 1<per> oder mehr Marker auf der Szenario\u00fcbersichtskarte befinden)."
+                    },
+                    {
+                        "token": [
+                            "cultist",
+                            "tablet"
+                        ],
+                        "text": "\u20133 (\u20135 stattdessen, falls sich ungleich viele Schadensmarker und Horrormarker auf der Szenario\u00fcbersichtskarte befinden)."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20133. Falls die Probe misslingt, platziere 1 Schaden und 1 Horror auf der Szenario\u00fcbersichskarte."
+                    }
+                ],
+                "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
             "expansion_number": "148",
@@ -6017,7 +6075,7 @@
             "id": "15e5a8bc-9eb3-46aa-a522-e8204b8e6a5a"
         },
         {
-            "name": "Overgrown Dell",
+            "name": "\u00dcberwucherte Senke",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -6031,11 +6089,9 @@
                 "connection": "diamond",
                 "connections": [
                     "cross",
-                    "slash",
-                    "doubleslash",
-                    "t",
-                    "none",
-                    "none"
+                    "squiggle_alt",
+                    "equals",
+                    "t"
                 ],
                 "illustrator": "Illus. Carmen Thora"
             },
@@ -6043,7 +6099,7 @@
                 "type": "location_back",
                 "illustration": "./images/0_",
                 "illustrator": "Illus. Carmen Thora",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland.",
                 "text": "\n",
@@ -6057,14 +6113,14 @@
             "id": "d4b331e2-7a7c-4f9c-8022-cf2e42fa9fb1"
         },
         {
-            "name": "West Hill",
+            "name": "Westlicher H\u00fcgel",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland.",
-                "text": "\n<action> <b>Parley</b>: Test <willpower> or <intellect> (3) to convince one of Tweedledum's playing cards to abandon the fight. If you succeed, place 1 damage token on the scenario card. If you fail, take 1 damage instead.",
-                "flavor_text": "The bulk of Tweedledum's forces waits here for \nan opportunity to get into the fray.",
-                "victory": "Victory 1.",
+                "traits": "Wunderland.",
+                "text": "<action> <b>Verhandlung</b>: Lege eine <willpower>- oder <intellect>-Probe (3) ab, um eine von Dideldums Spielkarten zu \u00fcberzeugen, den Kampf aufzugeben. Falls die Probe gelingt, plaziere 1 Schaden auf der Szenario\u00fcbersichtskarte. Falls die Probe misslingt, nimm 1 Schaden.",
+                "flavor_text": "Der Gro\u00dfteil an Dideldums Truppen wartet hier auf die Gelegenheit, sich in die Schlacht zu st\u00fcrzen.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Environment - J L Sander 1.png",
                 "clues": "1<per>",
                 "shroud": "4",
@@ -6081,13 +6137,12 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. J. L. Sander",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland.",
+                "traits": "Wunderland.",
                 "text": "\n",
-                "flavor_text": "Tweedledum stands atop this hill, looking angrily out across the valley toward his brother with his arms folded.",
+                "flavor_text": "Tweedledum steht auf diesem H\u00fcgel.\n Mit verschr\u00e4nkten Armen blickt er w\u00fctend \u00fcber das Tal zu seinem Bruder.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -6097,14 +6152,14 @@
             "id": "4d662916-5c5c-4753-b405-a43ab8b2c173"
         },
         {
-            "name": "East Hill",
+            "name": "\u00d6stlicher H\u00fcgel",
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland.",
-                "text": "\n<action> <b>Parley</b>: Test <willpower> or <intellect> (3) to convince one of Tweedledee's chess pieces to abandon the fight. If you succeed, place 1 horror token on the scenario card. If you fail, take 1 horror instead.",
-                "flavor_text": "The bulk of Tweedledee's forces waits here for \nan opportunity to get into the fray.",
-                "victory": "Victory 1.",
+                "traits": "Wunderland.",
+                "text": "<action> <b>Verhandlung</b>: Lege eine <willpower>- oder <intellect>-Probe (3) ab, um eine von Dideldeis Schachfiguren zu \u00fcberzeugen, den Kampf aufzugeben. Falls die Probe gelingt, plaziere 1 Horror auf der Szenario\u00fcbersichtskarte. Falls die Probe misslingt, nimm 1 Horror.",
+                "flavor_text": "Der Gro\u00dfteil an Dideldeis Truppen wartet hier auf die Gelegenheit, sich in die Schlacht zu st\u00fcrzen.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Environment - J L Sander 1.png",
                 "clues": "1<per>",
                 "shroud": "4",
@@ -6121,13 +6176,11 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. J. L. Sander",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland.",
                 "text": "\n",
-                "flavor_text": "Tweedledee stands atop this hill, sulking with\nhis fists on his hips in a show of discontentment.",
+                "flavor_text": "Dideldei steht oben auf seinem H\u00fcgel.\nDie Arme in die H\u00fcften gestemmt zeigt er seine Unzufriedenheit.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -6141,31 +6194,27 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\nIf there are at least 2 more damage tokens than horror tokens on the scenario card, you cannot investigate <name>.",
                 "flavor_text": "The cards raise their spears as you approach,\nguarding the ascent to the hill carefully.",
                 "victory": "",
                 "illustration": "./images/Environment - Paty Hikari 1.jpg",
                 "clues": "1<per>",
                 "shroud": "2",
-                "connection": "slash",
+                "connection": "squiggle_alt",
                 "connections": [
                     "square",
-                    "doubleslash",
-                    "cross",
-                    "none",
-                    "none",
-                    "none"
+                    "equals",
+                    "cross"
                 ],
                 "illustrator": "Illus. Paty Hikari"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Paty Hikari",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n",
                 "flavor_text": "The path up the north side of Tweedledum's hill \nis packed with cards all clamoring to get \ndown into the central valley. You may not be able \nto get back down the way you came.",
                 "connection": "<copy>",
@@ -6181,31 +6230,27 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n<for> At the end of the round, heal 1 damage from each <t>Card</t> enemy at <name>.",
                 "flavor_text": "The card guards form into orderly ranks \nto prepare for their march down the slopes.",
                 "victory": "",
                 "illustration": "./images/Environment - Paty Hikari 1.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "connection": "slash",
+                "connection": "squiggle_alt",
                 "connections": [
                     "square",
-                    "doubleslash",
-                    "cross",
-                    "none",
-                    "none",
-                    "none"
+                    "equals",
+                    "cross"
                 ],
                 "illustrator": "Illus. Paty Hikari"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Paty Hikari",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n",
                 "flavor_text": "The path up the north side of Tweedledum's hill \nis packed with cards all clamoring to get \ndown into the central valley. You may not be able \nto get back down the way you came.",
                 "connection": "<copy>",
@@ -6221,31 +6266,27 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\nIf there are at least 2 more horror tokens than damage tokens on the scenario card, you cannot investigate <name>.",
                 "flavor_text": "The chess pieces group together as you approach,\ncarefully gauging your loyalty in this fight.",
                 "victory": "",
                 "illustration": "./images/Environment - Domen Kozelj 1.jpg",
                 "clues": "1<per>",
                 "shroud": "2",
-                "connection": "doubleslash",
+                "connection": "equals",
                 "connections": [
                     "triangle",
-                    "slash",
-                    "t",
-                    "none",
-                    "none",
-                    "none"
+                    "squiggle_alt",
+                    "t"
                 ],
                 "illustrator": "Illus. Domen Kozelj"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Domen Kozelj",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n",
                 "flavor_text": "The path up the north side of Tweedledee's hill is swarming with chess pieces determined to join battle.\nYou may not be able to get back down the way you came.",
                 "connection": "<copy>",
@@ -6261,31 +6302,27 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n<for> At the end of the round, heal 1\u00a0damage from each <t>Chess</t> enemy at <name>.",
                 "flavor_text": "The horde of chess pieces rally here \nfor their assault on the central valley.",
                 "victory": "",
                 "illustration": "./images/Environment - Domen Kozelj 1.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "connection": "doubleslash",
+                "connection": "equals",
                 "connections": [
                     "triangle",
-                    "slash",
-                    "t",
-                    "none",
-                    "none",
-                    "none"
+                    "squiggle_alt",
+                    "t"
                 ],
                 "illustrator": "Illus. Domen Kozelj"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Domen Kozelj",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n",
                 "flavor_text": "The path up the north side of Tweedledee's hill is swarming with chess pieces determined to join battle.\nYou may not be able to get back down the way you came.",
                 "connection": "<copy>",
@@ -6301,7 +6338,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n<reaction> After a <t>Chess</t> enemy is defeated at <name>: This location gets \u20133 shroud until the end of the round (group limit once per round).",
                 "flavor_text": "The chess pieces mustered here seem particularly tense.\nIt might be easy getting them to panic.",
                 "victory": "",
@@ -6312,20 +6349,16 @@
                 "connections": [
                     "square",
                     "t",
-                    "slash",
-                    "none",
-                    "none",
-                    "none"
+                    "squiggle_alt"
                 ],
                 "illustrator": "Illus. Alex van der Linde"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Alex van der Linde",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. ",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n",
                 "flavor_text": "The path up the south side of Tweedledum's hill is overflowing with cards rushing down to the valley.\nYou may not be able to get back down the way you came.",
                 "connection": "<copy>",
@@ -6341,7 +6374,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\nWhile there are more damage tokens on the scenario card than horror tokens, <name> gets +2 shroud.",
                 "flavor_text": "The cards here bolster their forces to make up for any shortcomings on other parts of the battlefield.",
                 "victory": "",
@@ -6349,27 +6382,27 @@
                 "clues": "1<per>",
                 "shroud": "2",
                 "connection": "cross",
+                "illustrator": "Illus. Alex van der Linde",
                 "connections": [
                     "square",
                     "t",
-                    "slash",
-                    "none",
-                    "none",
-                    "none"
-                ],
-                "illustrator": "Illus. Alex van der Linde"
+                    "squiggle_alt"
+                ]
             },
             "back": {
                 "type": "location_back",
                 "illustration": "./images/Environment - Domen Kozelj 2.jpg",
                 "illustrator": "Illus. Alex van der Linde",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n",
                 "flavor_text": "The path up the south side of Tweedledum's hill is overflowing with cards rushing down to the valley.\nYou may not be able to get back down the way you came.",
-                "connection": "<copy>",
-                "connections": "<copy>"
+                "connection": "cross",
+                "connections": [
+                    "square",
+                    "t"
+                ]
             },
             "encounter_number": "14",
             "expansion_number": "161",
@@ -6392,18 +6425,14 @@
                 "connections": [
                     "triangle",
                     "cross",
-                    "doubleslash",
-                    "none",
-                    "none",
-                    "none"
+                    "equals"
                 ],
                 "illustrator": "Illus. Jose Vega"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Jose Vega",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Slope.",
                 "text": "\n",
@@ -6421,7 +6450,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\nWhile there are more horror tokens on the scenario card than damage tokens, <name> gets +2 shroud.",
                 "flavor_text": "The chess pieces here have a more fortified position to balance any losses suffered across the valley.",
                 "victory": "",
@@ -6432,20 +6461,16 @@
                 "connections": [
                     "triangle",
                     "cross",
-                    "doubleslash",
-                    "none",
-                    "none",
-                    "none"
+                    "equals"
                 ],
                 "illustrator": "Illus. Jose Vega"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Jose Vega",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n",
                 "flavor_text": "The path up the south side of Tweedledee's hill is practically bursting with chess pieces, all eager to fight.\nYou may not be able to get back down the way you came.",
                 "connection": "<copy>",
@@ -6457,22 +6482,20 @@
             "id": "1d7a9d39-cd96-44bb-8770-75ac5def1d89"
         },
         {
-            "name": "Monstrous Crow",
+            "name": "Monstr\u00f6se Kr\u00e4he",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Horrific Harbinger",
-                "traits": "Wonderland. Monster. Shadow. Elite.",
-                "text": "<for> At the end of the enemy phase, <name> attacks each investigator in player order, regardless of location. Investigators as a group may spend 1 clue to cancel an attack made against any investigator.\n",
-                "health": "-",
-                "evade": "-",
-                "attack": "-",
+                "subtitle": "Schauriger Vorbote",
+                "traits": "Wunderland. Monster. Schatten. Elite.",
+                "text": "<for> Am Ende der Gegnerphase: <name> greift jeden Ermittler in Spielerreihenfolge an, unabh\u00e4ngig von seinem aktuellen Ort. Ermittler d\u00fcrfen als Gruppe 1 oder mehr Hinweis ausgeben, um entsprechend viele einzelne Angriff aufzuheben.",
                 "damage": 0,
                 "horror": 1,
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Crow - Anastasia Matveeva.png",
-                "illustrator": "Illus. Anastasia Matveeva"
+                "illustrator": "Illus. Anastasia Matveeva",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -6489,7 +6512,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Zankhafter Zwilling",
                 "traits": "Wunderland. Humanoid.",
-                "text": "\n<action>: Deal 3 damage to <name>. Any investigator at <name>'s location may activate this ability. This action does not provoke attacks of opportunity.\n<for> If there is 1<per> horror on <name>: Flip <name> and move him to the victory display.\n<for> If <name> is defeated by damage: (<res>2</res>).",
+                "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1 <per> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Spiegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <b>(<resolution>A2)</b>.\n\nVictory 0 (need to move this to the field)",
                 "cost": "<dash>",
                 "health": "3",
                 "sanity": "-",
@@ -6502,16 +6525,17 @@
                 "illustration_scale": 1.12,
                 "classes": [
                     "story"
-                ]
+                ],
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "asset",
                 "illustration": "./images/Tweedledum Tweedledee - Lisa Falkenstern.jpg",
                 "illustrator": "Illus. Lisa Falkenstern",
-                "name": "<name>",
+                "name": "<unique><name>",
                 "subtitle": "Be\u00e4ngstigter Bruder",
                 "traits": "Wunderland. Humanoid.",
-                "text": "\n",
+                "text": "Victory 2 (need to move this to the field)",
                 "flavor_text": "Die Riesenkr\u00e4he flog herzu,\nSo schwarz wie Pech im Fasse;\nDas Heldenpaar gab sogleich Ruh,\nEntsagend allem Hasse.",
                 "victory": "Victory 2.",
                 "title": "<unique> <name>",
@@ -6538,7 +6562,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Zankhafter Zwilling",
                 "traits": "Wunderland. Humanoid.",
-                "text": "\n<action>: Deal 3 damage to <name>. Any investigator at <name>'s location may activate this ability. This action does not provoke attacks of opportunity.\n<for> If there is 1<per> horror on <name>: Flip <name> and move him to the victory display.\n<for> If <name> is defeated by damage: (<res>2</res>).",
+                "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1 <per> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Spiegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <b>(<resolution>A2)</b>.\n\nVictory 0 (need to move this to the field)",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "Victory 0.",
@@ -6551,16 +6575,17 @@
                 "illustration_scale": 1.12,
                 "classes": [
                     "story"
-                ]
+                ],
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "asset",
                 "illustration": "./images/0_Tweedledum Tweedledee - Lisa Falkenstern.jpg",
                 "illustrator": "Illus. Lisa Falkenstern",
-                "name": "<name>",
+                "name": "<unique><name>",
                 "subtitle": "Be\u00e4ngstigter Bruder",
                 "traits": "Wunderland. Humanoid.",
-                "text": "\n",
+                "text": "Victory 2 (need to move this to the field)",
                 "flavor_text": "Die Riesenkr\u00e4he flog herzu,\nSo schwarz wie Pech im Fasse;\nDas Heldenpaar gab sogleich Ruh,\nEntsagend allem Hasse.",
                 "victory": "Victory 2.",
                 "title": "<unique> <name>",
@@ -6581,11 +6606,11 @@
             "id": "c2e82513-32ec-4763-b994-4ca6929d4086"
         },
         {
-            "name": "Caught in the Fray",
+            "name": "Mitten im Get\u00fcmmel",
             "front": {
                 "type": "treachery",
-                "traits": "Blunder.",
-                "text": "\n<rev> Test <willpower> or <agility> (5). For each point you fail by, discard the top card of the encounter deck. For each <t>Card</t> enemy discarded, take 1\u00a0damage and lose 1 resource. For each <t>Chess</t> enemy discarded, take 1 horror and discard a card from your hand at random.",
+                "traits": "Patzer.",
+                "text": "<rev> Lege eine <willpower>- oder <agility>-Probe (5) ab. F\u00fcr jeden Punkt, um den die Probe misslingt, lege die oberste Karte des Begegnunsdecks ab. F\u00fcr jeden so abgelegten  <t>Karte</t>-Gegner, nimm 1 Schaden und verliere 1 Ressource. F\u00fcr jeden so abgelegten  <t>Schach</t>-Gegner, nimm 1 Horror und lege 1 zuf\u00e4llige Karte von deiner Hand ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Red Scott.jpg",
@@ -6597,15 +6622,16 @@
             "encounter_number": "20-22",
             "expansion_number": "167",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
-            "id": "0805c765-e9a0-4c23-8e89-36e01c3d0a39"
+            "id": "0805c765-e9a0-4c23-8e89-36e01c3d0a39",
+            "amount": 3
         },
         {
-            "name": "Dark Interference",
+            "name": "Dunkle Einfl\u00fcsse",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme. Shadow.",
-                "text": "Peril.\n<rev> Search the encounter deck for a <t>Soldier</t> enemy. You must either (choose one):\n<bullet> Spawn that enemy at a <t>Slope</t> location (empty if \n possible) with 1 doom on it.\n<bullet> Discard that enemy, then take 1 damage and 1 horror.\nAfter resolving this effect, shuffle the encounter deck.",
-                "flavor_text": "The shadows are getting tired of lurking.",
+                "traits": "Komplott. Schatten.",
+                "text": "Wagnis.\n<rev> Durchsuche das Begegnungsdeck nach einem <t>Soldat</t>-Gegner. Du musst entweder (w\u00e4hle eins):\n<bullet> Jener Gegner erscheint an einem (falls m\u00f6glich leeren)   <t>Steigung</t>-Ort. Platziere 1 Verderbensmarker auf ihm.\n<bullet> Lege diesen Gegner ab. Nimm dann 1 Schaden und 1 Horror.\nMische das Begegnungsdeck.",
+                "flavor_text": "Die Schatten sind es leid, nur zu lauern.",
                 "victory": "",
                 "illustration": "./images/Shadows - Unknown 1.jpg",
                 "illustrator": "Illus. Unknown"
@@ -6619,11 +6645,11 @@
             "id": "a77d8569-2a92-469c-8ac8-700d9e4f3c5a"
         },
         {
-            "name": "Gaining Ground",
+            "name": "An Boden gewinnen",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme.",
-                "text": "\n<rev> Resolve whichever is true:\n<bullet> If there is more damage on Tweedledum than on Tweedledee:\n Place 1 damage on the scenario card, then take 1 damage.\n<bullet> If there is more damage on Tweedledee than on Tweedledum:\n Place 1 horror on the scenario card, then take 1 horror.\n<bullet> If there is an equal amount of damage on both Tweedledum\n and Tweedledee: Place 1 damage and 1 horror on the scenario\n card, then take 1 damage and 1 horror.",
+                "traits": "Komplott.",
+                "text": "<rev> Falls sich mehr Schaden auf Dideldum als auf Dideldei befindet, platziere 1 Schaden auf der Szenario\u00fcbersichtskarte und nimm 1 Schaden.\nAnsonsten, falls sich mehr Schaden auf Dideldei als auf Dideldum befindet, platziere 1 Horror auf der Szenario\u00fcbersichtskarte und nimm 1 Horror.\nAnsonsten, platziere 1 Schaden und 1 Horror auf der Szenario\u00fcbersichtskarte und nimm 1 Schaden und 1 Horror.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Tweedledum Tweedledee - Brian Partridge.jpg",
@@ -6635,33 +6661,15 @@
             "encounter_number": "28-30",
             "expansion_number": "170",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
-            "id": "eebb4081-2c56-4fcf-8743-768c89fec56b"
+            "id": "eebb4081-2c56-4fcf-8743-768c89fec56b",
+            "amount": 3
         },
         {
-            "name": "Gaining Ground",
+            "name": "Umk\u00e4mpftes Gebiet",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme.",
-                "text": "\n<rev> Resolve whichever is true:\n<bullet> If there is more damage on Tweedledum than on Tweedledee:\n Place 1 damage on the scenario card, then take 1 damage.\n<bullet> If there is more damage on Tweedledee than on Tweedledum:\n Place 1 horror on the scenario card, then take 1 horror.\n<bullet> If there is an equal amount of damage on both Tweedledum\n and Tweedledee: Place 1 damage and 1 horror on the scenario\n card, then take 1 damage and 1 horror.",
-                "flavor_text": "",
-                "victory": "",
-                "illustration": "./images/Tweedledum Tweedledee - Brian Partridge.jpg",
-                "illustrator": "Illus. Brian Partridge"
-            },
-            "back": {
-                "type": "encounter"
-            },
-            "encounter_number": "28-30",
-            "expansion_number": "170",
-            "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
-            "id": "c8ce2590-3beb-4896-9544-58bed9d0bfc2"
-        },
-        {
-            "name": "Contested Area",
-            "front": {
-                "type": "treachery",
-                "traits": "Scheme.",
-                "text": "\n<rev> Attach <name> to your location.\n<for> When an enemy would spawn at or enter the attached location: Place 1 doom on that enemy.\n<action>: Test <intellect> or <combat> (4). If you succeed, discard <name>.",
+                "traits": "Komplott.",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Sobald ein Gegner an diesem Ort erscheint oder diesen Ort betritt: Platziere 1 Verderbensmarker auf ihm.\n<action>: Lege eine <intellect>- oder <combat>-Probe (4) ab. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Aneikhaar.jpg",
@@ -6673,14 +6681,15 @@
             "encounter_number": "23-25",
             "expansion_number": "168",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
-            "id": "f0c3bce8-81c8-4515-a9ad-e12f59260d50"
+            "id": "f0c3bce8-81c8-4515-a9ad-e12f59260d50",
+            "amount": 3
         },
         {
-            "name": "Priority Target",
+            "name": "Vorrangiges Ziel",
             "front": {
                 "type": "treachery",
-                "traits": "Scheme.",
-                "text": "Peril.\n<rev> If there are no <t>Soldier</t> enemies in play, <name> gains surge. Otherwise, attach <name> to a <t>Soldier</t> enemy in\u00a0play.\nThe attached enemy gets +1 fight, +1 evade, +2\u00a0health, and gains the <t>Elite</t> trait.",
+                "traits": "Komplott.",
+                "text": "Wagnis.\n<rev> H\u00e4nge <name> an <t>Soldaten</t>-Gegner an. Falls sich keine <t>Soldat</t>-Gegner im Spiel befinden, erh\u00e4lt <name> nachr\u00fcsten.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +2 Ausdauern, +1 Entkommen, und erh\u00e4lt <t>Elite</t>.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Card Guards - Mary Blair.jpg",
@@ -6692,7 +6701,8 @@
             "encounter_number": "31-32",
             "expansion_number": "171",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
-            "id": "1de59f84-c9e6-47bd-9bd1-be9f6542a0ae"
+            "id": "1de59f84-c9e6-47bd-9bd1-be9f6542a0ae",
+            "amount": 2
         },
         {
             "name": "Across the Board",
@@ -8851,7 +8861,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Macht. Schatten.",
-                "text": "<rev> H\u00e4nge <name> an deinen Ort an.\nDer Ort mit dieser Verst\u00e4rkung bekommt +1 Schleier. <t>Schatten</t>-Gegner an diesem Ort bekommen +1 Kampf und +1 Horror.\n<act><act>: Lege <name> ab..",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\nDer Ort mit dieser Verst\u00e4rkung bekommt +1 Schleier. <t>Schatten</t>-Gegner an diesem Ort bekommen +1 Kampf und +1 Horror.\n<act><act>: Lege <name> ab..",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Shadows - Jethro Lentle.jpg",
@@ -9078,7 +9088,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> H\u00e4nge <name> an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen: Lege eine <agi>-Probe (X) ab, wobei X die Anzahl der Orte ist, die mit diesem Ort verbunden sind. Falls die Probe misslingt, hebe die Effekte der Bewegung auf.\n<act><act>: Lege <name> ab.",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen: Lege eine <agi>-Probe (X) ab, wobei X die Anzahl der Orte ist, die mit diesem Ort verbunden sind. Falls die Probe misslingt, hebe die Effekte der Bewegung auf.\n<act><act>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Evenvita.jpg",
@@ -9673,19 +9683,46 @@
             "name": "Geweech",
             "expansion_number": "122",
             "encounter_number": "9"
+        },
+        {
+            "name": "Tweedles' Rattle",
+            "id": "f19d49af-7b5c-4f3c-97a2-e74dee177474",
+            "amount": 3,
+            "front": {
+                "type": "asset",
+                "name": "<unique><name>",
+                "classes": [
+                    "story"
+                ],
+                "subtitle": "Nullifying Noisemaker",
+                "icons": "WAQ",
+                "slots": [
+                    "accessory"
+                ],
+                "cost": "2",
+                "level": "None",
+                "traits": "Wonderland. Item. Blessed?",
+                "text": "<act> Exhaust <fullname>: <b>Investigate</b>. Ignore all effects that increase your location's shroud for this test.\n<vs>\n<act> Exhaust <fullname>: <b>Evade</b>. If your target has the <t> Monster, Abomination,</t> or <t>Shadow</t> traits, you get +2 <agi> for this test.",
+                "flavor_text": "As good as new."
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
+            "encounter_number": "33",
+            "expansion_number": "172"
         }
     ],
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "38734b3a-623c-4b75-9d9a-755f1262d539",
-            "59a215b1-e318-47d3-bb43-6db244e82c7a"
+            "38734b3a-623c-4b75-9d9a-755f1262d539"
         ]
     },
     "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
     "guides": [
         {
-            "path": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/guide.html",
+            "path": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/guide.html",
             "name": "Guide",
             "id": "57df5c6d-4c0f-4d96-a5e6-2f162ccfedd5"
         }
