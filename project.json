@@ -348,6 +348,13 @@
             }
         },
         {
+            "name": "Narrenmatt",
+            "icon": "./images/Fools Mate.png",
+            "id": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
+            "card_amount": 26,
+            "order": 7
+        },
+        {
             "name": "Das Walross und der Zimmermann",
             "icon": "./images/Walrus and Carpenter.png",
             "id": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
@@ -383,6 +390,13 @@
             "order": 9
         },
         {
+            "name": "Schachfiguren",
+            "icon": "./images/Chessmen.png",
+            "id": "d175b267-1201-488c-8324-53645458b02c",
+            "card_amount": 6,
+            "order": 9
+        },
+        {
             "name": "Schebberoch",
             "icon": "./images/Jabberwock.png",
             "id": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
@@ -401,18 +415,6 @@
             "icon": "./images/Alice in Arkham.png",
             "id": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "card_amount": 34
-        },
-        {
-            "name": "Chessmen.png",
-            "icon": "./images/Chessmen.png",
-            "id": "d175b267-1201-488c-8324-53645458b02c",
-            "card_amount": 6
-        },
-        {
-            "name": "Fools Mate.png",
-            "icon": "./images/Fools Mate.png",
-            "id": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
-            "card_amount": 26
         },
         {
             "name": "Waking Nightmare.png",
@@ -5929,20 +5931,20 @@
             "id": "54b853aa-3b35-461f-85aa-ab99740708a2"
         },
         {
-            "name": "Thinning the Ranks",
+            "name": "Die Truppen ausd\u00fcnnen",
             "front": {
                 "type": "act",
-                "text": "<obj> If there are no enemies in play, advance.",
-                "flavor_text": "To end the pointless war between Tweedledum and Tweedledee and get that rattle, you're going to have to be creative, especially if you don't want to just kill one of them. Unfortunately, the massive amounts of cards and chess pieces recruited by the Tweedles are bogging down any plans you've devised.",
+                "text": "<obj> Falls sich keine Gegner im Spiel befinden, r\u00fccke vor.",
+                "flavor_text": "Um den sinnlosen Krieg zwischen Dideldei und Dideldum zu beenden und an die Rassel zu kommen, musst du kreativ sein, vor allem, wenn du nicht einfach einen von ihnen t\u00f6ten willst. Leider machen die Unmengen an Karten und Schachfiguren, die die Br\u00fcder rekrutiert haben, alle deine Pl\u00e4ne zunichte.",
                 "illustration": "./images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
                 "index": "1a",
                 "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez"
             },
             "back": {
                 "type": "act_back",
-                "name": "Need-to-Know Basis",
+                "name": "Kenntnis nur, wenn n\u00f6tig",
                 "victory": "",
-                "text": "\n<blockquote>The twins' armies are almost as evenly matched as they themselves are. Every soldier of theirs that you cut down swings the balance of the battle in the favor of the other. However, with fewer soldiers blocking your movements, you can focus on figuring out how to bring an end to the\u00a0battle.</blockquote>\n\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "flavor_text": "Die Armeen der Zwillinge sind fast so ebenb\u00fcrtig wie sie selbst. Jeder Soldat, den du niederschl\u00e4gst, verschiebt das Gleichgewicht der Schlacht zugunsten des anderen. Da dir jedoch weniger Soldaten im Weg stehen, kannst du dich darauf konzentrieren, einen Weg zu finden, um die Schlacht zu beenden."
             },
             "encounter_number": "3",
             "expansion_number": "150",
@@ -5964,7 +5966,7 @@
                 "type": "act_back",
                 "name": "Ein Pfund Federn",
                 "victory": "",
-                "text": "Bringe den beiseitegelegten Gegner Monstr\u00f6se Kr\u00e4he neben der aktuellen Agenda ins Spiel.",
+                "text": "Bringe den beiseitegelegten Gegner Monstr\u00f6se Kr\u00e4he neben dem Agendadeck ins Spiel.",
                 "flavor_text": "Zun\u00e4chst scheint es unm\u00f6glich, die Schatten auf einen bestimmten Teil des Schlachtfeldes zu lenken. Auf dem absch\u00fcssigen Gel\u00e4nde rund um das Schlachtfeld findest du jedoch mehrere heruntergefallene Kr\u00e4henfedern, welche die Schatten anzuziehen scheinen. Du sammelst so viele du finden kannst und bringst sie ins die zentrale Senke. Innerhalb weniger Minuten beginnt sich Dunkelheit um das Federb\u00fcndel zu sammeln und zu einer riesigen Gestalt auszudehnen. Du trittst mehrere Schritte zur\u00fcck und h\u00e4ltst dir die Ohren zu, als das unheimliches Kr\u00e4chzen einer unnat\u00fcrlichen Kr\u00e4he aus der wachsenden Dunkelheit ert\u00f6nt. Dideldei und Dideldum h\u00f6ren auf, Befehle zu ihren Untergebenen zu br\u00fcllen, und stehen vor Ehrfurcht erstarrte da, w\u00e4hrend die schattenhafte Kr\u00e4he Gestalt annimmt."
             },
             "encounter_number": "4",
@@ -5973,20 +5975,21 @@
             "id": "6d466511-c49a-49f7-8f35-ddb99d548313"
         },
         {
-            "name": "As the Crow Flies",
+            "name": "Die Kr\u00e4he ist's!",
             "front": {
                 "type": "act",
-                "text": "<action> If you are at the same location as Tweedledum or Tweedledee: <b>Parley</b>. Test <willpower> or <intellect> (4). If you succeed, place 1 horror on an uncontrolled story asset at your location.\n<obj> If Tweedledum <i>(Terrified Twin)</i> and Tweedledee <i>(Terrified Twin)</i>\nare both in the victory display,\nadvance.",
-                "flavor_text": "The Tweedles are already panicking, but still attempting to marshal their troops into action. With the shadowy crow bearing down on the battlefield, you have the tool you need to scare some sense into the twins.",
+                "text": "Dideldei und Dideldum erhalten: \u201e<action>: <b>Verhandlung</b>. Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, platziere 1 Horror auf dieser Vorteilskarte.\u201d\n<obj> Falls sich Dideldei <i>(Be\u00e4ngstigter Bruder)</i> und Dideldum <i>(Be\u00e4ngstigter Bruder)</i> im Siegpunktestapel befinden, r\u00fccke vor.",
+                "flavor_text": "Die Br\u00fcder geraten bereits in Panik, versuchen aber dennoch, ihre Truppen zum Gefecht zu bewegen. Mit der dunklen Kr\u00e4he, die sich \u00fcber das Schlachtfeld hermacht, hast du das n\u00f6tige Werkzeug, um den Zwillingen etwas Vernunft einzubl\u00e4uen.",
                 "illustration": "./images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez"
             },
             "back": {
                 "type": "act_back",
-                "name": "Eating Crow",
+                "name": "Fersengeld",
                 "victory": "",
-                "text": "\n<blockquote>The Tweedles' nerves were failing them at the crow's appearance, but your added fearmongering sends them screaming and scrambling away from the battle. Without their leaders, the cards and chess pieces have no further driving force, and amble away from the valley harmlessly. Satisfied, you grab the last discarded piece of the rattle and turn your attention up to the shadowy crow.</blockquote>\n(<res>5</res>)\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<b>(<resolution>A5)</b>",
+                "flavor_text": "Die Br\u00fcder haben schon angesichts der Kr\u00e4he die Nerven verloren, aber deine zus\u00e4tzliche Panikmache l\u00e4sst sie schreiend und fluchtend aus der Schlacht fliehen. Ohne ihre Anf\u00fchrer haben die Karten und Schachfiguren keine treibende Kraft mehr und schlendern harmlos aus dem Tal davon. Zufrieden schnappst du dir das letzte weggeworfene St\u00fcck der Rassel und richtest deine Aufmerksamkeit auf die schattenhafte Kr\u00e4he."
             },
             "encounter_number": "5",
             "expansion_number": "152",
@@ -6079,7 +6082,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland.",
+                "traits": "Wunderland.",
                 "text": "\n<action> If there are at least 2<per> total tokens on the scenario card: Test <willpower> or <intellect> (4). If you succeed, in your Campaign Log, under \"Fragments of Alice,\" record <i>Reason.</i>",
                 "flavor_text": "The card and chess soldiers clash around you,\n obeying the orders of the twins. If only you could \nconvince them to give up this ridiculous duel.",
                 "victory": "",
@@ -6101,7 +6104,7 @@
                 "illustrator": "Illus. Carmen Thora",
                 "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland.",
+                "traits": "Wunderland.",
                 "text": "\n",
                 "flavor_text": "Fallen logs and tangling weeds collect at the bottom of this small valley. This doesn't seem to deter the cards and chess pieces marching down from the opposing hills.",
                 "connection": "<copy>",
@@ -8685,11 +8688,11 @@
             "amount": 2
         },
         {
-            "name": "Exchange Sacrifice",
+            "name": "Bauernopfer",
             "front": {
                 "type": "treachery",
-                "traits": "Chess. Scheme.",
-                "text": "\n<rev> Put <name> into play next to the agenda.\n<for> After a <t>Chess</t> enemy is defeated or discarded: The investigator that defeated or discarded that enemy takes 1 damage or loses 2\u00a0resources. Then, discard <name>.",
+                "traits": "Schach. Komplott.",
+                "text": "<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Nachdem ein Ermittler einen <t>Schach</t>-Gegner besiegt oder abgelegt hat: Dieser Ermittler nimmt 1 Schaden oder verliert 2 Ressourcen. Lege dann <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Guido Strambio.jpg",
@@ -8701,15 +8704,16 @@
             "encounter_number": "9-10",
             "expansion_number": "277",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
-            "id": "051b8f86-8808-497d-8521-e085c54399eb"
+            "id": "051b8f86-8808-497d-8521-e085c54399eb",
+            "amount": 2
         },
         {
-            "name": "Red Knight",
+            "name": "Roter Springer",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Wonderland. Humanoid. Chess. Soldier.",
+                "traits": "Wunderland. Humanoid. Schach. Soldat.",
                 "text": "Hunter.\n<for> After <name> attacks you: Lose 1 resource (2 resources instead if <name> moved to your location before attacking).",
                 "health": "2",
                 "evade": "4",
@@ -8727,67 +8731,68 @@
             "encounter_number": "2-3",
             "expansion_number": "274",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
-            "id": "12a37190-d8ba-43d4-98ae-4a70c94f379a"
+            "id": "12a37190-d8ba-43d4-98ae-4a70c94f379a",
+            "amount": 2
         },
         {
-            "name": "Red Knight",
+            "name": "Roter Bauer",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wonderland. Humanoid. Chess. Soldier.",
-                "text": "Hunter.\n<for> After <name> attacks you: Lose 1 resource (2 resources instead if <name> moved to your location before attacking).",
-                "health": "2",
-                "evade": "4",
-                "attack": "3",
+                "text": "The first <name> drawn each mythos phase gains surge.",
+                "health": "1",
+                "evade": "2",
+                "attack": "2",
                 "damage": 1,
-                "horror": 1,
                 "flavor_text": "",
                 "victory": "",
-                "illustration": "./images/Red Knight - Lucas Parolin de Souza.jpg",
-                "illustrator": "Illus. Lucas Parolin de Souza"
+                "illustration": "./images/Red Pawn - Carlo Spagnola.jpg",
+                "illustrator": "Illus. Carlo Spagnola"
             },
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "2-3",
-            "expansion_number": "274",
+            "encounter_number": "4-7",
+            "expansion_number": "275",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
-            "id": "7ad9ad84-5098-48f6-905c-0d6b0594e326"
+            "id": "7ad9ad84-5098-48f6-905c-0d6b0594e326",
+            "amount": 4
         },
         {
-            "name": "Red Knight",
+            "name": "Roter L\u00e4ufer",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Wonderland. Humanoid. Chess. Soldier.",
-                "text": "Hunter.\n<for> After <name> attacks you: Lose 1 resource (2 resources instead if <name> moved to your location before attacking).",
-                "health": "2",
-                "evade": "4",
-                "attack": "3",
-                "damage": 1,
-                "horror": 1,
+                "traits": "Wunderland. Humanoid. Schach. Soldat.",
+                "text": "Alert.\nEach other <t>Chess</t> enemy at this location gains Alert.",
+                "health": "3",
+                "evade": "3",
+                "attack": "2",
+                "damage": 0,
+                "horror": 2,
                 "flavor_text": "",
                 "victory": "",
-                "illustration": "./images/Red Knight - Lucas Parolin de Souza.jpg",
-                "illustrator": "Illus. Lucas Parolin de Souza"
+                "illustration": "./images/Red Bishop - Aleksandar Kostic.jpg",
+                "illustrator": "Illus. Aleksandar Kostic"
             },
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "2-3",
-            "expansion_number": "274",
+            "encounter_number": "1",
+            "expansion_number": "273",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
             "id": "6eb7b7ef-d1df-47e4-a67e-8f35c5808c92"
         },
         {
-            "name": "Red Rook",
+            "name": "Roter Turm",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Wonderland. Humanoid. Chess. Soldier.",
+                "traits": "Wunderland. Humanoid. Schach. Soldat.",
                 "text": "Retaliate.\nEach other <t>Chess</t> enemy at this location gains Retaliate.",
                 "health": "4",
                 "evade": "2",
@@ -8808,11 +8813,11 @@
             "id": "c96f66fd-8bbb-456f-b136-d521caf74898"
         },
         {
-            "name": "Threatened Position",
+            "name": "Gef\u00e4hrdete Stellung",
             "front": {
                 "type": "treachery",
-                "traits": "Chess. Scheme.",
-                "text": "\n<rev> Put <name> into play in your threat area.\nWhile there is a <t>Chess</t> enemy at your location, you get \u20132 to all skills during skill tests except during fight or evade attempts.\n<action> <action>: Discard <name>.",
+                "traits": "Schach. Komplott.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange sich ein <t>Schach</t>-Gegner an deinem Ort befindet, bekommst du \u20132 to auf alle Fertigkeiten, au\u00dfer w\u00e4hrend Kampf und Entkommen.\n<action> <action>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Ruslan Grechka.jpg",
@@ -8824,7 +8829,8 @@
             "encounter_number": "11-12",
             "expansion_number": "278",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
-            "id": "0eb3950b-c9a7-4869-b658-dde882bd59f0"
+            "id": "0eb3950b-c9a7-4869-b658-dde882bd59f0",
+            "amount": 2
         },
         {
             "name": "Lebendiger Schatten",
@@ -9716,7 +9722,9 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "38734b3a-623c-4b75-9d9a-755f1262d539"
+            "38734b3a-623c-4b75-9d9a-755f1262d539",
+            "457724c0-e519-48e4-8ba1-21c94ca24267",
+            "0eb3950b-c9a7-4869-b658-dde882bd59f0"
         ]
     },
     "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
