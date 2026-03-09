@@ -6404,7 +6404,8 @@
                 "connection": "cross",
                 "connections": [
                     "square",
-                    "t"
+                    "t",
+                    "slash"
                 ]
             },
             "encounter_number": "14",
@@ -6417,9 +6418,9 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "<reaction> Nachdem du einen <t>Karte</t>-Gegner an diesem Ort besiegt hast: Dieser Ort bekommt bis zum Ende der Runde \u20133 Schleier. (Nur ein Mal pro Runde f\u00fcr die gesamte Gruppe.)",
-                "flavor_text": "The cards assaulting this slope aren't very cohesive.\nIt might be easier than you expected to drop their guard.",
+                "flavor_text": "Die Karten, die diesen Hang angreifen, bilden keine geschlossene Einheit. Es k\u00f6nnte einfacher sein als erwartet, ihre Deckung zu durchbrechen.",
                 "victory": "",
                 "illustration": "./images/Environment - Jose Vega 1.jpg",
                 "clues": "1<per>",
@@ -6437,9 +6438,9 @@
                 "illustrator": "Illus. Jose Vega",
                 "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Slope.",
+                "traits": "Wunderland. Steigung.",
                 "text": "\n",
-                "flavor_text": "The path up the south side of Tweedledee's hill is practically bursting with chess pieces, all eager to fight.\nYou may not be able to get back down the way you came.",
+                "flavor_text": "Der Weg auf der S\u00fcdseite von Dideldeis H\u00fcgel ist buchst\u00e4blich \u00fcbers\u00e4t mit Schachfiguren, die alle drauf aus sind, zu k\u00e4mpfen.  Du musst dir vielleicht einen anderen R\u00fcckweg suchen.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -6455,7 +6456,7 @@
                 "subtitle": "",
                 "traits": "Wunderland. Steigung.",
                 "text": "Falls sich auf der Szenario\u00fcbersichtskarte mehr Horror als Schaden befindet, bekommt dieser Ort +2 Schleier.",
-                "flavor_text": "The chess pieces here have a more fortified position to balance any losses suffered across the valley.",
+                "flavor_text": "Die Schachfiguren auf dieser Seite haben eine befestigte Position, mit der sie Verluste auf der anderen Seite des Tals ausgleichen.",
                 "victory": "",
                 "illustration": "./images/Environment - Jose Vega 1.jpg",
                 "clues": "1<per>",
@@ -6475,9 +6476,13 @@
                 "subtitle": "",
                 "traits": "Wunderland. Steigung.",
                 "text": "\n",
-                "flavor_text": "The path up the south side of Tweedledee's hill is practically bursting with chess pieces, all eager to fight.\nYou may not be able to get back down the way you came.",
+                "flavor_text": "Der Weg auf der S\u00fcdseite von Dideldeis H\u00fcgel ist buchst\u00e4blich \u00fcbers\u00e4t mit Schachfiguren, die alle drauf aus sind, zu k\u00e4mpfen.  Du musst dir vielleicht einen anderen R\u00fcckweg suchen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "triangle",
+                    "cross",
+                    "double_slash"
+                ]
             },
             "encounter_number": "16",
             "expansion_number": "163",
@@ -6708,11 +6713,11 @@
             "amount": 2
         },
         {
-            "name": "Across the Board",
+            "name": "\u00dcber das Brett",
             "front": {
                 "type": "act",
                 "text": "<action>: Move an unengaged <t>Chess</t> enemy according to its movement rules in the campaign guide.\n<obj> When an investigator enters the Eighth Row, advance.",
-                "flavor_text": "You can barely make out the silhouette of the Red King's castle amid the darkened clouds ahead of you. It will be quite an ordeal to make it across the ruined half of the chess board fields.\n<vs>",
+                "flavor_text": "You can barely make out the silhouette of the Red King's castle amid the darkened clouds ahead of you. It will be quite an ordeal to make it across the ruined half of the chess board fields.",
                 "illustration": "./images/Chess - WasteofRAM.png",
                 "clues": "-",
                 "index": "1a",
@@ -6720,9 +6725,10 @@
             },
             "back": {
                 "type": "act_back",
-                "name": "King's Castle",
+                "name": "Rochade",
                 "victory": "",
-                "text": "\n<blockquote>Through the swirling darkness, you charge up the steps of the red castle and burst through the towering double doors. The Red King sits at the opposite end of a grand hall, seated languidly in a grand skeletal throne. He does not make any motion as you enter, though the shadows leaking out of his hooded cloak begin to pour with increasing volume.</blockquote>\nCheck the Campaign Log. If <i>the investigators went through the looking-glass,</i> spawn the set-aside The Red King <i>(Obscure Overlord)</i> at Eighth Row. Otherwise, spawn the set-aside The Red King <i>(Tenebrous Tyrant)</i> at Eighth Row.\nIf The Red Queen is not in play or in the victory display, spawn her at Eighth Row.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "Check the Campaign Log. If <i>the investigators went through the looking-glass,</i> spawn the set-aside The Red King <i>(Obscure Overlord)</i> at Eighth Row. Otherwise, spawn the set-aside The Red King <i>(Tenebrous Tyrant)</i> at Eighth Row.\nIf The Red Queen is not in play or in the victory display, spawn her at Eighth Row.",
+                "flavor_text": "Through the swirling darkness, you charge up the steps of the red castle and burst through the towering double doors. The Red King sits at the opposite end of a grand hall, seated languidly in a grand skeletal throne. He does not make any motion as you enter, though the shadows leaking out of his hooded cloak begin to pour with increasing volume."
             },
             "encounter_number": "5",
             "expansion_number": "177",
@@ -6730,7 +6736,7 @@
             "id": "1166ca02-0fd6-449c-960a-b6d78016e074"
         },
         {
-            "name": "Absolute Pin",
+            "name": "Echte Fesselung",
             "front": {
                 "type": "act",
                 "text": "<action>: Move an unengaged <t>Chess</t> enemy according to its movement rules in the campaign guide.\n<obj> If The Red King is defeated, advance.",
@@ -6742,9 +6748,10 @@
             },
             "back": {
                 "type": "act_back",
-                "name": "Pawn Takes King",
+                "name": "Bauer schl\u00e4gt K\u00f6nig",
                 "victory": "",
-                "text": "\n<blockquote>You strike the Red King with every bit of courage you can muster, and all at once, the red pieces freeze and the shadows' advance halts. The entire area seems suspended in time for a moment before the king slips down out of his throne and splays on the floor before you.</blockquote>\n(<res>2).\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "<b>(<resolution>A2).</b>",
+                "flavor_text": "You strike the Red King with every bit of courage you can muster, and all at once, the red pieces freeze and the shadows' advance halts. The entire area seems suspended in time for a moment before the king slips down out of his throne and splays on the floor before you."
             },
             "encounter_number": "6",
             "expansion_number": "178",
@@ -6752,10 +6759,10 @@
             "id": "c83dc8b7-fd9e-46b2-9189-dc9dcc2c1b60"
         },
         {
-            "name": "Opening Strategy",
+            "name": "Er\u00f6ffnung",
             "front": {
                 "type": "agenda",
-                "text": "<t>Chess</t> enemies gain hunter and \"<spawn> Seventh Row or Eighth Row.\"\n<for> When a <t>Chess</t> enemy would resolve the hunter keyword, consult the Chess Movement section in the campaign guide.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und \u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t> -Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
                 "flavor_text": "Your arrival on the front lines spurs movement from the far side of the board. If any truce was maintained until now, the time for it has passed.",
                 "illustration": "./images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "4",
@@ -6764,9 +6771,10 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Blitz Chess",
+                "name": "Blitzschach",
                 "victory": "",
-                "text": "\n<blockquote>Your preparations to cross the center line have been carefully observed. The red pieces storm out from the darkened castle. You have noticed from the first attackers that the pieces still somehow obey what you would consider normal chess rules. Is the Red King still guiding their movements? Or is it such a core part of the pieces that they move instinctively?</blockquote>\nSearch the encounter deck and discard pile for a King's Shadow and spawn it at the lead investigator's location. Shuffle the encounter deck if it was searched.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "\n<blockquote>Your preparations to cross the center line have been carefully observed. The red pieces storm out from the darkened castle. You have noticed from the first attackers that the pieces still somehow obey what you would consider normal chess rules. Is the Red King still guiding their movements? Or is it such a core part of the pieces that they move instinctively?</blockquote>\nSearch the encounter deck and discard pile for a King's Shadow and spawn it at the lead investigator's location. Shuffle the encounter deck if it was searched.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n",
+                "index": "1b"
             },
             "encounter_number": "2",
             "expansion_number": "174",
@@ -6774,10 +6782,10 @@
             "id": "1dbfe098-396a-4389-81d4-f09e28a5f82e"
         },
         {
-            "name": "Countergambit",
+            "name": "Gegengambit",
             "front": {
                 "type": "agenda",
-                "text": "<t>Chess</t> enemies gain hunter and \"<spawn> Seventh Row or Eighth Row.\"\n<for> When a <t>Chess</t> enemy would resolve the hunter keyword, consult the Chess Movement section in the campaign guide.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und \u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t> -Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
                 "flavor_text": "The battle on the chess fields continues with increasing fervor. Red pieces flow out from the darkened half of the board with surprising speed to meet your approach.",
                 "illustration": "./images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "4",
@@ -6788,7 +6796,8 @@
                 "type": "agenda_back",
                 "name": "Gardez la Reine",
                 "victory": "",
-                "text": "\n<blockquote>The red pieces pause their fighting to bow and kneel as an imposing figure emerges from the shadowy veil. The Red Queen, her face somehow both hard and soft at once, gazes hatefully across the fields at you as power swells within her. Shadows pour from her robes, and she begins to mutate further. \"Strike down the invaders!\" she bellows, racing toward you with tremendous speed.</blockquote>\nIf The Red Queen is not in play or in the victory display, spawn her at Eighth Row.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "If The Red Queen is not in play or in the victory display, spawn her at Eighth Row.",
+                "flavor_text": "The red pieces pause their fighting to bow and kneel as an imposing figure emerges from the shadowy veil. The Red Queen, her face somehow both hard and soft at once, gazes hatefully across the fields at you as power swells within her. Shadows pour from her robes, and she begins to mutate further. \"Strike down the invaders!\" she bellows, racing toward you with tremendous speed."
             },
             "encounter_number": "3",
             "expansion_number": "175",
@@ -6796,10 +6805,10 @@
             "id": "9e65dc49-9870-4c50-a92d-65bc64d34520"
         },
         {
-            "name": "File Occupation",
+            "name": "Besetzte Linien",
             "front": {
                 "type": "agenda",
-                "text": "<t>Chess</t> enemies gain hunter and \"<spawn> Seventh Row or Eighth Row.\"\n<for> When a <t>Chess</t> enemy would resolve the hunter keyword, consult the Chess Movement section in the campaign guide.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und \u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t> -Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
                 "flavor_text": "As the Red Queen advances upon you, the shadows spread with the speed of a wildfire toward the white castle. Darkness begins to claw at the sky, and each piece of landscape appears like a blackened copy of itself.",
                 "illustration": "./images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "8",
@@ -6808,9 +6817,10 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Domination",
+                "name": "Figurenfang",
                 "victory": "",
-                "text": "\n<blockquote>The red army relentlessly presses back against your charge in a seemingly unending flow of soldiers. As they push back, the amassed shadows sweep past you towards the castle of the white chess pieces and crash against it like a tidal wave. Your fighting for conquest turns to a fight for survival as you flee the battlefield.</blockquote>\nEach undefeated investigator who has not resigned takes\n1\u00a0physical trauma from fighting off the red army.\n(<res>1)\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "\n<blockquote>The red army relentlessly presses back against your charge in a seemingly unending flow of soldiers. As they push back, the amassed shadows sweep past you towards the castle of the white chess pieces and crash against it like a tidal wave. Your fighting for conquest turns to a fight for survival as you flee the battlefield.</blockquote>\nEach undefeated investigator who has not resigned takes\n1\u00a0physical trauma from fighting off the red army.\n(<res>1)\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n",
+                "index": "3b"
             },
             "encounter_number": "4",
             "expansion_number": "176",
@@ -6818,49 +6828,56 @@
             "id": "5fc07e9c-5267-4663-ab56-75802cbdf675"
         },
         {
-            "name": "Fool's Mate",
+            "name": "Narrenmatt",
             "front": {
                 "type": "chaos",
                 "entries": [
                     {
-                        "token": "skull",
+                        "token": [
+                            "skull"
+                        ],
                         "text": "\u2013X. X is the number of <t>Chess</t> enemies in play (to a maximum of\u00a05)."
                     },
                     {
-                        "token": "cultist,tablet",
+                        "token": [
+                            "cultist",
+                            "tablet"
+                        ],
                         "text": "\u20132. If this token is revealed during a fight or evade attempt against a <t>Chess</t> enemy, reveal another token."
                     },
                     {
-                        "token": "tablet",
-                        "text": ""
-                    },
-                    {
-                        "token": "elder_thing",
+                        "token": [
+                            "elder_thing"
+                        ],
                         "text": "\u20131. \u20133 instead if you are at a <t>Shadow</t> location."
                     }
-                ]
+                ],
+                "difficulty": "EINFACH/NORMAL"
             },
             "back": {
-                "type": "chaos_back",
+                "type": "chaos",
                 "entries": [
                     {
-                        "token": "skull",
+                        "token": [
+                            "skull"
+                        ],
                         "text": "\u2013X. X is the number of <t>Chess</t> enemies in play."
                     },
                     {
-                        "token": "cultist,tablet",
+                        "token": [
+                            "cultist",
+                            "tablet"
+                        ],
                         "text": "\u20133. If this token is revealed during a fight or evade attempt against a <t>Chess</t> enemy, reveal another token."
                     },
                     {
-                        "token": "tablet",
-                        "text": ""
-                    },
-                    {
-                        "token": "elder_thing",
+                        "token": [
+                            "elder_thing"
+                        ],
                         "text": "\u20132. \u20134 instead if you are at a <t>Shadow</t> location."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
             "expansion_number": "173",
@@ -6868,7 +6885,7 @@
             "id": "84a2729a-5cb9-469f-ba09-f6d5db479068"
         },
         {
-            "name": "First Row",
+            "name": "Erste Reihe",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -6879,7 +6896,7 @@
                 "illustration": "./images/Castle - Jukeboix.jpg",
                 "clues": "1<per>",
                 "shroud": "2",
-                "connection": "doubleslash",
+                "connection": "double_slash",
                 "connections": [
                     "diamond",
                     "none",
@@ -6892,9 +6909,8 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Jukeboix",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Chess. Row.",
                 "text": "\n",
@@ -6908,7 +6924,7 @@
             "id": "106c6bb6-dc87-4f0d-8a2f-d85aea23718d"
         },
         {
-            "name": "Second Row",
+            "name": "Zweite Reihe",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -6921,20 +6937,15 @@
                 "shroud": "2",
                 "connection": "diamond",
                 "connections": [
-                    "doubleslash",
-                    "triangle",
-                    "none",
-                    "none",
-                    "none",
-                    "none"
+                    "double_slash",
+                    "triangle"
                 ],
                 "illustrator": "Illus. Dinmoney"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Dinmoney",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Chess. Row.",
                 "text": "\n",
@@ -6948,7 +6959,7 @@
             "id": "cec06e0c-e67e-4383-937a-91bfc273e8b6"
         },
         {
-            "name": "Third Row",
+            "name": "Dritte Reihe",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -6974,7 +6985,7 @@
                 "type": "location_back",
                 "illustration": "./images/0_",
                 "illustrator": "Illus. Jonas Zavacky",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Chess. Row.",
                 "text": "\n",
@@ -6988,7 +6999,7 @@
             "id": "c1e61b6f-c7a6-44b8-8230-575c01408e14"
         },
         {
-            "name": "Fourth Row",
+            "name": "Vierte Reihe",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -7012,9 +7023,8 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Chris Drake",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Chess. Row.",
                 "text": "\n",
@@ -7028,7 +7038,7 @@
             "id": "b3486850-b8eb-402a-9b56-0338966d8de5"
         },
         {
-            "name": "Fifth Row",
+            "name": "F\u00fcnfte Reihe",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -7052,9 +7062,8 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Nell Fallcard",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Chess. Row. Shadow.",
                 "text": "\nAs an additional cost to enter <name>, investigators must spend 1<per> clues as a group.",
@@ -7068,7 +7077,7 @@
             "id": "987a32f1-4bfc-4eb0-b934-d81ce01134ed"
         },
         {
-            "name": "Sixth Row",
+            "name": "Sechste Reihe",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -7092,9 +7101,8 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Alex van der Linde",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Chess. Row. Shadow.",
                 "text": "\nAs an additional cost to enter <name>, investigators must spend 1<per> clues as a group.",
@@ -7108,7 +7116,7 @@
             "id": "875c638d-29d7-4048-83fc-3144f794ac7d"
         },
         {
-            "name": "Seventh Row",
+            "name": "Siebte Reihe",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -7132,9 +7140,8 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. James Wolf",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Chess. Row. Shadow.",
                 "text": "\nAs an additional cost to enter <name>, investigators must spend 1<per> clues as a group.",
@@ -7148,7 +7155,7 @@
             "id": "3fec2240-f822-4186-9526-7a6638c7764f"
         },
         {
-            "name": "Eighth Row",
+            "name": "Achte Reihe",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -7172,9 +7179,8 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Stephanie Stutz",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wonderland. Chess. Row. Shadow.",
                 "text": "\nAs an additional cost to enter <name>, investigators must spend 1<per> clues as a group.",
@@ -7188,17 +7194,16 @@
             "id": "48c042c1-97c9-475a-a0a0-1690f498baf5"
         },
         {
-            "name": "Distant Square",
+            "name": "Fernes Feld",
             "front": {
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wonderland. Chess.",
-                "text": "\n<rev> In your Campaign Log, under \u201eFragmente von Alice\u201c record <i>Curiosity.</i>\nInvestigators cannot enter <name>.\n<free> If The White Knight is on <name>, deal 1 horror to him: Ready The White Knight and move him to any revealed location. Investigators at any location may activate this ability.",
+                "text": "<rev> In your Campaign Log, under \u201eFragmente von Alice\u201c record <i>Curiosity.</i>\nInvestigators cannot enter <name>.\n<free> If The White Knight is on <name>, deal 1 horror to him: Ready The White Knight and move him to any revealed location. Investigators at any location may activate this ability.",
                 "flavor_text": "The Cheshire Cat might be offended \nif you mention curiosity killing anything.",
                 "victory": "",
                 "illustration": "./images/Chess - Daniel Rocal.jpg",
                 "clues": "0",
-                "shroud": "10",
                 "connection": "none",
                 "connections": [
                     "none",
@@ -7208,19 +7213,19 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Daniel Rocal"
+                "illustrator": "Illus. Daniel Rocal",
+                "shroud": "10"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Daniel Rocal",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
-                "traits": "Wonderland. Chess.",
-                "text": "\nInvestigators cannot enter <name>.\n<action> Spend 1<per> clues: Reveal <name>. Investigators as a group may activate this ability from any location.",
+                "text": "Investigators cannot enter <name>.\n<action> Spend 1<per> clues: Reveal <name>. Investigators as a group may activate this ability from any location.",
                 "flavor_text": "You can spot chess pieces moving to this square out of the corner of your eye, but it seems a world away.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "traits": "Wonderland. Chess."
             },
             "encounter_number": "15",
             "expansion_number": "187",
@@ -7233,10 +7238,10 @@
                 "type": "treachery",
                 "traits": "Chess. Flaw. Madness.",
                 "text": "Surge.\n<rev> Exhaust The White Knight and move him to Distant Square.",
-                "flavor_text": "\"There he goes! Right on his head as usual!\"",
                 "victory": "",
                 "illustration": "./images/White Knight - Barry Moser 1.jpg",
-                "illustrator": "Illus. Barry Moser"
+                "illustrator": "Illus. Barry Moser",
+                "flavor_text": "\u201eDa f\u00e4llt er schon! Genau auf den Kopf, wie immer!\u201c"
             },
             "back": {
                 "type": "encounter"
@@ -7244,7 +7249,8 @@
             "encounter_number": "20-21",
             "expansion_number": "192",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
-            "id": "4d24784e-4a50-4d57-bea8-7a95b0279970"
+            "id": "4d24784e-4a50-4d57-bea8-7a95b0279970",
+            "amount": 2
         },
         {
             "name": "The Red King",
@@ -7299,28 +7305,33 @@
             "id": "a43fc8ce-14a9-4a5c-b1ea-e605e7146a37"
         },
         {
-            "name": "The Red King",
+            "name": "The White King",
             "front": {
-                "type": "enemy",
+                "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Tenebrous Tyrant",
-                "traits": "Wonderland. Shadow. Chess. Royalty. Elite.",
-                "text": "Alert.\n<name> cannot make attacks of opportunity during investigate actions. While there are more than 1<per> clues on Eighth Row, <name> gets +2 fight and retaliate.\n<for> After an investigator discovers any amount of clues from Eighth Row: Deal X damage to <name> where X is the amount of clues they discovered.",
-                "health": "5<per>",
+                "subtitle": "Exacting Emperor",
+                "traits": "Wonderland. Chess. Royalty.",
+                "text": "<rea> After you take the draw action, exhaust <fullname>: Draw 1 additional card. Any investigator at <fullname>'s location may activate this ability.\n<rea> After you take the resource action, exhaust <fullname>: Gain 2 additional resources. Any investigator at <fullname>'s location may activate this ability.",
+                "health": "1",
                 "evade": "4",
                 "attack": "2",
                 "damage": 1,
                 "horror": 2,
                 "flavor_text": "",
                 "victory": "Victory 2.",
-                "illustration": "./images/Red King - Soo K.jpg",
-                "illustrator": "Illus. Soo K"
+                "illustration": "./images/White King - Alexandr Ukolov.jpg",
+                "illustrator": "Illus. Alexandr Ukolov",
+                "classes": [
+                    "story"
+                ],
+                "sanity": "1",
+                "level": "None"
             },
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "18",
-            "expansion_number": "190",
+            "encounter_number": "16",
+            "expansion_number": "188",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "114956a8-f308-4cbb-8ee3-44caabcb6cb3"
         },
@@ -7341,14 +7352,15 @@
             "encounter_number": "30-32",
             "expansion_number": "196",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
-            "id": "a3e25440-6e7e-49eb-babd-4822ccfa7ca5"
+            "id": "a3e25440-6e7e-49eb-babd-4822ccfa7ca5",
+            "amount": 3
         },
         {
             "name": "Discovered Attack",
             "front": {
                 "type": "treachery",
                 "traits": "Chess. Scheme.",
-                "text": "\n<rev> Put <name> into play in your threat area.\n<for> After you enter an enemy's location or an enemy enters your location: Place 1 doom on that enemy.\n<action>: Test <willpower> or <intellect> (4). If you succeed, discard <name>.",
+                "text": "<rev> Put <name> into play in your threat area.\n<for> After you enter an enemy's location or an enemy enters your location: Place 1 doom on that enemy.\n<action>: Test <willpower> or <intellect> (4). If you succeed, discard <name>.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Bruce Rolff.jpg",
@@ -7360,7 +7372,8 @@
             "encounter_number": "24-26",
             "expansion_number": "194",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
-            "id": "4ad9b4c4-9f33-43a0-8c3d-aa2a370a1484"
+            "id": "4ad9b4c4-9f33-43a0-8c3d-aa2a370a1484",
+            "amount": 3
         },
         {
             "name": "King's Shadow",
@@ -7386,14 +7399,15 @@
             "encounter_number": "22-23",
             "expansion_number": "193",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
-            "id": "bde0e3ae-c581-49f1-9551-9b6a8a3eaf33"
+            "id": "bde0e3ae-c581-49f1-9551-9b6a8a3eaf33",
+            "amount": 2
         },
         {
             "name": "Overextended",
             "front": {
                 "type": "treachery",
                 "traits": "Chess. Blunder.",
-                "text": "\n<rev> Test <agility> (3). This test gets +1 difficulty and peril if you are at a <t>Shadow</t> location. If you fail, take 1 damage (2 damage instead if there is a <t>Chess</t> enemy at your location). If you failed by 2 or more, lose 2\u00a0resources.",
+                "text": "<rev> Test <agility> (3). This test gets +1 difficulty and peril if you are at a <t>Shadow</t> location. If you fail, take 1 damage (2 damage instead if there is a <t>Chess</t> enemy at your location). If you failed by 2 or more, lose 2 resources.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Joe Rippel.jpg",
@@ -7405,43 +7419,51 @@
             "encounter_number": "27-29",
             "expansion_number": "195",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
-            "id": "2480512b-179d-4383-9f2e-39cbfd122920"
+            "id": "2480512b-179d-4383-9f2e-39cbfd122920",
+            "amount": 3
         },
         {
-            "name": "Promotion",
+            "name": "Zugzwang",
             "front": {
                 "type": "treachery",
-                "traits": "Chess. Scheme. Power.",
-                "text": "Peril.\n<rev> If there are no <t>Chess Soldier</t> enemies in play, <name> gains surge. Otherwise, choose a <t>Chess Soldier</t> enemy and attach <name> to it. The attached enemy gets +1 fight, +1 evade, and +1 horror. If the attached enemy is a Pawn, it gets an additional +1 fight, +2\u00a0health, and +1 evade.",
+                "traits": "Chess. Scheme.",
+                "text": "<rev> Attach <name> to your location.\n<for> When you would leave attached location, you must (choose two different options):\n<bullet> Take 1 damage.\n<bullet> Take 1 horror.\n<bullet> Discard 1 card from hand at random.\n<bullet> Lose 1 resource.\n<for> At the end of the round, discard <name>.",
                 "flavor_text": "",
                 "victory": "",
-                "illustration": "./images/Chess - Jabnormalities.jpg",
-                "illustrator": "Illus. Jabnormalities"
+                "illustration": "./images/Chess - Troiscake.jpg",
+                "illustrator": "Illus. Troiscake"
             },
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "30-32",
-            "expansion_number": "196",
+            "encounter_number": "33-35",
+            "expansion_number": "197",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
-            "id": "db6ee186-3f3d-47bd-b0d1-14b731331e0e"
+            "id": "db6ee186-3f3d-47bd-b0d1-14b731331e0e",
+            "amount": 3
         },
         {
-            "name": "Promotion",
+            "name": "The Red Queen",
             "front": {
-                "type": "treachery",
-                "traits": "Chess. Scheme. Power.",
-                "text": "Peril.\n<rev> If there are no <t>Chess Soldier</t> enemies in play, <name> gains surge. Otherwise, choose a <t>Chess Soldier</t> enemy and attach <name> to it. The attached enemy gets +1 fight, +1 evade, and +1 horror. If the attached enemy is a Pawn, it gets an additional +1 fight, +2\u00a0health, and +1 evade.",
-                "flavor_text": "",
-                "victory": "",
-                "illustration": "./images/Chess - Jabnormalities.jpg",
-                "illustrator": "Illus. Jabnormalities"
+                "type": "enemy",
+                "traits": "Wonderland. Humanoid. Chess. Royalty. Elite.",
+                "text": "<prey> Lowest <agi>.\nWhile you are engaged with <name>, you cannot activate <free> effects or play cards with the fast keyword.",
+                "flavor_text": "\"...all she remembers is, that they were running hand in hand, and the Queen went so fast that it was all she could do to keep up with her: and still the Queen kept crying \u2018Faster! Faster!\u2019\"",
+                "victory": "Sieg 2.",
+                "illustration": "./images/Red Queen - Soo K.jpg",
+                "illustrator": "Illus. Soo K",
+                "subtitle": "Atrocious Autocrat",
+                "attack": "3",
+                "health": "3<per>",
+                "evade": "3",
+                "damage": "1",
+                "horror": "1"
             },
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "30-32",
-            "expansion_number": "196",
+            "encounter_number": "19",
+            "expansion_number": "191",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "0a0313fa-fdb9-4bee-b1b1-94ea32a3ccef"
         },
@@ -7465,7 +7487,7 @@
                 "illustrator": "Illus. Omar Rayyan"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "36",
             "expansion_number": "198",
@@ -8798,7 +8820,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange sich ein <t>Schach</t>-Gegner an deinem Ort befindet, bekommst du \u20132 to auf alle Fertigkeiten, au\u00dfer w\u00e4hrend Kampf und Entkommen.\n<action> <action>: Lege <name> ab.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange sich ein <t>Schach</t>-Gegner an deinem Ort befindet, bekommst du \u20132 auf alle Fertigkeiten, au\u00dfer w\u00e4hrend Kampf und Entkommen.\n<action> <action>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Ruslan Grechka.jpg",
@@ -9704,12 +9726,7 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "cb85add6-cd68-4771-99e3-83b7eea59efd",
-            "22ec312a-ef12-4af9-bea7-eb83522880c5",
-            "5e213d11-b222-4b10-9525-0b513e23f845",
-            "0af4e1b6-5689-4d36-a24e-8d60a62223be",
-            "8fdfc740-59c9-4149-8c84-94c23f7de896",
-            "d33c4bb6-c2c9-428f-a8df-1da71fe6e021"
+            "1166ca02-0fd6-449c-960a-b6d78016e074"
         ]
     },
     "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
