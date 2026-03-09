@@ -355,6 +355,13 @@
             "order": 7
         },
         {
+            "name": "Waking Nightmare.png",
+            "icon": "./images/Waking Nightmare.png",
+            "id": "609e4283-cd05-4bff-97b9-30e239af582c",
+            "card_amount": 29,
+            "order": 8
+        },
+        {
             "name": "Das Walross und der Zimmermann",
             "icon": "./images/Walrus and Carpenter.png",
             "id": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
@@ -411,28 +418,25 @@
             "order": 9
         },
         {
+            "name": "Fluch des Wunderlands",
+            "icon": "./images/Wonderland Banes.png",
+            "id": "9af55e7a-588b-4c06-8378-d4463846d243",
+            "card_amount": 6,
+            "code": null,
+            "order": 10
+        },
+        {
+            "name": "Segen des Wunderlands",
+            "icon": "./images/Wonderland Boons.png",
+            "id": "15e52956-bfe6-4db2-8697-b13025782a0d",
+            "card_amount": 7,
+            "order": 10
+        },
+        {
             "name": "Alice in Arkham",
             "icon": "./images/Alice in Arkham.png",
             "id": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "card_amount": 34
-        },
-        {
-            "name": "Waking Nightmare.png",
-            "icon": "./images/Waking Nightmare.png",
-            "id": "609e4283-cd05-4bff-97b9-30e239af582c",
-            "card_amount": 29
-        },
-        {
-            "name": "Wonderland Banes.png",
-            "icon": "./images/Wonderland Banes.png",
-            "id": "9af55e7a-588b-4c06-8378-d4463846d243",
-            "card_amount": 6
-        },
-        {
-            "name": "Wonderland Boons.png",
-            "icon": "./images/Wonderland Boons.png",
-            "id": "15e52956-bfe6-4db2-8697-b13025782a0d",
-            "card_amount": 7
         }
     ],
     "cards": [
@@ -9115,22 +9119,20 @@
             "amount": 2
         },
         {
-            "name": "The Caterpillar",
+            "name": "Das Raupentier",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "Vicious Visionary",
-                "traits": "Wonderland. Creature. Abomination.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<for> After the last clue is discovered from any location: Each investigator must discard 1 card from their hand at random. Discard <name>.",
-                "health": "-",
-                "evade": "-",
-                "attack": "-",
+                "traits": "Wunderland. Kreatur. Abscheulichkeit.",
+                "text": "Nachr\u00fcsten.\n<rev> Put <name> into play next to the agenda deck.\n<for> After the last clue is discovered from any location: Each investigator must discard 1 card from their hand at random. Discard <name>.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Caterpillar - Diana Franco.jpg",
-                "illustrator": "Illus. Diana Franco"
+                "illustrator": "Illus. Diana Franco",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9147,10 +9149,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Mausetot",
                 "traits": "Wunderland. Kreatur. Leiche.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe Den Dodo neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege Den Dodo ab.",
-                "health": "-",
-                "evade": "-",
-                "attack": "-",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe den Dodo neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege den Dodo ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9171,22 +9170,20 @@
             "id": "4b44efc6-0b88-4c44-b414-877e0529003e"
         },
         {
-            "name": "The Duchess",
+            "name": "Die Herzogin",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Rancorous Royal",
-                "traits": "Wonderland. Humanoid. Royalty.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<for> When a <cultist> token is revealed during a skill test: Treat that token as a <fail> token instead. Discard <name>.",
-                "health": "-",
-                "evade": "-",
-                "attack": "-",
+                "subtitle": "R\u00e4nkeschmiedende Royalistin",
+                "traits": "Wunderland. Humanoid. Adlig.",
+                "text": "Nachr\u00fcsten.\n<rev> Put <name> into play next to the agenda deck.\n<for> When a <cultist> token is revealed during a skill test: Treat that token as a <fail> token instead. Discard <name>.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Duchess - Omri Koresh.jpg",
-                "illustrator": "Illus. Omri Koresh"
+                "illustrator": "Illus. Omri Koresh",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9197,48 +9194,44 @@
             "id": "04164945-33a4-48a5-bde3-879cf13c89dc"
         },
         {
-            "name": "The Gryphon and the Mock Turtle",
+            "name": "Humpti Dumpti",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Crazed Cryptids",
-                "traits": "Wonderland. Creature.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<for> After an enemy makes an attack of opportunity: That enemy makes a second attack. Discard <name>.",
-                "health": "-",
-                "evade": "-",
-                "attack": "-",
+                "traits": "Wunderland. Leiche.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
                 "victory": "",
-                "illustration": "./images/Gryphon and Mock Turtle - Ken Wong.jpg",
-                "illustrator": "Illus. Ken Wong"
+                "illustration": "./images/Humpty Dumpty - Robert Williams.jpg",
+                "illustrator": "Illus. Robert Williams",
+                "name": "<unique><name>",
+                "subtitle": "Gefallen und Zerbrochen"
             },
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "5",
-            "expansion_number": "295",
+            "encounter_number": "1",
+            "expansion_number": "291",
             "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
             "id": "e3efa315-7cd2-462f-a262-a5e54bbffc0f"
         },
         {
-            "name": "The Gryphon and the Mock Turtle",
+            "name": "Der Greif und der Schildkr\u00f6tensupperich",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Crazed Cryptids",
-                "traits": "Wonderland. Creature.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<for> After an enemy makes an attack of opportunity: That enemy makes a second attack. Discard <name>.",
-                "health": "-",
-                "evade": "-",
-                "attack": "-",
+                "subtitle": "Wahnsinnige Kryptiden",
+                "traits": "Wunderland. Kreatur.",
+                "text": "Nachr\u00fcsten.\n<rev> Put <name> into play next to the agenda deck.\n<for> After an enemy makes an attack of opportunity: That enemy makes a second attack. Discard <name>.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Gryphon and Mock Turtle - Ken Wong.jpg",
-                "illustrator": "Illus. Ken Wong"
+                "illustrator": "Illus. Ken Wong",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9249,22 +9242,20 @@
             "id": "e92df65e-4b6d-480d-813a-07d6fe21d30c"
         },
         {
-            "name": "The White Queen",
+            "name": "Die Wei\u00dfe K\u00f6nigin",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Ruinous Regent",
-                "traits": "Wonderland. Humanoid. Chess. Royalty.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<for> When a <elder_thing> token is revealed during a skill test: Treat that token as a <fail> token instead. Discard <name>.",
-                "health": "-",
-                "evade": "-",
-                "attack": "-",
+                "subtitle": "Ruin\u00f6se Regentin",
+                "traits": "Wunderland. Humanoid. Schach. Adlig.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/White Queen - Yaroslav Gerzhedovich.jpg",
-                "illustrator": "Illus. Yaroslav Gerzhedovich"
+                "illustrator": "Illus. Yaroslav Gerzhedovich",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9275,24 +9266,25 @@
             "id": "a9ab8f6b-3046-421b-acb4-f0b20b3f0e22"
         },
         {
-            "name": "Humpty Dumpty",
+            "name": "Humpti Dumpti",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Poised and Proud",
-                "traits": "Wonderland. Scholar.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> When a <tablet> token is revealed: Cancel that token. Do not reveal another token. Discard <name>.",
+                "subtitle": "Souver\u00e4n und Stolz",
+                "traits": "Wunderland. Gelehrter.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "illustration": "./images/Humpty Dumpty - Scott Gustafson.jpg",
-                "illustrator": "Illus. Scott Gustafson"
+                "illustrator": "Illus. Scott Gustafson",
+                "name": "<unique><name>"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "1",
             "expansion_number": "298",
@@ -9300,24 +9292,24 @@
             "id": "d560c065-9288-4b6a-8503-b961e7e5f619"
         },
         {
-            "name": "The Caterpillar",
+            "name": "Das Raupentier",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
                 "subtitle": "Sagacious Savant",
-                "traits": "Wonderland. Creature. Scholar.",
+                "traits": "Wunderland. Kreatur. Gelehrter.",
                 "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> After the last clue is discovered from any location: Each investigator may draw 1 card. Discard <name>.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "illustration": "./images/Caterpillar - Shreya Shetty.jpg",
                 "illustrator": "Illus. Shreya Shretty"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "2",
             "expansion_number": "299",
@@ -9342,10 +9334,11 @@
                 "illustrator": "Illus. Amelia Tzemis",
                 "illustration_pan_x": 50,
                 "illustration_pan_y": 132,
-                "illustration_scale": 0.48
+                "illustration_scale": 0.48,
+                "name": "<unique><name>"
             },
             "back": {
-                "type": "treachery"
+                "type": "encounter"
             },
             "encounter_number": "3",
             "expansion_number": "300",
@@ -9353,49 +9346,50 @@
             "id": "abd7aa12-8aa6-4682-b7e2-78d6881475bf"
         },
         {
-            "name": "The Dodo",
+            "name": "Die Herzogin",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Educated Erudite",
-                "traits": "Wonderland. Creature. Scholar",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> When a <skull> token is revealed: Cancel that token. Do not reveal another token. Discard <name>.",
+                "traits": "Wunderland. Humanoid. Adlig.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
-                "illustration": "./images/Dodo - Amelia Tzemis.jpg",
-                "illustrator": "Illus. Amelia Tzemis"
+                "illustration": "./images/Duchess - Denis Zilber.jpg",
+                "illustrator": "Illus. Denis Zilber",
+                "level": "None",
+                "subtitle": "Geselliger H\u00f6fling"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
-            "encounter_number": "3",
-            "expansion_number": "300",
+            "encounter_number": "4",
+            "expansion_number": "301",
             "encounter_set": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "id": "d03025b2-134d-41df-8d42-178785686649"
         },
         {
-            "name": "The Gryphon and the Mock Turtle",
+            "name": "Der Greif und der Schildkr\u00f6tensupperich",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
                 "subtitle": "Mythical Minions",
-                "traits": "Wonderland. Creature.",
+                "traits": "Wunderland. Kreatur.",
                 "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> When an enemy would make an attack of opportunity: Cancel that attack. Discard <name>.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "illustration": "./images/Gryphon and Mock Turtle - Scott Gustafson.jpg",
                 "illustrator": "Illus. Scott Gustafson"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "5",
             "expansion_number": "302",
@@ -9403,24 +9397,24 @@
             "id": "c76803d3-7809-4069-9907-b5693dcddec3"
         },
         {
-            "name": "The Lion and the Unicorn",
+            "name": "Der L\u00f6we und das Einhorn",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
                 "subtitle": "Crowned Competitors",
-                "traits": "Wonderland. Creature. Royalty.",
+                "traits": "Wunderland. Kreatur. Adlig.",
                 "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> After an enemy is defeated or discarded: Each investigator may heal 1 damage or 1 horror. Discard <name>.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "illustration": "./images/Lion and Unicorn - Julie Dillon.jpg",
                 "illustrator": "Illus. Julie Dillon"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "6",
             "expansion_number": "303",
@@ -9428,24 +9422,24 @@
             "id": "2173a0db-d2b7-4dda-8a7f-72f4612e3d3e"
         },
         {
-            "name": "The White Queen",
+            "name": "Die Wei\u00dfe K\u00f6nigin",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Sibylline Sovereign",
-                "traits": "Wonderland. Chess. Royalty.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> When a <elder_thing> token is revealed: Cancel that token. Do not reveal another token. Discard <name>.",
+                "subtitle": "Sibyllinischer Souver\u00e4n",
+                "traits": "Wunderland. Schach. Adlig.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "neutral"
+                    "story"
                 ],
                 "illustration": "./images/White Queen - Victoria Ying.jpg",
                 "illustrator": "Illus. Victoria Ying"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "7",
             "expansion_number": "304",
@@ -9721,13 +9715,35 @@
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "encounter_number": "33",
             "expansion_number": "172"
+        },
+        {
+            "name": "Der L\u00f6we und das Einhorn",
+            "front": {
+                "type": "enemy",
+                "title": "<unique> <name>",
+                "subtitle": "Beaten and Broken",
+                "traits": "Wunderland. Kreatur. Wahnsinniger.",
+                "text": "Nachr\u00fcsten.\n<rev> Put <name> into play next to the agenda deck.\n<for> After an enemy is defeated or discarded: Each investigator must take 1 damage or 1 horror. Discard <name>.",
+                "damage": 0,
+                "horror": 0,
+                "flavor_text": "",
+                "victory": "",
+                "illustration": "./images/Lion and Unicorn - Robert Walker.jpg",
+                "illustrator": "Illus. Robert Walker",
+                "name": "<unique><name>"
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_number": "6",
+            "expansion_number": "296",
+            "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
+            "id": "9d85aed3-d3d4-463b-b80f-3cb194a643f0"
         }
     ],
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
-        "dirty": [
-            "1166ca02-0fd6-449c-960a-b6d78016e074"
-        ]
+        "dirty": []
     },
     "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
     "guides": [
