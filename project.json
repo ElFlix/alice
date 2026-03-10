@@ -1865,7 +1865,7 @@
                 "illustration_pan_y": 25,
                 "illustration_scale": 0.8,
                 "name": "<unique><name>",
-                "level": "Keine"
+                "level": "None"
             },
             "back": {
                 "type": "encounter"
@@ -1982,7 +1982,6 @@
                 "subtitle": "Gespiegelte Gedichte",
                 "traits": "Wunderland. Gegenstand. Buch.",
                 "text": "Anwendungen (4 Gedichte). Falls <name> keine Gedichte hat, lege diese Karte ab.\n<free> Ersch\u00f6pfe <name> und gib 1 Gedicht aus: Du bekommst f\u00fcr diese Fertigkeitsprobe +2 <willpower> oder +2 <int>.",
-                "cost": "2",
                 "flavor_text": "Das Heft enth\u00e4lt einige seltsame, aber aufschlussreiche Gedichte, die alle komplett r\u00fcckw\u00e4rts geschrieben sind.",
                 "victory": "",
                 "classes": [
@@ -1991,9 +1990,10 @@
                 "icons": "WI",
                 "illustration": "./images/Looking-Glass Book.png",
                 "illustrator": "Illus. Unknown",
-                "level": "Benutzerdefiniert",
+                "level": "None",
                 "illustration_pan_x": 50,
-                "illustration_pan_y": 120
+                "illustration_pan_y": 120,
+                "cost": "2"
             },
             "back": {
                 "type": "player"
@@ -4121,7 +4121,8 @@
                 "illustration_scale": 1.6,
                 "slots": [
                     "ally"
-                ]
+                ],
+                "level": "None"
             },
             "back": {
                 "type": "player"
@@ -6528,7 +6529,6 @@
                 "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1 <per> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Siegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <b>(<resolution>A2)</b>.",
                 "cost": "<dash>",
                 "health": "3",
-                "sanity": "-",
                 "flavor_text": "",
                 "victory": "Sieg 0.\n<vs>",
                 "illustration": "./images/Tweedledum Tweedledee - Lisa Falkenstern.jpg",
@@ -6539,7 +6539,8 @@
                 "classes": [
                     "story"
                 ],
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "level": "None"
             },
             "back": {
                 "type": "asset",
@@ -6561,7 +6562,8 @@
                 "slot": "None",
                 "illustration_scale": 1.12,
                 "illustration_pan_x": -344,
-                "illustration_pan_y": -36
+                "illustration_pan_y": -36,
+                "level": "None"
             },
             "encounter_number": "17",
             "expansion_number": "164",
@@ -7300,13 +7302,13 @@
             "id": "a43fc8ce-14a9-4a5c-b1ea-e605e7146a37"
         },
         {
-            "name": "The White King",
+            "name": "Der Wei\u00dfe K\u00f6nig",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
                 "subtitle": "Exacting Emperor",
-                "traits": "Wonderland. Chess. Royalty.",
-                "text": "<rea> After you take the draw action, exhaust <fullname>: Draw 1 additional card. Any investigator at <fullname>'s location may activate this ability.\n<rea> After you take the resource action, exhaust <fullname>: Gain 2 additional resources. Any investigator at <fullname>'s location may activate this ability.",
+                "traits": "Wunderland. Schach. Adlig.",
+                "text": "<action>: Ziehe 1 Karte. Du darfst den Wei\u00dfen K\u00f6nig ersch\u00f6pfen, um 1 weitere Karte zu ziehen.\n<action> Ersch\u00f6pfe den Wei\u00dfen K\u00f6nig: Erhalte 3 Ressourcen.",
                 "health": "1",
                 "evade": "4",
                 "attack": "2",
@@ -7355,7 +7357,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Nachdem du einen Ort betreten hast, falls sich 1 oder mehr Gegner an diesem Ort befinden: Platziere je 1 Verderben auf jeden dieser Gegner\n<for> Nachdem ein Gegner an deinem Ort ins Spiel kommt oder sich an deinen Ort bewegt: Platziere 1 Verderben auf diesem Gegner.\n<action>: Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, lege <name> ab.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nNachdem du einen Ort mit einem Gegner betreten hast oder ein Gegner deinen Ort betreten hat, platziere 1 Verderben auf jenem Gegner.\n<action>: Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Bruce Rolff.jpg",
@@ -7420,7 +7422,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Chess. Scheme.",
-                "text": "<rev> Attach <name> to your location.\n<for> When you would leave attached location, you must (choose two different options):\n<bullet> Take 1 damage.\n<bullet> Take 1 horror.\n<bullet> Discard 1 card from hand at random.\n<bullet> Lose 1 resource.\n<for> At the end of the round, discard <name>.",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um diesen Ort zu verlassen, musst du (w\u00e4hle zwei):\n<bullet> Nimm 1 Schaden.\n<bullet> Nimm 1 Horror.\n<bullet> Lege 1 zuf\u00e4llige Karte von deiner Hand ab.\n<bullet> Lege 1 zuf\u00e4llige Karte von deiner Hand ab.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Troiscake.jpg",
@@ -7436,21 +7438,21 @@
             "amount": 3
         },
         {
-            "name": "The Red Queen",
+            "name": "Die Rote K\u00f6nigin",
             "front": {
                 "type": "enemy",
-                "traits": "Wonderland. Humanoid. Chess. Royalty. Elite.",
-                "text": "<prey> Lowest <agi>.\nWhile you are engaged with <name>, you cannot activate <free> effects or play cards with the fast keyword.",
-                "flavor_text": "\"...all she remembers is, that they were running hand in hand, and the Queen went so fast that it was all she could do to keep up with her: and still the Queen kept crying \u2018Faster! Faster!\u2019\"",
+                "traits": "Wunderland. Humanoid. Schach. Adlig. Elite.",
+                "text": "<prey> Niedrigster <agi>-Wert.\nSolange du mit der Roten K\u00f6nigin in einem Kampf verwickelt bist, kannst du <free>-F\u00e4higkeiten nicht ausl\u00f6sen und keine Karten mit dem Schl\u00fcsselwort Schnell spielen.",
                 "victory": "Sieg 2.",
                 "illustration": "./images/Red Queen - Soo K.jpg",
                 "illustrator": "Illus. Soo K",
-                "subtitle": "Atrocious Autocrat",
+                "subtitle": "Abscheuliche Autokratin",
                 "attack": "3",
                 "health": "3<per>",
                 "evade": "3",
                 "damage": "1",
-                "horror": "1"
+                "horror": "1",
+                "flavor_text": "\u201eAlles, woran sie sich erinnern kann, ist, dass sie Hand in Hand rannten, und die K\u00f6nigin so schnell lief, dass sie \u00e4u\u00dferste M\u00fche hatte, mit ihr mitzuhalten und immer noch rief die K\u00f6nigin fortw\u00e4hrend: \u201aSchneller! Schneller!\u2018\u201c"
             },
             "back": {
                 "type": "encounter"
@@ -7467,18 +7469,18 @@
                 "title": "<unique> <name>",
                 "subtitle": "Kurioser Kavalier",
                 "traits": "Wunderland. Schach. Soldat. Verr\u00fcckt.",
-                "text": "Ermittler am Ort des Wei\u00dfen Springers bekommen +1 auf alle Fertigkeiten bei der Abhandlung von Effekten, Angriff, Entkommen oder Ermitteln auf oder gegen <i>Schach</i>-Karten.\n<action> <b>Verhandlung</b>: Bewege den Wei\u00dfen Springer an einen verbundenen Ort.\n<for> Am Ende der Ermittlungsphase, falls der wei\u00dfe Springer spielbereit ist und sich am fernen Feld befindet: Bewege ihn an einen Ort mit Ermittler.",
+                "text": "Ermittler am Ort des Wei\u00dfen Springers bekommen +1 auf jeden Fertigkeitswert w\u00e4hrend Fertigkeitsproben auf oder gegen <i>Schach</i>-Karten.\n<action> <b>Verhandlung</b>: Bewege den Wei\u00dfen Springer an einen verbundenen Ort.\n<for> Am Ende der Ermittlungsphase, falls der wei\u00dfe Springer spielbereit ist und sich am fernen Feld befindet: Bewege ihn an einen Ort mit Ermittler.",
                 "cost": "<dash>",
                 "health": "1",
                 "sanity": "4",
                 "flavor_text": "",
                 "victory": "",
+                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/White Knight - Omar Rayyan",
+                "illustrator": "Illus. Omar Rayyan",
+                "level": "None",
                 "classes": [
                     "story"
-                ],
-                "illustration": "./images/White Knight - Omar Rayyan.jpg",
-                "illustrator": "Illus. Omar Rayyan",
-                "level": "None"
+                ]
             },
             "back": {
                 "type": "encounter"
@@ -7535,6 +7537,29 @@
             "back": {
                 "type": "investigator_back",
                 "illustration": "./images/0_Alice - Aucher-fargue Nicolas.jpg",
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "text": "<b>Deck Size:</b> 30",
                 "classes": [
                     "story"
                 ]
@@ -7583,9 +7608,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "story",
-                    "none",
-                    "none"
+                    "story"
                 ],
                 "illustration": "./images/Heart - Joao Rod 1.jpg",
                 "illustrator": "Illus. Joao Rod"
@@ -8041,13 +8064,11 @@
                 "level": "None",
                 "flavor_text": "Cracked pots, dented washtubs, and shredded pillows lie in a heap, each piece speckled with blood.",
                 "victory": "",
-                "classes": [
-                    "storyweakness",
-                    "none",
-                    "none"
-                ],
                 "illustration": "./images/Broken Toys - Unknown.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "classes": [
+                    "storyweakness"
+                ]
             },
             "back": {
                 "type": "player"
@@ -9113,9 +9134,9 @@
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Vicious Visionary",
+                "subtitle": "Heimt\u00fcckischer Hellseher",
                 "traits": "Wunderland. Kreatur. Abscheulichkeit.",
-                "text": "Nachr\u00fcsten.\n<rev> Put <name> into play next to the agenda deck.\n<for> After the last clue is discovered from any location: Each investigator must discard 1 card from their hand at random. Discard <name>.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem der letzte Hinweis von einem Ort entdeckt worden ist: Jeder Ermittler legt 1 zuf\u00e4llige Karte von seiner Hand ab. Lege das Raupentier ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9139,7 +9160,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Mausetot",
                 "traits": "Wunderland. Kreatur. Leiche.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe den Dodo neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege den Dodo ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege den Dodo ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9166,7 +9187,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "R\u00e4nkeschmiedende Royalistin",
                 "traits": "Wunderland. Humanoid. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Put <name> into play next to the agenda deck.\n<for> When a <cultist> token is revealed during a skill test: Treat that token as a <fail> token instead. Discard <name>.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9189,7 +9210,7 @@
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Leiche.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9214,7 +9235,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Wahnsinnige Kryptiden",
                 "traits": "Wunderland. Kreatur.",
-                "text": "Nachr\u00fcsten.\n<rev> Put <name> into play next to the agenda deck.\n<for> After an enemy makes an attack of opportunity: That enemy makes a second attack. Discard <name>.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem ein Gegner einen Gelegenheitsangriff durchgef\u00fchrt hat: Der Gegner greift den Ermittler ein zweites Mal an. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9238,7 +9259,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Ruin\u00f6se Regentin",
                 "traits": "Wunderland. Humanoid. Schach. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9262,7 +9283,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Souver\u00e4n und Stolz",
                 "traits": "Wunderland. Gelehrter.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9271,7 +9292,8 @@
                 ],
                 "illustration": "./images/Humpty Dumpty - Scott Gustafson.jpg",
                 "illustrator": "Illus. Scott Gustafson",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "level": "None"
             },
             "back": {
                 "type": "encounter"
@@ -9286,9 +9308,9 @@
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Sagacious Savant",
+                "subtitle": "Gescheiter Gelehrter",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> After the last clue is discovered from any location: Each investigator may draw 1 card. Discard <name>.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem der letzte Hinweis von einem Ort entdeckt worden ist: Jeder Ermittler darf 1 Karte ziehen. Lege das Raupentier ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9296,7 +9318,8 @@
                     "story"
                 ],
                 "illustration": "./images/Caterpillar - Shreya Shetty.jpg",
-                "illustrator": "Illus. Shreya Shretty"
+                "illustrator": "Illus. Shreya Shretty",
+                "level": "None"
             },
             "back": {
                 "type": "encounter"
@@ -9313,7 +9336,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Kluges K\u00f6pfchen",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe Den Dodo neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege Den Dodo ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege Den Dodo ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9325,7 +9348,8 @@
                 "illustration_pan_x": 50,
                 "illustration_pan_y": 132,
                 "illustration_scale": 0.48,
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "level": "None"
             },
             "back": {
                 "type": "encounter"
@@ -9341,7 +9365,7 @@
                 "type": "asset",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Humanoid. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9366,9 +9390,9 @@
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Mythical Minions",
+                "subtitle": "Legend\u00e4re Lakaien",
                 "traits": "Wunderland. Kreatur.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> When an enemy would make an attack of opportunity: Cancel that attack. Discard <name>.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem ein Gegner einen Gelegenheitsangriff durchgef\u00fchrt hat: Hebe diesen Angriff auf. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9376,7 +9400,8 @@
                     "story"
                 ],
                 "illustration": "./images/Gryphon and Mock Turtle - Scott Gustafson.jpg",
-                "illustrator": "Illus. Scott Gustafson"
+                "illustrator": "Illus. Scott Gustafson",
+                "level": "None"
             },
             "back": {
                 "type": "encounter"
@@ -9391,9 +9416,9 @@
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Crowned Competitors",
+                "subtitle": "Gekr\u00f6nte Gegenspieler",
                 "traits": "Wunderland. Kreatur. Adlig.",
-                "text": "Surge.\n<rev> Put <name> into play next to the agenda deck.\n<reaction> After an enemy is defeated or discarded: Each investigator may heal 1 damage or 1 horror. Discard <name>.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem ein Gegner besiegt oder abgelegt worden ist: Jeder Ermittler 1 Schaden oder 1 Horror heilen. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9401,7 +9426,8 @@
                     "story"
                 ],
                 "illustration": "./images/Lion and Unicorn - Julie Dillon.jpg",
-                "illustrator": "Illus. Julie Dillon"
+                "illustrator": "Illus. Julie Dillon",
+                "level": "None"
             },
             "back": {
                 "type": "encounter"
@@ -9418,7 +9444,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Sibyllinischer Souver\u00e4n",
                 "traits": "Wunderland. Schach. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9426,7 +9452,8 @@
                     "story"
                 ],
                 "illustration": "./images/White Queen - Victoria Ying.jpg",
-                "illustrator": "Illus. Victoria Ying"
+                "illustrator": "Illus. Victoria Ying",
+                "level": "None"
             },
             "back": {
                 "type": "encounter"
@@ -9495,9 +9522,7 @@
                 "flavor_text": "`And how do you know that you\u2019re mad?\u2019\n<vs>",
                 "victory": "",
                 "classes": [
-                    "neutral",
-                    "none",
-                    "none"
+                    "neutral"
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/Miscellaneous - Hanh Chu.jpg",
@@ -9522,9 +9547,7 @@
                 "flavor_text": "`And how do you know that you\u2019re mad?\u2019\n<vs>",
                 "victory": "",
                 "classes": [
-                    "neutral",
-                    "none",
-                    "none"
+                    "neutral"
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/Miscellaneous - Hanh Chu.jpg",
@@ -9711,9 +9734,9 @@
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Beaten and Broken",
+                "subtitle": "Geschlagen und gebrochen",
                 "traits": "Wunderland. Kreatur. Wahnsinniger.",
-                "text": "Nachr\u00fcsten.\n<rev> Put <name> into play next to the agenda deck.\n<for> After an enemy is defeated or discarded: Each investigator must take 1 damage or 1 horror. Discard <name>.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Nachdem ein Gegner besiegt oder abgelegt worden ist: Jeder Ermittler nimmt 1 Schaden oder 1 Horror. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9734,10 +9757,12 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "bde0e3ae-c581-49f1-9551-9b6a8a3eaf33"
+            "d03025b2-134d-41df-8d42-178785686649",
+            "d695dd93-b017-4782-8312-bcb86580cf16",
+            "d560c065-9288-4b6a-8503-b961e7e5f619"
         ]
     },
-    "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Alice in Wonderland.png",
+    "icon": "./images/Alice in Wonderland.png",
     "guides": [
         {
             "path": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/guide.html",
