@@ -1460,9 +1460,10 @@
                 "type": "act_back",
                 "name": "Der Weg hinein",
                 "victory": "",
-                "text": "<blockquote>Du \u00f6ffnest die T\u00fcr zu dem idyllischen Haus und betrittst es z\u00f6gernd. Die R\u00e4ume sind gr\u00f6\u00dftenteils kahl, und die wenigen M\u00f6bel sind mit staubigen wei\u00dfen Laken bedeckt. Die Suche scheint immer aussichtsloser zu werden, bis du einen Raum betrittst, dessen einzige Einrichtung ein gro\u00dfer Spiegel auf dem Kaminsims ist. Merkw\u00fcrdigerweise kr\u00e4uselt sich die Oberfl\u00e4che des Spiegels von Zeit zu Zeit, und man kann durch ihn einen ganz anderen Raum sehen. Als du dich ihm n\u00e4herst, lenkt das Kratzen von Pfoten auf dem alten Holzboden deine Aufmerksamkeit wieder auf den Flur hinter dir. Ein wei\u00dfes Kaninchen in alter viktorianischer Kleidung flitzt davon, umklammert eine Taschenuhr und murmelt vor sich hin. Du wirst keine Gelegenheit haben, beides zu untersuchen, bevor sich Arkham komplett aufl\u00f6st.</blockquote>\nDie Ermittler m\u00fcssen w\u00e4hlen (w\u00e4hlt eins):\n<bullet> <i>Wir m\u00fcssen herausfinden, was das Kaninchen vorhat.</i> Bringe die beiseitegelegte Vorteilskarte Das wei\u00dfe Kaninchen am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a - \u201eFolge dem wei\u00dfen Kaninchen\u201c vor.\n<bullet> <i>Wir m\u00fcssen herausfinden, wie wir in diesen Spiegel kommen.</i> Bringe die beiseitegelegte Vorteilskarte Der Spiegel am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a - \u201eHinter den Spiegeln\u201c vor.",
+                "text": "Die Ermittler m\u00fcssen w\u00e4hlen (w\u00e4hlt eins):\n<bullet> <i>Wir m\u00fcssen herausfinden, was das Kaninchen vorhat.</i> Bringe die beiseitegelegte Vorteilskarte Das wei\u00dfe Kaninchen am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a - \u201eFolge dem wei\u00dfen Kaninchen\u201c vor.\n<bullet> <i>Wir m\u00fcssen herausfinden, wie wir in diesen Spiegel kommen.</i> Bringe die beiseitegelegte Vorteilskarte Der Spiegel am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a - \u201eHinter den Spiegeln\u201c vor.",
                 "level": "1",
-                "index": "2b"
+                "index": "2b",
+                "flavor_text": "Du \u00f6ffnest die T\u00fcr zu dem idyllischen Haus und betrittst es z\u00f6gernd. Die R\u00e4ume sind gr\u00f6\u00dftenteils kahl, und die wenigen M\u00f6bel sind mit staubigen wei\u00dfen Laken bedeckt. Die Suche scheint immer aussichtsloser zu werden, bis du einen Raum betrittst, dessen einzige Einrichtung ein gro\u00dfer Spiegel auf dem Kaminsims ist. Merkw\u00fcrdigerweise kr\u00e4uselt sich die Oberfl\u00e4che des Spiegels von Zeit zu Zeit, und man kann durch ihn einen ganz anderen Raum sehen. Als du dich ihm n\u00e4herst, lenkt das Kratzen von Pfoten auf dem alten Holzboden deine Aufmerksamkeit wieder auf den Flur hinter dir. Ein wei\u00dfes Kaninchen in alter viktorianischer Kleidung flitzt davon, umklammert eine Taschenuhr und murmelt vor sich hin. Du wirst keine Gelegenheit haben, beides zu untersuchen, bevor sich Arkham komplett aufl\u00f6st."
             },
             "encounter_number": "4",
             "expansion_number": "4",
@@ -1484,8 +1485,9 @@
                 "type": "act_back",
                 "name": "Hinunter in den Kaninchenbau",
                 "victory": "",
-                "text": "<blockquote>Dem Kaninchen zu folgen ist keine leichte Aufgabe. Es bewegt sich schnell durch das unbest\u00e4ndige Gel\u00e4nde, ohne einen Augenblick auf dich zu achten. In einem dichten Geb\u00fcsch verlierst du es fast aus den Augen, aber schlie\u00dflich siehst du das Kaninchen in ein Loch springen. Ersch\u00f6pft gehst du auf das Kaninchenloch zu und fragst dich, wie du weiter vorgehen sollst, aber als du dort stehst, weitet sich die H\u00f6hle langsam zu einem viel gr\u00f6\u00dferen und scheinbar bodenlosen Loch. Du schaust die Katze um Rat an, aber sie grinst nur und wartet darauf, dass du handelst. So t\u00f6richt es auch scheint, du beh\u00e4ltst die Nerven und springst in die Grube.</blockquote>\n(<resolution><b>A1</b>)",
-                "index": "3b"
+                "text": "(<resolution><b>A1</b>)",
+                "index": "3b",
+                "flavor_text": "Dem Kaninchen zu folgen ist keine leichte Aufgabe. Es bewegt sich schnell durch das unbest\u00e4ndige Gel\u00e4nde, ohne einen Augenblick auf dich zu achten. In einem dichten Geb\u00fcsch verlierst du es fast aus den Augen, aber schlie\u00dflich siehst du das Kaninchen in ein Loch springen. Ersch\u00f6pft gehst du auf das Kaninchenloch zu und fragst dich, wie du weiter vorgehen sollst, aber als du dort stehst, weitet sich die H\u00f6hle langsam zu einem viel gr\u00f6\u00dferen und scheinbar bodenlosen Loch. Du schaust die Katze um Rat an, aber sie grinst nur und wartet darauf, dass du handelst. So t\u00f6richt es auch scheint, du beh\u00e4ltst die Nerven und springst in die Grube."
             },
             "encounter_number": "5",
             "expansion_number": "5",
@@ -1519,7 +1521,7 @@
             "front": {
                 "type": "agenda",
                 "text": "",
-                "flavor_text": "Seltsame Wellen der Verzerrung schwappen \u00fcber Arkham und st\u00fcrzen es ins heillose Chaos. Die Stadt wird rasch verzerrt und verschmilzt mit dem Wunderland aus Alices Tr\u00e4umen. Geb\u00e4ude und Wahrzeichen verzerren sich zu ungewohnten Formen, w\u00e4hrend die Menschen, die das Pech haben von diesen Wellen erfasst zu werden, ebenfalls verzerrt werden. Du hoffst, dass du einen Weg findest, diese Ver\u00e4nderungen aufzuhalten oder umzukehren, bevor du selbst von den Geschehnissen verwandelt wirst.",
+                "flavor_text": "Seltsame Wellen der Verzerrung schwappen \u00fcber Arkham und st\u00fcrzen es ins heillose Chaos. Die Stadt wird rasch verzerrt und verschmilzt mit dem Wunderland aus Alices Tr\u00e4umen. Geb\u00e4ude und Wahrzeichen verzerren sich zu ungewohnten Formen, w\u00e4hrend die Menschen, die das Pech haben, von diesen Wellen erfasst zu werden, ebenfalls verzerrt werden. Du hoffst, dass du einen Weg findest, diese Ver\u00e4nderungen aufzuhalten oder umzukehren, bevor du selbst von den Geschehnissen verwandelt wirst.",
                 "illustration": "./images/Miscellaneous - Erik Johansson 1.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -1527,9 +1529,9 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Tr\u00e4ume vom Wunderland",
                 "victory": "",
-                "text": "<blockquote>Die Stadt bricht aus allen N\u00e4hten, w\u00e4hrend schattenhafte Kreaturen sie weiter aufl\u00f6sen, indem sie alles verzehren, was sie zerrei\u00dfen k\u00f6nnen. Geb\u00e4ude st\u00fcrzen ein, w\u00e4hrend sich ihre Ziegel in elfenbeinfarbene Dominosteine verwandeln, Stra\u00dfenlaternen sprie\u00dfen und erbl\u00fchen wie G\u00e4nsebl\u00fcmchen, und der Boden selbst verschiebt sich wie ein Teppich auf poliertem Boden. Je st\u00e4rker die Verzerrungen werden, desto mehr fragt man sich, ob die Ver\u00e4nderungen \u00fcberhaupt noch r\u00fcckg\u00e4ngig gemacht werden k\u00f6nnen.</blockquote>\nDrehe den zum Arkham Sanatorium n\u00e4chstgelegenen Ort, der nicht das Merkmal <t>Wunderland</t> besitzt, um und platziere 1<per> Hinweis darauf. Jeder Ermittler an diesem Ort nimmt 1 Schaden und 1 Horror.\nFalls jeder Ort, der sich im Spiel befindet, das Merkmal <t>Wunderland</t> besitzt, ist jeder Ermittler, der nicht aufgegeben hat, besiegt und erleidet 1 k\u00f6rperliches oder seelisches Trauma (du entscheidest). \nAnsonsten drehe diese Karte wieder um."
+                "text": "<blockquote>Die Stadt bricht aus allen N\u00e4hten, w\u00e4hrend schattenhafte Kreaturen sie weiter aufl\u00f6sen, indem sie alles verzehren, was sie zerrei\u00dfen k\u00f6nnen. Geb\u00e4ude st\u00fcrzen ein, w\u00e4hrend sich ihre Ziegel in elfenbeinfarbene Dominosteine verwandeln, Stra\u00dfenlaternen sprie\u00dfen und erbl\u00fchen wie G\u00e4nsebl\u00fcmchen, und der Boden selbst verschiebt sich wie ein Teppich auf poliertem Boden. Je st\u00e4rker die Verzerrungen werden, desto mehr fragt man sich, ob die Ver\u00e4nderungen \u00fcberhaupt noch r\u00fcckg\u00e4ngig gemacht werden k\u00f6nnen.</blockquote>\nDrehe den zum Arkham Sanatorium n\u00e4chstgelegenen Ort, der nicht das Merkmal <t>Wunderland</t> besitzt, um und platziere 1<per> Hinweis darauf. Jeder Ermittler an diesem Ort nimmt 1 Schaden und 1 Horror.\nFalls jeder Ort, der sich im Spiel befindet, das Merkmal <t>Wunderland</t> besitzt, ist jeder Ermittler, der nicht aufgegeben hat, besiegt und erleidet 1 k\u00f6rperliches oder seelisches Trauma (du entscheidest). \nAnsonsten drehe diese Karte wieder um.",
+                "name": "Tr\u00e4ume vom Wunderland"
             },
             "encounter_number": "2",
             "expansion_number": "2",
@@ -1672,7 +1674,7 @@
                 "subtitle": "Kapitales Gedr\u00e4nge",
                 "traits": "Arkham. Innenstadt.",
                 "text": "<act> Erhalte 2 Ressourcen. (Nur ein Mal pro Zug.)",
-                "flavor_text": "Die Bank n\u00e4hert sich ihrer Schlie\u00dfungszeit. Kunden und Schalterbeamte hoffen, dass sie ihre Gesch\u00e4fte schnell abwickeln k\u00f6nnen, trotz des Durcheinanders, das um das Geb\u00e4ude herum entstanden ist.",
+                "flavor_text": "Die Bank n\u00e4hert sich ihrem Gesch\u00e4ftsschluss. Kunden und Schalterbeamte hoffen, dass sie ihre Gesch\u00e4fte schnell abwickeln k\u00f6nnen, trotz des Durcheinanders, das um das Geb\u00e4ude herum entstanden ist.",
                 "victory": "",
                 "illustration": "./images/Downtown - Cristi Balanescu.jpg",
                 "clues": "1<per>",
@@ -1990,7 +1992,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Wenn keine Kopie von <name> an deinem Ort angeh\u00e4ngt ist, h\u00e4nge <name> an deinen Ort an. Ansonsten erh\u00e4lt diese Karte Nachr\u00fcsten.\nErmittler an dem Ort, an den dese Karte angeh\u00e4ngt ist, tauschen den Grundwert ihrer <willpower> und <int>, und den Grundwert ihrer <com> und <agi>.\n<action> Nimm 1 Schaden: Lege <name> ab.",
+                "text": "<rev> Wenn keine Kopie von <name> an deinem Ort angeh\u00e4ngt ist, h\u00e4nge <name> an deinen Ort an. Ansonsten erh\u00e4lt diese Karte Nachr\u00fcsten.\nErmittler an dem Ort, an den diese Karte angeh\u00e4ngt ist, tauschen den Grundwert ihrer <willpower> und <int>, und den Grundwert ihrer <com> und <agi>.\n<action> Nimm 1 Schaden: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Shannon Tucker.jpg",
@@ -2012,7 +2014,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Humanoid. Elite.",
-                "text": "Gewaltig. Alarmiert.\n<for> Sobald 1 oder mehr Hinweise auf den Ort von <name> platziert werden oder durch Ermittler am Ort von <name> ausgegeben werden: Platziere 1 Verderben auf <name>.\n<action> Gib 1 Hinweis aus: <b>Verhandeln</b>. F\u00fcge <name> 2 Schaden zu.",
+                "text": "Gewaltig. Alarmiert.\n<for> Sobald 1 oder mehr Hinweise auf dem Ort von <name> platziert werden oder durch Ermittler am Ort von <name> ausgegeben werden: Platziere 1 Verderben auf <name>.\n<action> Gib 1 Hinweis aus: <b>Verhandeln</b>. F\u00fcge <name> 2 Schaden zu.",
                 "health": "6",
                 "evade": "2",
                 "attack": "4",
@@ -2174,7 +2176,8 @@
                 "illustration": "./images/Sea of Tears - Zdzis\u0142aw Beksi\u0144ski.jpg",
                 "index": "2a",
                 "illustrator": "Illus. Zdzis\u0142aw Beksi\u0144ski",
-                "illustration_scale": 0.86
+                "illustration_scale": 0.86,
+                "doom": "<dash>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2253,7 +2256,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<for> Zu Beginn der Ermittlerphase: Lege Hinweise auf diesen Ort, bis sich 1<per> hier befinden.\n<for> Falls sich hier keine Hinweise befinden: Notiere im Kampagnonenlogbuch unter \u201eFragmente von Alice\u201c: <i>Intuition.</i>\n<act>: <b>Aufgeben.</b> \u201eDas war kein Strandspaziergang!\u201d",
+                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<for> Zu Beginn der Ermittlerphase: Lege Hinweise auf diesen Ort, bis sich 1<per> hier befinden.\n<for> Falls sich hier keine Hinweise befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c: <i>Intuition.</i>\n<act>: <b>Aufgeben.</b> \u201eDas war kein Strandspaziergang!\u201d",
                 "flavor_text": "Das Innere des Hauses erinnert auf bizarre Weise an etwas.",
                 "victory": "",
                 "illustration": "./images/White Rabbit House - Mike Paolilli.jpg",
@@ -2502,7 +2505,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Pechvogel",
                 "traits": "Wunderland. Kreatur. Verb\u00fcndeter.",
-                "text": "<free> Ersch\u00f6pfe <name>: Bewege <name> an einen verbundenen Ort. Du darfst beliebig viele Austern mit Bill bewegen <i>(solange sie das Limit von 6 Austern an einem Ort nicht \u00fcberschreiten)</i>.",
+                "text": "<free> Ersch\u00f6pfe <name>: Bewege Bill an einen verbundenen Ort. Du darfst beliebig viele Austern mit Bill bewegen <i>(solange sie das Limit von 6 Austern an einem Ort nicht \u00fcberschreiten)</i>.",
                 "cost": "<dash>",
                 "health": "1",
                 "sanity": "1",
@@ -2532,7 +2535,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Schlaues Schalentier",
                 "traits": "Wunderland. Kreatur. Verb\u00fcndeter.",
-                "text": "<reaction> Ersch\u00f6pfe w\u00e4hrend einer Fertigkeitsprobe Die \u00c4lteste Auster: Du bekommst +X auf den Fertigkeitswert dieser Probe. X ist die Anzahl an Austern an deinem Ort. Jeder Ermittler am Ort Der \u00c4ltesten Auster darf diese F\u00e4higkeit aktivieren.",
+                "text": "<reaction> Ersch\u00f6pfe w\u00e4hrend einer Fertigkeitsprobe Die \u00c4lteste Auster: Du bekommst +X auf den Fertigkeitswert dieser Probe. X ist die Anzahl an Austern an deinem Ort. Jeder Ermittler am Ort von <name> darf diese F\u00e4higkeit aktivieren.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9828,7 +9831,9 @@
     ],
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
-        "dirty": []
+        "dirty": [
+            "6c4e5747-9272-4a96-a0f9-e2af80873bf5"
+        ]
     },
     "icon": "./images/Alice in Wonderland.png",
     "guides": [
