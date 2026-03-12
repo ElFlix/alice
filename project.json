@@ -1547,7 +1547,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "-X. X ist die Anzahl der <t>Wunderland</t>-Orte im Spiel \n(max. -5)."
+                        "text": "-X. X ist die Anzahl der <t>Wunderland</t>-Orte im Spiel (max. -5)."
                     },
                     {
                         "token": [
@@ -2159,7 +2159,9 @@
                 "type": "agenda_back",
                 "name": "Das Walross und der Zimmermann",
                 "victory": "",
-                "text": "<blockquote>\u201eProbleme mit dem alten Landhaus?\u201d Ein uninteressierter Zimmermann n\u00e4hert sich dem Wei\u00dfen Kaninchen und seinem teilweise zerst\u00f6rten Haus und wirft beiden nur einen kurzen Blick zu.\n\u201eJa, ja, beeilen Sie sich!\u201d, fleht das Kaninchen und tippt mit dem Fu\u00df.\n\u201eImmer mit der Ruhe, Boss\u201c, erwidert der Zimmermann und reibt sich den Bauch, \u201eder Job ist so gut wie erledigt, aber ich bin ein bisschen hungrig. Ich komme wieder, sobald ich einen Happen gegessen habe.\u201c\nWeiter unten an der felsigen K\u00fcste erhebt sich ein riesiges Walross aus der Brandung. Sein Magen knurrt wie ein Erdbeben, w\u00e4hrend es \u00fcber das Meer der Tr\u00e4nen blickt. \u201eLebensmittel gibt es im H\u00fclle und F\u00fclle. Ein Austernessen scheint die einzige L\u00f6sung zu sein\u201d, grummelt es vor sich hin.</blockquote>\nBringe den beiseitegelegten Gegner Das Walross am Gezeitent\u00fcmpel ins Spiel.\nBringe den beiseitegelegten Gegner Der Zimmermann am Haus des Wei\u00dfen Hasens ins Spiel.\nDer Rest des beiseitegelegten Begegnungssets <i>Walross und Zimmermann</i> wird zusammen mit dem Begegnungs-Ablagestapel ins Begegnungsdeck gemischt."
+                "text": "Bringe den beiseitegelegten Gegner Das Walross am Gezeitent\u00fcmpel ins Spiel.\nBringe den beiseitegelegten Gegner Der Zimmermann am Haus des Wei\u00dfen Kaninchens ins Spiel.\nDer Rest des beiseitegelegten Begegnungssets <i>Walross und Zimmermann</i> wird zusammen mit dem Begegnungs-Ablagestapel ins Begegnungsdeck gemischt.",
+                "flavor_text": "\u201eProbleme mit dem alten Landhaus?\u201d Ein uninteressierter Zimmermann n\u00e4hert sich dem Wei\u00dfen Kaninchen und seinem teilweise zerst\u00f6rten Haus und wirft beiden nur einen kurzen Blick zu.\n\u201eJa, ja, beeilen Sie sich!\u201d, fleht das Kaninchen und tippt mit dem Fu\u00df.\n\u201eImmer mit der Ruhe, Boss\u201c, erwidert der Zimmermann und reibt sich den Bauch, \u201eder Job ist so gut wie erledigt, aber ich bin ein bisschen hungrig. Ich komme wieder, sobald ich einen Happen gegessen habe.\u201c\nWeiter unten an der felsigen K\u00fcste erhebt sich ein riesiges Walross aus der Brandung. Sein Magen knurrt wie ein Erdbeben, w\u00e4hrend es \u00fcber das Meer der Tr\u00e4nen blickt. \u201eLebensmittel gibt es im H\u00fclle und F\u00fclle. Ein Austernessen scheint die einzige L\u00f6sung zu sein\u201d, grummelt es vor sich hin.",
+                "index": "1b"
             },
             "encounter_number": "2",
             "expansion_number": "23",
@@ -2389,7 +2391,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<act> Lege bis zu 2 Karten von deiner Hand ab: Lege X Ressourcen aus dem Vorrat als Austern auf diesem Ort, wobei X die Anzahl abgelegter Karten ist. (Nur ein Mal pro Zug.)",
+                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<act> Lege bis zu 2 Karten von deiner Hand ab: Lege X Austern auf diesem Ort, wobei X die Anzahl abgelegter Karten ist. (Nur ein Mal pro Zug.)",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Alex van der Linde.jpg",
@@ -5468,7 +5470,7 @@
                 "traits": "Wunderland. Tulger Wald.",
                 "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, durchsuche das Begegnungsdeck und Ablagestapel nach 1 Verratskarte ohne Nachr\u00fcsten und ziehe sie (stattdessen 2 Verratskarten, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Die Wegbeschreibung des Bibers f\u00fchrt zu einer besonders dunklen und trostlosen Schlucht.",
-                "victory": "Victory 1.",
+                "victory": "Sieg 1.",
                 "shroud": "4",
                 "clues": "1<per>",
                 "connection": "moon",
@@ -5502,7 +5504,7 @@
                 "subtitle": "Die Spur des Barristers",
                 "traits": "Wunderland. Tulger Wald.",
                 "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, durchsuche dein Deck und deinen Ablagestapel nach einer Schw\u00e4che und ziehe diese Karte: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
-                "flavor_text": "The Barrister's course winds through\na claustrophobic series of tunnels.",
+                "flavor_text": "Der Kurs des Barristers schl\u00e4ngelt sich durch eine enge Aneinanderreihung von Tunneln.",
                 "victory": "Sieg 1.",
                 "shroud": "4",
                 "clues": "1<per>",
@@ -5529,7 +5531,8 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eDer Schlarg widersteht allen Bestechungsversuchen\u201c, sinniert der Bankier, \u201eund muss daher an einer Schotterbank zu finden sein.\u201c Du bezweifelst den Zusammenhang, aber die nassen Fu\u00dfspuren, die du am Flussufer findest, sind Beweis genug, um die Jagd hier fortzusetzen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDer Schlarg widersteht allen Bestechungsversuchen\u201c, sinniert der Bankier, \u201eund muss daher an einer Schotterbank zu finden sein.\u201c Du bezweifelst den Zusammenhang, aber die nassen Fu\u00dfspuren, die du am Flussufer findest, sind Beweis genug, um die Jagd hier fortzusetzen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+                "name": "<name>"
             },
             "back": {
                 "type": "location",
@@ -5539,8 +5542,8 @@
                 "subtitle": "Die Spur des Bankiers",
                 "traits": "Wunderland. Tulger Wald.",
                 "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, geben Ermittler an diesem Ort als Gruppe 3 <per> Ressourcen aus: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
-                "flavor_text": "The Banker's pursuit ends at the banks of\na dangerous series of river rapids.",
-                "victory": "Victory 1.",
+                "flavor_text": "Das Vorhaben des Bankiers endet am Ufer einer gef\u00e4hrlichen Stromschnelle.",
+                "victory": "Sieg 1.",
                 "shroud": "4",
                 "clues": "1<per>",
                 "connection": "moon",
@@ -9616,7 +9619,8 @@
                 "type": "act_back",
                 "name": "Bitte aufmachen!",
                 "victory": "",
-                "text": "<blockquote>Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalentiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Karte Die \u00c4lteste Auster \u00fcbernimmt.\n<blockquote></blockquote>\n\n<blockquote></blockquote>"
+                "text": "<blockquote>Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalentiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Karte Die \u00c4lteste Auster \u00fcbernimmt.\n<blockquote></blockquote>\n\n<blockquote></blockquote>",
+                "index": "1b"
             },
             "expansion_number": "25",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
@@ -9832,7 +9836,7 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "6c4e5747-9272-4a96-a0f9-e2af80873bf5"
+            "eced1904-5a92-4c7b-a168-5c62e38217b6"
         ]
     },
     "icon": "./images/Alice in Wonderland.png",
