@@ -2973,7 +2973,8 @@
                 "flavor_text": "Der Hase und der Hutmacher scheinen h\u00f6chst zufrieden damit, ihre Feierlichkeiten im tobenden Chaos fortzusetzen. Jede Verletzung der Etikette beantwortet das Duo aber mit heftiger Emp\u00f6rung. Von den Schatten scheinen sie nichts zu wissen und noch weniger lassen sie sich von ihnen st\u00f6ren. Welche Rolle sie bei der Aufrechterhaltung dieses seltsamen Teetreibens spielen, ist unklar. Du solltest ihnen mit Vorsicht zu begegnen.",
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "index": "1c",
-                "illustrator": "Illus. Gregory Hildebrandt"
+                "illustrator": "Illus. Gregory Hildebrandt",
+                "doom": "<dash>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3040,12 +3041,12 @@
                 "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Zu Beginn der Mythosphase, falls sich keine Gegner im Spiel befinden: Platziere 1 Verderben auf der a-Agenda.",
                 "flavor_text": "Nach dem Tod von Hase und Hutmacher wird die schwebende Teeparty immer br\u00fcchiger. Schattenhafte Ranken kriechen von allen Seiten heran und versuchen, Tisch und St\u00fchle zu zerrei\u00dfen. Nutze die n\u00e4chsten Minuten, ehe alles zerf\u00e4llt.",
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
-                "doom": "-",
+                "doom": "<dash>",
                 "index": "3c",
                 "illustrator": "Illus. Gregory Hildebrandt"
             },
             "back": {
-                "type": "agenda_back",
+                "type": "agenda_portrait",
                 "illustration": "./images/Miscellaneous - Unknown 3.jpg",
                 "illustrator": "Illus. Unknown",
                 "name": "Du verschwendest deine Zeit!",
@@ -3055,7 +3056,8 @@
             "encounter_number": "8",
             "expansion_number": "54",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
-            "id": "68046166-c89e-48a2-8e43-9dfc627132b8"
+            "id": "68046166-c89e-48a2-8e43-9dfc627132b8",
+            "amount": 1
         },
         {
             "name": "Sturm im Teeglas",
@@ -5669,7 +5671,7 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eWir haben uns bei dieser Verfolgung die Sohlen abgelaufen\u201c, murrt der Stiefel und starrt auf ein Loch in seinem Schuh. \u201eUnd doch hat der Schlarg seine eigenen Schuhe nicht abgenutzt. Er muss stattdessen klettern!\u201c Diese Vermutung erscheint dir nicht ganz richtig, obwohl du eine Bewegung an einer nahe gelegenen Klippe erkennst.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eWir haben uns bei dieser Verfolgung die Sohlen abgelaufen\u201c, murrt der Bootblack und starrt auf ein Loch in seinem Schuh. \u201eUnd doch hat der Schlarg seine eigenen Schuhe nicht abgenutzt. Er muss stattdessen klettern!\u201c Diese Vermutung erscheint dir nicht ganz richtig, aber du erkennst eine Bewegung an einer nahe gelegenen Klippe.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
@@ -9836,7 +9838,8 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "eced1904-5a92-4c7b-a168-5c62e38217b6"
+            "5f839311-aeb5-427d-a92c-4356fb10b360",
+            "661bed2c-9366-43fc-b0b8-58d18872da0b"
         ]
     },
     "icon": "./images/Alice in Wonderland.png",
