@@ -119,76 +119,76 @@
             "meta": {
                 "location_graph": {
                     "bf5c0a74-f5f3-40dd-93af-e495cd1a2d8f_front": {
-                        "x": 200.0,
-                        "y": 0.0
+                        "x": -773.9064382150993,
+                        "y": 579.9705086724214
                     },
                     "13bf40a1-cd58-4bc5-a406-e24741cd7132_front": {
-                        "x": 400.0,
-                        "y": 0.0
+                        "x": -129.32412461938492,
+                        "y": 651.559521941948
                     },
                     "4f6a7564-90a6-4f39-b840-54bffaa127f3_front": {
-                        "x": 600.0,
-                        "y": 0.0
+                        "x": -475.47022981546684,
+                        "y": 861.0801562327047
                     },
                     "3fa836d2-da28-4581-a13c-b494b45f4775_front": {
-                        "x": 800.0,
-                        "y": 0.0
+                        "x": -313.08890840409913,
+                        "y": 684.7348206024892
                     },
                     "58baa03b-7eb3-4489-b8a6-1a138e45cb06_front": {
-                        "x": 0.0,
-                        "y": 228.0
+                        "x": -665.4857994606533,
+                        "y": 1008.6702136464362
                     },
                     "5fe59b98-44d5-4b5c-b0c2-36d7563765c2_front": {
-                        "x": 200.0,
-                        "y": 228.0
+                        "x": -691.916171860682,
+                        "y": 758.2299506875491
                     },
                     "0a385080-02b6-4a20-8d05-903f9fa9ec70_front": {
-                        "x": 400.0,
-                        "y": 228.0
+                        "x": -539.8716772271549,
+                        "y": 527.9907707373335
                     },
                     "6197cca4-18c1-450e-ac68-93bbe4d7334e_front": {
-                        "x": 600.0,
-                        "y": 228.0
+                        "x": -303.2172792671427,
+                        "y": 488.92027421404885
                     },
                     "f678bb87-f5ba-411a-9cdd-46b6f3d92011_front": {
-                        "x": 800.0,
-                        "y": 228.0
+                        "x": -71.93602624332397,
+                        "y": 850.3901079738916
                     },
                     "db5376f1-c38d-4af7-a82d-1febdb69562d_front": {
-                        "x": 0.0,
-                        "y": 456.0
+                        "x": -874.8489895838484,
+                        "y": 795.4268653528272
                     },
                     "e617ec7f-3cae-47c9-a350-fd327198f33e_front": {
-                        "x": 200.0,
-                        "y": 456.0
+                        "x": -853.7006765459977,
+                        "y": 1001.1328623306729
                     },
                     "9ce605cb-4d7d-4fd1-8cfc-b1a5f39e71da_front": {
-                        "x": 400.0,
-                        "y": 456.0
+                        "x": -429.3739922544553,
+                        "y": 1097.418316330199
                     },
                     "96bd6a02-b281-4a16-9491-12baf6c831e8_front": {
-                        "x": 600.0,
-                        "y": 456.0
+                        "x": -133.99109405738514,
+                        "y": 1078.201872570828
                     },
                     "3c6e2add-942a-4c37-83a6-a26414403b7b_front": {
-                        "x": 800.0,
-                        "y": 456.0
+                        "x": -243.8931612212918,
+                        "y": 926.6123092825767
                     },
                     "2468d4ea-e20e-4ca1-ad9b-2b98ac8b097b_front": {
-                        "x": 0.0,
-                        "y": 684.0
+                        "x": -712.0005980839234,
+                        "y": 1189.8221141897925
                     },
                     "50c1888d-6b79-46ff-a4a6-e4af0bf4c6fd_front": {
-                        "x": 200.0,
-                        "y": 684.0
+                        "x": -518.2913003963347,
+                        "y": 1262.763547781375
                     },
                     "32fd25f8-47c3-4a5b-9b1b-9e3ff5b529e1_front": {
-                        "x": 400.0,
-                        "y": 684.0
+                        "x": -286.2793196147901,
+                        "y": 1218.4765002550716
                     },
                     "2f2c26f3-0633-4eb6-91ff-f0ac7058b63e_front": {
-                        "x": 400.0,
-                        "y": 228.0
+                        "x": -539.8716772271549,
+                        "y": 527.9907707373335
                     }
                 }
             }
@@ -245,56 +245,56 @@
             "meta": {
                 "location_graph": {
                     "eca9a8a9-c310-4a2e-9a75-ca08abab369b_front": {
-                        "x": 265.70061086023213,
-                        "y": 607.6103692879702
+                        "x": 7.098921685843791,
+                        "y": 451.16421431149524
                     },
                     "67ae1b9c-87f3-4bcd-922a-443936daef27_front": {
-                        "x": 81.1939071405814,
-                        "y": 514.2053371369885
+                        "x": 275.33238986434526,
+                        "y": 444.3963554412121
                     },
                     "f31e7367-b5f0-4ed0-ae41-816e36151438_back": {
-                        "x": 648.4966352573597,
-                        "y": 756.8627730036961
+                        "x": 15.464837742887653,
+                        "y": 759.4850674171969
                     },
                     "eced1904-5a92-4c7b-a168-5c62e38217b6_back": {
-                        "x": 642.201571789431,
-                        "y": 750.5370270989612
+                        "x": 15.120913565817148,
+                        "y": 757.6341155564783
                     },
                     "8690f39e-6673-40ab-adad-ae527166eda1_back": {
-                        "x": 647.8830118451692,
-                        "y": 753.9342029654402
+                        "x": 16.203532473978612,
+                        "y": 758.8276676354242
                     },
                     "d2d6602f-7ada-4366-a6c3-c7df17716575_back": {
-                        "x": -240.69545425220977,
-                        "y": 188.19411299719192
+                        "x": -388.23937831594526,
+                        "y": 305.83248576857704
                     },
                     "957a47a2-fe86-47bb-bd41-1db41df7bcfa_back": {
-                        "x": -239.57557293912794,
-                        "y": 191.58758706569114
+                        "x": -389.68663652666964,
+                        "y": 309.44501127024466
                     },
                     "779e7b30-84e7-446a-87a8-2c1c7ce874cf_back": {
-                        "x": -244.89798591775929,
-                        "y": 181.86181385917553
+                        "x": -392.84553507726037,
+                        "y": 307.0644149481136
                     },
                     "661bed2c-9366-43fc-b0b8-58d18872da0b_back": {
-                        "x": -238.74543308413038,
-                        "y": 187.54465187376013
+                        "x": -388.68757000035134,
+                        "y": 307.72427834311566
                     },
                     "c8ee2ff2-ec4e-4ef9-8abb-844aa2b8dbfe_back": {
-                        "x": 651.3557222109248,
-                        "y": 751.1519061672577
+                        "x": 11.240793827676043,
+                        "y": 763.4810594776482
                     },
                     "83fe89e9-bbf8-4b8d-a91d-69d06bbe7c5b_front": {
-                        "x": 264.4280515324658,
-                        "y": 513.493832334248
+                        "x": 149.1140830785303,
+                        "y": 446.9450165595189
                     },
                     "f42dab6e-3e0e-4e4e-86c4-c01b303db3b9_front": {
-                        "x": 262.8735649155846,
-                        "y": 407.19164954732463
+                        "x": 143.75563879446918,
+                        "y": 304.57720451661135
                     },
                     "e2e2b5e9-a37f-45ca-91ee-9f7e88ca76d2_front": {
-                        "x": 453.2441825507376,
-                        "y": 499.99156085888427
+                        "x": 150.59082079594663,
+                        "y": 551.5899329509582
                     }
                 }
             }
@@ -1440,7 +1440,8 @@
                 "type": "act_back",
                 "name": "Neue Nachbarn",
                 "victory": "",
-                "text": "<blockquote>Die Katze erscheint wieder auf einem Ast direkt \u00fcber dir und grinst wie immer. \u201eDie Wahrheit ist viel wahrer, wenn man sie findet, als wenn man sie sagt\u201c, schnurrt sie, \u201eaber die Schatten werden lang. Meinst du nicht, dass es an der Zeit ist, nach Hause zu gehen? Nat\u00fcrlich nicht zu dir nach Hause, sondern zu Alice. Es liegt in der Nachbarschaft, du wirst schon sehen.\u201c</blockquote>\nBringe den beiseitegelegten Ort Verlassenes Haus ins Spiel.\nDer Ermittlungsleiter \u00fcbernimmt die Kontrolle \u00fcber die beiseitegelegte Vorteilskarte Die Grinsekatze <i>(Wahnsinniger Wegweiser)</i>. \nMische das beiseitegelegte Begegnungsset <i>Grinsekatze</i> in das Begegnungsdeck."
+                "text": "<blockquote>Die Katze erscheint wieder auf einem Ast direkt \u00fcber dir und grinst wie immer. \u201eDie Wahrheit ist viel wahrer, wenn man sie findet, als wenn man sie sagt\u201c, schnurrt sie, \u201eaber die Schatten werden lang. Meinst du nicht, dass es an der Zeit ist, nach Hause zu gehen? Nat\u00fcrlich nicht zu dir nach Hause, sondern zu Alice. Es liegt in der Nachbarschaft, du wirst schon sehen.\u201c</blockquote>\nBringe den beiseitegelegten Ort Verlassenes Haus ins Spiel.\nDer Ermittlungsleiter \u00fcbernimmt die Kontrolle \u00fcber die beiseitegelegte Vorteilskarte Die Grinsekatze <i>(Wahnsinniger Wegweiser)</i>. \nMische das beiseitegelegte Begegnungsset <i>Grinsekatze</i> in das Begegnungsdeck.",
+                "index": "1b"
             },
             "encounter_number": "3",
             "project_number": "3",
@@ -1531,7 +1532,8 @@
                 "type": "agenda_back",
                 "victory": "",
                 "text": "<blockquote>Die Stadt bricht aus allen N\u00e4hten, w\u00e4hrend schattenhafte Kreaturen sie weiter aufl\u00f6sen, indem sie alles verzehren, was sie zerrei\u00dfen k\u00f6nnen. Geb\u00e4ude st\u00fcrzen ein, w\u00e4hrend sich ihre Ziegel in elfenbeinfarbene Dominosteine verwandeln, Stra\u00dfenlaternen sprie\u00dfen und erbl\u00fchen wie G\u00e4nsebl\u00fcmchen, und der Boden selbst verschiebt sich wie ein Teppich auf poliertem Boden. Je st\u00e4rker die Verzerrungen werden, desto mehr fragt man sich, ob die Ver\u00e4nderungen \u00fcberhaupt noch r\u00fcckg\u00e4ngig gemacht werden k\u00f6nnen.</blockquote>\nDrehe den zum Arkham Sanatorium n\u00e4chstgelegenen Ort, der nicht das Merkmal <t>Wunderland</t> besitzt, um und platziere 1<per> Hinweis darauf. Jeder Ermittler an diesem Ort nimmt 1 Schaden und 1 Horror.\nFalls jeder Ort, der sich im Spiel befindet, das Merkmal <t>Wunderland</t> besitzt, ist jeder Ermittler, der nicht aufgegeben hat, besiegt und erleidet 1 k\u00f6rperliches oder seelisches Trauma (du entscheidest). \nAnsonsten drehe diese Karte wieder um.",
-                "name": "Tr\u00e4ume vom Wunderland"
+                "name": "Tr\u00e4ume vom Wunderland",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "2",
@@ -2867,7 +2869,7 @@
                 "type": "act_back",
                 "name": "Tee und Sympathie",
                 "victory": "",
-                "text": "<blockquote>Du findest die eine Tasse Tee, die ein viel angenehmeres Aroma hat als die anderen, und h\u00e4ltst sie der Haselmaus vor die Nase. Zuerst regt sie sich leicht, dann erwacht sie pl\u00f6tzlich mit einem lauten Keuchen. Panik ergreift sie, bis sie sieht, dass du besorgt auf sie herabschaust. \u201eDu bist... du bist hier, um zu helfen...?\u201d, fragt sie dich mit einem Zittern in der Stimme. Du nickst, und sie nickt schnell zur\u00fcck. \u201eEndlich Hilfe... gut, gut. Die Dinger machen Jagd auf Tr\u00e4ume, sogar innerhalb eines Traums. Wenn du einschl\u00e4fst, bist du wie ein Fisch im Topf. Wir m\u00fcssen diese Schatten verjagen, indem wir den Tisch und die St\u00fchle wieder im Wunderland verankern.\u201d</blockquote>",
+                "text": "<blockquote>Du findest die eine Tasse Tee, die ein viel angenehmeres Aroma hat als die anderen, und h\u00e4ltst sie der Haselmaus vor die Nase. Zuerst regt sie sich leicht, dann erwacht sie pl\u00f6tzlich mit einem lauten Keuchen. Panik ergreift sie, bis sie sieht, dass du besorgt auf sie herabschaust. \u201eDu bist... du bist hier, um zu helfen...?\u201d, fragt sie dich mit einem Zittern in der Stimme. Du nickst, und sie nickt schnell zur\u00fcck. \u201eEndlich Hilfe... gut, gut. Die Dinger machen Jagd auf Tr\u00e4ume, sogar innerhalb eines Traums. Wenn du einschl\u00e4fst, bist du leichte Beute. Wir m\u00fcssen diese Schatten verjagen, indem wir den Tisch und die St\u00fchle wieder im Wunderland verankern.\u201d</blockquote>",
                 "index": "2b"
             },
             "encounter_number": "10",
@@ -2902,7 +2904,7 @@
             "front": {
                 "type": "agenda",
                 "text": "An jedem <t>Stuhl</t>-Ort kann sich max. ein Ermittler oder Gegner befinden.\nDie Regeln f\u00fcr <t>Stuhl</t>-Orte sind im Kampagnenleitfaden.\nAlle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
-                "flavor_text": "Die wirbelnden Schatten haben dich die Teegesellschaft eingeschlossen. Um dich kreisen viele wacklige St\u00fchle, keiner l\u00e4dt zum Verweilen ein. Wenn du zur\u00fcck auf festen Boden willst, musst du dich beeilen",
+                "flavor_text": "Die wirbelnden Schatten umkreisen und isolieren dich vom Rest der Teegesellschaft. Um dich kreisen wacklige St\u00fchle, keiner l\u00e4dt zum Verweilen ein. Wenn du zur\u00fcck auf festen Boden willst, musst du dich beeilen.",
                 "illustration": "./images/Teapot - Unknown.jpg",
                 "doom": "6",
                 "index": "1a",
@@ -2912,7 +2914,8 @@
                 "type": "agenda_back",
                 "name": "Nicht nach deinem Geschmack",
                 "victory": "",
-                "text": "<blockquote>W\u00e4hrend die St\u00fchle kommen und gehen und wirren Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft.</blockquote>\nHeile jeweils 2<per> Schaden vom Hutmacher und dem M\u00e4rzhasen."
+                "text": "<blockquote>W\u00e4hrend die St\u00fchle kommen und gehen und wirren Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft.</blockquote>\nHeile jeweils 2<per> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "48",
@@ -3206,7 +3209,7 @@
                 "shroud": "2",
                 "connection": "circle",
                 "connections": [
-                    "square_alt"
+                    "square"
                 ],
                 "illustrator": "Illus. n/a",
                 "illustration_pan_x": 32,
@@ -3374,8 +3377,7 @@
                 "shroud": "2",
                 "connection": "circle",
                 "connections": [
-                    "square",
-                    "circle"
+                    "square"
                 ],
                 "illustrator": "Illus. n/a",
                 "illustration_pan_x": 32,
@@ -4090,7 +4092,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Kreatur. Verr\u00fcckt.",
-                "text": "J\u00e4ger.\nX entspricht der Anzahl an Hinweisen auf dem Ort des Besessenen Bescuchers und allen benachbarten <t>Stuhl</t>-Orten (maximal 5).",
+                "text": "J\u00e4ger.\nX entspricht der Anzahl an Hinweisen auf dem Ort des Besessenen Besuchers und allen benachbarten <t>Stuhl</t>-Orten (maximal 5).",
                 "health": "3",
                 "evade": "2",
                 "attack": "X",
@@ -4146,7 +4148,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "Falls du \u201eschreckliche Tischmanieren hast\u201c, erh\u00e4lt <name> Wagnis und diese Probe bekommt +2 Schwierigkeit.\n<rev> Lege eine <willpower>-Probe (2) ab. Falls die Probe misslingst, nimmst du 1 Horror und verlierst 1 Aktion.",
+                "text": "Falls du \u201eschreckliche Tischmanieren hast\u201c, erh\u00e4lt <name> Wagnis und diese Probe bekommt +2 Schwierigkeit.\n<rev> Lege eine <willpower>-Probe (2) ab. Falls die Probe misslingt, nimmst du 1 Horror und verlierst 1 Aktion.",
                 "flavor_text": "\u201eIch hab' dir gesagt, Butter w\u00fcrde dem Uhrwerk nicht bekommen!\u201c",
                 "victory": "",
                 "illustration": "./images/Mad Tea Party - Salvador Dali.jpg",
@@ -4214,7 +4216,8 @@
                 "type": "act_back",
                 "name": "Freunde am Hof",
                 "victory": "",
-                "text": "<blockquote>Es gelingt dir, dich beim Hofstaat der K\u00f6nigin so beliebt zu machen, dass die Wachen ihre Kontrollen lockern. Nun, da du Zugang zu den besser bewachten Teilen des Schlosses hast, kannst du endlich Fortschritte bei der Suche nach dem T\u00e4ter machen. Allerdings ist w\u00e4hrend deiner ersten Erkundung des Schlosses ein gr\u00f6\u00dferes Problem zutage getreten. In den dunkleren Ecken des Schlosses lauern schattenhafte Kreaturen, die oft dort anzutreffen sind, wo Kr\u00fcmel von den T\u00f6rtchen verstreut liegen. Wenn Gurathnakas Schergen das Schloss angreifen wollen, lassen sie sich auf jeden Fall Zeit damit.</blockquote>"
+                "text": "<blockquote>Es gelingt dir, dich beim Hofstaat der K\u00f6nigin so beliebt zu machen, dass die Wachen ihre Kontrollen lockern. Nun, da du Zugang zu den besser bewachten Teilen des Schlosses hast, kannst du endlich Fortschritte bei der Suche nach dem T\u00e4ter machen. Allerdings ist w\u00e4hrend deiner ersten Erkundung des Schlosses ein gr\u00f6\u00dferes Problem zutage getreten. In den dunkleren Ecken des Schlosses lauern schattenhafte Kreaturen, die oft dort anzutreffen sind, wo Kr\u00fcmel von den T\u00f6rtchen verstreut liegen. Wenn Gurathnakas Schergen das Schloss angreifen wollen, lassen sie sich auf jeden Fall Zeit damit.</blockquote>",
+                "index": "1b"
             },
             "encounter_number": "5",
             "project_number": "91",
@@ -4248,7 +4251,7 @@
             "name": "Wutbew\u00e4ltigung",
             "front": {
                 "type": "act",
-                "text": "<action> Wenn du am Ort des Herz-Bubens bist, gib 1 Hinweis aus: Platziere 1 Schaden auf deinen Ort und bewege den Herz-Buben an einen verbundenen Ort.\n<reaction> Nachdem du einen Gegner besiegt hast: Platziere 1 Schaden auf deinen Ort.\n<reaction> Nachdem die Herz-K\u00f6nigin einen Ort betreten hat: Entferne allen Schaden von diesem Ort und platziere so viel Horror auf der Herz-K\u00f6nigin.\n<obj> Falls sich 3<per> oder mehr Horror auf der Herz-K\u00f6nigin befinden, r\u00fccke vor.",
+                "text": "<action> Wenn du am Ort des Herz-Bubens bist, gib 1 Hinweis aus: Platziere 1 Schaden auf deinem Ort und bewege den Herz-Buben an einen verbundenen Ort.\n<reaction> Nachdem du einen Gegner besiegt hast: Platziere 1 Schaden auf deinen Ort.\n<reaction> Nachdem die Herz-K\u00f6nigin einen Ort betreten hat: Entferne allen Schaden von diesem Ort und platziere so viel Horror auf der Herz-K\u00f6nigin.\n<obj> Falls sich 3<per> oder mehr Horror auf der Herz-K\u00f6nigin befinden, r\u00fccke vor.",
                 "flavor_text": "Der Knabe ist vielleicht nicht die vertrauensw\u00fcrdigste Person, die du je getroffen hast, aber die Gefahr, dass Gurathnakas Schatten das Schloss verschlingen, l\u00e4sst dir keine andere Wahl.",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
                 "index": "3a",
@@ -4258,7 +4261,7 @@
                 "type": "act_back",
                 "name": "Aufschub der Vollstreckung",
                 "victory": "",
-                "text": "<blockquote>Deine Versuche, die K\u00f6nigin zu provozieren, zeigen sofort Wirkung. Deine direkte Einmischung und die gekonnte Sabotage des Schlosses durch den Buben haben die Herzk\u00f6nigin endg\u00fcltig \u00fcber ihre Grenzen hinausgetrieben. \u201eDEN KOPF IHNEN AB!\u201c, br\u00fcllt sie mit einem Gesicht, so rot ist wie ihre eigenen Rosen, und beginnt einen Wutanfall. Schatten huschen durch das Schloss und n\u00e4hern sich der K\u00f6nigin, die mitten in ihrem Zusammenbruch steckt.</blockquote>\n(<b><resolution>A2</b>)",
+                "text": "<blockquote>Deine Versuche, die K\u00f6nigin zu provozieren, zeigen sofort Wirkung. Deine direkte Einmischung und die gekonnte Sabotage des Schlosses durch den Buben haben die Herzk\u00f6nigin endg\u00fcltig \u00fcber ihre Grenzen hinausgetrieben. \u201eDEN KOPF IHNEN AB!\u201c, br\u00fcllt sie mit einem Gesicht, so rot ist wie ihre eigenen Rosen, und verf\u00e4llt in Tobsucht. Schatten huschen durch das Schloss und n\u00e4hern sich der K\u00f6nigin, die mitten in ihrem Zusammenbruch steckt.</blockquote>\n(<b><resolution>A2</b>)",
                 "index": "3b"
             },
             "encounter_number": "7",
@@ -4281,7 +4284,8 @@
                 "type": "agenda_back",
                 "name": "Zack zack oder Kopf ab!",
                 "victory": "",
-                "text": "<blockquote>\u201eHabt ihr den Schuldigen noch immer nicht gefunden?! Den Kopf ihr ab!\u201c\nDie Laune der K\u00f6nigin wird sichtlich immer schlechter, und der Scharfrichter wetzt schon die Axt, um ihrem Wunsch Folge zu leisten.</blockquote>\nFalls der Scharfrichter im Spiel ist, platziere 1 Verderben auf ihm.\nAnsonsten durchsuche das Begegnungsdeck und den Ablagestapel nach dem Scharfrichter und bringe ihn ins Spiel."
+                "text": "<blockquote>\u201eHabt ihr den Schuldigen noch immer nicht gefunden?! Den Kopf ihr ab!\u201c\nDie Laune der K\u00f6nigin wird sichtlich immer schlechter, und der Scharfrichter wetzt schon die Axt, um ihrem Wunsch Folge zu leisten.</blockquote>\nFalls der Scharfrichter im Spiel ist, platziere 1 Verderben auf ihm.\nAnsonsten durchsuche das Begegnungsdeck und den Ablagestapel nach dem Scharfrichter und bringe ihn ins Spiel.",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "88",
@@ -4325,7 +4329,7 @@
             "back": {
                 "type": "agenda_back",
                 "victory": "",
-                "text": "<blockquote>Die schiere Anzahl der Kartenwachen versperrt jeden Fluchtweg. Mit dem R\u00fccken zur Steinwand und Ausweg starrst du grimmig auf die K\u00f6nigin und ihren Henker, die sich dir n\u00e4hern. \u201eDen Kopf ihnen ab! Kopf ab!\u201c</blockquote>\nJeder Ermittler, der nicht aufgegeben hat, wird besiegt.",
+                "text": "<blockquote>Die schiere Anzahl der Kartenwachen versperrt jeden Fluchtweg. Mit dem R\u00fccken zur Steinwand und ohne Ausweg starrst du grimmig die K\u00f6nigin und ihren Henker an, die sich dir n\u00e4hern. \u201eDen Kopf ihnen ab! Kopf ab!\u201c</blockquote>\nJeder Ermittler, der nicht aufgegeben hat, wird besiegt.",
                 "name": "N\u00e4chster auf dem Schafott",
                 "index": "3b"
             },
@@ -4712,7 +4716,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Majest\u00e4tischer Magistrat",
                 "traits": "Wunderland. Karte. Adlig.",
-                "text": "<action>: <b>Verhandlung</b>. Bewege bis zu 3 Anschuldigungen von deiner Kopie von K\u00f6niglicher Verdacht auf eine andere Kopie von K\u00f6niglicher Verdacht. Jeder Ermittler am Ort des Herz-K\u00f6nigs darf diese F\u00e4higkeit aktivieren.\n<action>: Gib eine beliebige Anzahl Ressourcen aus: <b>Verhandlung</b>. F\u00fcr je drei ausgegebene Ressourcen darfst du 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht entfernen. Jeder Ermittler am Ort des Herz-K\u00f6nigs darf diese F\u00e4higkeit aktivieren.",
+                "text": "<action>: <b>Verhandlung</b>. Bewege bis zu 3 Anschuldigungen von deiner Kopie von K\u00f6niglicher Verdacht auf eine andere Kopie von K\u00f6niglicher Verdacht.\n<action>: Gib eine beliebige Anzahl Ressourcen aus: <b>Verhandlung</b>. F\u00fcr je drei ausgegebene Ressourcen darfst du 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht entfernen.",
                 "cost": "<dash>",
                 "flavor_text": "Seiner \"Verurteilung\" folgt meist auch eine \"Teilung\".",
                 "victory": "",
@@ -5040,7 +5044,8 @@
                 "type": "act_back",
                 "name": "Die Lage der Dinge",
                 "victory": "",
-                "text": "<blockquote>Du und die anderen Schlarg-J\u00e4ger berichten von eurer Erkundung der unmittelbaren Umgebung, aber der B\u00fcttel ist mit seinem eigenen Fund besch\u00e4ftigt. In der N\u00e4he des Tamtam-Baums steht er \u00fcber einem kleinen Graben, in dem ein weggeworfenes Schwert halb im Schlamm vergraben liegt. \u201eBodyguard!\u201c, ruft er und sucht dich mit den Augen. \u201eEs ist wichtig, dass der Bodyguard alle unsere Waffen verwaltet, bis wir den Schlarg finden. Komm und nimm sie mit! Sie sollte uns helfen, das Biest in die Knie zu zwingen!\u201c Du kommst dem B\u00fcttel widerwillig nach, bist aber \u00fcberrascht, eine Waffe von hoher Qualit\u00e4t und in gutem Zustand vorzufinden.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Storyvorteilskarte Das vorpale Schwert \u00fcbernimmt. F\u00fcr den Rest des Szenarios ben\u00f6tigt die Karte keinen Handslot."
+                "text": "<blockquote>Du und die anderen Schlarg-J\u00e4ger berichten von eurer Erkundung der unmittelbaren Umgebung, aber der B\u00fcttel ist mit seinem eigenen Fund besch\u00e4ftigt. In der N\u00e4he des Tamtam-Baums steht er \u00fcber einem kleinen Graben, in dem ein weggeworfenes Schwert halb im Schlamm vergraben liegt. \u201eBodyguard!\u201c, ruft er und sucht dich mit den Augen. \u201eEs ist wichtig, dass der Bodyguard alle unsere Waffen verwaltet, bis wir den Schlarg finden. Komm und nimm sie mit! Sie sollte uns helfen, das Biest in die Knie zu zwingen!\u201c Du kommst dem B\u00fcttel widerwillig nach, bist aber \u00fcberrascht, eine Waffe von hoher Qualit\u00e4t und in gutem Zustand vorzufinden.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Storyvorteilskarte Das vorpale Schwert \u00fcbernimmt. F\u00fcr den Rest des Szenarios ben\u00f6tigt die Karte keinen Handslot.",
+                "index": "1b"
             },
             "encounter_number": "5",
             "project_number": "118",
@@ -5077,7 +5082,7 @@
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Jeffrey Fisher",
-                "flavor_text": "\u201eDas ist unsere Chance!\u201c, br\u00fcllt der B\u00fcttel. \u201eSucht es mit Fingerh\u00fcten, sucht es mit Sorgfalt! Verfolgt es mit Gabeln und Hoffnung! Bedroht sein Leben mit einer Eisenbahn-Aktie! Bezaubert es mit L\u00e4cheln und Seife! Variiert nur eure Methoden, sonst k\u00f6nnte der Snark misstrauisch werden!\u201c"
+                "flavor_text": "\u201eDas ist unsere Chance!\u201c, br\u00fcllt der B\u00fcttel. \u201eSucht es mit Fingerh\u00fcten, sucht es mit Sorgfalt! Verfolgt es mit Gabeln und Hoffnung! Bedroht sein Leben mit einer Eisenbahn-Aktie! Bezaubert es mit L\u00e4cheln und Seife! Variiert nur eure Methoden, sonst k\u00f6nnte der Schlarg misstrauisch werden!\u201c"
             },
             "back": {
                 "type": "act_back",
@@ -5106,7 +5111,8 @@
                 "type": "agenda_back",
                 "name": "Ein schreckliches Burbeln",
                 "victory": "",
-                "text": "<blockquote>Der tulge Wald hallt wider von einem schrecklichen Ger\u00e4usch, einem unbeschreiblichen Zischen, Gurgeln und Br\u00fcllen. Du musst nicht fragen, was f\u00fcr ein Monster dieses Ger\u00e4usch verursachen k\u00f6nnte, denn du siehst es durch den Wald auf dich zurasen. Es ist ein riesiges, abscheuliches Wesen mit feurigen Augen und messerscharfen Klauen, das beim Vorbeilaufen B\u00e4ume zerrei\u00dft. Angst durchstr\u00f6mt deine Adern und du hast nur wenige Sekunden Zeit, dich f\u00fcr fliehen oder k\u00e4mpfen zu entscheiden.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Der Rest des beiseitegelegten Begegnungssets <i>Schebberoch</i> wird ins Begegnungsdeck gemischt."
+                "text": "<blockquote>Der Tulge Wald hallt wider von einem schrecklichen Ger\u00e4usch, einem unbeschreiblichen Zischen, Gurgeln und Br\u00fcllen. Du musst nicht fragen, was f\u00fcr ein Monster dieses Ger\u00e4usch verursachen k\u00f6nnte, denn du siehst es durch den Wald auf dich zurasen. Es ist ein riesiges, abscheuliches Wesen mit feurigen Augen und messerscharfen Klauen, das beim Vorbeilaufen B\u00e4ume zerrei\u00dft. Angst durchstr\u00f6mt deine Adern und du hast nur wenige Sekunden Zeit, dich f\u00fcr fliehen oder k\u00e4mpfen zu entscheiden.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Der Rest des beiseitegelegten Begegnungssets <i>Schebberoch</i> wird ins Begegnungsdeck gemischt.",
+                "index": "1b"
             },
             "encounter_number": "2",
             "project_number": "115",
@@ -5118,7 +5124,7 @@
             "front": {
                 "type": "agenda",
                 "text": "<action> Erleide 1 k\u00f6rperliches Trauma und 1 seelisches Trauma: <b>Aufgeben.</b> Du brichst die Suche ab und hoffst, den Pfad hinaus zu finden.",
-                "flavor_text": "\u201eEs ist der Schebberoch!\u201c, ruft der B\u00fcttel und schwingt wild seine Glocke. Die Warnung hilft dir nicht im Geringsten, da du dich bereits mitten im Kampf mit ihm befindest. Das Monster st\u00fcrzt sich auf dich und verschwindet mitten in seinen wilden Angriffen, sodass du dich fragst, wo und wann es als N\u00e4chstes zuschlagen wird. Du versuchst, die Suche fortzusetzen und gleichzeitig diese zus\u00e4tzliche Bedrohung im Blick zu halten, aber der Angriff des Schebberochs bringt auch noch viel finstererer Wesen mit sich.",
+                "flavor_text": "\u201eEs ist der Schebberoch!\u201c, ruft der B\u00fcttel und schwingt wild seine Glocke. Die Warnung hilft dir nicht im Geringsten, da du dich bereits mitten im Kampf mit ihm befindest. Das Monster st\u00fcrzt sich auf dich und verschwindet mitten in seinen wilden Angriffen, sodass du dich fragst, wo und wann es als N\u00e4chstes zuschlagen wird. Du versuchst, die Suche fortzusetzen und gleichzeitig diese zus\u00e4tzliche Bedrohung im Blick zu halten, aber der Angriff des Schebberochs bringt auch noch viel finsterere Wesen mit sich.",
                 "illustration": "./images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
                 "doom": "5",
                 "index": "2a",
@@ -5128,8 +5134,9 @@
                 "type": "agenda_back",
                 "name": "Erschlugst den Schebberoch?",
                 "victory": "",
-                "text": "<blockquote>Die teuflische Kreatur greift mit zunehmender H\u00e4ufigkeit und Heftigkeit an, w\u00e4hrend du versuchst, den Tulgen Wald zu durchk\u00e4mmen. Wohin du dich auch wendest, die brennenden Augen und b\u00f6sartigen Klauen des Schebberochs sind \u00fcberall. Selbst deine besten Angriffe lassen dich daran zweifeln, ob das Biest \u00fcberhaupt get\u00f6tet werden kann.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch und dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per> Schaden auf ihn.",
-                "index": "2b"
+                "text": "Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch und dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per> Schaden auf ihn.",
+                "index": "2b",
+                "flavor_text": "Die teuflische Kreatur greift mit zunehmender H\u00e4ufigkeit und Heftigkeit an, w\u00e4hrend du versuchst, den Tulgen Wald zu durchk\u00e4mmen. Wohin du dich auch wendest, die brennenden Augen und b\u00f6sartigen Klauen des Schebberochs sind \u00fcberall. Selbst deine besten Angriffe lassen dich daran zweifeln, ob das Biest \u00fcberhaupt get\u00f6tet werden kann."
             },
             "encounter_number": "3",
             "project_number": "116",
@@ -5149,10 +5156,10 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Eight Bells",
                 "victory": "",
                 "text": "<blockquote>W\u00e4hrend die Schlarg-J\u00e4ger bei ihrer Suche immer weiter auseinander geraten, versucht der B\u00fcttel, die Moral der Gruppe aufrechtzuerhalten. Die Glocke l\u00e4utet und klirrt, aber mittlerweile kann sie nur noch die Aufmerksamkeit der Schatten auf sich ziehen, die durch den Angriff des Schebberochs entstanden sind.</blockquote>\nJeder Ermittler, der nicht aufgegeben hat, ist besiegt.",
-                "index": "3b"
+                "index": "3b",
+                "name": "Jetzt schl\u00e4gts dreizehn"
             },
             "encounter_number": "4",
             "project_number": "117",
@@ -5239,8 +5246,8 @@
                 "shroud": "2",
                 "connection": "cross",
                 "connections": [
-                    "squiggle_alt",
-                    "tear",
+                    "slash",
+                    "quote",
                     "hourglass",
                     "square"
                 ],
@@ -5275,13 +5282,13 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Vorteilskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem <name> liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Vorteilskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem <name>.",
                 "flavor_text": "Du musst einige deiner Vorr\u00e4te umfunktionieren, um hier auf Erkundung zu gehen.",
                 "victory": "",
                 "illustration": "./images/Chasms - Noah Bradley.jpg",
                 "clues": "1<per>",
                 "shroud": "4",
-                "connection": "tear",
+                "connection": "quote",
                 "connections": [
                     "cross",
                     "star",
@@ -5317,12 +5324,12 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Fertigkeitskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf der Anh\u00e4ufung von Felsen liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Fertigkeitskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf der Anh\u00e4ufung von Felsen.",
                 "victory": "",
                 "illustration": "./images/Environment - Logan Feliciano 2.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "connection": "squiggle_alt",
+                "connection": "slash",
                 "connections": [
                     "cross",
                     "moon",
@@ -5357,7 +5364,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Ereigniskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem engen Tal liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Ereigniskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem engen Tal.",
                 "victory": "",
                 "illustration": "./images/Environment - Niels Hoyle-Dodson 1.jpg",
                 "clues": "1<per>",
@@ -5396,7 +5403,7 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>Zuletzt f\u00e4llt deine Aufmerksamkeit auf den B\u00e4cker, der unb\u00e4ndig schreit und wild mit den Armen wedelt. \u201eHier ist ein Schlarg! Juch! Jach! Endlich ist unsere Beute in Sicht!\u201c Die Meldung des B\u00e4ckers klingt zu sch\u00f6n, um wahr zu sein. Da du den Rest des tulgen Waldes bereits durchk\u00e4mmt hast, k\u00f6nnte die Behauptung des B\u00e4ckers glaubw\u00fcrdig sein - wenn hier \u00fcberhaupt ein Snark zu finden ist.</i>\n<for> Wenn sich genau 1 Ort ohne Horror im Spiel befindet: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>Zuletzt f\u00e4llt deine Aufmerksamkeit auf den B\u00e4cker, der unb\u00e4ndig schreit und wild mit den Armen wedelt. \u201eHier ist ein Schlarg! Juch! Jach! Endlich ist unsere Beute in Sicht!\u201c Die Meldung des B\u00e4ckers klingt zu sch\u00f6n, um wahr zu sein. Da du den Rest des Tulgen Waldes bereits durchk\u00e4mmt hast, k\u00f6nnte die Behauptung des B\u00e4ckers glaubw\u00fcrdig sein - wenn hier \u00fcberhaupt ein Schlarg zu finden ist.</i>\n<for> Wenn sich genau 1 Ort ohne Horror im Spiel befindet: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "enemy",
@@ -5446,7 +5453,7 @@
                 "connections": [
                     "moon",
                     "hourglass",
-                    "squiggle_alt",
+                    "slash",
                     "star"
                 ]
             },
@@ -5461,7 +5468,7 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eDurchs dichte Geh\u00f6lz nagte ich mich, aber vom Schlarg ist keine Spur,\" murrt der Biber, Er muss sich noch tiefer im Unterholz verstecken.\u201c Der Wald ist ohnehin schon voller Gefahren, aber auf Dr\u00e4ngen des Bibers gehst du weiter in Richtung eines schattigen und abgelegenen Tals.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDurchs dichte Geh\u00f6lz nagte ich mich, aber vom Schlarg ist keine Spur,\" murrt der Biber, \u201eer muss sich noch tiefer im Unterholz verstecken.\u201c Der Wald ist ohnehin schon voller Gefahren, aber auf Dr\u00e4ngen des Bibers gehst du weiter in Richtung eines schattigen und abgelegenen Tals.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
@@ -5479,7 +5486,7 @@
                 "connections": [
                     "moon",
                     "hourglass",
-                    "squiggle_alt",
+                    "slash",
                     "star"
                 ],
                 "illustration_pan_x": 18,
@@ -5496,7 +5503,7 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eDer Schlarg muss an einem tiefen, einsamen Ort sein\u201c, spekuliert der Barrister, \u201esonst h\u00e4tte er auf meine Vorladung zu Gericht reagiert.\u201c Du bist dir nicht sicher, ob der Snark \u00fcberhaupt lesen kann, aber die seltsamen Ger\u00e4usche, die aus einer nahe gelegenen H\u00f6hle dringen, sind Grund genug, sie zu durchsuchen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDer Schlarg muss an einem tiefen, einsamen Ort sein\u201c, spekuliert der Barrister, \u201esonst h\u00e4tte er auf meine Vorladung zu Gericht reagiert.\u201c Du bist dir nicht sicher, ob der Schlarg \u00fcberhaupt lesen kann, aber die seltsamen Ger\u00e4usche, die aus einer nahe gelegenen H\u00f6hle dringen, sind Grund genug, sie zu durchsuchen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
             },
             "back": {
                 "type": "location",
@@ -5514,7 +5521,7 @@
                 "connections": [
                     "moon",
                     "hourglass",
-                    "squiggle_alt",
+                    "slash",
                     "star"
                 ],
                 "illustration_pan_x": 12,
@@ -5552,7 +5559,7 @@
                 "connections": [
                     "moon",
                     "hourglass",
-                    "squiggle_alt",
+                    "slash",
                     "star"
                 ],
                 "illustration_pan_x": 2,
@@ -5587,7 +5594,7 @@
                 "connections": [
                     "star",
                     "square",
-                    "tear",
+                    "slash",
                     "moon"
                 ],
                 "flavor_text": "Die F\u00e4hrte des Billard-Mark\u00f6rs zwingt dich, eine riesige Schlucht zu \u00fcberqueren."
@@ -5621,7 +5628,7 @@
                 "connections": [
                     "star",
                     "square",
-                    "tear",
+                    "slash",
                     "moon"
                 ],
                 "illustration_pan_x": -642,
@@ -5656,7 +5663,7 @@
                 "connections": [
                     "star",
                     "square",
-                    "tear",
+                    "slash",
                     "moon"
                 ]
             },
@@ -5688,7 +5695,7 @@
                 "connections": [
                     "star",
                     "square",
-                    "tear",
+                    "slash",
                     "moon"
                 ],
                 "flavor_text": "Die Route des Bootblacks f\u00fchrt dich zu einem kleinen Felsvorsprung an einer steilen Felswand.",
@@ -5731,7 +5738,7 @@
                 "illustration_scale": 0.94
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "13",
             "project_number": "126",
@@ -9643,7 +9650,8 @@
                 "type": "act_back",
                 "name": "H\u00fctchenspiel",
                 "victory": "",
-                "text": "<blockquote>Da sich der Inhalt des Tisches st\u00e4ndig verschiebt, \u00fcberlegst du dir, wie du die um den Tisch kreisenden Teekannen unterscheiden kannst.\nDu fokussierst dich auf eine einzige Teekanne in der Mitte des Tisches. Sie sieht anders aus als die Kanne, in die die Haselmaus hineingeschl\u00fcpft ist, aber du wei\u00dft, dass du deinen Augen nicht trauen solltest.</blockquote>\nBringe die beiseitegelegte Karte Die Haselmaus auf der Tischmitte ins Spiel."
+                "text": "<blockquote>Da sich der Inhalt des Tisches st\u00e4ndig verschiebt, \u00fcberlegst du dir, wie du die um den Tisch kreisenden Teekannen unterscheiden kannst.\nDu fokussierst dich auf eine einzige Teekanne in der Mitte des Tisches. Sie sieht anders aus als die Kanne, in die die Haselmaus hineingeschl\u00fcpft ist, aber du wei\u00dft, dass du deinen Augen nicht trauen solltest.</blockquote>\nBringe die beiseitegelegte Karte Die Haselmaus auf der Tischmitte ins Spiel.",
+                "index": "1b"
             },
             "encounter_number": "9",
             "project_number": "55",
@@ -9699,7 +9707,7 @@
                 ],
                 "connection": "hourglass",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror und keine Hinweise auf dem einsamen Waldgebiet liegen: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror und keine Hinweise auf dem <name> liegen: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem <name>.",
                 "flavor_text": "Eine ganze Reihe verschiedener V\u00f6gel nisten gemeinsam unter der Sonnenuhr.",
                 "shroud": "2",
                 "clues": "2<per>",
@@ -9838,9 +9846,14 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "08483e63-98b9-409a-bc97-937484951450",
-            "870b80dd-e77e-4aee-b2b3-0b5aedd5fd77",
-            "114956a8-f308-4cbb-8ee3-44caabcb6cb3"
+            "661bed2c-9366-43fc-b0b8-58d18872da0b",
+            "f31e7367-b5f0-4ed0-ae41-816e36151438",
+            "eced1904-5a92-4c7b-a168-5c62e38217b6",
+            "8690f39e-6673-40ab-adad-ae527166eda1",
+            "d2d6602f-7ada-4366-a6c3-c7df17716575",
+            "779e7b30-84e7-446a-87a8-2c1c7ce874cf",
+            "c8ee2ff2-ec4e-4ef9-8abb-844aa2b8dbfe",
+            "957a47a2-fe86-47bb-bd41-1db41df7bcfa"
         ]
     },
     "icon": "./images/Alice in Wonderland.png",
