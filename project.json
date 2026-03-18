@@ -527,7 +527,7 @@
                 "text": "<blockquote>Amid the rushing vacuum of the darkness through the wavering fissure, Gurathnaka claws at Arkham greedily. Each time you repel the monster, drawing from your recent experiences to weaken its grip through the dimensions. Alice focuses every fiber of her will on maintaining stability while you unravel the portal and sever Gurathnaka's attachment to Arkham. Weary minutes pass, until finally, a breakthrough! The shadowy abomination falls through the endless void, still reaching toward you with empty hunger. \"It's through!\" Alice cries, though you cannot make a reply before the rift sutures itself shut, and a ripple bursts forth from the point of exit, knocking you off your feet.</blockquote>\n(<res>5</res>)\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
             },
             "encounter_number": "6",
-            "expansion_number": "204",
+            "project_number": "204",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "b1dd3120-257c-4e7f-80b4-70cb24ec6db7"
         },
@@ -550,7 +550,7 @@
                 "index": "1b"
             },
             "encounter_number": "2",
-            "expansion_number": "200",
+            "project_number": "200",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "8b40d284-b308-4c2c-bfff-72196c3bca3e"
         },
@@ -572,7 +572,7 @@
                 "text": "\n<blockquote>Reality wavers and ripples inconstantly, unbalancing you in its shifting state. You rise quickly, but Alice takes several more moments to push herself unsteadily back up. If the shadows grow in strength much further, then Alice may not survive the strain.</blockquote>\nDeal 2 damage and/or horror to Alice. If resolving this effect would defeat Alice: (<res>2</res>).\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
             },
             "encounter_number": "3",
-            "expansion_number": "201",
+            "project_number": "201",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "7541791d-a428-4ef9-b6a5-790f872e08df"
         },
@@ -595,7 +595,7 @@
                 "index": "3b"
             },
             "encounter_number": "4",
-            "expansion_number": "202",
+            "project_number": "202",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "6c5ef2b9-f3a2-4c2b-a14b-c246c74dc9ca"
         },
@@ -645,7 +645,7 @@
                 "difficulty": "Hard/Expert"
             },
             "encounter_number": "1",
-            "expansion_number": "199",
+            "project_number": "199",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "b05c9072-79a9-4d99-9d2b-d7c009cd7c23"
         },
@@ -687,7 +687,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "9",
-            "expansion_number": "207",
+            "project_number": "207",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "fab1f609-e9ac-42d7-9a7a-b2caba19a317"
         },
@@ -730,7 +730,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "7",
-            "expansion_number": "205",
+            "project_number": "205",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "7970a6a3-d259-4e5d-a15e-e57c15a1a396"
         },
@@ -770,7 +770,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "8",
-            "expansion_number": "206",
+            "project_number": "206",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "563b2325-da8f-4685-9feb-0df16e2f260d"
         },
@@ -812,7 +812,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "10",
-            "expansion_number": "208",
+            "project_number": "208",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "3d984237-4ac4-4ec3-8dbe-a1637c331c12"
         },
@@ -855,7 +855,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "11",
-            "expansion_number": "209",
+            "project_number": "209",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "746a7b75-7680-4f1c-934d-0b1cc529da0d"
         },
@@ -898,7 +898,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "12",
-            "expansion_number": "210",
+            "project_number": "210",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "d1955a3d-0cbf-44d3-8580-6dd16555ff75"
         },
@@ -938,7 +938,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "14",
-            "expansion_number": "212",
+            "project_number": "212",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "8bad73e0-2c77-4057-a0db-18aca27854ee"
         },
@@ -978,7 +978,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "15",
-            "expansion_number": "213",
+            "project_number": "213",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "fe65ff63-4df7-4516-a2a2-08ffb60e3f77"
         },
@@ -1019,7 +1019,7 @@
                 "horror": 2
             },
             "encounter_number": "17",
-            "expansion_number": "215",
+            "project_number": "215",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "b292ad79-f1b9-48c7-ba49-d099d4bbb1d8"
         },
@@ -1059,7 +1059,7 @@
                 "horror": 2
             },
             "encounter_number": "18",
-            "expansion_number": "216",
+            "project_number": "216",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "61249e99-4b8f-4557-9027-96c5ab6b473b"
         },
@@ -1099,7 +1099,7 @@
                 "horror": 3
             },
             "encounter_number": "19",
-            "expansion_number": "217",
+            "project_number": "217",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "8730a84c-625c-4a17-8f01-67be402820b6"
         },
@@ -1139,7 +1139,7 @@
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg"
             },
             "encounter_number": "20",
-            "expansion_number": "218",
+            "project_number": "218",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "6ccfabf3-a44f-4fff-81b2-a118427fbfd1"
         },
@@ -1179,7 +1179,7 @@
                 "horror": 3
             },
             "encounter_number": "21",
-            "expansion_number": "219",
+            "project_number": "219",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "30f39f2f-0d14-4208-860d-3e77ee5e866b"
         },
@@ -1205,7 +1205,7 @@
                 "type": "encounter"
             },
             "encounter_number": "22-23",
-            "expansion_number": "220",
+            "project_number": "220",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "46665bef-ee3d-4ee8-af79-bc3853d74afd",
             "amount": 2
@@ -1246,7 +1246,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "16",
-            "expansion_number": "214",
+            "project_number": "214",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "cf9ed577-9d48-4924-9a1d-69ac8dfd5ed0"
         },
@@ -1265,7 +1265,7 @@
                 "type": "encounter"
             },
             "encounter_number": "33-35",
-            "expansion_number": "224",
+            "project_number": "224",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "c0a14801-522f-4f9e-94ae-de351c676720",
             "amount": 3
@@ -1285,7 +1285,7 @@
                 "type": "encounter"
             },
             "encounter_number": "29-32",
-            "expansion_number": "223",
+            "project_number": "223",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "48806dfd-200d-425d-afad-4fac3768ffd3",
             "amount": 4
@@ -1312,7 +1312,7 @@
                 "type": "encounter"
             },
             "encounter_number": "24-25",
-            "expansion_number": "221",
+            "project_number": "221",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "56b4fa2a-bdc4-4633-a64f-e66e1fc0d0b1",
             "amount": 2
@@ -1336,7 +1336,7 @@
                 "type": "encounter"
             },
             "encounter_number": "26-28",
-            "expansion_number": "222",
+            "project_number": "222",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "916a1e1d-a403-4d81-ac6f-950552e38be8",
             "amount": 3
@@ -1356,7 +1356,7 @@
                 "type": "encounter"
             },
             "encounter_number": "39-41",
-            "expansion_number": "226",
+            "project_number": "226",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "54ff11e5-94c7-4513-b852-9733bfa98e53",
             "amount": 3
@@ -1376,7 +1376,7 @@
                 "type": "encounter"
             },
             "encounter_number": "36-38",
-            "expansion_number": "225",
+            "project_number": "225",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "0cbb3264-f09d-4c43-8190-833bacc9d27a",
             "amount": 3
@@ -1396,7 +1396,7 @@
                 "type": "encounter"
             },
             "encounter_number": "42-44",
-            "expansion_number": "227",
+            "project_number": "227",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "b3b9efeb-c724-47d4-9b6e-a74d7488e39b",
             "amount": 3
@@ -1420,7 +1420,7 @@
                 "type": "player"
             },
             "encounter_number": "45-48",
-            "expansion_number": "228",
+            "project_number": "228",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "df6208c1-6ee8-40b7-a9f6-f20eada5add5",
             "amount": 4
@@ -1443,7 +1443,7 @@
                 "text": "<blockquote>Die Katze erscheint wieder auf einem Ast direkt \u00fcber dir und grinst wie immer. \u201eDie Wahrheit ist viel wahrer, wenn man sie findet, als wenn man sie sagt\u201c, schnurrt sie, \u201eaber die Schatten werden lang. Meinst du nicht, dass es an der Zeit ist, nach Hause zu gehen? Nat\u00fcrlich nicht zu dir nach Hause, sondern zu Alice. Es liegt in der Nachbarschaft, du wirst schon sehen.\u201c</blockquote>\nBringe den beiseitegelegten Ort Verlassenes Haus ins Spiel.\nDer Ermittlungsleiter \u00fcbernimmt die Kontrolle \u00fcber die beiseitegelegte Vorteilskarte Die Grinsekatze <i>(Wahnsinniger Wegweiser)</i>. \nMische das beiseitegelegte Begegnungsset <i>Grinsekatze</i> in das Begegnungsdeck."
             },
             "encounter_number": "3",
-            "expansion_number": "3",
+            "project_number": "3",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "9291c7ef-b644-40b6-bf46-e9208572ad10"
         },
@@ -1466,7 +1466,7 @@
                 "flavor_text": "Du \u00f6ffnest die T\u00fcr zu dem idyllischen Haus und betrittst es z\u00f6gernd. Die R\u00e4ume sind gr\u00f6\u00dftenteils kahl, und die wenigen M\u00f6bel sind mit staubigen wei\u00dfen Laken bedeckt. Die Suche scheint immer aussichtsloser zu werden, bis du einen Raum betrittst, dessen einzige Einrichtung ein gro\u00dfer Spiegel auf dem Kaminsims ist. Merkw\u00fcrdigerweise kr\u00e4uselt sich die Oberfl\u00e4che des Spiegels von Zeit zu Zeit, und man kann durch ihn einen ganz anderen Raum sehen. Als du dich ihm n\u00e4herst, lenkt das Kratzen von Pfoten auf dem alten Holzboden deine Aufmerksamkeit wieder auf den Flur hinter dir. Ein wei\u00dfes Kaninchen in alter viktorianischer Kleidung flitzt davon, umklammert eine Taschenuhr und murmelt vor sich hin. Du wirst keine Gelegenheit haben, beides zu untersuchen, bevor sich Arkham komplett aufl\u00f6st."
             },
             "encounter_number": "4",
-            "expansion_number": "4",
+            "project_number": "4",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "eaff61a3-9926-49d9-b9f5-1a5838744148",
             "name": "Das Haus h\u00fcten"
@@ -1490,7 +1490,7 @@
                 "flavor_text": "Dem Kaninchen zu folgen ist keine leichte Aufgabe. Es bewegt sich schnell durch das unbest\u00e4ndige Gel\u00e4nde, ohne einen Augenblick auf dich zu achten. In einem dichten Geb\u00fcsch verlierst du es fast aus den Augen, aber schlie\u00dflich siehst du das Kaninchen in ein Loch springen. Ersch\u00f6pft gehst du auf das Kaninchenloch zu und fragst dich, wie du weiter vorgehen sollst, aber als du dort stehst, weitet sich die H\u00f6hle langsam zu einem viel gr\u00f6\u00dferen und scheinbar bodenlosen Loch. Du schaust die Katze um Rat an, aber sie grinst nur und wartet darauf, dass du handelst. So t\u00f6richt es auch scheint, du beh\u00e4ltst die Nerven und springst in die Grube."
             },
             "encounter_number": "5",
-            "expansion_number": "5",
+            "project_number": "5",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "8e9a1818-5d01-4898-b923-7349405a071d"
         },
@@ -1512,7 +1512,7 @@
                 "index": "3b"
             },
             "encounter_number": "6",
-            "expansion_number": "6",
+            "project_number": "6",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "cde7c503-bc65-4926-b4bf-14b6da702d79"
         },
@@ -1534,7 +1534,7 @@
                 "name": "Tr\u00e4ume vom Wunderland"
             },
             "encounter_number": "2",
-            "expansion_number": "2",
+            "project_number": "2",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "92b331aa-dab5-4502-9071-f39ad473a555"
         },
@@ -1578,7 +1578,7 @@
                 "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
-            "expansion_number": "1",
+            "project_number": "1",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "07a8d216-3e87-4729-a803-93d1e8055842"
         },
@@ -1623,7 +1623,7 @@
                 "illustration_pan_x": -6
             },
             "encounter_number": "7",
-            "expansion_number": "7",
+            "project_number": "7",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "5205f421-cadd-4575-b233-2e9c631b421c",
             "amount": 1
@@ -1663,7 +1663,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "8",
-            "expansion_number": "8",
+            "project_number": "8",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "9e1af5d4-a44a-4880-9d3e-d3247328fca9"
         },
@@ -1715,7 +1715,7 @@
                 "illustration_scale": 1.92
             },
             "encounter_number": "9",
-            "expansion_number": "9",
+            "project_number": "9",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "527e759f-9131-42f5-bfd7-01a1fd757f39"
         },
@@ -1768,7 +1768,7 @@
                 "illustration_pan_y": 132
             },
             "encounter_number": "10",
-            "expansion_number": "10",
+            "project_number": "10",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "5196477a-23bb-4839-b48d-0946ff4935b9"
         },
@@ -1816,7 +1816,7 @@
                 "illustration_pan_y": 76
             },
             "encounter_number": "11",
-            "expansion_number": "11",
+            "project_number": "11",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "7b32cc78-a27b-4f45-8203-05de9b20a566"
         },
@@ -1858,7 +1858,7 @@
                 "name": "<name>"
             },
             "encounter_number": "12",
-            "expansion_number": "12",
+            "project_number": "12",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "58393a9c-60e9-4c57-8826-d5bfec79ffb0"
         },
@@ -1903,7 +1903,7 @@
                 "illustration_pan_x": 2
             },
             "encounter_number": "13",
-            "expansion_number": "12",
+            "project_number": "12",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "f30ee9b4-7cc8-43d6-9a29-9274df4f9a79",
             "amount": 1
@@ -1934,7 +1934,7 @@
                 "type": "encounter"
             },
             "encounter_number": "15",
-            "expansion_number": "14",
+            "project_number": "14",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "119070fd-b2b9-4154-b2f6-cd1e72861aaa",
             "amount": 1
@@ -1962,7 +1962,7 @@
                 "type": "encounter"
             },
             "encounter_number": "14",
-            "expansion_number": "15",
+            "project_number": "15",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "7081fb58-dbff-4ce4-b18d-5e90b0891341",
             "amount": 1
@@ -1982,7 +1982,7 @@
                 "type": "encounter"
             },
             "encounter_number": "16-18",
-            "expansion_number": "16",
+            "project_number": "16",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "d404d87e-567a-425b-a52c-ce73d2158385",
             "amount": 3
@@ -2001,7 +2001,7 @@
             "back": {
                 "type": "encounter"
             },
-            "expansion_number": "17",
+            "project_number": "17",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "ccd7b043-dd36-4c58-9b59-5e08c6476c83",
             "encounter_number": "19-20",
@@ -2032,7 +2032,7 @@
                 "type": "encounter"
             },
             "encounter_number": "21-22",
-            "expansion_number": "18",
+            "project_number": "18",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "13570847-25ed-48d7-9465-092329a3fe31",
             "amount": 2
@@ -2062,7 +2062,7 @@
                 "type": "player"
             },
             "encounter_number": "27",
-            "expansion_number": "20",
+            "project_number": "20",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "76b78f9e-7598-4bcd-822f-6251cd731e33",
             "amount": 1
@@ -2092,7 +2092,7 @@
                 "type": "player"
             },
             "encounter_number": "28",
-            "expansion_number": "21",
+            "project_number": "21",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "24bdd48a-fd36-4233-b5ff-b369dcb98792",
             "amount": 1
@@ -2116,7 +2116,7 @@
                 "index": "2b"
             },
             "encounter_number": "5",
-            "expansion_number": "26",
+            "project_number": "26",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "afb7f7a6-06be-4763-ac58-a9c747ab9444"
         },
@@ -2138,7 +2138,7 @@
                 "index": "3b"
             },
             "encounter_number": "6",
-            "expansion_number": "27",
+            "project_number": "27",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "782b37b6-1230-4f89-baa9-7cd251e710e5",
             "amount": 1
@@ -2164,7 +2164,7 @@
                 "index": "1b"
             },
             "encounter_number": "2",
-            "expansion_number": "23",
+            "project_number": "23",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "6a51e880-1c76-42f3-83dd-585ceef6585d",
             "amount": 1
@@ -2190,7 +2190,7 @@
                 "flavor_text": "Das Walross und der Zimmermann verschlingen die Austern eine nach der anderen, ohne eine Pause einzulegen. Sie \u00fcberragen den Strand, w\u00e4hrend sie die Austern in immer gr\u00f6\u00dferen Mengen an sich rei\u00dfen. Als die beiden die letzte der armen Kreaturen verschlungen haben, explodieren Schatten aus ihnen heraus, zerfetzen ihre K\u00f6rper und zertr\u00fcmmern die K\u00fcste auf die gleiche Weise, wie das Haus des wei\u00dfen Kaninchens zerst\u00f6rt worden war. Du fliehst landeinw\u00e4rts und entkommst nur knapp der sich ausbreitenden Dunkelheit."
             },
             "encounter_number": "3",
-            "expansion_number": "24",
+            "project_number": "24",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "34305ebf-f88c-4ee7-b110-66ff2f23a277"
         },
@@ -2247,7 +2247,7 @@
                 "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
-            "expansion_number": "22",
+            "project_number": "22",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "94f49f49-5780-4ad3-b1a8-c24606ff3af9",
             "amount": 1
@@ -2288,7 +2288,7 @@
                 "illustration_scale": 0.52
             },
             "encounter_number": "7",
-            "expansion_number": "28",
+            "project_number": "28",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "6c4e5747-9272-4a96-a0f9-e2af80873bf5"
         },
@@ -2337,7 +2337,7 @@
                 "illustration_pan_y": -56
             },
             "encounter_number": "8",
-            "expansion_number": "29",
+            "project_number": "29",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "5aba14c4-06ff-49ac-9515-b2cace847947"
         },
@@ -2381,7 +2381,7 @@
                 "illustration_pan_y": -105
             },
             "encounter_number": "9",
-            "expansion_number": "30",
+            "project_number": "30",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "3a7adcd1-1914-4020-96e9-31b46205f0f6"
         },
@@ -2414,7 +2414,7 @@
                 "connection": "<copy>"
             },
             "encounter_number": "10",
-            "expansion_number": "31",
+            "project_number": "31",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "ea59511c-7df2-4a3a-9e38-ba656ffa9248"
         },
@@ -2458,7 +2458,7 @@
                 "illustration_scale": 1.44
             },
             "encounter_number": "11",
-            "expansion_number": "32",
+            "project_number": "32",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "182eac82-ddac-4ebc-a503-7879ba192488"
         },
@@ -2496,7 +2496,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "12",
-            "expansion_number": "33",
+            "project_number": "33",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "ec72bdc1-f3f8-4365-a1d9-baa174202160"
         },
@@ -2525,7 +2525,7 @@
                 "type": "encounter"
             },
             "encounter_number": "13",
-            "expansion_number": "34",
+            "project_number": "34",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "deb139dc-f290-42c3-a9a7-571f9e02537a",
             "amount": 1
@@ -2556,7 +2556,7 @@
                 "type": "encounter"
             },
             "encounter_number": "14",
-            "expansion_number": "35",
+            "project_number": "35",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "ddc5ff27-f182-4ba0-bf53-2c55053cd216"
         },
@@ -2585,7 +2585,7 @@
                 "type": "encounter"
             },
             "encounter_number": "15",
-            "expansion_number": "36",
+            "project_number": "36",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "ad3a51c0-2f99-4b9b-85c0-d6380a0bb163",
             "name": "Tiefer Verfolger"
@@ -2616,7 +2616,7 @@
                 "type": "encounter"
             },
             "encounter_number": "16",
-            "expansion_number": "37",
+            "project_number": "37",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "c44a5251-ae07-49ed-9e0e-83db56d5c4e7"
         },
@@ -2637,7 +2637,7 @@
                 "type": "encounter"
             },
             "encounter_number": "25-26",
-            "expansion_number": "41",
+            "project_number": "41",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "cb45dff7-f709-4488-a6f3-db4f6359000c",
             "amount": 2
@@ -2660,7 +2660,7 @@
                 "type": "encounter"
             },
             "encounter_number": "22-24",
-            "expansion_number": "40",
+            "project_number": "40",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "b21d3f36-c613-434b-8cbd-2ed085db381f",
             "amount": 3
@@ -2690,7 +2690,7 @@
                 "type": "encounter"
             },
             "encounter_number": "17-18",
-            "expansion_number": "38",
+            "project_number": "38",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "5309b67b-6b5a-418d-82ac-7faf01ad58f5",
             "amount": 2
@@ -2720,7 +2720,7 @@
                 "type": "encounter"
             },
             "encounter_number": "19-21",
-            "expansion_number": "39",
+            "project_number": "39",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "33aaf9eb-5819-4f78-8d53-e62b91e76c37",
             "amount": 3
@@ -2742,7 +2742,7 @@
                 "type": "encounter"
             },
             "encounter_number": "27-29",
-            "expansion_number": "42",
+            "project_number": "42",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "ccbec03f-f8f0-4a63-ab31-0c20878835ce",
             "amount": 3
@@ -2772,7 +2772,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1",
-            "expansion_number": "43",
+            "project_number": "43",
             "encounter_set": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
             "id": "6a5af734-2d35-4d7a-9e0b-7d948b1cd3ac"
         },
@@ -2802,7 +2802,7 @@
                 "type": "encounter"
             },
             "encounter_number": "2",
-            "expansion_number": "44",
+            "project_number": "44",
             "encounter_set": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
             "id": "c32347c3-3de5-4004-acf6-353fb64a571e",
             "amount": 1
@@ -2825,7 +2825,7 @@
                 "type": "encounter"
             },
             "encounter_number": "3-5",
-            "expansion_number": "46",
+            "project_number": "46",
             "encounter_set": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
             "id": "9a12a13c-86da-4b9c-8d56-d96b19262feb",
             "amount": 3
@@ -2848,7 +2848,7 @@
                 "type": "encounter"
             },
             "encounter_number": "6-8",
-            "expansion_number": "46",
+            "project_number": "46",
             "encounter_set": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
             "id": "983f0ed2-916b-43c3-bc08-a3e86b053bc4",
             "amount": 3
@@ -2871,7 +2871,7 @@
                 "index": "2b"
             },
             "encounter_number": "10",
-            "expansion_number": "56",
+            "project_number": "56",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "d0e31e33-dd42-4040-8365-8dac8396305e"
         },
@@ -2893,7 +2893,7 @@
                 "index": "3b"
             },
             "encounter_number": "11",
-            "expansion_number": "57",
+            "project_number": "57",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "9a15233f-36f3-4091-b1d8-ea956163b620"
         },
@@ -2915,7 +2915,7 @@
                 "text": "<blockquote>W\u00e4hrend die St\u00fchle kommen und gehen und wirren Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft.</blockquote>\nHeile jeweils 2<per> Schaden vom Hutmacher und dem M\u00e4rzhasen."
             },
             "encounter_number": "2",
-            "expansion_number": "48",
+            "project_number": "48",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "9feea75b-86c6-41e9-bcbb-2772dee957c2"
         },
@@ -2938,7 +2938,7 @@
                 "index": "2b"
             },
             "encounter_number": "3",
-            "expansion_number": "49",
+            "project_number": "49",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "02296041-bb62-4376-bac3-f40a5db7c220"
         },
@@ -2961,7 +2961,7 @@
                 "index": "3b"
             },
             "encounter_number": "4",
-            "expansion_number": "50",
+            "project_number": "50",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "36cccba5-395f-48f5-85d4-8717f907565a"
         },
@@ -2984,7 +2984,7 @@
                 "text": "<b>Falls der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor.\n\n<b>Falls der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig w\u00fctend. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der Den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
             },
             "encounter_number": "5",
-            "expansion_number": "51",
+            "project_number": "51",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "916651ef-de90-48d2-8bcb-7c43da2a1930"
         },
@@ -3007,7 +3007,7 @@
                 "index": "2d"
             },
             "encounter_number": "6",
-            "expansion_number": "52",
+            "project_number": "52",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "7772efd5-bbc1-4156-a291-7b220f3a935e"
         },
@@ -3030,7 +3030,7 @@
                 "index": "2d"
             },
             "encounter_number": "7",
-            "expansion_number": "53",
+            "project_number": "53",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "46f7d6fd-dfac-4b5e-a601-8e958902e75f"
         },
@@ -3054,7 +3054,7 @@
                 "index": "3d"
             },
             "encounter_number": "8",
-            "expansion_number": "54",
+            "project_number": "54",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "68046166-c89e-48a2-8e43-9dfc627132b8",
             "amount": 1
@@ -3112,7 +3112,7 @@
                 "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
-            "expansion_number": "47",
+            "project_number": "47",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "f399cd62-166d-4967-8b3c-078d4ba1c37a"
         },
@@ -3151,7 +3151,7 @@
                 "illustration_scale": 1.32
             },
             "encounter_number": "12",
-            "expansion_number": "58",
+            "project_number": "58",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "4f6a7564-90a6-4f39-b840-54bffaa127f3"
         },
@@ -3188,7 +3188,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "13",
-            "expansion_number": "59",
+            "project_number": "59",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "6197cca4-18c1-450e-ac68-93bbe4d7334e"
         },
@@ -3227,7 +3227,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "14",
-            "expansion_number": "60",
+            "project_number": "60",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "2f2c26f3-0633-4eb6-91ff-f0ac7058b63e"
         },
@@ -3271,7 +3271,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "15",
-            "expansion_number": "61",
+            "project_number": "61",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "bf5c0a74-f5f3-40dd-93af-e495cd1a2d8f",
             "amount": 1
@@ -3309,7 +3309,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "16",
-            "expansion_number": "62",
+            "project_number": "62",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "13bf40a1-cd58-4bc5-a406-e24741cd7132",
             "amount": 1
@@ -3355,7 +3355,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "17",
-            "expansion_number": "63",
+            "project_number": "63",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "3fa836d2-da28-4581-a13c-b494b45f4775",
             "amount": 1
@@ -3397,7 +3397,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "18",
-            "expansion_number": "64",
+            "project_number": "64",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "58baa03b-7eb3-4489-b8a6-1a138e45cb06"
         },
@@ -3442,7 +3442,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "19",
-            "expansion_number": "65",
+            "project_number": "65",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "5fe59b98-44d5-4b5c-b0c2-36d7563765c2"
         },
@@ -3482,7 +3482,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "20",
-            "expansion_number": "66",
+            "project_number": "66",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "0a385080-02b6-4a20-8d05-903f9fa9ec70"
         },
@@ -3519,7 +3519,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "21",
-            "expansion_number": "67",
+            "project_number": "67",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "f678bb87-f5ba-411a-9cdd-46b6f3d92011"
         },
@@ -3561,7 +3561,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "22",
-            "expansion_number": "68",
+            "project_number": "68",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "db5376f1-c38d-4af7-a82d-1febdb69562d"
         },
@@ -3606,7 +3606,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "23",
-            "expansion_number": "69",
+            "project_number": "69",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "e617ec7f-3cae-47c9-a350-fd327198f33e"
         },
@@ -3650,7 +3650,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "24",
-            "expansion_number": "70",
+            "project_number": "70",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "9ce605cb-4d7d-4fd1-8cfc-b1a5f39e71da"
         },
@@ -3692,7 +3692,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "25",
-            "expansion_number": "71",
+            "project_number": "71",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "96bd6a02-b281-4a16-9491-12baf6c831e8"
         },
@@ -3737,7 +3737,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "26",
-            "expansion_number": "72",
+            "project_number": "72",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "3c6e2add-942a-4c37-83a6-a26414403b7b",
             "amount": 1
@@ -3783,7 +3783,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "27",
-            "expansion_number": "73",
+            "project_number": "73",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "2468d4ea-e20e-4ca1-ad9b-2b98ac8b097b"
         },
@@ -3827,7 +3827,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "28",
-            "expansion_number": "74",
+            "project_number": "74",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "50c1888d-6b79-46ff-a4a6-e4af0bf4c6fd"
         },
@@ -3871,7 +3871,7 @@
                 "illustration_scale": 0.38
             },
             "encounter_number": "29",
-            "expansion_number": "75",
+            "project_number": "75",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "32fd25f8-47c3-4a5b-9b1b-9e3ff5b529e1"
         },
@@ -3915,7 +3915,7 @@
                 "illustration_pan_y": 289
             },
             "encounter_number": "30",
-            "expansion_number": "76",
+            "project_number": "76",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "10ad23db-7da4-4205-ba8f-62960fa56e6b"
         },
@@ -3962,7 +3962,7 @@
                 "illustration_scale": 1.86
             },
             "encounter_number": "31",
-            "expansion_number": "77",
+            "project_number": "77",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "1ecd2c6d-bef4-4e52-b3c0-fa944839e9f2"
         },
@@ -3984,7 +3984,7 @@
                 "type": "encounter"
             },
             "encounter_number": "40-42",
-            "expansion_number": "81",
+            "project_number": "81",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "65f96691-17cf-4d6f-b218-03b0ca1e2f57",
             "amount": 3
@@ -4004,7 +4004,7 @@
                 "type": "encounter"
             },
             "encounter_number": "43-46",
-            "expansion_number": "82",
+            "project_number": "82",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "1e57ff6c-012f-4756-8d19-ac613f737ed1",
             "amount": 4
@@ -4027,7 +4027,7 @@
                 "type": "encounter"
             },
             "encounter_number": "47-48",
-            "expansion_number": "83",
+            "project_number": "83",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "8d15d068-724d-4db8-9ab1-f6827a4c2057",
             "amount": 2
@@ -4056,7 +4056,7 @@
                 "type": "encounter"
             },
             "encounter_number": "32-34",
-            "expansion_number": "78",
+            "project_number": "78",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "e822248b-479a-4b87-9bc4-6976bb368acf",
             "amount": 3
@@ -4078,7 +4078,7 @@
                 "type": "encounter"
             },
             "encounter_number": "49-50",
-            "expansion_number": "84",
+            "project_number": "84",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "d472cd6f-f83c-451f-bc03-537b92cf2872",
             "amount": 2
@@ -4107,7 +4107,7 @@
                 "type": "encounter"
             },
             "encounter_number": "35-36",
-            "expansion_number": "79",
+            "project_number": "79",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "0eb055dc-f5c6-4533-bbb4-ea6efc7fa26b",
             "amount": 2
@@ -4136,7 +4136,7 @@
                 "type": "encounter"
             },
             "encounter_number": "37-39",
-            "expansion_number": "80",
+            "project_number": "80",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "1068fede-a575-4fe2-9888-a4976505919f",
             "amount": 3
@@ -4158,7 +4158,7 @@
                 "type": "encounter"
             },
             "encounter_number": "51-53",
-            "expansion_number": "85",
+            "project_number": "85",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "aa6b3099-b675-4b73-ab38-0a6a8acd9150",
             "amount": 3
@@ -4196,7 +4196,7 @@
                 "type": "player"
             },
             "encounter_number": "54",
-            "expansion_number": "86",
+            "project_number": "86",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "3df0b7b6-67aa-43a0-8913-7e55872981d8"
         },
@@ -4217,7 +4217,7 @@
                 "text": "<blockquote>Es gelingt dir, dich beim Hofstaat der K\u00f6nigin so beliebt zu machen, dass die Wachen ihre Kontrollen lockern. Nun, da du Zugang zu den besser bewachten Teilen des Schlosses hast, kannst du endlich Fortschritte bei der Suche nach dem T\u00e4ter machen. Allerdings ist w\u00e4hrend deiner ersten Erkundung des Schlosses ein gr\u00f6\u00dferes Problem zutage getreten. In den dunkleren Ecken des Schlosses lauern schattenhafte Kreaturen, die oft dort anzutreffen sind, wo Kr\u00fcmel von den T\u00f6rtchen verstreut liegen. Wenn Gurathnakas Schergen das Schloss angreifen wollen, lassen sie sich auf jeden Fall Zeit damit.</blockquote>"
             },
             "encounter_number": "5",
-            "expansion_number": "91",
+            "project_number": "91",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "026ea1c9-8077-4b9f-a2c1-aa78854a1ec5"
         },
@@ -4240,7 +4240,7 @@
                 "index": "2b"
             },
             "encounter_number": "6",
-            "expansion_number": "92",
+            "project_number": "92",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "c6d3ce00-ec8b-4365-9c89-7da0a6dec52b"
         },
@@ -4262,7 +4262,7 @@
                 "index": "3b"
             },
             "encounter_number": "7",
-            "expansion_number": "93",
+            "project_number": "93",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "439c495e-af48-41aa-a12d-c3e0a463b7a5"
         },
@@ -4284,7 +4284,7 @@
                 "text": "<blockquote>\u201eHabt ihr den Schuldigen noch immer nicht gefunden?! Den Kopf ihr ab!\u201c\nDie Laune der K\u00f6nigin wird sichtlich immer schlechter, und der Scharfrichter wetzt schon die Axt, um ihrem Wunsch Folge zu leisten.</blockquote>\nFalls der Scharfrichter im Spiel ist, platziere 1 Verderben auf ihm.\nAnsonsten durchsuche das Begegnungsdeck und den Ablagestapel nach dem Scharfrichter und bringe ihn ins Spiel."
             },
             "encounter_number": "2",
-            "expansion_number": "88",
+            "project_number": "88",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "5f2e80ab-c5e2-4822-97f4-3a77ce791d31"
         },
@@ -4307,7 +4307,7 @@
                 "index": "2b"
             },
             "encounter_number": "3",
-            "expansion_number": "89",
+            "project_number": "89",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "b9fcfed3-d42e-421f-973a-1947b3cf0c06"
         },
@@ -4330,7 +4330,7 @@
                 "index": "3b"
             },
             "encounter_number": "4",
-            "expansion_number": "90",
+            "project_number": "90",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "dfb6018d-e17b-4352-b6f1-ace36004cc53"
         },
@@ -4397,7 +4397,7 @@
                 "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
-            "expansion_number": "87",
+            "project_number": "87",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "2c46e417-58f5-400c-936e-264a10f58067"
         },
@@ -4431,7 +4431,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "8",
-            "expansion_number": "94",
+            "project_number": "94",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "5f74ac8b-bd5f-432b-be1d-211b37bb2f8f"
         },
@@ -4469,7 +4469,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "9",
-            "expansion_number": "95",
+            "project_number": "95",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "13763520-e5e4-43ee-a49a-919e73da35a7"
         },
@@ -4507,7 +4507,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "10",
-            "expansion_number": "96",
+            "project_number": "96",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "dd26e6d0-e4fc-4802-ae5a-8a1f4a9a07bc"
         },
@@ -4544,7 +4544,7 @@
                 "traits": "Wunderland. Schloss."
             },
             "encounter_number": "11",
-            "expansion_number": "97",
+            "project_number": "97",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "a0c3ab9d-ded1-4589-b071-3d64db19e9a2",
             "amount": 1
@@ -4584,7 +4584,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "12",
-            "expansion_number": "98",
+            "project_number": "98",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "e1496454-61e8-42cc-a2fa-cff867ab7622"
         },
@@ -4629,7 +4629,7 @@
                 "illustration_scale": 1.08
             },
             "encounter_number": "13",
-            "expansion_number": "99",
+            "project_number": "99",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "fda0ab39-984d-4f84-849b-16b87a87cb8b"
         },
@@ -4667,7 +4667,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "14",
-            "expansion_number": "100",
+            "project_number": "100",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "528b70c5-c923-4f54-876c-bd1a95825098"
         },
@@ -4701,7 +4701,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "15",
-            "expansion_number": "101",
+            "project_number": "101",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "6cac64a8-1daf-486c-bc58-b3b4d7908e73"
         },
@@ -4728,7 +4728,7 @@
                 "type": "encounter"
             },
             "encounter_number": "16",
-            "expansion_number": "102",
+            "project_number": "102",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "3358c682-9c83-4a7c-89a0-f61409f0e809"
         },
@@ -4757,7 +4757,7 @@
                 "type": "encounter"
             },
             "encounter_number": "17",
-            "expansion_number": "103",
+            "project_number": "103",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "f3b13988-7d0d-4b26-a1f0-da37bddcf50a"
         },
@@ -4780,7 +4780,7 @@
                 "type": "player"
             },
             "encounter_number": "18-21",
-            "expansion_number": "104",
+            "project_number": "104",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "134afac1-4ef5-49e5-ba25-cc0abca6a32b",
             "amount": 4
@@ -4810,7 +4810,7 @@
                 "type": "encounter"
             },
             "encounter_number": "22-23",
-            "expansion_number": "105",
+            "project_number": "105",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "75d37ab9-66b5-4d39-ad14-d7b41bf08c76",
             "amount": 2
@@ -4840,7 +4840,7 @@
                 "type": "encounter"
             },
             "encounter_number": "24-26",
-            "expansion_number": "106",
+            "project_number": "106",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "af16d36d-96a0-45bd-a3f1-b9ecf50f918c",
             "amount": 3
@@ -4863,7 +4863,7 @@
                 "type": "encounter"
             },
             "encounter_number": "28-29",
-            "expansion_number": "108",
+            "project_number": "108",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "f1459cdb-45b7-415c-b721-068ef7fb2661",
             "amount": 2
@@ -4885,7 +4885,7 @@
                 "type": "encounter"
             },
             "encounter_number": "30-32",
-            "expansion_number": "109",
+            "project_number": "109",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "db7c066e-45cb-4497-a076-dbb74425bfe0",
             "amount": 3
@@ -4908,7 +4908,7 @@
                 "type": "encounter"
             },
             "encounter_number": "33-35",
-            "expansion_number": "110",
+            "project_number": "110",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "998d0e94-df05-4ffe-8e13-584b171326a5",
             "amount": 3
@@ -4936,7 +4936,7 @@
                 "type": "encounter"
             },
             "encounter_number": "27",
-            "expansion_number": "107",
+            "project_number": "107",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "f5fabd29-b8f9-45ef-ba9a-bcd8f0325930"
         },
@@ -4955,7 +4955,7 @@
                 "type": "encounter"
             },
             "encounter_number": "36-38",
-            "expansion_number": "111",
+            "project_number": "111",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "ab4ea0f5-75cf-43f3-bfdd-25031cd98c32",
             "amount": 3
@@ -4989,7 +4989,7 @@
                 "type": "player"
             },
             "encounter_number": "39",
-            "expansion_number": "112",
+            "project_number": "112",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "2570dfde-4427-4261-947d-7029b3ec479c"
         },
@@ -5022,7 +5022,7 @@
                 "type": "player"
             },
             "encounter_number": "40",
-            "expansion_number": "113",
+            "project_number": "113",
             "encounter_set": "27c614e3-a295-4cd2-aae0-8b1ab0d8114c",
             "id": "5534e475-cb2a-4977-a5d8-f7251573933c"
         },
@@ -5043,7 +5043,7 @@
                 "text": "<blockquote>Du und die anderen Schlarg-J\u00e4ger berichten von eurer Erkundung der unmittelbaren Umgebung, aber der B\u00fcttel ist mit seinem eigenen Fund besch\u00e4ftigt. In der N\u00e4he des Tamtam-Baums steht er \u00fcber einem kleinen Graben, in dem ein weggeworfenes Schwert halb im Schlamm vergraben liegt. \u201eBodyguard!\u201c, ruft er und sucht dich mit den Augen. \u201eEs ist wichtig, dass der Bodyguard alle unsere Waffen verwaltet, bis wir den Schlarg finden. Komm und nimm sie mit! Sie sollte uns helfen, das Biest in die Knie zu zwingen!\u201c Du kommst dem B\u00fcttel widerwillig nach, bist aber \u00fcberrascht, eine Waffe von hoher Qualit\u00e4t und in gutem Zustand vorzufinden.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Storyvorteilskarte Das vorpale Schwert \u00fcbernimmt. F\u00fcr den Rest des Szenarios ben\u00f6tigt die Karte keinen Handslot."
             },
             "encounter_number": "5",
-            "expansion_number": "118",
+            "project_number": "118",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "c5e393ba-92c4-4cfe-9597-aa1684e4aa24"
         },
@@ -5065,7 +5065,7 @@
                 "index": "2b"
             },
             "encounter_number": "6",
-            "expansion_number": "119",
+            "project_number": "119",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "93652d2a-b379-43c1-a20d-67a45d3b162e"
         },
@@ -5087,7 +5087,7 @@
                 "index": "3b"
             },
             "encounter_number": "7",
-            "expansion_number": "120",
+            "project_number": "120",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "21385529-32cf-400c-a1db-fa2899971e1d"
         },
@@ -5109,7 +5109,7 @@
                 "text": "<blockquote>Der tulge Wald hallt wider von einem schrecklichen Ger\u00e4usch, einem unbeschreiblichen Zischen, Gurgeln und Br\u00fcllen. Du musst nicht fragen, was f\u00fcr ein Monster dieses Ger\u00e4usch verursachen k\u00f6nnte, denn du siehst es durch den Wald auf dich zurasen. Es ist ein riesiges, abscheuliches Wesen mit feurigen Augen und messerscharfen Klauen, das beim Vorbeilaufen B\u00e4ume zerrei\u00dft. Angst durchstr\u00f6mt deine Adern und du hast nur wenige Sekunden Zeit, dich f\u00fcr fliehen oder k\u00e4mpfen zu entscheiden.</blockquote>\nDurchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Der Rest des beiseitegelegten Begegnungssets <i>Schebberoch</i> wird ins Begegnungsdeck gemischt."
             },
             "encounter_number": "2",
-            "expansion_number": "115",
+            "project_number": "115",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "9b307efe-a805-4ac3-817d-73f9920c1e7f"
         },
@@ -5132,7 +5132,7 @@
                 "index": "2b"
             },
             "encounter_number": "3",
-            "expansion_number": "116",
+            "project_number": "116",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "be130ac0-0b64-4fb2-9009-240b99ecce45"
         },
@@ -5155,7 +5155,7 @@
                 "index": "3b"
             },
             "encounter_number": "4",
-            "expansion_number": "117",
+            "project_number": "117",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "9835ddb3-3523-41ea-9501-07003e930a8c"
         },
@@ -5222,7 +5222,7 @@
                 "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
-            "expansion_number": "114",
+            "project_number": "114",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "36c54a62-f813-4bfc-88d7-d45040d6e218"
         },
@@ -5265,7 +5265,7 @@
                 "illustration_scale": 1.0
             },
             "encounter_number": "8",
-            "expansion_number": "121",
+            "project_number": "121",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "83fe89e9-bbf8-4b8d-a91d-69d06bbe7c5b"
         },
@@ -5308,7 +5308,7 @@
                 "illustration_scale": 1.02
             },
             "encounter_number": "10",
-            "expansion_number": "123",
+            "project_number": "123",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "f42dab6e-3e0e-4e4e-86c4-c01b303db3b9"
         },
@@ -5347,7 +5347,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "11",
-            "expansion_number": "124",
+            "project_number": "124",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "eca9a8a9-c310-4a2e-9a75-ca08abab369b"
         },
@@ -5386,7 +5386,7 @@
                 "flavor_text": "Dieser Teil des Waldes erstreckt sich \u00fcber eine tiefe Felsspalte, die gerade gro\u00df genug ist, dass eine Person die Mitte \u00fcberqueren kann."
             },
             "encounter_number": "12",
-            "expansion_number": "125",
+            "project_number": "125",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "67ae1b9c-87f3-4bcd-922a-443936daef27"
         },
@@ -5418,7 +5418,7 @@
                 "illustration_pan_y": 567
             },
             "encounter_number": "14",
-            "expansion_number": "127",
+            "project_number": "127",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "5d38b698-7f15-42a1-903a-565ddea9fd92"
         },
@@ -5451,7 +5451,7 @@
                 ]
             },
             "encounter_number": "22",
-            "expansion_number": "135",
+            "project_number": "135",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "c8ee2ff2-ec4e-4ef9-8abb-844aa2b8dbfe"
         },
@@ -5486,7 +5486,7 @@
                 "illustration_pan_y": 128
             },
             "encounter_number": "17",
-            "expansion_number": "130",
+            "project_number": "130",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "8690f39e-6673-40ab-adad-ae527166eda1"
         },
@@ -5522,7 +5522,7 @@
                 "illustration_scale": 1.02
             },
             "encounter_number": "16",
-            "expansion_number": "129",
+            "project_number": "129",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "eced1904-5a92-4c7b-a168-5c62e38217b6",
             "amount": 1
@@ -5559,7 +5559,7 @@
                 "illustration_pan_y": 130
             },
             "encounter_number": "15",
-            "expansion_number": "128",
+            "project_number": "128",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "f31e7367-b5f0-4ed0-ae41-816e36151438",
             "amount": 1
@@ -5593,7 +5593,7 @@
                 "flavor_text": "Die F\u00e4hrte des Billard-Mark\u00f6rs zwingt dich, eine riesige Schlucht zu \u00fcberqueren."
             },
             "encounter_number": "18",
-            "expansion_number": "131",
+            "project_number": "131",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "d2d6602f-7ada-4366-a6c3-c7df17716575"
         },
@@ -5628,7 +5628,7 @@
                 "illustration_pan_y": 115
             },
             "encounter_number": "21",
-            "expansion_number": "134",
+            "project_number": "134",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "957a47a2-fe86-47bb-bd41-1db41df7bcfa"
         },
@@ -5661,7 +5661,7 @@
                 ]
             },
             "encounter_number": "19",
-            "expansion_number": "132",
+            "project_number": "132",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "779e7b30-84e7-446a-87a8-2c1c7ce874cf"
         },
@@ -5697,7 +5697,7 @@
                 "illustration_scale": 1.06
             },
             "encounter_number": "20",
-            "expansion_number": "133",
+            "project_number": "133",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "661bed2c-9366-43fc-b0b8-58d18872da0b"
         },
@@ -5734,7 +5734,7 @@
                 "type": "story"
             },
             "encounter_number": "13",
-            "expansion_number": "126",
+            "project_number": "126",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "c3e3dfc1-854c-4749-b7f5-9ba9d07a1624"
         },
@@ -5762,7 +5762,7 @@
                 "type": "encounter"
             },
             "encounter_number": "23-24",
-            "expansion_number": "136",
+            "project_number": "136",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "d7a8ea2e-c8ae-4a42-9e00-237f9c295166",
             "amount": 2
@@ -5789,7 +5789,7 @@
                 "type": "encounter"
             },
             "encounter_number": "25-26",
-            "expansion_number": "137",
+            "project_number": "137",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "bba7ab5b-e87b-43ef-95bf-38f5f286f1ce",
             "amount": 2
@@ -5808,7 +5808,7 @@
                 "type": "encounter"
             },
             "encounter_number": "33-34",
-            "expansion_number": "141",
+            "project_number": "141",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "e9c54243-2589-46c3-bd45-c238243cb245",
             "amount": 2,
@@ -5838,7 +5838,7 @@
                 "type": "encounter"
             },
             "encounter_number": "27-28",
-            "expansion_number": "138",
+            "project_number": "138",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "79028978-dfde-4f25-85a2-70b576f31bfd",
             "amount": 2
@@ -5861,7 +5861,7 @@
                 "type": "encounter"
             },
             "encounter_number": "35-37",
-            "expansion_number": "142",
+            "project_number": "142",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "ad79a0b2-46ce-49c5-b1bb-5967d67d4000",
             "amount": 3
@@ -5891,7 +5891,7 @@
                 "type": "encounter"
             },
             "encounter_number": "29-30",
-            "expansion_number": "139",
+            "project_number": "139",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "c441b750-4334-4de1-b7ed-02b9d551038a",
             "amount": 2
@@ -5920,7 +5920,7 @@
                 "type": "encounter"
             },
             "encounter_number": "31-32",
-            "expansion_number": "140",
+            "project_number": "140",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "4f16de46-7650-4fba-a69e-e66e956a643e",
             "amount": 2
@@ -5956,7 +5956,7 @@
                 "type": "player"
             },
             "encounter_number": "38",
-            "expansion_number": "143",
+            "project_number": "143",
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "id": "45ba6ce9-2f98-4c26-9980-283775889a72"
         },
@@ -5975,7 +5975,7 @@
                 "type": "encounter"
             },
             "encounter_number": "5-7",
-            "expansion_number": "146",
+            "project_number": "146",
             "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
             "id": "9bef0748-552e-4b08-acc6-6bd860ed532e",
             "amount": 3
@@ -6002,7 +6002,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1",
-            "expansion_number": "144",
+            "project_number": "144",
             "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
             "id": "54b853aa-3b35-461f-85aa-ab99740708a2"
         },
@@ -6023,7 +6023,7 @@
                 "flavor_text": "Die Armeen der Zwillinge sind fast so ebenb\u00fcrtig wie sie selbst. Jeder Soldat, den du niederschl\u00e4gst, verschiebt das Gleichgewicht der Schlacht zugunsten des anderen. Da dir jedoch weniger Soldaten im Weg stehen, kannst du dich darauf konzentrieren, einen Weg zu finden, um die Schlacht zu beenden."
             },
             "encounter_number": "3",
-            "expansion_number": "150",
+            "project_number": "150",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "cc0f9d2f-653f-4e6c-ad0f-b6a40db7b920"
         },
@@ -6046,7 +6046,7 @@
                 "flavor_text": "Zun\u00e4chst scheint es unm\u00f6glich, die Schatten auf einen bestimmten Teil des Schlachtfeldes zu lenken. Auf dem absch\u00fcssigen Gel\u00e4nde rund um das Schlachtfeld findest du jedoch mehrere heruntergefallene Kr\u00e4henfedern, welche die Schatten anzuziehen scheinen. Du sammelst so viele du finden kannst und bringst sie ins die zentrale Senke. Innerhalb weniger Minuten beginnt sich Dunkelheit um das Federb\u00fcndel zu sammeln und zu einer riesigen Gestalt auszudehnen. Du trittst mehrere Schritte zur\u00fcck und h\u00e4ltst dir die Ohren zu, als das unheimliches Kr\u00e4chzen einer unnat\u00fcrlichen Kr\u00e4he aus der wachsenden Dunkelheit ert\u00f6nt. Dideldei und Dideldum h\u00f6ren auf, Befehle zu ihren Untergebenen zu br\u00fcllen, und stehen vor Ehrfurcht erstarrte da, w\u00e4hrend die schattenhafte Kr\u00e4he Gestalt annimmt."
             },
             "encounter_number": "4",
-            "expansion_number": "151",
+            "project_number": "151",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "6d466511-c49a-49f7-8f35-ddb99d548313"
         },
@@ -6068,7 +6068,7 @@
                 "flavor_text": "Die Br\u00fcder haben schon angesichts der Kr\u00e4he die Nerven verloren, aber deine zus\u00e4tzliche Panikmache l\u00e4sst sie schreiend und fluchtend aus der Schlacht fliehen. Ohne ihre Anf\u00fchrer haben die Karten und Schachfiguren keine treibende Kraft mehr und schlendern harmlos aus dem Tal davon. Zufrieden schnappst du dir das letzte weggeworfene St\u00fcck der Rassel und richtest deine Aufmerksamkeit auf die schattenhafte Kr\u00e4he."
             },
             "encounter_number": "5",
-            "expansion_number": "152",
+            "project_number": "152",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "55cc01b4-17d4-4046-9eea-a0f3ca283228"
         },
@@ -6092,7 +6092,7 @@
                 "flavor_text": "Einer der Soldaten nutzt eine L\u00fccke im Kampfgeschehen, um den gegnerischen H\u00fcgel zu st\u00fcrmen und den verwirrten Zwilling darauf anzugreifen."
             },
             "encounter_number": "2",
-            "expansion_number": "149",
+            "project_number": "149",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "96529f78-cb92-4880-9deb-0b55ede55564"
         },
@@ -6149,7 +6149,7 @@
                 "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
-            "expansion_number": "148",
+            "project_number": "148",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "15e5a8bc-9eb3-46aa-a522-e8204b8e6a5a"
         },
@@ -6186,7 +6186,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "6",
-            "expansion_number": "153",
+            "project_number": "153",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "d4b331e2-7a7c-4f9c-8022-cf2e42fa9fb1"
         },
@@ -6225,7 +6225,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "7",
-            "expansion_number": "154",
+            "project_number": "154",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "4d662916-5c5c-4753-b405-a43ab8b2c173"
         },
@@ -6263,7 +6263,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "8",
-            "expansion_number": "155",
+            "project_number": "155",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "fa54f326-f19d-405a-9a0c-10a83c601772"
         },
@@ -6299,7 +6299,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "9",
-            "expansion_number": "156",
+            "project_number": "156",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "cb85add6-cd68-4771-99e3-83b7eea59efd"
         },
@@ -6335,7 +6335,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "10",
-            "expansion_number": "157",
+            "project_number": "157",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "22ec312a-ef12-4af9-bea7-eb83522880c5"
         },
@@ -6371,7 +6371,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "11",
-            "expansion_number": "158",
+            "project_number": "158",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "5e213d11-b222-4b10-9525-0b513e23f845"
         },
@@ -6407,7 +6407,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "12",
-            "expansion_number": "159",
+            "project_number": "159",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "0af4e1b6-5689-4d36-a24e-8d60a62223be"
         },
@@ -6443,7 +6443,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "13",
-            "expansion_number": "160",
+            "project_number": "160",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "8fdfc740-59c9-4149-8c84-94c23f7de896"
         },
@@ -6484,7 +6484,7 @@
                 ]
             },
             "encounter_number": "14",
-            "expansion_number": "161",
+            "project_number": "161",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "d33c4bb6-c2c9-428f-a8df-1da71fe6e021"
         },
@@ -6520,7 +6520,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "15",
-            "expansion_number": "162",
+            "project_number": "162",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "b06b2927-c73d-442a-b253-4dbf129eed9e"
         },
@@ -6560,7 +6560,7 @@
                 ]
             },
             "encounter_number": "16",
-            "expansion_number": "163",
+            "project_number": "163",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "1d7a9d39-cd96-44bb-8770-75ac5def1d89"
         },
@@ -6584,7 +6584,7 @@
                 "type": "encounter"
             },
             "encounter_number": "19",
-            "expansion_number": "166",
+            "project_number": "166",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "2db7b0b3-d001-4b6d-b2af-24b756481a62"
         },
@@ -6635,7 +6635,7 @@
                 "level": "None"
             },
             "encounter_number": "17",
-            "expansion_number": "164",
+            "project_number": "164",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "59a215b1-e318-47d3-bb43-6db244e82c7a"
         },
@@ -6685,7 +6685,7 @@
                 "illustration_pan_y": 52
             },
             "encounter_number": "18",
-            "expansion_number": "165",
+            "project_number": "165",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "c2e82513-32ec-4763-b994-4ca6929d4086"
         },
@@ -6704,7 +6704,7 @@
                 "type": "encounter"
             },
             "encounter_number": "20-22",
-            "expansion_number": "167",
+            "project_number": "167",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "0805c765-e9a0-4c23-8e89-36e01c3d0a39",
             "amount": 3
@@ -6724,7 +6724,7 @@
                 "type": "encounter"
             },
             "encounter_number": "26-27",
-            "expansion_number": "169",
+            "project_number": "169",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "a77d8569-2a92-469c-8ac8-700d9e4f3c5a"
         },
@@ -6743,7 +6743,7 @@
                 "type": "encounter"
             },
             "encounter_number": "28-30",
-            "expansion_number": "170",
+            "project_number": "170",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "eebb4081-2c56-4fcf-8743-768c89fec56b",
             "amount": 3
@@ -6763,7 +6763,7 @@
                 "type": "encounter"
             },
             "encounter_number": "23-25",
-            "expansion_number": "168",
+            "project_number": "168",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "f0c3bce8-81c8-4515-a9ad-e12f59260d50",
             "amount": 3
@@ -6783,7 +6783,7 @@
                 "type": "encounter"
             },
             "encounter_number": "31-32",
-            "expansion_number": "171",
+            "project_number": "171",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "id": "1de59f84-c9e6-47bd-9bd1-be9f6542a0ae",
             "amount": 2
@@ -6806,7 +6806,7 @@
                 "flavor_text": "Durch die wirbelnde Dunkelheit st\u00fcrmst du die Stufen des Roten Schlosses hinauf und st\u00fcrmst durch die imposanten Fl\u00fcgelt\u00fcren. Der Rote K\u00f6nig sitzt am anderen Ende eines gro\u00dfen Saals, tr\u00e4ge auf einem pr\u00e4chtigen, skelettartigen Thron. Er r\u00fchrt sich kein bisschen, als du eintrittst, und die Schatten, die aus seinem Mantel hervorquellen, werden immer dichter."
             },
             "encounter_number": "5",
-            "expansion_number": "177",
+            "project_number": "177",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "1166ca02-0fd6-449c-960a-b6d78016e074"
         },
@@ -6828,7 +6828,7 @@
                 "flavor_text": "Du schl\u00e4gst mit allem Mut, den du aufbringen kannst, auf den Roten K\u00f6nig ein, und pl\u00f6tzlich erstarren die roten Figuren und der Vormarsch der Schatten kommt zum Stillstand. Die gesamte Umgebung scheint f\u00fcr einen Moment in der Zeit stehen zu bleiben, bevor der K\u00f6nig von seinem Thron rutscht und vor dir auf dem Boden liegt."
             },
             "encounter_number": "6",
-            "expansion_number": "178",
+            "project_number": "178",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "c83dc8b7-fd9e-46b2-9189-dc9dcc2c1b60"
         },
@@ -6852,7 +6852,7 @@
                 "flavor_text": "Deine Vorbereitungen, das Zentrum zu \u00fcberqueren, wurden sorgf\u00e4ltig beobachtet. Die roten Figuren st\u00fcrmen aus der verdunkelten Burg hervor. Du hast bei den ersten Angreifern bemerkt, dass die Figuren immer noch irgendwie Regeln folgen, die du als normale Schachregeln betrachten w\u00fcrdest. F\u00fchrt der rote K\u00f6nig immer noch ihre Bewegungen an? Oder sind sie so sehr Teil der Figuren, dass sie sich instinktiv bewegen?"
             },
             "encounter_number": "2",
-            "expansion_number": "174",
+            "project_number": "174",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "1dbfe098-396a-4389-81d4-f09e28a5f82e"
         },
@@ -6875,7 +6875,7 @@
                 "flavor_text": "Die roten Figuren unterbrechen ihren Kampf, verneigen sich und knien nieder, als eine imposante Gestalt aus einem schattenhaften Schleier hervortritt. Die Rote K\u00f6nigin, deren Gesicht auf seltsame Weise gleichzeitig hart und weich wirkt, blickt dich voller Hass \u00fcber das Schlachtfeld hinweg an, w\u00e4hrend eine Macht in ihr w\u00e4chst. Schatten str\u00f6men aus ihren Roben, und sie beginnt sich weiter zu verwandeln. \u201eSchlagt die Eindringlinge nieder!\u201c, br\u00fcllt sie und st\u00fcrmt mit unglaublicher Geschwindigkeit auf dich zu."
             },
             "encounter_number": "3",
-            "expansion_number": "175",
+            "project_number": "175",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "9e65dc49-9870-4c50-a92d-65bc64d34520"
         },
@@ -6899,7 +6899,7 @@
                 "flavor_text": "Die rote Armee dr\u00e4ngt deinen Angriff in einem scheinbar endlosen Strom von Soldaten unerbittlich zur\u00fcck. W\u00e4hrend du zur\u00fcckgedr\u00e4ngt wirst, fegen die versammelten Schatten an dir vorbei in Richtung der Burg der wei\u00dfen Schachfiguren und prallen wie eine Flutwelle auf sie ein. Dein Kampf um die Eroberung wandelt sich zu einem Kampf ums \u00dcberleben, w\u00e4hrend du vom Schlachtfeld fliehst."
             },
             "encounter_number": "4",
-            "expansion_number": "176",
+            "project_number": "176",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "5fc07e9c-5267-4663-ab56-75802cbdf675"
         },
@@ -6956,7 +6956,7 @@
                 "difficulty": "SCHWER/EXPERTE"
             },
             "encounter_number": "1",
-            "expansion_number": "173",
+            "project_number": "173",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "84a2729a-5cb9-469f-ba09-f6d5db479068"
         },
@@ -6993,7 +6993,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "7",
-            "expansion_number": "179",
+            "project_number": "179",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "106c6bb6-dc87-4f0d-8a2f-d85aea23718d"
         },
@@ -7027,7 +7027,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "8",
-            "expansion_number": "180",
+            "project_number": "180",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "cec06e0c-e67e-4383-937a-91bfc273e8b6"
         },
@@ -7064,7 +7064,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "9",
-            "expansion_number": "181",
+            "project_number": "181",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "c1e61b6f-c7a6-44b8-8230-575c01408e14"
         },
@@ -7101,7 +7101,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "10",
-            "expansion_number": "182",
+            "project_number": "182",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "b3486850-b8eb-402a-9b56-0338966d8de5",
             "amount": 1
@@ -7140,7 +7140,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "11",
-            "expansion_number": "183",
+            "project_number": "183",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "987a32f1-4bfc-4eb0-b934-d81ce01134ed",
             "amount": 1
@@ -7179,7 +7179,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "12",
-            "expansion_number": "184",
+            "project_number": "184",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "875c638d-29d7-4048-83fc-3144f794ac7d"
         },
@@ -7217,7 +7217,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "13",
-            "expansion_number": "185",
+            "project_number": "185",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "3fec2240-f822-4186-9526-7a6638c7764f"
         },
@@ -7256,7 +7256,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "14",
-            "expansion_number": "186",
+            "project_number": "186",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "48c042c1-97c9-475a-a0a0-1690f498baf5"
         },
@@ -7294,7 +7294,7 @@
                 "connections": "<copy>"
             },
             "encounter_number": "15",
-            "expansion_number": "187",
+            "project_number": "187",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "074e0595-fe55-4ce1-a63d-9c6fc083a2ab"
         },
@@ -7313,7 +7313,7 @@
                 "type": "encounter"
             },
             "encounter_number": "20-21",
-            "expansion_number": "192",
+            "project_number": "192",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "4d24784e-4a50-4d57-bea8-7a95b0279970",
             "amount": 2
@@ -7340,7 +7340,7 @@
                 "type": "encounter"
             },
             "encounter_number": "17",
-            "expansion_number": "189",
+            "project_number": "189",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "c42dac1d-8b63-4c67-a2b1-c9031afb0f8f"
         },
@@ -7366,7 +7366,7 @@
                 "type": "encounter"
             },
             "encounter_number": "18",
-            "expansion_number": "190",
+            "project_number": "190",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "a43fc8ce-14a9-4a5c-b1ea-e605e7146a37"
         },
@@ -7375,7 +7375,7 @@
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Exacting Emperor",
+                "subtitle": "Regelkonformer Regent",
                 "traits": "Wunderland. Schach. Adlig.",
                 "text": "<action>: Ziehe 1 Karte. Du darfst den Wei\u00dfen K\u00f6nig ersch\u00f6pfen, um 1 weitere Karte zu ziehen.\n<action> Ersch\u00f6pfe den Wei\u00dfen K\u00f6nig: Erhalte 3 Ressourcen.",
                 "health": "1",
@@ -7397,7 +7397,7 @@
                 "type": "encounter"
             },
             "encounter_number": "16",
-            "expansion_number": "188",
+            "project_number": "188",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "114956a8-f308-4cbb-8ee3-44caabcb6cb3"
         },
@@ -7416,7 +7416,7 @@
                 "type": "encounter"
             },
             "encounter_number": "30-32",
-            "expansion_number": "196",
+            "project_number": "196",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "a3e25440-6e7e-49eb-babd-4822ccfa7ca5",
             "amount": 3
@@ -7436,7 +7436,7 @@
                 "type": "encounter"
             },
             "encounter_number": "24-26",
-            "expansion_number": "194",
+            "project_number": "194",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "4ad9b4c4-9f33-43a0-8c3d-aa2a370a1484",
             "amount": 3
@@ -7461,7 +7461,7 @@
                 "type": "encounter"
             },
             "encounter_number": "22-23",
-            "expansion_number": "193",
+            "project_number": "193",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "bde0e3ae-c581-49f1-9551-9b6a8a3eaf33",
             "amount": 2
@@ -7481,7 +7481,7 @@
                 "type": "encounter"
             },
             "encounter_number": "27-29",
-            "expansion_number": "195",
+            "project_number": "195",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "2480512b-179d-4383-9f2e-39cbfd122920",
             "amount": 3
@@ -7501,7 +7501,7 @@
                 "type": "encounter"
             },
             "encounter_number": "33-35",
-            "expansion_number": "197",
+            "project_number": "197",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "db6ee186-3f3d-47bd-b0d1-14b731331e0e",
             "amount": 3
@@ -7527,7 +7527,7 @@
                 "type": "encounter"
             },
             "encounter_number": "19",
-            "expansion_number": "191",
+            "project_number": "191",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "0a0313fa-fdb9-4bee-b1b1-94ea32a3ccef"
         },
@@ -7555,7 +7555,7 @@
                 "type": "encounter"
             },
             "encounter_number": "36",
-            "expansion_number": "198",
+            "project_number": "198",
             "encounter_set": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "id": "77f9128a-78ef-41d6-aed8-88b7a4112960"
         },
@@ -7580,7 +7580,7 @@
                 "type": "player"
             },
             "encounter_number": "14-15",
-            "expansion_number": "236",
+            "project_number": "236",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "c35dab58-56ee-498b-8c2b-e3a49a427497",
             "amount": 2
@@ -7633,7 +7633,7 @@
                 ]
             },
             "encounter_number": "1",
-            "expansion_number": "229",
+            "project_number": "229",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "b7f19dc2-a706-43d6-83fb-109c70eb27b5"
         },
@@ -7658,7 +7658,7 @@
                 "type": "player"
             },
             "encounter_number": "4-5",
-            "expansion_number": "231",
+            "project_number": "231",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "83eb5024-b726-4720-8700-0af443270365",
             "amount": 2
@@ -7684,7 +7684,7 @@
                 "type": "player"
             },
             "encounter_number": "2-3",
-            "expansion_number": "230",
+            "project_number": "230",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "f4804c4a-db19-478d-b8a3-ea8aa20c7019",
             "amount": 2
@@ -7710,7 +7710,7 @@
                 "type": "player"
             },
             "encounter_number": "8-9",
-            "expansion_number": "233",
+            "project_number": "233",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "8532072f-8b52-4fa8-8ca7-7b5f3a83324c",
             "amount": 2
@@ -7736,7 +7736,7 @@
                 "type": "player"
             },
             "encounter_number": "10-11",
-            "expansion_number": "234",
+            "project_number": "234",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "98da2cbc-fe36-4638-b8e0-8722ef2b040f",
             "amount": 2
@@ -7762,7 +7762,7 @@
                 "type": "player"
             },
             "encounter_number": "6-7",
-            "expansion_number": "232",
+            "project_number": "232",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "b9ff5db7-a2f6-4134-b19a-00d7bddbd9a2",
             "amount": 2
@@ -7788,7 +7788,7 @@
                 "type": "player"
             },
             "encounter_number": "12-13",
-            "expansion_number": "235",
+            "project_number": "235",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "b7f2c0ea-74ba-413f-8e38-4584ae086dc9",
             "amount": 2
@@ -7814,7 +7814,7 @@
                 "type": "player"
             },
             "encounter_number": "34",
-            "expansion_number": "250",
+            "project_number": "250",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "c99998d1-1bff-4c3e-862c-f0a04e22162c"
         },
@@ -7839,7 +7839,7 @@
                 "type": "player"
             },
             "encounter_number": "39",
-            "expansion_number": "255",
+            "project_number": "255",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "13a16344-86df-45c6-82a5-f4481b0acf75"
         },
@@ -7864,7 +7864,7 @@
                 "type": "player"
             },
             "encounter_number": "32",
-            "expansion_number": "248",
+            "project_number": "248",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "9e493c72-99cf-4cc5-af8b-f63c4c145c2b"
         },
@@ -7889,7 +7889,7 @@
                 "type": "player"
             },
             "encounter_number": "43",
-            "expansion_number": "259",
+            "project_number": "259",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "b15ceb82-7500-4eb6-a03e-4133962f2b7a"
         },
@@ -7914,7 +7914,7 @@
                 "type": "player"
             },
             "encounter_number": "37",
-            "expansion_number": "253",
+            "project_number": "253",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "f8c2ebfa-b5a9-400e-baf5-d9212da2ae73"
         },
@@ -7939,7 +7939,7 @@
                 "type": "player"
             },
             "encounter_number": "44",
-            "expansion_number": "260",
+            "project_number": "260",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "a675b8a3-c49b-4f05-ae3f-111a7c38717e"
         },
@@ -7954,17 +7954,17 @@
                 "level": "None",
                 "flavor_text": "\u201cBeware the Jabberwock, my son!\nThe jaws that bite, the claws that catch!\"",
                 "victory": "",
+                "illustration": "./images/Jabberwock - Lady Fiszi.jpg",
+                "illustrator": "Illus. Lady Fiszi",
                 "classes": [
                     "storyweakness"
-                ],
-                "illustration": "./images/Jabberwock - Lady Fiszi.jpg",
-                "illustrator": "Illus. Lady Fiszi"
+                ]
             },
             "back": {
                 "type": "player"
             },
             "encounter_number": "38",
-            "expansion_number": "254",
+            "project_number": "254",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "870b80dd-e77e-4aee-b2b3-0b5aedd5fd77"
         },
@@ -7989,7 +7989,7 @@
                 "type": "player"
             },
             "encounter_number": "16-17",
-            "expansion_number": "237",
+            "project_number": "237",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "d0e5b006-0bc8-40b1-a806-6acb959ea31a",
             "amount": 2
@@ -8015,7 +8015,7 @@
                 "type": "player"
             },
             "encounter_number": "20-21",
-            "expansion_number": "239",
+            "project_number": "239",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "d329aead-1de7-4b98-ab02-bffd339453f9",
             "amount": 2
@@ -8043,7 +8043,7 @@
                 "type": "player"
             },
             "encounter_number": "22-23",
-            "expansion_number": "240",
+            "project_number": "240",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "a80b83b8-3ee8-479c-bd52-620283487504",
             "amount": 2
@@ -8069,7 +8069,7 @@
                 "type": "player"
             },
             "encounter_number": "18-19",
-            "expansion_number": "238",
+            "project_number": "238",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "be3399f5-45f4-4d70-b4ea-533ab19b55ce",
             "amount": 2
@@ -8095,7 +8095,7 @@
                 "type": "player"
             },
             "encounter_number": "24-25",
-            "expansion_number": "241",
+            "project_number": "241",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "a4f21e1c-f020-4cea-8a17-075b9bc1c7bb",
             "amount": 2
@@ -8121,7 +8121,7 @@
                 "type": "player"
             },
             "encounter_number": "41",
-            "expansion_number": "257",
+            "project_number": "257",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "1d99b6ec-69cc-47bb-8b4b-dc8b766df5b5"
         },
@@ -8146,7 +8146,7 @@
                 "type": "player"
             },
             "encounter_number": "42",
-            "expansion_number": "258",
+            "project_number": "258",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "d835f363-96c1-4503-9093-afb1c79eecca"
         },
@@ -8171,7 +8171,7 @@
                 "type": "player"
             },
             "encounter_number": "35",
-            "expansion_number": "251",
+            "project_number": "251",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "ae8ec01b-4895-4f2f-a5fd-488ba80c4e25"
         },
@@ -8196,7 +8196,7 @@
                 "type": "player"
             },
             "encounter_number": "27",
-            "expansion_number": "243",
+            "project_number": "243",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "84710398-de00-42f5-95d3-ed95a8001bbe"
         },
@@ -8221,7 +8221,7 @@
                 "type": "player"
             },
             "encounter_number": "46-48",
-            "expansion_number": "262",
+            "project_number": "262",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "1d3cda2c-2224-4918-baf0-d1d49f7ceb3a",
             "amount": 3
@@ -8247,7 +8247,7 @@
                 "type": "player"
             },
             "encounter_number": "29",
-            "expansion_number": "245",
+            "project_number": "245",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "c477a178-67ac-496e-98d2-669af4ab8912"
         },
@@ -8272,7 +8272,7 @@
                 "type": "player"
             },
             "encounter_number": "36",
-            "expansion_number": "252",
+            "project_number": "252",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "e3f56b83-8a69-4820-a253-2882ccef67e5"
         },
@@ -8297,7 +8297,7 @@
                 "type": "player"
             },
             "encounter_number": "40",
-            "expansion_number": "256",
+            "project_number": "256",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "3d84bd6f-8b33-4823-b383-0c191fec5af0"
         },
@@ -8322,7 +8322,7 @@
                 "type": "player"
             },
             "encounter_number": "26",
-            "expansion_number": "242",
+            "project_number": "242",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "1e637467-1f18-4476-9735-7bd9786031be"
         },
@@ -8347,7 +8347,7 @@
                 "type": "player"
             },
             "encounter_number": "28",
-            "expansion_number": "244",
+            "project_number": "244",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "a7ee4efa-12a9-488c-ad9e-4ebb17656d19"
         },
@@ -8372,7 +8372,7 @@
                 "type": "player"
             },
             "encounter_number": "30",
-            "expansion_number": "246",
+            "project_number": "246",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "4ec4b259-4ba2-4cf3-bac5-ded3dc5a0d6b"
         },
@@ -8397,7 +8397,7 @@
                 "type": "player"
             },
             "encounter_number": "45",
-            "expansion_number": "261",
+            "project_number": "261",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "acd8b25e-d2f0-4303-99c3-e785e0cfb879"
         },
@@ -8422,7 +8422,7 @@
                 "type": "player"
             },
             "encounter_number": "33",
-            "expansion_number": "249",
+            "project_number": "249",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "b7661203-8030-4230-b72b-7f8db7f8bcb9"
         },
@@ -8447,7 +8447,7 @@
                 "type": "player"
             },
             "encounter_number": "31",
-            "expansion_number": "247",
+            "project_number": "247",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "b871b433-3825-43ac-abe7-b8dbf19f880f"
         },
@@ -8476,7 +8476,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1-2",
-            "expansion_number": "267",
+            "project_number": "267",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
             "id": "5cd6a949-df21-44cd-9f41-2e7ce8abedd3",
             "amount": 2
@@ -8503,7 +8503,7 @@
                 "type": "encounter"
             },
             "encounter_number": "3-4",
-            "expansion_number": "268",
+            "project_number": "268",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
             "id": "97b22c75-275f-4288-86b5-42233c27d621",
             "amount": 2
@@ -8533,7 +8533,7 @@
                 "type": "encounter"
             },
             "encounter_number": "5-6",
-            "expansion_number": "269",
+            "project_number": "269",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
             "id": "22f20896-299b-403a-a6bd-d955b1048eb7",
             "amount": 2
@@ -8545,7 +8545,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die Pik-Kartenwache angegriffen hat: W\u00e4hle 1 Karte von deiner Hand mit mindestens einem <intellect>-Fertigkeitssymbol und lege sie ab. Falls du dies nicht kannst, nimm 1 Horror.",
+                "text": "<for> Nachdem dich die Pik-Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <intellect>-Fertigkeitssymbol von deiner Hand ab. Falls du dies nicht kannst, nimm 1 Horror.",
                 "health": "2",
                 "evade": "2",
                 "attack": "4",
@@ -8563,7 +8563,7 @@
                 "type": "encounter"
             },
             "encounter_number": "7-8",
-            "expansion_number": "270",
+            "project_number": "270",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
             "id": "08483e63-98b9-409a-bc97-937484951450",
             "amount": 2
@@ -8586,7 +8586,7 @@
                 "type": "encounter"
             },
             "encounter_number": "9-10",
-            "expansion_number": "271",
+            "project_number": "271",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
             "id": "e4003688-62e9-4ef7-b566-a1b8af5efa8c",
             "amount": 2
@@ -8606,7 +8606,7 @@
                 "type": "encounter"
             },
             "encounter_number": "11-12",
-            "expansion_number": "272",
+            "project_number": "272",
             "encounter_set": "57972c01-bce0-4512-9573-eabcc71a5ac1",
             "id": "6ad146d8-ffa1-4292-9e50-22dfeb6de195",
             "amount": 2
@@ -8629,7 +8629,7 @@
                 "type": "encounter"
             },
             "encounter_number": "2",
-            "expansion_number": "264",
+            "project_number": "264",
             "encounter_set": "501c1bc3-6c99-42f8-93da-efd313f3ea01",
             "id": "08e4f894-e66c-4203-9935-7a3f247bc3c0"
         },
@@ -8671,7 +8671,7 @@
                 "flavor_text": "\u201eWenn du nicht wei\u00dft, wohin du gehen willst, \ndann spielt es keine Rolle, welchen Weg du einschl\u00e4gst.\u201c"
             },
             "encounter_number": "1",
-            "expansion_number": "263",
+            "project_number": "263",
             "encounter_set": "501c1bc3-6c99-42f8-93da-efd313f3ea01",
             "id": "dbe40ed4-95c4-4a2f-b9da-2d2aeaf5a8da",
             "amount": 1
@@ -8699,7 +8699,7 @@
                 "type": "encounter"
             },
             "encounter_number": "3-4",
-            "expansion_number": "265",
+            "project_number": "265",
             "encounter_set": "501c1bc3-6c99-42f8-93da-efd313f3ea01",
             "id": "c49cf6f6-3215-4d47-870d-63538e392232",
             "amount": 2
@@ -8722,7 +8722,7 @@
                 "type": "encounter"
             },
             "encounter_number": "5-6",
-            "expansion_number": "266",
+            "project_number": "266",
             "encounter_set": "501c1bc3-6c99-42f8-93da-efd313f3ea01",
             "id": "74425fea-ac8a-4a39-bc23-7994a45ce4a0",
             "amount": 2
@@ -8742,7 +8742,7 @@
                 "type": "encounter"
             },
             "encounter_number": "9-10",
-            "expansion_number": "277",
+            "project_number": "277",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
             "id": "051b8f86-8808-497d-8521-e085c54399eb",
             "amount": 2
@@ -8769,7 +8769,7 @@
                 "type": "encounter"
             },
             "encounter_number": "2-3",
-            "expansion_number": "274",
+            "project_number": "274",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
             "id": "12a37190-d8ba-43d4-98ae-4a70c94f379a",
             "amount": 2
@@ -8795,7 +8795,7 @@
                 "type": "encounter"
             },
             "encounter_number": "4-7",
-            "expansion_number": "275",
+            "project_number": "275",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
             "id": "7ad9ad84-5098-48f6-905c-0d6b0594e326",
             "amount": 4
@@ -8822,7 +8822,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1",
-            "expansion_number": "273",
+            "project_number": "273",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
             "id": "6eb7b7ef-d1df-47e4-a67e-8f35c5808c92"
         },
@@ -8848,7 +8848,7 @@
                 "type": "encounter"
             },
             "encounter_number": "8",
-            "expansion_number": "276",
+            "project_number": "276",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
             "id": "c96f66fd-8bbb-456f-b136-d521caf74898"
         },
@@ -8867,7 +8867,7 @@
                 "type": "encounter"
             },
             "encounter_number": "11-12",
-            "expansion_number": "278",
+            "project_number": "278",
             "encounter_set": "d175b267-1201-488c-8324-53645458b02c",
             "id": "0eb3950b-c9a7-4869-b658-dde882bd59f0",
             "amount": 2
@@ -8897,7 +8897,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1-2",
-            "expansion_number": "279",
+            "project_number": "279",
             "encounter_set": "142deea6-8fa3-4d5b-9b4a-3552157dee73",
             "id": "7e71b72e-887e-47f1-bcad-ce1635d8ea31",
             "amount": 2
@@ -8917,7 +8917,7 @@
                 "type": "encounter"
             },
             "encounter_number": "5-7",
-            "expansion_number": "281",
+            "project_number": "281",
             "encounter_set": "142deea6-8fa3-4d5b-9b4a-3552157dee73",
             "id": "4b0ceadd-0386-4cb7-88b0-260b7fb625ea",
             "amount": 3
@@ -8939,7 +8939,7 @@
                 "type": "encounter"
             },
             "encounter_number": "8-10",
-            "expansion_number": "282",
+            "project_number": "282",
             "encounter_set": "142deea6-8fa3-4d5b-9b4a-3552157dee73",
             "id": "f0601012-5519-475c-a6f2-dce109def708",
             "amount": 3
@@ -8969,7 +8969,7 @@
                 "type": "encounter"
             },
             "encounter_number": "3-4",
-            "expansion_number": "280",
+            "project_number": "280",
             "encounter_set": "142deea6-8fa3-4d5b-9b4a-3552157dee73",
             "id": "0bb404ee-d398-4db4-a0b0-07868754e507",
             "amount": 2
@@ -8989,7 +8989,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1-3",
-            "expansion_number": "283",
+            "project_number": "283",
             "encounter_set": "aff37008-a4ad-4fab-96de-29f9febd1bab",
             "id": "7972dfcd-f1fc-4df4-9076-594027e0d484",
             "amount": 3
@@ -9011,7 +9011,7 @@
                 "type": "encounter"
             },
             "encounter_number": "4-5",
-            "expansion_number": "284",
+            "project_number": "284",
             "encounter_set": "aff37008-a4ad-4fab-96de-29f9febd1bab",
             "id": "f68b9301-342a-45c3-b829-dcbabc47f9a8",
             "amount": 2
@@ -9033,7 +9033,7 @@
                 "type": "encounter"
             },
             "encounter_number": "6-8",
-            "expansion_number": "285",
+            "project_number": "285",
             "encounter_set": "aff37008-a4ad-4fab-96de-29f9febd1bab",
             "id": "a7b856d5-24ba-4ee2-beaa-9dafdfab74de",
             "amount": 3
@@ -9056,7 +9056,7 @@
                 "type": "encounter"
             },
             "encounter_number": "9-10",
-            "expansion_number": "286",
+            "project_number": "286",
             "encounter_set": "aff37008-a4ad-4fab-96de-29f9febd1bab",
             "id": "affe15be-9bcd-438a-99e0-3575d1ff879c",
             "amount": 2
@@ -9079,7 +9079,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1-2",
-            "expansion_number": "287",
+            "project_number": "287",
             "encounter_set": "f65a386b-aa46-41cc-b5d7-5bebd924f2ee",
             "id": "7107f658-c457-4f84-af56-a7a5488737a9",
             "amount": 2
@@ -9101,7 +9101,7 @@
                 "type": "encounter"
             },
             "encounter_number": "3-5",
-            "expansion_number": "288",
+            "project_number": "288",
             "encounter_set": "f65a386b-aa46-41cc-b5d7-5bebd924f2ee",
             "id": "01777d13-e55b-4489-a0bd-90a1eed8b719",
             "amount": 3
@@ -9124,7 +9124,7 @@
                 "type": "encounter"
             },
             "encounter_number": "6-8",
-            "expansion_number": "289",
+            "project_number": "289",
             "encounter_set": "f65a386b-aa46-41cc-b5d7-5bebd924f2ee",
             "id": "8d4d9063-3ba9-4083-af78-6fe1f85af2fa",
             "amount": 3
@@ -9146,7 +9146,7 @@
                 "type": "encounter"
             },
             "encounter_number": "9-10",
-            "expansion_number": "290",
+            "project_number": "290",
             "encounter_set": "f65a386b-aa46-41cc-b5d7-5bebd924f2ee",
             "id": "0a917eb4-2819-4c3b-8b8a-10dfdcb3c13d",
             "amount": 2
@@ -9171,7 +9171,7 @@
                 "type": "encounter"
             },
             "encounter_number": "2",
-            "expansion_number": "292",
+            "project_number": "292",
             "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
             "id": "ddf02260-27db-4fec-ba8f-62ff4dddd3f5"
         },
@@ -9198,7 +9198,7 @@
                 "type": "encounter"
             },
             "encounter_number": "3",
-            "expansion_number": "293",
+            "project_number": "293",
             "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
             "id": "4b44efc6-0b88-4c44-b414-877e0529003e"
         },
@@ -9222,7 +9222,7 @@
                 "type": "encounter"
             },
             "encounter_number": "4",
-            "expansion_number": "294",
+            "project_number": "294",
             "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
             "id": "04164945-33a4-48a5-bde3-879cf13c89dc"
         },
@@ -9246,7 +9246,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1",
-            "expansion_number": "291",
+            "project_number": "291",
             "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
             "id": "e3efa315-7cd2-462f-a262-a5e54bbffc0f"
         },
@@ -9270,7 +9270,7 @@
                 "type": "encounter"
             },
             "encounter_number": "5",
-            "expansion_number": "295",
+            "project_number": "295",
             "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
             "id": "e92df65e-4b6d-480d-813a-07d6fe21d30c"
         },
@@ -9294,7 +9294,7 @@
                 "type": "encounter"
             },
             "encounter_number": "7",
-            "expansion_number": "297",
+            "project_number": "297",
             "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
             "id": "a9ab8f6b-3046-421b-acb4-f0b20b3f0e22"
         },
@@ -9321,7 +9321,7 @@
                 "type": "encounter"
             },
             "encounter_number": "1",
-            "expansion_number": "298",
+            "project_number": "298",
             "encounter_set": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "id": "d560c065-9288-4b6a-8503-b961e7e5f619"
         },
@@ -9347,7 +9347,7 @@
                 "type": "encounter"
             },
             "encounter_number": "2",
-            "expansion_number": "299",
+            "project_number": "299",
             "encounter_set": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "id": "4f8d5199-2511-495d-b037-ebf4e4aebd65"
         },
@@ -9377,7 +9377,7 @@
                 "type": "encounter"
             },
             "encounter_number": "3",
-            "expansion_number": "300",
+            "project_number": "300",
             "encounter_set": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "id": "abd7aa12-8aa6-4682-b7e2-78d6881475bf"
         },
@@ -9403,7 +9403,7 @@
                 "type": "encounter"
             },
             "encounter_number": "4",
-            "expansion_number": "301",
+            "project_number": "301",
             "encounter_set": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "id": "d03025b2-134d-41df-8d42-178785686649"
         },
@@ -9429,7 +9429,7 @@
                 "type": "encounter"
             },
             "encounter_number": "5",
-            "expansion_number": "302",
+            "project_number": "302",
             "encounter_set": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "id": "c76803d3-7809-4069-9907-b5693dcddec3"
         },
@@ -9455,7 +9455,7 @@
                 "type": "encounter"
             },
             "encounter_number": "6",
-            "expansion_number": "303",
+            "project_number": "303",
             "encounter_set": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "id": "2173a0db-d2b7-4dda-8a7f-72f4612e3d3e"
         },
@@ -9481,7 +9481,7 @@
                 "type": "encounter"
             },
             "encounter_number": "7",
-            "expansion_number": "304",
+            "project_number": "304",
             "encounter_set": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "id": "d695dd93-b017-4782-8312-bcb86580cf16"
         },
@@ -9506,7 +9506,7 @@
                 "type": "investigator_back",
                 "illustration": "./images/0_Alice - Aucher-fargue Nicolas.jpg"
             },
-            "expansion_number": "305",
+            "project_number": "305",
             "id": "3c2a7134-bedb-47bc-b55a-42a85357eb25"
         },
         {
@@ -9528,7 +9528,7 @@
                 "type": "player"
             },
             "encounter_number": "1",
-            "expansion_number": "307",
+            "project_number": "307",
             "id": "666b6887-349e-4ba7-86e8-12f63d724965"
         },
         {
@@ -9553,7 +9553,7 @@
             "back": {
                 "type": "player"
             },
-            "expansion_number": "306",
+            "project_number": "306",
             "id": "eb4446a4-6de3-4060-963a-fefd19b61fd1"
         },
         {
@@ -9578,7 +9578,7 @@
             "back": {
                 "type": "player"
             },
-            "expansion_number": "306",
+            "project_number": "306",
             "id": "bd3931e5-c614-42d5-834e-a61037ba19fd"
         },
         {
@@ -9603,7 +9603,7 @@
             },
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "name": "Verdrehter B\u00fcrger",
-            "expansion_number": "19",
+            "project_number": "19",
             "amount": 4,
             "encounter_number": "23-26"
         },
@@ -9624,7 +9624,7 @@
                 "text": "<blockquote>Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalentiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam.</blockquote>\nW\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Karte Die \u00c4lteste Auster \u00fcbernimmt.\n<blockquote></blockquote>\n\n<blockquote></blockquote>",
                 "index": "1b"
             },
-            "expansion_number": "25",
+            "project_number": "25",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "id": "08025455-6172-4c5a-8c30-ffeb7f725309",
             "encounter_number": "4"
@@ -9646,7 +9646,7 @@
                 "text": "<blockquote>Da sich der Inhalt des Tisches st\u00e4ndig verschiebt, \u00fcberlegst du dir, wie du die um den Tisch kreisenden Teekannen unterscheiden kannst.\nDu fokussierst dich auf eine einzige Teekanne in der Mitte des Tisches. Sie sieht anders aus als die Kanne, in die die Haselmaus hineingeschl\u00fcpft ist, aber du wei\u00dft, dass du deinen Augen nicht trauen solltest.</blockquote>\nBringe die beiseitegelegte Karte Die Haselmaus auf der Tischmitte ins Spiel."
             },
             "encounter_number": "9",
-            "expansion_number": "55",
+            "project_number": "55",
             "encounter_set": "faeb8f82-4cd5-4ce1-ad64-7944963655ba",
             "id": "c9090448-042d-4cf9-90cd-0307a3fcaf80"
         },
@@ -9666,7 +9666,7 @@
                 "type": "encounter"
             },
             "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
-            "expansion_number": "147",
+            "project_number": "147",
             "encounter_number": "8-10"
         },
         {
@@ -9687,7 +9687,7 @@
             "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
             "encounter_number": "2-4",
             "name": "Der Klaueln Krall!",
-            "expansion_number": "145"
+            "project_number": "145"
         },
         {
             "id": "e2e2b5e9-a37f-45ca-91ee-9f7e88ca76d2",
@@ -9720,7 +9720,7 @@
             },
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "name": "Geweech",
-            "expansion_number": "122",
+            "project_number": "122",
             "encounter_number": "9"
         },
         {
@@ -9750,7 +9750,7 @@
             },
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
             "encounter_number": "33",
-            "expansion_number": "172"
+            "project_number": "172"
         },
         {
             "name": "Der L\u00f6we und das Einhorn",
@@ -9772,7 +9772,7 @@
                 "type": "encounter"
             },
             "encounter_number": "6",
-            "expansion_number": "296",
+            "project_number": "296",
             "encounter_set": "9af55e7a-588b-4c06-8378-d4463846d243",
             "id": "9d85aed3-d3d4-463b-b80f-3cb194a643f0"
         },
@@ -9796,7 +9796,7 @@
             },
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "encounter_number": "5",
-            "expansion_number": "203"
+            "project_number": "203"
         },
         {
             "name": "Downtown",
@@ -9830,7 +9830,7 @@
                 "clues": "0"
             },
             "encounter_number": "13",
-            "expansion_number": "211",
+            "project_number": "211",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "a9674186-de20-469d-9699-16e11db07dcf"
         }
@@ -9838,8 +9838,9 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "5f839311-aeb5-427d-a92c-4356fb10b360",
-            "661bed2c-9366-43fc-b0b8-58d18872da0b"
+            "08483e63-98b9-409a-bc97-937484951450",
+            "870b80dd-e77e-4aee-b2b3-0b5aedd5fd77",
+            "114956a8-f308-4cbb-8ee3-44caabcb6cb3"
         ]
     },
     "icon": "./images/Alice in Wonderland.png",
