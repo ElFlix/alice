@@ -5444,7 +5444,7 @@
                 "name": "Einsames Waldgebiet",
                 "subtitle": "Die Spur des Butchers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, durchsuche das Begegnungsdeck und Ablagestapel nach 1 Gegner ohne Nachr\u00fcsten und ziehe ihn (stattdessen 2 Gegner, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, durchsuche das Begegnungsdeck und Ablagestapel nach 1 Gegner ohne Nachr\u00fcsten und ziehe ihn (stattdessen 2 Gegner, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Der Umweg des Butchers f\u00fchrt an einem hohlen Baum vorbei, in dem sich einige aufgekratzte Kreaturenen niedergelassen haben.",
                 "victory": "Sieg 1.",
                 "shroud": "4",
@@ -5586,7 +5586,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Billard-Mark\u00f6rs",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5594,7 +5594,7 @@
                 "connections": [
                     "star",
                     "square",
-                    "slash",
+                    "spade",
                     "moon"
                 ],
                 "flavor_text": "Die F\u00e4hrte des Billard-Mark\u00f6rs zwingt dich, eine riesige Schlucht zu \u00fcberqueren."
@@ -5619,7 +5619,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des B\u00f6rsenh\u00e4ndlers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens 3 <per> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens 3 <per> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Der Weg des B\u00f6rsenmaklers f\u00fchrt \u00fcber sumpfigen Boden, der deine M\u00f6glichkeiten stark einschr\u00e4nkt.",
                 "victory": "",
                 "shroud": "3",
@@ -5654,7 +5654,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bonnet-Machers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Der Weg des Hutmachers f\u00fchrt zum Eingang einer tiefen und unheimlichen H\u00f6hle.",
                 "victory": "",
                 "shroud": "3",
@@ -5687,7 +5687,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bootblacks",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -6027,7 +6027,8 @@
                 "type": "act_back",
                 "name": "Kenntnis nur, wenn n\u00f6tig",
                 "victory": "",
-                "flavor_text": "Die Armeen der Zwillinge sind fast so ebenb\u00fcrtig wie sie selbst. Jeder Soldat, den du niederschl\u00e4gst, verschiebt das Gleichgewicht der Schlacht zugunsten des anderen. Da dir jedoch weniger Soldaten im Weg stehen, kannst du dich darauf konzentrieren, einen Weg zu finden, um die Schlacht zu beenden."
+                "flavor_text": "Die Armeen der Zwillinge sind fast so ebenb\u00fcrtig wie sie selbst. Jeder Soldat, den du niederschl\u00e4gst, verschiebt das Gleichgewicht der Schlacht zugunsten des anderen. Da dir jedoch weniger Soldaten im Weg stehen, kannst du dich darauf konzentrieren, einen Weg zu finden, um die Schlacht zu beenden.",
+                "index": "1b"
             },
             "encounter_number": "3",
             "project_number": "150",
@@ -6050,7 +6051,7 @@
                 "name": "Ein Pfund Federn",
                 "victory": "",
                 "text": "Bringe den beiseitegelegten Gegner Monstr\u00f6se Kr\u00e4he neben dem Agendadeck ins Spiel.",
-                "flavor_text": "Zun\u00e4chst scheint es unm\u00f6glich, die Schatten auf einen bestimmten Teil des Schlachtfeldes zu lenken. Auf dem absch\u00fcssigen Gel\u00e4nde rund um das Schlachtfeld findest du jedoch mehrere heruntergefallene Kr\u00e4henfedern, welche die Schatten anzuziehen scheinen. Du sammelst so viele du finden kannst und bringst sie ins die zentrale Senke. Innerhalb weniger Minuten beginnt sich Dunkelheit um das Federb\u00fcndel zu sammeln und zu einer riesigen Gestalt auszudehnen. Du trittst mehrere Schritte zur\u00fcck und h\u00e4ltst dir die Ohren zu, als das unheimliches Kr\u00e4chzen einer unnat\u00fcrlichen Kr\u00e4he aus der wachsenden Dunkelheit ert\u00f6nt. Dideldei und Dideldum h\u00f6ren auf, Befehle zu ihren Untergebenen zu br\u00fcllen, und stehen vor Ehrfurcht erstarrte da, w\u00e4hrend die schattenhafte Kr\u00e4he Gestalt annimmt."
+                "flavor_text": "Zun\u00e4chst scheint es unm\u00f6glich, die Schatten auf einen bestimmten Teil des Schlachtfeldes zu lenken. Auf dem absch\u00fcssigen Gel\u00e4nde rund um das Schlachtfeld findest du jedoch mehrere heruntergefallene Kr\u00e4henfedern, welche die Schatten anzuziehen scheinen. Du sammelst so viele du finden kannst und bringst sie in die zentrale Senke. Innerhalb weniger Minuten beginnt sich Dunkelheit um das Federb\u00fcndel zu sammeln und zu einer riesigen Gestalt auszudehnen. Du trittst mehrere Schritte zur\u00fcck und h\u00e4ltst dir die Ohren zu, als das unheimliches Kr\u00e4chzen einer unnat\u00fcrlichen Kr\u00e4he aus der wachsenden Dunkelheit ert\u00f6nt. Dideldei und Dideldum h\u00f6ren auf, Befehle zu ihren Untergebenen zu br\u00fcllen, und stehen vor Ehrfurcht erstarrte da, w\u00e4hrend die schattenhafte Kr\u00e4he Gestalt annimmt."
             },
             "encounter_number": "4",
             "project_number": "151",
@@ -6072,7 +6073,8 @@
                 "name": "Fersengeld",
                 "victory": "",
                 "text": "<b>(<resolution>A5)</b>",
-                "flavor_text": "Die Br\u00fcder haben schon angesichts der Kr\u00e4he die Nerven verloren, aber deine zus\u00e4tzliche Panikmache l\u00e4sst sie schreiend und fluchtend aus der Schlacht fliehen. Ohne ihre Anf\u00fchrer haben die Karten und Schachfiguren keine treibende Kraft mehr und schlendern harmlos aus dem Tal davon. Zufrieden schnappst du dir das letzte weggeworfene St\u00fcck der Rassel und richtest deine Aufmerksamkeit auf die schattenhafte Kr\u00e4he."
+                "flavor_text": "Die Br\u00fcder haben schon angesichts der Kr\u00e4he die Nerven verloren, aber deine zus\u00e4tzliche Panikmache l\u00e4sst sie schreiend und fluchend aus der Schlacht fliehen. Ohne ihre Anf\u00fchrer haben die Karten und Schachfiguren keine treibende Kraft mehr und schlendern harmlos aus dem Tal davon. Zufrieden schnappst du dir das letzte weggeworfene St\u00fcck der Rassel und richtest deine Aufmerksamkeit auf die schattenhafte Kr\u00e4he.",
+                "index": "3b"
             },
             "encounter_number": "5",
             "project_number": "152",
@@ -6188,7 +6190,7 @@
                 "subtitle": "",
                 "traits": "Wunderland.",
                 "text": "",
-                "flavor_text": "Fallen logs and tangling weeds collect at the bottom of this small valley. This doesn't seem to deter the cards and chess pieces marching down from the opposing hills.",
+                "flavor_text": "Umgest\u00fcrzte Baumst\u00e4mme und verhedderte Str\u00e4ucher bedecken die Senke des kleinen Tals. Das schreckt aber weder Karten noch Schachfiguren davon ab, von ihren H\u00fcgeln herrab zu marschieren.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -6227,7 +6229,7 @@
                 "subtitle": "",
                 "traits": "Wunderland.",
                 "text": "",
-                "flavor_text": "Tweedledum steht auf diesem H\u00fcgel.\n Mit verschr\u00e4nkten Armen blickt er w\u00fctend \u00fcber das Tal zu seinem Bruder.",
+                "flavor_text": "Dideldum steht auf diesem H\u00fcgel.\nMit verschr\u00e4nkten Armen blickt er w\u00fctend \u00fcber das Tal zu seinem Bruder.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -6760,7 +6762,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Sobald ein Gegner an diesem Ort erscheint oder diesen Ort betritt: Platziere 1 Verderbensmarker auf ihm.\n<action>: Lege eine <intellect>- oder <combat>-Probe (4) ab. Falls die Probe gelingt, lege <name> ab.",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Sobald ein Gegner diesen Ort betritt: Platziere 1 Verderbensmarker auf ihm.\n<action>: Lege eine <intellect>- oder <combat>-Probe (4) ab. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Aneikhaar.jpg",
@@ -6780,7 +6782,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "Wagnis.\n<rev> H\u00e4nge <name> an <t>Soldaten</t>-Gegner an. Falls sich keine <t>Soldat</t>-Gegner im Spiel befinden, erh\u00e4lt <name> nachr\u00fcsten.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +2 Ausdauern, +1 Entkommen, und erh\u00e4lt <t>Elite</t>.",
+                "text": "Wagnis.\n<rev> H\u00e4nge <name> an einen <t>Soldaten</t>-Gegner an. Falls sich keine <t>Soldat</t>-Gegner im Spiel befinden, erh\u00e4lt <name> nachr\u00fcsten.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +2 Ausdauern, +1 Entkommen, und erh\u00e4lt <t>Elite</t>.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Card Guards - Mary Blair.jpg",
@@ -6822,7 +6824,7 @@
             "front": {
                 "type": "act",
                 "text": "<action>: Bewege einen nicht in einen Kampf verwickelten <t>Schach</t>-Gegner wie unter Figurenbewegungen im Kampagnenleitfaden aufgelistet. \n<obj> Falls der Rote K\u00f6nig besiegt ist, r\u00fccke vor.",
-                "flavor_text": "Der Rote K\u00f6nig gibt keine Befehle und schreit auch nicht Alarm, aber seine Schergen verfolgen dich bis ins Schloss, w\u00e4hrend die Schatten versuchen, das Licht hinter dir zu ersticken. Deine einzige Ausflucht ist der Sieg, hier und jetzt.",
+                "flavor_text": "Der Rote K\u00f6nig gibt keine Befehle und schreit auch nicht Alarm, aber seine Schergen verfolgen dich bis ins Schloss, w\u00e4hrend die Schatten versuchen, das Licht hinter dir zu ersticken. Dein einziger Ausweg ist der Sieg, hier und jetzt.",
                 "illustration": "./images/Chess - WasteofRAM.png",
                 "index": "2a",
                 "illustrator": "Illus. WasteofRAM"
@@ -7066,7 +7068,7 @@
                 "illustrator": "Illus. Jonas Zavacky",
                 "name": "<name>",
                 "subtitle": "",
-                "flavor_text": "Die weiten Felder sind perfekt quadratisch, doch dichte Heckenrei\u00dfen versperren dir den Weg zu jeder anderen Spalte dieses Schachbretts.",
+                "flavor_text": "Die weiten Felder sind perfekt quadratisch, doch dichte Heckenreihen versperren dir den Weg zu jeder anderen Spalte dieses Schachbretts.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -7119,7 +7121,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "<for> Nachdem du die vierte Reihe enth\u00fcllt hast: Enth\u00fclle die obersten 5 Karten deines Decks. Ziehe jede enth\u00fcllte Schw\u00e4che und mische die verbleibenden Karten in dein Deck.",
+                "text": "<for> Nachdem du die f\u00fcnfte Reihe enth\u00fcllt hast: Enth\u00fclle die obersten 5 Karten deines Decks. Ziehe jede enth\u00fcllte Schw\u00e4che und mische die verbleibenden Karten in dein Deck.",
                 "flavor_text": "Dein K\u00f6rper scheint dich bei jedem Schritt nach vorne zu bek\u00e4mpfen, als w\u00fcrde dein eigener Schatten dich zur\u00fcckziehen.",
                 "victory": "",
                 "illustration": "./images/Environment - Nell Fallcard.jpg",
@@ -7181,7 +7183,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "Als zus\u00e4tzliche Kosten, um die sechste Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per> Hinweise ausgeben.",
-                "flavor_text": "Das Gel\u00e4nde wird unwegsamer mit jedem Schritt, den du in feindliches Gebiet machst.",
+                "flavor_text": "Das Gel\u00e4nde wird unwegsamer mit jedem Schritt, den du in feindliches Gebiet vorr\u00fcckst.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -7478,7 +7480,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Patzer.",
-                "text": "<rev> Lege eine <agility>-Probe (3) ab. Diese Probe bekommt +1 Schwierigkeit und Wagnis, falls du dich an einem <t>Schatten</t>-Ort befindest. Falls die Probe missling, nimm 1 Schaden (stattdessen 2 Schaden, falls sich ein <t>Schach</t>-Gegner an deinem Ort befindet. at your location). Falls die Probe um 2 oder mehr misslingt, verliere 2 Ressourcen.",
+                "text": "<rev> Lege eine <agility>-Probe (3) ab. Diese Probe bekommt +1 Schwierigkeit und Wagnis, falls du dich an einem <t>Schatten</t>-Ort befindest. Falls die Probe misslingt, nimm 1 Schaden (stattdessen 2 Schaden, falls sich ein <t>Schach</t>-Gegner an deinem Ort befindet. Falls die Probe um 2 oder mehr misslingt, verliere 2 Ressourcen.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Joe Rippel.jpg",
@@ -7498,7 +7500,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott.",
-                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um diesen Ort zu verlassen, musst du (w\u00e4hle zwei):\n<bullet> Nimm 1 Schaden.\n<bullet> Nimm 1 Horror.\n<bullet> Lege 1 zuf\u00e4llige Karte von deiner Hand ab.\n<bullet> Lege 1 zuf\u00e4llige Karte von deiner Hand ab.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um diesen Ort zu verlassen, musst du (w\u00e4hle zwei):\n<bullet> Nimm 1 Schaden.\n<bullet> Nimm 1 Horror.\n<bullet> Lege 1 zuf\u00e4llige Karte von deiner Hand ab.\n<bullet> Verliere 1 Ressource.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Troiscake.jpg",
@@ -7518,7 +7520,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Wunderland. Humanoid. Schach. Adlig. Elite.",
-                "text": "<prey> Niedrigster <agi>-Wert.\nSolange du mit der Roten K\u00f6nigin in einem Kampf verwickelt bist, kannst du <free>-F\u00e4higkeiten nicht ausl\u00f6sen und keine Karten mit dem Schl\u00fcsselwort Schnell spielen.",
+                "text": "<prey> Niedrigster <agi>-Wert.\nSolange du mit der Roten K\u00f6nigin in einen Kampf verwickelt bist, kannst du <free>-F\u00e4higkeiten nicht ausl\u00f6sen und keine Karten mit dem Schl\u00fcsselwort Schnell spielen.",
                 "victory": "Sieg 2.",
                 "illustration": "./images/Red Queen - Soo K.jpg",
                 "illustrator": "Illus. Soo K",
@@ -8465,7 +8467,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die Kreuz-Kartenwache angegriffen hat: W\u00e4hle 1 Karte von deiner Hand mit mindestens einem <combat>-Fertigkeitssymbol und lege sie ab. Falls du dies nicht kannst, nimm 1 Horror.",
+                "text": "<for> Nachdem dich die Kreuz-Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <combat>-Fertigkeitssymbol von deiner Hand ab.  Falls du dies nicht kannst, nimm 1 Horror.",
                 "health": "3",
                 "evade": "2",
                 "attack": "3",
@@ -8495,7 +8497,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die Kreuz-Kartenwache angegriffen hat: W\u00e4hle 1 Karte von deiner Hand mit mindestens einem <agility>-Fertigkeitssymbol und lege sie ab. Falls du dies nicht kannst, nimm 1 Schaden.",
+                "text": "<for> Lege 1 Karte mit mindestens einem <agility>-Fertigkeitssymbol von deiner Hand ab.  Falls du dies nicht kannst, nimm 1 Schaden.",
                 "health": "3",
                 "evade": "3",
                 "attack": "2",
@@ -8516,13 +8518,13 @@
             "amount": 2
         },
         {
-            "name": "Herz-Kartensoldat",
+            "name": "Herz-Kartenwache",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die Herz-Kartenwache angegriffen hat: W\u00e4hle 1 Karte von deiner Hand mit mindestens einem <willpower>-Fertigkeitssymbol und lege sie ab. Falls du dies nicht kannst, nimm 1 Schaden.",
+                "text": "<for> Nachdem dich die Herz-Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <willpower>-Fertigkeitssymbol von deiner Hand ab.  Falls du dies nicht kannst, nimm 1 Schaden.",
                 "health": "2",
                 "evade": "3",
                 "attack": "3",
@@ -8623,7 +8625,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "Nachr\u00fcsten.\n<rev> Mische eine beliebige Anzahl an Karten von deiner Hand in dein Deck zur\u00fcck und ziehe die gleiche Anzahl. F\u00fcr jede Karte, die du nicht in dein Deck gemischelt hast, verlierst du 1 Ressource.",
+                "text": "Nachr\u00fcsten.\n<rev> Mische eine beliebige Anzahl an Karten von deiner Hand in dein Deck zur\u00fcck und ziehe die gleiche Anzahl. F\u00fcr jede Karte, die du nicht in dein Deck gemischt hast, verlierst du 1 Ressource.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Cheshire Cat - Zoya Koinash.jpg",
@@ -8864,7 +8866,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange sich ein <t>Schach</t>-Gegner an deinem Ort befindet, bekommst du \u20132 auf alle Fertigkeiten, au\u00dfer w\u00e4hrend Kampf und Entkommen.\n<action> <action>: Lege <name> ab.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange sich ein <t>Schach</t>-Gegner an deinem Ort befindet, bekommst du \u20132 auf alle Fertigkeiten, au\u00dfer w\u00e4hrend Kampf- und Entkommen-Proben.\n<action> <action>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Ruslan Grechka.jpg",
@@ -9189,7 +9191,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Mausetot",
                 "traits": "Wunderland. Kreatur. Leiche.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege den Dodo ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege den Dodo ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9216,7 +9218,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "R\u00e4nkeschmiedende Royalistin",
                 "traits": "Wunderland. Humanoid. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9239,7 +9241,7 @@
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Leiche.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9288,7 +9290,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Ruin\u00f6se Regentin",
                 "traits": "Wunderland. Humanoid. Schach. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandel ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9404,7 +9406,7 @@
                 "illustration": "./images/Duchess - Denis Zilber.jpg",
                 "illustrator": "Illus. Denis Zilber",
                 "level": "None",
-                "subtitle": "Geselliger H\u00f6fling"
+                "subtitle": "Geselliger Hofdame"
             },
             "back": {
                 "type": "encounter"
@@ -9447,7 +9449,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Gekr\u00f6nte Gegenspieler",
                 "traits": "Wunderland. Kreatur. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem ein Gegner besiegt oder abgelegt worden ist: Jeder Ermittler 1 Schaden oder 1 Horror heilen. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem ein Gegner besiegt oder abgelegt worden ist: Jeder Ermittler darf 1 Schaden oder 1 Horror heilen. Lege <name> ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
@@ -9846,14 +9848,7 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "661bed2c-9366-43fc-b0b8-58d18872da0b",
-            "f31e7367-b5f0-4ed0-ae41-816e36151438",
-            "eced1904-5a92-4c7b-a168-5c62e38217b6",
-            "8690f39e-6673-40ab-adad-ae527166eda1",
-            "d2d6602f-7ada-4366-a6c3-c7df17716575",
-            "779e7b30-84e7-446a-87a8-2c1c7ce874cf",
-            "c8ee2ff2-ec4e-4ef9-8abb-844aa2b8dbfe",
-            "957a47a2-fe86-47bb-bd41-1db41df7bcfa"
+            "0eb3950b-c9a7-4869-b658-dde882bd59f0"
         ]
     },
     "icon": "./images/Alice in Wonderland.png",
