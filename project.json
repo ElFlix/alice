@@ -69,7 +69,7 @@
             "order": 1
         },
         {
-            "name": "Ein Meer an Problemen",
+            "name": "Eine See an Plagen",
             "icon": "./images/A Sea of Troubles.png",
             "id": "6227882b-e173-45ff-bbe2-dc19fb67edba",
             "card_amount": 20,
@@ -1892,15 +1892,13 @@
                 "text": "Du kannst diesen Ort nicht betreten, solange sich Hinweise auf verbundenen Orten befinden.",
                 "flavor_text": "Du kannst dich nicht daran erinnern, an dieser Stelle schon einmal ein Haus gesehen zu haben, oder \u00fcberhaupt irgendwo in Arkham ein Haus wie dieses.",
                 "victory": "",
-                "shroud": "2",
-                "clues": "0",
                 "connection": "<copy>",
                 "connections": [
                     "circle",
                     "tear"
                 ],
                 "level": "Keine",
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Abandoned House - Bruce McRae.jpg",
+                "illustration": "./images/Abandoned House - Bruce McRae.jpg",
                 "illustration_pan_y": 120,
                 "illustration_pan_x": 2
             },
@@ -2197,7 +2195,7 @@
             "id": "34305ebf-f88c-4ee7-b110-66ff2f23a277"
         },
         {
-            "name": "Ein Meer an Problemen",
+            "name": "Eine See an Plagen",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -5918,7 +5916,7 @@
                 "horror": 1,
                 "flavor_text": "Zerschirrt und drillbert fort",
                 "victory": "",
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Slithy Tove - Michael Kutsche.jpg",
+                "illustration": "./images/Slithy Tove - Michael Kutsche.jpg",
                 "illustrator": "Illus. Michael Kutsche",
                 "illustration_pan_x": 36,
                 "illustration_pan_y": 518
@@ -7553,7 +7551,7 @@
                 "sanity": "4",
                 "flavor_text": "",
                 "victory": "",
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/White Knight - Omar Rayyan.jpg",
+                "illustration": "./images/White Knight - Omar Rayyan.jpg",
                 "illustrator": "Illus. Omar Rayyan",
                 "level": "None",
                 "classes": [
@@ -9508,7 +9506,7 @@
                 "classes": [
                     "seeker"
                 ],
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Alice - Aucher-fargue Nicolas.jpg",
+                "illustration": "./images/Alice - Aucher-fargue Nicolas.jpg",
                 "illustrator": "Illus. Aucher-fargue Nicolas"
             },
             "back": {
@@ -9601,7 +9599,7 @@
                 "horror": "1",
                 "traits": "Humanoid. Abscheulichkeit.",
                 "text": "<spawn> Ort mit den meisten Hinweisen. <prey> Ermittler mit den meisten Hinweisen.\nFalls sich keine Hinweise auf dem Ort von <name> befinden, erh\u00e4lt <name> J\u00e4ger.\n<for> Am Ende der Mythosphase, falls sich Hinweise auf dem Ort von <name> befinden: Platziere 1 Verderben auf <name>.",
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/shoggoth_export/images/Twisted Citizen - Emma Chilicuisa.jpg",
+                "illustration": "./images/Twisted Citizen - Emma Chilicuisa.jpg",
                 "illustration_pan_x": -111,
                 "illustration_pan_y": 350,
                 "illustration_scale": 0.54,
@@ -9686,7 +9684,7 @@
                 "type": "treachery",
                 "text": "<rev> Lege eine <agi>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich der Schebberoch im Spiel befindet. Falls die Probe misslingt, nimm 1 Schaden und verliere 2 Ressourcen.",
                 "traits": "Gefahr.",
-                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Jabberwock - Stacy LeFevre.jpg",
+                "illustration": "./images/Jabberwock - Stacy LeFevre.jpg",
                 "illustration_pan_x": 75,
                 "illustration_pan_y": 34,
                 "illustration_scale": 1.22
@@ -9848,13 +9846,13 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "0eb3950b-c9a7-4869-b658-dde882bd59f0"
+            "d93fc2e0-20e5-447c-bbca-7ad98ca9f015"
         ]
     },
     "icon": "./images/Alice in Wonderland.png",
     "guides": [
         {
-            "path": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/guide.html",
+            "path": "./guide.html",
             "name": "Guide",
             "id": "57df5c6d-4c0f-4d96-a5e6-2f162ccfedd5"
         }
