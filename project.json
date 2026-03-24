@@ -64,7 +64,8 @@
                         "x": 161.55881358358948,
                         "y": 181.04012830405338
                     }
-                }
+                },
+                "tts": {}
             },
             "order": 1
         },
@@ -100,7 +101,8 @@
                         "x": 88.56713765615989,
                         "y": -120.00150940625298
                     }
-                }
+                },
+                "tts": {}
             }
         },
         {
@@ -108,7 +110,10 @@
             "icon": "./images/Walrus and Carpenter.png",
             "id": "51e2559a-1480-4b6b-9cb6-a8c86f193b27",
             "card_amount": 5,
-            "order": 3
+            "order": 3,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Sturm im Teeglas",
@@ -190,7 +195,8 @@
                         "x": -539.8716772271549,
                         "y": 527.9907707373335
                     }
-                }
+                },
+                "tts": {}
             }
         },
         {
@@ -233,7 +239,8 @@
                         "x": -153.34930161343436,
                         "y": 287.2479744380013
                     }
-                }
+                },
+                "tts": {}
             }
         },
         {
@@ -296,7 +303,8 @@
                         "x": 150.59082079594663,
                         "y": 551.5899329509582
                     }
-                }
+                },
+                "tts": {}
             }
         },
         {
@@ -304,7 +312,10 @@
             "icon": "./images/Jabberwock.png",
             "id": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
             "card_amount": 3,
-            "order": 7
+            "order": 7,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Geschwisterrivalit\u00e4t",
@@ -440,7 +451,8 @@
                         "x": -1397.9853783463577,
                         "y": 643.9082458356397
                     }
-                }
+                },
+                "tts": {}
             }
         },
         {
@@ -462,7 +474,10 @@
             "icon": "./images/Card Guards.png",
             "id": "57972c01-bce0-4512-9573-eabcc71a5ac1",
             "card_amount": 6,
-            "order": 13
+            "order": 13,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Schachfiguren",
@@ -483,14 +498,20 @@
             "icon": "./images/Riddles and Games.png",
             "id": "aff37008-a4ad-4fab-96de-29f9febd1bab",
             "card_amount": 4,
-            "order": 16
+            "order": 16,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Verzerrte Realit\u00e4t",
             "icon": "./images/Warped Reality.png",
             "id": "f65a386b-aa46-41cc-b5d7-5bebd924f2ee",
             "card_amount": 5,
-            "order": 17
+            "order": 17,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Fluch des Wunderlands",
@@ -498,14 +519,20 @@
             "id": "9af55e7a-588b-4c06-8378-d4463846d243",
             "card_amount": 6,
             "code": null,
-            "order": 18
+            "order": 18,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Segen des Wunderlands",
             "icon": "./images/Wonderland Boons.png",
             "id": "15e52956-bfe6-4db2-8697-b13025782a0d",
             "card_amount": 7,
-            "order": 19
+            "order": 19,
+            "meta": {
+                "tts": {}
+            }
         }
     ],
     "cards": [
@@ -1411,7 +1438,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Shadows - Snugglestab.jpg",
                 "illustrator": "Illus. Snugglestab"
@@ -4773,7 +4800,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Queen of Hearts - Cynthia Sheppard.jpg",
                 "illustrator": "Illus. Cynthia Sheppard"
@@ -7578,7 +7605,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Heart - Joao Rod 4.jpg",
                 "illustrator": "Illus. Joao Rod"
@@ -7812,7 +7839,7 @@
                 "flavor_text": "You happen across an enormous pool of blood with the Queen of Hearts' crown half-sunken into it.",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Heart - Mediphysical.jpg",
                 "illustrator": "Illus. Mediphysical"
@@ -7862,7 +7889,7 @@
                 "flavor_text": "A cracked tea set sits on the ground before you,\nsmeared with butter, jam, and blood.",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Broken Teacups - Larry Preston.jpg",
                 "illustrator": "Illus. Larry Preston"
@@ -7887,7 +7914,7 @@
                 "flavor_text": "\"For the want of a battle the kingdom was lost...\"",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Chess - 006ruler.jpg",
                 "illustrator": "Illus. 006ruler"
@@ -7964,7 +7991,7 @@
                 "illustration": "./images/Jabberwock - Lady Fiszi.jpg",
                 "illustrator": "Illus. Lady Fiszi",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ]
             },
             "back": {
@@ -7987,7 +8014,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Heart - Joao Rod 6.jpg",
                 "illustrator": "Illus. Joao Rod"
@@ -8013,7 +8040,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Brain - Jolygon 4.jpg",
                 "illustrator": "Illus. Jolygon"
@@ -8041,7 +8068,7 @@
                 "illustration": "./images/Brain - Jolygon 6.jpg",
                 "illustrator": "Illus. Jolygon",
                 "classes": [
-                    "storyweakness",
+                    "story weakness",
                     "none",
                     "none"
                 ]
@@ -8067,7 +8094,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Heart - Joao Rod 5.jpg",
                 "illustrator": "Illus. Joao Rod"
@@ -8093,7 +8120,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Brain - Jolygon 5.jpg",
                 "illustrator": "Illus. Jolygon"
@@ -8121,7 +8148,7 @@
                 "illustration": "./images/Broken Toys - Unknown.jpg",
                 "illustrator": "Illus. Unknown",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ]
             },
             "back": {
@@ -8194,7 +8221,7 @@
                 "flavor_text": "A broken pocket watch lies on the ground in front\nof you, stuck just one minute to twelve o'clock.",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Broken Clock - Unknown.jpg",
                 "illustrator": "Illus. Unknown"
@@ -8219,7 +8246,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Rabbit Hole - Lyle Hatch.jpg",
                 "illustrator": "Illus. Lyle Hatch"
@@ -8245,7 +8272,7 @@
                 "flavor_text": "But answer came there none \u2014",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Oyster - Unknown.jpg",
                 "illustrator": "Illus. Unknown"
@@ -8270,7 +8297,7 @@
                 "flavor_text": "\"But if ever I meet with a Boojum, that day,\nIn a moment (of this I am sure),\nI shall softly and suddenly vanish away\u2014\nAnd the notion I cannot endure!\"",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Footprints - Even Liu.jpg",
                 "illustrator": "Illus. Even Liu"
@@ -8395,7 +8422,7 @@
                 "flavor_text": "You find a shattered sword lying on the ground,\nalongside several dented pieces of armor.",
                 "victory": "",
                 "classes": [
-                    "storyweakness"
+                    "story weakness"
                 ],
                 "illustration": "./images/Broken Sword - A Shipwright.jpg",
                 "illustrator": "Illus. A Shipwright"
@@ -9846,7 +9873,8 @@
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
         "dirty": [
-            "d93fc2e0-20e5-447c-bbca-7ad98ca9f015"
+            "d93fc2e0-20e5-447c-bbca-7ad98ca9f015",
+            "d329aead-1de7-4b98-ab02-bffd339453f9"
         ]
     },
     "icon": "./images/Alice in Wonderland.png",
