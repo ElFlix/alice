@@ -9,60 +9,60 @@
             "meta": {
                 "location_graph": {
                     "5196477a-23bb-4839-b48d-0946ff4935b9_back": {
-                        "x": 158.28980394406852,
-                        "y": 179.0030030766926
+                        "x": 477.32011423450854,
+                        "y": 454.06215889055693
                     },
                     "5205f421-cadd-4575-b233-2e9c631b421c_front": {
-                        "x": 643.5470028969949,
-                        "y": 192.7337601761073
+                        "x": 5.244571758621788,
+                        "y": 579.7812179456082
                     },
                     "5205f421-cadd-4575-b233-2e9c631b421c_back": {
-                        "x": 642.6896013097178,
-                        "y": 193.91857687897476
+                        "x": 2.523840255302705,
+                        "y": 579.5797784124265
                     },
                     "58393a9c-60e9-4c57-8826-d5bfec79ffb0_front": {
-                        "x": -80.97532249649801,
-                        "y": 188.70488761353715
+                        "x": 371.55323468927645,
+                        "y": 47.14659731351733
                     },
                     "58393a9c-60e9-4c57-8826-d5bfec79ffb0_back": {
-                        "x": -85.18287287192597,
-                        "y": 190.50449199048433
+                        "x": 372.5521314015732,
+                        "y": 43.224138362828626
                     },
                     "527e759f-9131-42f5-bfd7-01a1fd757f39_front": {
-                        "x": 391.180088280087,
-                        "y": 185.62208608309862
+                        "x": 170.41015209700012,
+                        "y": 338.6754316078648
                     },
                     "527e759f-9131-42f5-bfd7-01a1fd757f39_back": {
-                        "x": 393.4677428592495,
-                        "y": 183.14448133207048
+                        "x": 170.70258369228657,
+                        "y": 340.3250197211868
                     },
                     "9e1af5d4-a44a-4880-9d3e-d3247328fca9_front": {
-                        "x": 397.0222742475705,
-                        "y": -38.83801798137961
+                        "x": 218.09821415353088,
+                        "y": 568.5602022382168
                     },
                     "9e1af5d4-a44a-4880-9d3e-d3247328fca9_back": {
-                        "x": 395.5631008762666,
-                        "y": -43.8403191241107
+                        "x": 214.62679635512407,
+                        "y": 568.7968073181739
                     },
                     "7b32cc78-a27b-4f45-8203-05de9b20a566_front": {
-                        "x": 32.953243316656575,
-                        "y": 502.51467102125844
+                        "x": 559.3541031426553,
+                        "y": 55.59153527329474
                     },
                     "7b32cc78-a27b-4f45-8203-05de9b20a566_back": {
-                        "x": 32.21711515928914,
-                        "y": 501.9298543205131
+                        "x": 557.3292748279907,
+                        "y": 53.164757185075814
                     },
                     "f30ee9b4-7cc8-43d6-9a29-9274df4f9a79_front": {
-                        "x": 295.76597801812113,
-                        "y": 472.85167486330784
+                        "x": 127.431890060674,
+                        "y": 59.39831329318488
                     },
                     "f30ee9b4-7cc8-43d6-9a29-9274df4f9a79_back": {
                         "x": 200.0,
                         "y": 684.0
                     },
                     "5196477a-23bb-4839-b48d-0946ff4935b9_front": {
-                        "x": 161.55881358358948,
-                        "y": 181.04012830405338
+                        "x": 478.949662454645,
+                        "y": 458.9833209926703
                     }
                 },
                 "tts": {}
@@ -369,7 +369,8 @@
                         "x": -152.77539054255496,
                         "y": 106.8002301355093
                     }
-                }
+                },
+                "tts": {}
             }
         },
         {
@@ -460,14 +461,20 @@
             "icon": "./images/Alice in Arkham.png",
             "id": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "card_amount": 34,
-            "order": 11
+            "order": 11,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Die Grinsekatze",
             "icon": "./images/Cheshire Cat.png",
             "id": "501c1bc3-6c99-42f8-93da-efd313f3ea01",
             "card_amount": 4,
-            "order": 12
+            "order": 12,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Kartenwachen",
@@ -484,7 +491,10 @@
             "icon": "./images/Chessmen.png",
             "id": "d175b267-1201-488c-8324-53645458b02c",
             "card_amount": 6,
-            "order": 14
+            "order": 14,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "Gurathnakas Schatten",
@@ -1461,7 +1471,8 @@
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "clues": "2<per>",
                 "index": "1a",
-                "illustrator": "Illus. Nyctoinc"
+                "illustrator": "Illus. Nyctoinc",
+                "illustration_scale": 1.0
             },
             "back": {
                 "type": "act_back",
@@ -1482,7 +1493,8 @@
                 "flavor_text": "Mitten in den chaotischen \u00dcberschneidungen dieser Anderswelt ist in der Nachbarschaft s\u00fcdlich von dir ein englisches Landhaus aufgetaucht. Wenn es stimmt, was die Katze andeutet, dann liegt der Schl\u00fcssel, um die Verschmelzung der Welten zu verhindern, im Inneren.",
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "2a",
-                "illustrator": "Illus. Nyctoinc"
+                "illustrator": "Illus. Nyctoinc",
+                "illustration_scale": 1.0
             },
             "back": {
                 "type": "act_back",
@@ -1507,7 +1519,8 @@
                 "flavor_text": "Das Wei\u00dfe Kaninchen scheint das zu haben, wonach du in der sich st\u00e4ndig drehenden Landschaft suchst: Ein Ziel. Wenn dieser Wahnsinn einen Ursprung hat, dann findest du ihn dort, wohin auch immer das Kaninchen unterwegs ist.",
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
-                "illustrator": "Illus. Nyctoinc"
+                "illustrator": "Illus. Nyctoinc",
+                "illustration_scale": 1.0
             },
             "back": {
                 "type": "act_back",
@@ -1530,7 +1543,8 @@
                 "flavor_text": "Wenn es etwas gibt, das \u00fcber die Lage in Arkham sicher ist, dann ist es, dass das Wunderland die Quelle des Chaos ist. Wenn du eine echte Chance haben willst, das Chaos zu stoppen, musst du durch den Spiegel in diese Welt gelangen.",
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
-                "illustrator": "Illus. Nyctoinc"
+                "illustrator": "Illus. Nyctoinc",
+                "illustration_scale": 1.0
             },
             "back": {
                 "type": "act_back",
@@ -1553,7 +1567,8 @@
                 "illustration": "./images/Miscellaneous - Erik Johansson 1.jpg",
                 "doom": "3",
                 "index": "1a",
-                "illustrator": "Illus. Erik Johansson"
+                "illustrator": "Illus. Erik Johansson",
+                "illustration_pan_x": -480.0
             },
             "back": {
                 "type": "agenda_back",
@@ -1612,7 +1627,7 @@
             "id": "07a8d216-3e87-4729-a803-93d1e8055842"
         },
         {
-            "name": "Arkham Asylum",
+            "name": "Arkham Sanatorium",
             "front": {
                 "type": "location",
                 "subtitle": "Scheinbare Stabilit\u00e4t",
@@ -1622,22 +1637,19 @@
                 "illustration": "./images/Arkham Asylum - Mark Molnar.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "connection": "diamond_alt",
+                "connection": "diamond",
                 "connections": [
                     "circle",
                     "square"
                 ],
                 "illustrator": "Illus. Mark Molnar",
                 "flavor_text": "Das Sanatorium hat nicht den besten Ruf, was die Heilung seiner Patienten angeht. Du hoffst, dass du Alice hier nicht lange zur\u00fccklassen musst.",
-                "illustration_pan_x": -6,
-                "illustration_pan_y": 18,
-                "illustration_scale": 0.62
+                "illustration_pan_y": 100.0
             },
             "back": {
                 "type": "location",
                 "illustration": "./images/Arkham Asylum - Mark Molnar & Oliver Vernon.jpg",
                 "illustrator": "Illus. Mark Molnar & Oliver Vernon",
-                "name": "Arkham Asylum",
                 "subtitle": "Vollkommen verr\u00fcckt",
                 "traits": "Arkham. Innenstadt. Wunderland.",
                 "text": "<for> Am Ende der Runde: F\u00fcge jedem Ermittler an diesem Ort 1 Horror zu.",
@@ -1647,9 +1659,7 @@
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_scale": 0.62,
-                "illustration_pan_y": 18,
-                "illustration_pan_x": -6
+                "illustration_pan_y": 100.0
             },
             "encounter_number": "7",
             "project_number": "7",
@@ -1671,7 +1681,7 @@
                 "shroud": "2",
                 "connection": "square",
                 "connections": [
-                    "diamond_alt",
+                    "diamond",
                     "circle"
                 ],
                 "illustrator": "Illus. Unknown"
@@ -1712,13 +1722,12 @@
                 "connections": [
                     "diamond",
                     "square",
-                    "tear",
+                    "quote",
                     "triangle"
                 ],
                 "illustrator": "Illus. Cristi Balanescu",
-                "illustration_scale": 1.92,
-                "illustration_pan_x": -1603,
-                "illustration_pan_y": -494
+                "illustration_pan_x": -2093.0,
+                "illustration_pan_y": -527.0
             },
             "back": {
                 "type": "location",
@@ -1736,12 +1745,12 @@
                 "connections": [
                     "diamond",
                     "square",
-                    "tear",
+                    "quote",
                     "triangle"
                 ],
-                "illustration_pan_x": -1603,
-                "illustration_pan_y": -494,
-                "illustration_scale": 1.92
+                "illustration_scale": 3.0,
+                "illustration_pan_x": -2093.0,
+                "illustration_pan_y": -527.0
             },
             "encounter_number": "9",
             "project_number": "9",
@@ -1760,7 +1769,7 @@
                 "illustration": "./images/Newspaper - Rowena Wang.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "connection": "tear",
+                "connection": "quote",
                 "connections": [
                     "circle",
                     "moon",
@@ -1768,9 +1777,7 @@
                     "triangle"
                 ],
                 "illustrator": "Illus. Rowena Wang",
-                "illustration_pan_x": -248,
-                "illustration_pan_y": 132,
-                "illustration_scale": 1.28
+                "illustration_pan_x": -500.0
             },
             "back": {
                 "type": "location",
@@ -1784,7 +1791,7 @@
                 "victory": "",
                 "shroud": "3",
                 "clues": "0",
-                "connection": "tear",
+                "connection": "quote",
                 "connections": [
                     "circle",
                     "moon",
@@ -1792,9 +1799,7 @@
                     "triangle"
                 ],
                 "level": "0",
-                "illustration_scale": 1.28,
-                "illustration_pan_x": -248,
-                "illustration_pan_y": 132
+                "illustration_pan_x": -500.0
             },
             "encounter_number": "10",
             "project_number": "10",
@@ -1815,13 +1820,10 @@
                 "shroud": "4",
                 "connection": "moon",
                 "connections": [
-                    "tear",
+                    "quote",
                     "t"
                 ],
-                "illustrator": "Illus. Anthony Devine",
-                "illustration_scale": 0.84,
-                "illustration_pan_x": 30,
-                "illustration_pan_y": 76
+                "illustrator": "Illus. Anthony Devine"
             },
             "back": {
                 "type": "location",
@@ -1836,13 +1838,10 @@
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": [
-                    "tear",
+                    "quote",
                     "t"
                 ],
-                "name": "Rarit\u00e4tenladen",
-                "illustration_scale": 0.84,
-                "illustration_pan_x": 30,
-                "illustration_pan_y": 76
+                "name": "Rarit\u00e4tenladen"
             },
             "encounter_number": "11",
             "project_number": "11",
@@ -1863,10 +1862,11 @@
                 "shroud": "2",
                 "connection": "t",
                 "connections": [
-                    "tear",
+                    "quote",
                     "moon"
                 ],
-                "illustrator": "Illus. Mark Molnar"
+                "illustrator": "Illus. Mark Molnar",
+                "illustration_pan_y": -200.0
             },
             "back": {
                 "type": "location",
@@ -1881,10 +1881,11 @@
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": [
-                    "tear",
+                    "quote",
                     "moon"
                 ],
-                "name": "<name>"
+                "name": "<name>",
+                "illustration_pan_y": -200.0
             },
             "encounter_number": "12",
             "project_number": "12",
@@ -1904,12 +1905,11 @@
                 "connection": "triangle",
                 "connections": [
                     "circle",
-                    "tear"
+                    "quote"
                 ],
                 "illustrator": "Illus. Unknown",
-                "illustration_pan_x": 28,
-                "illustration_pan_y": -376,
-                "illustration_scale": 1.38
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": -800.0
             },
             "back": {
                 "type": "location_back",
@@ -1922,12 +1922,11 @@
                 "connection": "<copy>",
                 "connections": [
                     "circle",
-                    "tear"
+                    "quote"
                 ],
                 "level": "Keine",
                 "illustration": "./images/Abandoned House - Bruce McRae.jpg",
-                "illustration_pan_y": 120,
-                "illustration_pan_x": 2
+                "illustration_pan_y": 120.0
             },
             "encounter_number": "13",
             "project_number": "12",
@@ -1951,11 +1950,9 @@
                 ],
                 "illustration": "./images/Looking-Glass - Zdzis\u0142aw Beksi\u0144ski.jpg",
                 "illustrator": "Illus. Zdzis\u0142aw Beksi\u0144ski",
-                "illustration_pan_x": 42,
-                "illustration_pan_y": 25,
-                "illustration_scale": 0.8,
                 "name": "<unique><name>",
-                "level": "None"
+                "level": "None",
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "encounter"
@@ -1983,7 +1980,8 @@
                 "illustration": "./images/White Rabbit - Dane Cozens.jpg",
                 "illustrator": "Illus. Dane Cozens",
                 "level": "None",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_pan_y": -250.0
             },
             "back": {
                 "type": "encounter"
@@ -2023,7 +2021,8 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Shannon Tucker.jpg",
-                "illustrator": "Illus. Shannon Tucker"
+                "illustrator": "Illus. Shannon Tucker",
+                "illustration_pan_y": -550.0
             },
             "back": {
                 "type": "encounter"
@@ -2051,9 +2050,9 @@
                 "victory": "Sieg 1.",
                 "illustration": "./images/Angry Mob - Jeff Hein.jpg",
                 "illustrator": "Illus. Jeff Hein",
-                "illustration_pan_x": -358,
-                "illustration_pan_y": 520,
-                "illustration_scale": 0.82
+                "illustration_pan_y": 1100.0,
+                "illustration_pan_x": -349.0,
+                "illustration_scale": 1.08
             },
             "back": {
                 "type": "encounter"
@@ -2081,8 +2080,8 @@
                 "illustration": "./images/Looking-Glass Book.png",
                 "illustrator": "Illus. Unknown",
                 "level": "None",
-                "illustration_pan_x": 50,
-                "illustration_pan_y": 120,
+                "illustration_pan_x": 82.0,
+                "illustration_pan_y": 246.0,
                 "cost": "2"
             },
             "back": {
@@ -2791,9 +2790,9 @@
                 "victory": "",
                 "illustration": "./images/Walrus and Carpenter - Rodney Matthews.jpg",
                 "illustrator": "Illus. Rodney Matthews",
-                "illustration_pan_x": -139,
-                "illustration_pan_y": 166,
-                "illustration_scale": 0.8
+                "illustration_pan_x": 9.0,
+                "illustration_pan_y": 884.0,
+                "illustration_scale": 0.88
             },
             "back": {
                 "type": "encounter"
@@ -3002,7 +3001,10 @@
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "index": "1c",
                 "illustrator": "Illus. Gregory Hildebrandt",
-                "doom": "<dash>"
+                "doom": "<dash>",
+                "illustration_scale": 0.98,
+                "illustration_pan_x": 5.0,
+                "illustration_pan_y": 52.0
             },
             "back": {
                 "type": "agenda_back",
@@ -3025,7 +3027,10 @@
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "doom": "-",
                 "index": "2c",
-                "illustrator": "Illus. Gregory Hildebrandt"
+                "illustrator": "Illus. Gregory Hildebrandt",
+                "illustration_pan_x": 5.0,
+                "illustration_pan_y": 52.0,
+                "illustration_scale": 0.98
             },
             "back": {
                 "type": "agenda_back",
@@ -3048,7 +3053,10 @@
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "doom": "-",
                 "index": "2c",
-                "illustrator": "Illus. Gregory Hildebrandt"
+                "illustrator": "Illus. Gregory Hildebrandt",
+                "illustration_pan_y": 52.0,
+                "illustration_pan_x": 5.0,
+                "illustration_scale": 0.98
             },
             "back": {
                 "type": "agenda_back",
@@ -5159,7 +5167,7 @@
                 "type": "agenda_back",
                 "name": "Erschlugst den Schebberoch?",
                 "victory": "",
-                "text": "Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch und dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per> Schaden auf ihn.",
+                "text": "Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per> Schaden auf ihn.",
                 "index": "2b",
                 "flavor_text": "Die teuflische Kreatur greift mit zunehmender H\u00e4ufigkeit und Heftigkeit an, w\u00e4hrend du versuchst, den Tulgen Wald zu durchk\u00e4mmen. Wohin du dich auch wendest, die brennenden Augen und b\u00f6sartigen Klauen des Schebberochs sind \u00fcberall. Selbst deine besten Angriffe lassen dich daran zweifeln, ob das Biest \u00fcberhaupt get\u00f6tet werden kann."
             },
@@ -6633,7 +6641,7 @@
                 "cost": "<dash>",
                 "health": "3",
                 "flavor_text": "",
-                "victory": "Sieg 0.\n<vs>",
+                "victory": "Sieg 0.",
                 "illustration": "./images/Tweedledum Tweedledee - Lisa Falkenstern.jpg",
                 "illustrator": "Illus. Lisa Falkenstern",
                 "illustration_pan_x": -344,
@@ -6656,8 +6664,6 @@
                 "flavor_text": "Die Riesenkr\u00e4he flog herzu,\nSo schwarz wie Pech im Fasse;\nDas Heldenpaar gab sogleich Ruh,\nEntsagend allem Hasse.",
                 "victory": "Sieg 2.",
                 "title": "<unique> <name>",
-                "health": "-",
-                "sanity": "-",
                 "cost": "<dash>",
                 "classes": [
                     "story"
@@ -6666,7 +6672,7 @@
                 "illustration_scale": 1.12,
                 "illustration_pan_x": -344,
                 "illustration_pan_y": -36,
-                "level": "None"
+                "level": "0"
             },
             "encounter_number": "17",
             "project_number": "164",
@@ -6707,8 +6713,6 @@
                 "flavor_text": "Die Riesenkr\u00e4he flog herzu,\nSo schwarz wie Pech im Fasse;\nDas Heldenpaar gab sogleich Ruh,\nEntsagend allem Hasse.",
                 "victory": "Sieg 2.",
                 "title": "<unique> <name>",
-                "health": "-",
-                "sanity": "-",
                 "cost": "<dash>",
                 "classes": [
                     "story"
@@ -6716,7 +6720,8 @@
                 "slot": "None",
                 "illustration_scale": 1.12,
                 "illustration_pan_x": 34,
-                "illustration_pan_y": 52
+                "illustration_pan_y": 52,
+                "level": "None"
             },
             "encounter_number": "18",
             "project_number": "165",
@@ -8655,9 +8660,9 @@
                 "victory": "",
                 "illustration": "./images/Cheshire Cat - Zoya Koinash.jpg",
                 "illustrator": "Illus. Zoya Koinash",
-                "illustration_pan_x": 71,
-                "illustration_pan_y": -87,
-                "illustration_scale": 0.42
+                "illustration_scale": 1.0,
+                "illustration_pan_x": -7.0,
+                "illustration_pan_y": -68.0
             },
             "back": {
                 "type": "encounter"
@@ -8688,7 +8693,7 @@
             },
             "back": {
                 "type": "asset",
-                "illustration": "./images/Cheshire Cat - Cynthia Leman.jpg",
+                "illustration": "./images/Cheshire Cat - Cynthia Leman tilted.jpg",
                 "illustrator": "Illus. Cynthia Leman",
                 "subtitle": "Frustrierender Fellball",
                 "traits": "Verb\u00fcndeter? Kreatur. Wunderland.",
@@ -8725,9 +8730,8 @@
                 ],
                 "illustration": "./images/Cheshire Cat - Juliana Rykova.jpg",
                 "illustrator": "Illus. Juliana Rykova",
-                "illustration_pan_x": -55,
-                "illustration_pan_y": -55,
-                "illustration_scale": 0.96
+                "illustration_pan_x": -145.0,
+                "illustration_pan_y": -102.0
             },
             "back": {
                 "type": "encounter"
@@ -8748,9 +8752,8 @@
                 "victory": "",
                 "illustration": "./images/Cheshire Cat - Nightgrowler.jpg",
                 "illustrator": "Illus. Nightgrowler",
-                "illustration_pan_x": -31,
-                "illustration_pan_y": 36,
-                "illustration_scale": 1.22
+                "illustration_pan_x": -83.0,
+                "illustration_pan_y": -12.0
             },
             "back": {
                 "type": "encounter"
@@ -8923,9 +8926,9 @@
                 "victory": "",
                 "illustration": "./images/Shadows - Wayne Nichols.jpg",
                 "illustrator": "Illus. Wayne Nichols",
-                "illustration_pan_x": -193,
-                "illustration_pan_y": 572,
-                "illustration_scale": 1.36
+                "illustration_pan_y": 1119.0,
+                "illustration_scale": 2.38,
+                "illustration_pan_x": -281.0
             },
             "back": {
                 "type": "encounter"
@@ -8966,8 +8969,8 @@
                 "victory": "",
                 "illustration": "./images/Shadows - David Largeteau.jpg",
                 "illustrator": "Illus. David Largeteau",
-                "illustration_pan_x": -66,
-                "illustration_pan_y": 33
+                "illustration_pan_x": -148.0,
+                "illustration_pan_y": -4.0
             },
             "back": {
                 "type": "encounter"
@@ -8995,9 +8998,8 @@
                 "victory": "",
                 "illustration": "./images/Shadows - Rob McCallum.jpg",
                 "illustrator": "Illus. Rob McCallum",
-                "illustration_pan_x": 9,
-                "illustration_pan_y": 357,
-                "illustration_scale": 1.4
+                "illustration_pan_y": 800.0,
+                "illustration_pan_x": 0.0
             },
             "back": {
                 "type": "encounter"
@@ -9105,9 +9107,9 @@
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Edward Honaker.jpg",
                 "illustrator": "Illus. Edward Honaker",
-                "illustration_pan_x": 141,
-                "illustration_pan_y": 2,
-                "illustration_scale": 1.12
+                "illustration_scale": 1.0,
+                "illustration_pan_x": 136.0,
+                "illustration_pan_y": 6.0
             },
             "back": {
                 "type": "encounter"
@@ -9128,8 +9130,8 @@
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Dinmoney.jpg",
                 "illustrator": "Illus. Dinmoney",
-                "illustration_pan_x": -420,
-                "illustration_pan_y": 36
+                "illustration_pan_x": -952.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "encounter"
@@ -9150,9 +9152,8 @@
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Wendy Townrow.jpg",
                 "illustrator": "Illus. Wendy Townrow",
-                "illustration_scale": 1.1,
-                "illustration_pan_x": 24,
-                "illustration_pan_y": -22
+                "illustration_pan_x": -6.0,
+                "illustration_pan_y": -112.0
             },
             "back": {
                 "type": "encounter"
@@ -9173,8 +9174,8 @@
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Evenvita.jpg",
                 "illustrator": "Illus. Evenvita",
-                "illustration_pan_x": 62,
-                "illustration_pan_y": -16
+                "illustration_pan_x": -54.0,
+                "illustration_pan_y": -328.0
             },
             "back": {
                 "type": "encounter"
@@ -9431,7 +9432,7 @@
                 "illustration": "./images/Duchess - Denis Zilber.jpg",
                 "illustrator": "Illus. Denis Zilber",
                 "level": "None",
-                "subtitle": "Geselliger Hofdame"
+                "subtitle": "Gesellige Hofdame"
             },
             "back": {
                 "type": "encounter"
@@ -9627,9 +9628,7 @@
                 "traits": "Humanoid. Abscheulichkeit.",
                 "text": "<spawn> Ort mit den meisten Hinweisen. <prey> Ermittler mit den meisten Hinweisen.\nFalls sich keine Hinweise auf dem Ort von <name> befinden, erh\u00e4lt <name> J\u00e4ger.\n<for> Am Ende der Mythosphase, falls sich Hinweise auf dem Ort von <name> befinden: Platziere 1 Verderben auf <name>.",
                 "illustration": "./images/Twisted Citizen - Emma Chilicuisa.jpg",
-                "illustration_pan_x": -111,
-                "illustration_pan_y": 350,
-                "illustration_scale": 0.54,
+                "illustration_pan_y": 730.0,
                 "illustrator": "Illus. Emma Chilicuisa"
             },
             "back": {
@@ -9872,10 +9871,7 @@
     ],
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
     "meta": {
-        "dirty": [
-            "d93fc2e0-20e5-447c-bbca-7ad98ca9f015",
-            "d329aead-1de7-4b98-ab02-bffd339453f9"
-        ]
+        "dirty": []
     },
     "icon": "./images/Alice in Wonderland.png",
     "guides": [
