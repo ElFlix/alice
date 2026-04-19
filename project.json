@@ -642,20 +642,28 @@
                 "type": "chaos",
                 "entries": [
                     {
-                        "token": "skull",
-                        "text": "\u20132. \u20134 instead if there is more total damage and horror on Alice than on your investigator."
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20132 (\u20134 stattdessen, falls sich zusammen mehr Schaden/Horror auf Alice als auf deinem Ermittler befinden)."
                     },
                     {
-                        "token": "cultist",
+                        "token": [
+                            "cultist"
+                        ],
                         "text": "\u20132. \u20134 instead if you are at a <t>Wonderland</t> or <t>Shadow</t> location."
                     },
                     {
-                        "token": "tablet",
+                        "token": [
+                            "tablet"
+                        ],
                         "text": "\u20132. \u20134 instead if there are 3 or fewer <t>Wonderland</t> locations in play."
                     },
                     {
-                        "token": "elder_thing",
-                        "text": "\u20132. If Gurathnaka is at your location, reveal another token."
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20132. Falls sich Gurathnaka an deinem Ort befindet, enth\u00fclle einen weiteren Marker."
                     }
                 ]
             },
@@ -663,20 +671,28 @@
                 "type": "chaos",
                 "entries": [
                     {
-                        "token": "skull",
-                        "text": "\u20133. \u20135 instead if there is more total damage and horror on Alice than on your investigator."
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20133 (\u20135 stattdessen, falls sich zusammen mehr Schaden/Horror auf Alice als auf deinem Ermittler befinden)."
                     },
                     {
-                        "token": "cultist",
+                        "token": [
+                            "cultist"
+                        ],
                         "text": "\u20133. \u20135 instead if you are at a <t>Wonderland</t> or <t>Shadow</t> location."
                     },
                     {
-                        "token": "tablet",
+                        "token": [
+                            "tablet"
+                        ],
                         "text": "\u20133. \u20135 instead if there are 3 or fewer <t>Wonderland</t> locations in play."
                     },
                     {
-                        "token": "elder_thing",
-                        "text": "\u20133. If Gurathnaka is at your location, reveal another token."
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20133. Falls sich Gurathnaka an deinem Ort befindet, enth\u00fclle einen weiteren Marker."
                     }
                 ],
                 "difficulty": "Hard/Expert"
@@ -1272,9 +1288,9 @@
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/Arkham - Tomasz Jedruszek and TheKayeman.jpg",
                 "illustrator": "Illus. ",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Arkham. Schatten.",
                 "text": "",
@@ -2111,8 +2127,8 @@
                 "illustrator": "Illus. Pamela Gomes",
                 "level": "None",
                 "text": "Anwendungen (4 Portionen). Falls <name> keine Portionen hat, lege diese Karte ab.\n<free> Ersch\u00f6pfe <name> und gib 1 Portion aus: Du bekommst f\u00fcr diese Fertigkeitsprobe +2 <com> oder +2 <agi>.",
-                "illustration_pan_x": 54,
-                "illustration_pan_y": -214
+                "illustration_pan_x": 42.0,
+                "illustration_pan_y": -542.0
             },
             "back": {
                 "type": "player"
@@ -7599,12 +7615,12 @@
             "id": "77f9128a-78ef-41d6-aed8-88b7a4112960"
         },
         {
-            "name": "Lack of Courage",
+            "name": "Mangel an Mut",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Schrecken.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator engages or becomes engaged with an enemy: That investigator discards a card from their hand at random.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator engages or becomes engaged with an enemy: That investigator discards a card from their hand at random.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -7629,33 +7645,40 @@
             "front": {
                 "type": "investigator",
                 "title": "<unique> <name>",
-                "subtitle": "The Wonder Child",
-                "traits": "Dreamer.",
-                "text": "<reaction> When an investigator at Alice's location would test with any skill: Use Alice's base <intellect> for that skill instead (limit once for each investigator per round).\n<elder_sign> +0. Choose and shuffle a card from your discard pile back into your deck. Any investigator at Alice's location may use this effect instead of their own elder sign effect.",
+                "subtitle": "Das Wunderkind",
+                "traits": "Tr\u00e4umer.",
+                "text": "<reaction> Sobald ein Ermittler am Ort von Alice eine beliebige Fertigkeitsprobe ablegt: Der Ermittler legt die Probe stattdessen mit dem Grund-<intellect>-Fertigkeitswert von Alice ab. (Nur ein Mal pro Runde pro Ermittler)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-Effekts abhandeln.",
                 "health": "6",
                 "sanity": "8",
-                "flavor_text": "\"Curiouser and curiouser.\"",
-                "illustration": "./images/0_",
+                "illustration": "./images/Alice - Aucher-fargue Nicolas.png",
                 "illustrator": "Illus. Aucher-fargue Nicolas",
                 "classes": [
                     "story"
-                ]
+                ],
+                "flavor_text": "\u201eMerk- und merkerw\u00fcrdiger!\u201c",
+                "willpower": "4",
+                "intellect": "4",
+                "combat": "2",
+                "agility": "2",
+                "illustration_pan_x": -465.0,
+                "illustration_pan_y": -45.0,
+                "illustration_scale": 1.74
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/0_Alice - Aucher-fargue Nicolas.jpg",
+                "illustration": "./images/Alice - Aucher-fargue Nicolas.jpg",
                 "entries": [
                     [
-                        "<b>Deck Size:</b>",
-                        "30"
+                        "<b>Deckgr\u00f6\u00dfe</b>:",
+                        "24"
                     ],
                     [
                         "<b>Secondary Class Choice:</b>",
                         ""
                     ],
                     [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
+                        "<b>Deckbau-Voraussetzungen</b>:",
+                        "Konsultiere den Abschnitt Alices Unterst\u00fctzung im Kampagnenleitfaden, um Alices Deck zu erstellen. Alle Karten werden durch vergangene Entscheidungen der Ermittler im Laufe der Kampagne bestimmt."
                     ],
                     [
                         "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
@@ -7664,12 +7687,19 @@
                     [
                         "<b>Deckbuilding Restrictions:</b>",
                         ""
+                    ],
+                    [
+                        "<b>Zus\u00e4tzliche Voraussetzungen</b>:",
+                        "Alice kann nur im Szenario Klarer Albtraum gespielt werden."
                     ]
                 ],
-                "text": "<b>Deck Size:</b> 30",
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 24\n<b>Deckbau-Voraussetzungen</b>: Konsultiere den Abschnitt Alices Unterst\u00fctzung im Kampagnenleitfaden, um Alices Deck zu erstellen. Alle Karten werden durch vergangene Entscheidungen der Ermittler im Laufe der Kampagne bestimmt.\n<b>Zus\u00e4tzliche Voraussetzungen</b>: Alice kann nur im Szenario Klarer Albtraum gespielt werden.",
                 "classes": [
                     "story"
-                ]
+                ],
+                "illustration_scale": 1.6,
+                "illustration_pan_x": -524.0,
+                "illustration_pan_y": -179.0
             },
             "encounter_number": "1",
             "project_number": "229",
@@ -7677,12 +7707,12 @@
             "id": "b7f19dc2-a706-43d6-83fb-109c70eb27b5"
         },
         {
-            "name": "Alice's Compassion",
+            "name": "Alices Mitgef\u00fchl",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator heals any amount of damage and/or horror: That investigator heals 1 additional damage or horror (choose one).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator heals any amount of damage and/or horror: That investigator heals 1 additional damage or horror (choose one).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -7703,12 +7733,12 @@
             "amount": 2
         },
         {
-            "name": "Alice's Courage",
+            "name": "Alices Mut",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator engages or becomes engaged with an enemy: That investigator may draw a card.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator engages or becomes engaged with an enemy: That investigator may draw a card.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -7729,12 +7759,12 @@
             "amount": 2
         },
         {
-            "name": "Alice's Curiosity",
+            "name": "Alices Neugierde",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Einsicht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> After an investigator moves: That investigator gets +1 on all skill tests until the end of their turn (limit once per investigator).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> After an investigator moves: That investigator gets +1 on all skill tests until the end of their turn (limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -7755,15 +7785,14 @@
             "amount": 2
         },
         {
-            "name": "Alice's Intuition",
+            "name": "Alices Intuition",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Einsicht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator would play an event: That event gains fast (limit once per investigator).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator would play an event: That event gains fast (limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
-                "flavor_text": "",
                 "victory": "",
                 "classes": [
                     "story"
@@ -7781,12 +7810,12 @@
             "amount": 2
         },
         {
-            "name": "Alice's Patience",
+            "name": "Alices Geduld",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> After an investigator resolves a test where they committed a skill card to that test: That investigator may draw a card.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> After an investigator resolves a test where they committed a skill card to that test: That investigator may draw a card.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -7807,12 +7836,12 @@
             "amount": 2
         },
         {
-            "name": "Alice's Reason",
+            "name": "Alices Vernunft",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Einsicht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> An investigator performing a test gets +X to that test, where X is the amount of clues they control (to a maximum of 4, limit once per investigator).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> An investigator performing a test gets +X to that test, where X is the amount of clues they control (to a maximum of 4, limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -7838,7 +7867,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an enemy would enter the encounter discard pile or victory display: Place that enemy back on top of the encounter deck instead.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an enemy would enter the encounter discard pile or victory display: Place that enemy back on top of the encounter deck instead.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "You happen across an enormous pool of blood with the Queen of Hearts' crown half-sunken into it.",
@@ -7863,7 +7892,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When a card would enter an investigator's discard pile: That investigator may place it on top of their deck instead (Limit once per investigator).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When a card would enter an investigator's discard pile: That investigator may place it on top of their deck instead (Limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "Tweedledum and Tweedledee stand shoulder to shoulder, ready to assist in their own meager way.",
@@ -7913,7 +7942,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nInvestigators cannot activate <free> or <reaction> abilities, or play events with the fast keyword.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nInvestigators cannot activate <free> or <reaction> abilities, or play events with the fast keyword.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "\"For the want of a battle the kingdom was lost...\"",
@@ -7938,7 +7967,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gl\u00fccksfall. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator would take any amount of damage and/or horror: That investigator takes 1 fewer damage or horror (choose one).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator would take any amount of damage and/or horror: That investigator takes 1 fewer damage or horror (choose one).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "\"O frabjous day! Callooh! Callay!\u201d\nHe chortled in his joy.\"",
@@ -7963,7 +7992,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nAll abilities on treachery and weakness cards require one fewer action to activate. If an ability on a treachery or weakness only requires one action, it can be activated as a <free> instead.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nAll abilities on treachery and weakness cards require one fewer action to activate. If an ability on a treachery or weakness only requires one action, it can be activated as a <free> instead.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "With a victorious cheer, the White Knight gallops onto the field of battle, barely keeping his place in the saddle.",
@@ -7988,7 +8017,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefahr.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator would take any amount of damage and/or horror: That investigator takes 1 additional damage or horror (choose one).\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator would take any amount of damage and/or horror: That investigator takes 1 additional damage or horror (choose one).\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "\u201cBeware the Jabberwock, my son!\nThe jaws that bite, the claws that catch!\"",
@@ -8008,12 +8037,12 @@
             "id": "870b80dd-e77e-4aee-b2b3-0b5aedd5fd77"
         },
         {
-            "name": "Lack of Compassion",
+            "name": "Mangel an Mitgef\u00fchl",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Makel.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator heals any amount of damage and/or horror: That investigator heals 1 less damage and/or horror.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator heals any amount of damage and/or horror: That investigator heals 1 less damage and/or horror.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -8034,12 +8063,12 @@
             "amount": 2
         },
         {
-            "name": "Lack of Curiosity",
+            "name": "Mangel an Neugierde",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Madness.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an investigator moves: That investigator gets \u20131 on all skill tests until the end of their turn.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an investigator moves: That investigator gets \u20131 on all skill tests until the end of their turn.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -8060,12 +8089,12 @@
             "amount": 2
         },
         {
-            "name": "Lack of Intuition",
+            "name": "Mangel an Intuition",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Madness.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator would play an event: That investigator must spend 2 additional resources.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator would play an event: That investigator must spend 2 additional resources.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -8073,9 +8102,7 @@
                 "illustration": "./images/Brain - Jolygon 6.jpg",
                 "illustrator": "Illus. Jolygon",
                 "classes": [
-                    "story weakness",
-                    "none",
-                    "none"
+                    "story weakness"
                 ]
             },
             "back": {
@@ -8088,12 +8115,12 @@
             "amount": 2
         },
         {
-            "name": "Lack of Patience",
+            "name": "Mangel an Geduld",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Makel.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator is performing a test: That investigator must commit a skill card to that test if possible.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator is performing a test: That investigator must commit a skill card to that test if possible.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -8114,12 +8141,12 @@
             "amount": 2
         },
         {
-            "name": "Lack of Reason",
+            "name": "Mangel an Verstand",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Madness.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> The first test each investigator performs gets -X, where X is the amount of clues they control (to a maximum of \u20134).\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> The first test each investigator performs gets -X, where X is the amount of clues they control (to a maximum of \u20134).\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "",
@@ -8145,7 +8172,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When a non-weakness card would enter an investigator's discard pile: Remove that card from the game instead.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When a non-weakness card would enter an investigator's discard pile: Remove that card from the game instead.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "Cracked pots, dented washtubs, and shredded pillows lie in a heap, each piece speckled with blood.",
@@ -8170,7 +8197,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Adlig. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nEach investigator other than Alice may gain up to 4 resources. Playing assets or events does not provoke attacks of opportunity.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nEach investigator other than Alice may gain up to 4 resources. Playing assets or events does not provoke attacks of opportunity.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "The White King appears, commanding an army of\nchess pieces that obey his every whim.",
@@ -8195,7 +8222,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Kreatur. Talent.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nCheck the Campaign Log. If <i>the investigators...</i>\n<bullet> <i>...commanded the Snark,</i>all investigators get +1 <willpower>.\n<bullet> <i>...puzzled the Snark,</i>all investigators get +1 <intellect>.\n<bullet> <i>...intimidated the Snark,</i>all investigators get +1 <combat>.\n<bullet> <i>...tricked the Snark,</i>all investigators get +1 <agility>.\n<bullet> <i>...intrigued the Snark,</i>all investigators get +1 to all skills.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nCheck the Campaign Log. If <i>the investigators...</i>\n<bullet> <i>...commanded the Snark,</i>all investigators get +1 <willpower>.\n<bullet> <i>...puzzled the Snark,</i>all investigators get +1 <intellect>.\n<bullet> <i>...intimidated the Snark,</i>all investigators get +1 <combat>.\n<bullet> <i>...tricked the Snark,</i>all investigators get +1 <agility>.\n<bullet> <i>...intrigued the Snark,</i>all investigators get +1 to all skills.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "Astonishingly, the Snark stands before you once again,\nready to assist you with its many talents.",
@@ -8220,7 +8247,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an investigator fails a test against an enemy: Place 1 doom on that enemy (limit once per investigator turn).\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an investigator fails a test against an enemy: Place 1 doom on that enemy (limit once per investigator turn).\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "A broken pocket watch lies on the ground in front\nof you, stuck just one minute to twelve o'clock.",
@@ -8271,7 +8298,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> As an additional cost to play an asset or event, an investigator must discard another card from their hand.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> As an additional cost to play an asset or event, an investigator must discard another card from their hand.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "But answer came there none \u2014",
@@ -8296,7 +8323,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer. Komplott. Paradox.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an <t>Ally</t> asset controlled by an investigator takes any amount of damage or horror: Defeat that <t>Ally</t> asset.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an <t>Ally</t> asset controlled by an investigator takes any amount of damage or horror: Defeat that <t>Ally</t> asset.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "\"But if ever I meet with a Boojum, that day,\nIn a moment (of this I am sure),\nI shall softly and suddenly vanish away\u2014\nAnd the notion I cannot endure!\"",
@@ -8321,7 +8348,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When a card would enter an investigator's discard pile: That investigator may shuffle it into their deck instead (Limit once per investigator).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When a card would enter an investigator's discard pile: That investigator may shuffle it into their deck instead (Limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "The living Tweedle focuses his grief and anger at the shadows that indirectly caused him to lose his brother.",
@@ -8346,7 +8373,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nMove all doom from all enemies and treacheries in play to <name>.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nMove all doom from all enemies and treacheries in play to <name>.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "The White Rabbit leaps past you, tapping \nhis pocket watch frantically. \"There are still \nseconds to spare! Use them quickly!\"",
@@ -8371,7 +8398,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Einsicht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nEach investigator other than Alice may immediately draw up to 3 cards. Investigators may choose not to discard cards during the upkeep phase.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nEach investigator other than Alice may immediately draw up to 3 cards. Investigators may choose not to discard cards during the upkeep phase.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "The Walrus and the Carpenter are suddenly walking beside you, providing many insights that are strangely useful.",
@@ -8396,7 +8423,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen. Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> During an investigator's turn, that investigator may play an asset from their hand, paying half its cost, rounded up (limit once per investigator).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> During an investigator's turn, that investigator may play an asset from their hand, paying half its cost, rounded up (limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "\"More tea?\" The Hatter and the March Hare reach\nfrom above and below you, offering refreshments.",
@@ -8421,7 +8448,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nAll abilities on treachery and weakness cards require an additional action to activate.\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nAll abilities on treachery and weakness cards require an additional action to activate.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "You find a shattered sword lying on the ground,\nalongside several dented pieces of armor.",
@@ -8446,7 +8473,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Adlig. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> At the end of the investigator phase: Deal 1 damage to each enemy in play. For each enemy defeated by this effect, each investigator other than Alice may gain 1 resource.\nAt the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> At the end of the investigator phase: Deal 1 damage to each enemy in play. For each enemy defeated by this effect, each investigator other than Alice may gain 1 resource.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "The Queen of Hearts is suddenly beside you, \nflanked by dozens of card guards and still \nbearing a grudge against the shadows.",
@@ -8471,7 +8498,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> During an investigator's turn, that investigator may play an asset from their hand, paying its cost (limit once per investigator).\n<for> At the end of the round, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> During an investigator's turn, that investigator may play an asset from their hand, paying its cost (limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "<dash>",
                 "level": "None",
                 "flavor_text": "Cups and saucers fly, hurled at the shadows by the\nsole remaining occupant of the tea party table.",
