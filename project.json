@@ -378,7 +378,44 @@
             "icon": "./images/Fools Mate.png",
             "id": "c8fe6457-c170-4d5a-ab30-5744cf6e5345",
             "card_amount": 26,
-            "order": 9
+            "order": 9,
+            "meta": {
+                "tts": {},
+                "location_graph": {
+                    "c1e61b6f-c7a6-44b8-8230-575c01408e14_front": {
+                        "x": 200.0,
+                        "y": 0.0
+                    },
+                    "106c6bb6-dc87-4f0d-8a2f-d85aea23718d_front": {
+                        "x": 400.0,
+                        "y": 0.0
+                    },
+                    "074e0595-fe55-4ce1-a63d-9c6fc083a2ab_front": {
+                        "x": 600.0,
+                        "y": 0.0
+                    },
+                    "987a32f1-4bfc-4eb0-b934-d81ce01134ed_front": {
+                        "x": 0.0,
+                        "y": 228.0
+                    },
+                    "875c638d-29d7-4048-83fc-3144f794ac7d_front": {
+                        "x": 200.0,
+                        "y": 228.0
+                    },
+                    "3fec2240-f822-4186-9526-7a6638c7764f_front": {
+                        "x": 400.0,
+                        "y": 228.0
+                    },
+                    "b3486850-b8eb-402a-9b56-0338966d8de5_front": {
+                        "x": 600.0,
+                        "y": 228.0
+                    },
+                    "cec06e0c-e67e-4383-937a-91bfc273e8b6_front": {
+                        "x": 0.0,
+                        "y": 456.0
+                    }
+                }
+            }
         },
         {
             "name": "Klarer Albtraum",
@@ -2148,7 +2185,8 @@
                 "illustration": "./images/Environment - Aernout van Pallandt 1.jpg",
                 "clues": "4<per>",
                 "index": "2a",
-                "illustrator": "Illus. Aernout van Pallandt"
+                "illustrator": "Illus. Aernout van Pallandt",
+                "illustration_pan_x": 400.0
             },
             "back": {
                 "type": "act_back",
@@ -2170,7 +2208,8 @@
                 "flavor_text": "Das schattenhafte Monster starrt dich hungrig an und beginnt, die Felswand hinaufzuklettern, um dich zu erreichen. Das ist deine Chance, zu sehen, welche Schw\u00e4chen diese m\u00e4chtigen Schatten haben.",
                 "illustration": "./images/Environment - Aernout van Pallandt 1.jpg",
                 "index": "3a",
-                "illustrator": "Illus. Aernout van Pallandt"
+                "illustrator": "Illus. Aernout van Pallandt",
+                "illustration_pan_x": 400.0
             },
             "back": {
                 "type": "act_back",
@@ -2195,7 +2234,7 @@
                 "doom": "5",
                 "index": "1a",
                 "illustrator": "Illus. Zdzis\u0142aw Beksi\u0144ski",
-                "illustration_scale": 0.86
+                "illustration_pan_x": -200.0
             },
             "back": {
                 "type": "agenda_back",
@@ -2220,8 +2259,8 @@
                 "illustration": "./images/Sea of Tears - Zdzis\u0142aw Beksi\u0144ski.jpg",
                 "index": "2a",
                 "illustrator": "Illus. Zdzis\u0142aw Beksi\u0144ski",
-                "illustration_scale": 0.86,
-                "doom": "<dash>"
+                "doom": "<dash>",
+                "illustration_pan_x": -200.0
             },
             "back": {
                 "type": "agenda_back",
@@ -2310,12 +2349,12 @@
                 "connections": [
                     "circle",
                     "moon",
-                    "squiggle_alt"
+                    "slash"
                 ],
                 "illustrator": "Illus. Mike Paolilli",
-                "illustration_scale": 0.52,
-                "illustration_pan_x": 16,
-                "illustration_pan_y": 44
+                "illustration_pan_x": -100.0,
+                "illustration_pan_y": -492.0,
+                "illustration_scale": 1.56
             },
             "back": {
                 "type": "location_back",
@@ -2326,8 +2365,12 @@
                 "text": "",
                 "flavor_text": "Der Ort wirkt ein wenig verr\u00fcckt.",
                 "connection": "<copy>",
-                "connections": "<copy>",
-                "illustration_scale": 0.52
+                "connections": [
+                    "circle",
+                    "moon",
+                    "slash"
+                ],
+                "illustration_scale": 1.56
             },
             "encounter_number": "7",
             "project_number": "28",
@@ -2352,12 +2395,12 @@
                     "moon",
                     "triangle",
                     "heart",
-                    "squiggle_alt"
+                    "slash"
                 ],
                 "illustrator": "Illus. Aaron Griffin",
-                "illustration_pan_x": -432,
-                "illustration_pan_y": -56,
-                "illustration_scale": 1.76
+                "illustration_pan_x": -900.0,
+                "illustration_pan_y": -216.0,
+                "illustration_scale": 3.82
             },
             "back": {
                 "type": "location_back",
@@ -2372,11 +2415,9 @@
                     "moon",
                     "triangle",
                     "heart",
-                    "squiggle_alt"
+                    "slash"
                 ],
-                "illustration_scale": 1.76,
-                "illustration_pan_x": -432,
-                "illustration_pan_y": -56
+                "illustration_scale": 3.82
             },
             "encounter_number": "8",
             "project_number": "29",
@@ -2405,9 +2446,9 @@
                     "none"
                 ],
                 "illustrator": "Illus. Logan Feliciano",
-                "illustration_pan_x": -264,
-                "illustration_pan_y": -105,
-                "illustration_scale": 1.46
+                "illustration_pan_x": -560.0,
+                "illustration_pan_y": -304.0,
+                "illustration_scale": 3.22
             },
             "back": {
                 "type": "location_back",
@@ -2418,9 +2459,7 @@
                 "flavor_text": "Eine Reihe voneinander getrennter Becken steht knapp au\u00dferhalb der Reichweite der Flut. In ihnen entstehen und gedeihen winzige \u00d6kosysteme.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_scale": 1.46,
-                "illustration_pan_x": -264,
-                "illustration_pan_y": -105
+                "illustration_scale": 3.22
             },
             "encounter_number": "9",
             "project_number": "30",
@@ -2439,12 +2478,13 @@
                 "illustration": "./images/Miscellaneous - Alex van der Linde.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "connection": "squiggle_alt",
+                "connection": "slash",
                 "connections": [
                     "circle",
                     "hourglass"
                 ],
-                "illustrator": "Illus. Alex van der Linde"
+                "illustrator": "Illus. Alex van der Linde",
+                "illustration_pan_x": -300.0
             },
             "back": {
                 "type": "location_back",
@@ -2482,9 +2522,9 @@
                     "none"
                 ],
                 "illustrator": "Illus. Alex van der Linde",
-                "illustration_scale": 1.44,
-                "illustration_pan_x": -271,
-                "illustration_pan_y": -378
+                "illustration_pan_x": -840.0,
+                "illustration_pan_y": -836.0,
+                "illustration_scale": 3.12
             },
             "back": {
                 "type": "location_back",
@@ -2495,9 +2535,7 @@
                 "flavor_text": "Alle Arten von Fischen versammeln sich hier in kleinen Schw\u00e4rmen,\naber wo sind ihre Lehrer?",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_x": -271,
-                "illustration_pan_y": -378,
-                "illustration_scale": 1.44
+                "illustration_scale": 3.12
             },
             "encounter_number": "11",
             "project_number": "32",
@@ -2561,7 +2599,10 @@
                 "illustration": "./images/Bill the Lizard - Rodney Matthews.jpg",
                 "illustrator": "Illus. Rodney Matthews",
                 "level": "None",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_pan_x": -38.0,
+                "illustration_pan_y": -1196.0,
+                "illustration_scale": 1.8
             },
             "back": {
                 "type": "encounter"
@@ -2590,9 +2631,9 @@
                 "illustrator": "Illus. Angela Rizza",
                 "name": "<unique><name>",
                 "level": "None",
-                "illustration_pan_x": 15,
-                "illustration_pan_y": 38,
-                "illustration_scale": 0.98
+                "illustration_pan_x": -516.0,
+                "illustration_pan_y": -212.0,
+                "illustration_scale": 2.58
             },
             "back": {
                 "type": "encounter"
@@ -2619,9 +2660,9 @@
                 "illustration": "./images/Shadows - Timi Honkanen 3.jpg",
                 "illustrator": "Illus. Timi Honkanen",
                 "name": "<unique><name>",
-                "illustration_pan_x": -591,
-                "illustration_pan_y": 578,
-                "illustration_scale": 1.22
+                "illustration_pan_x": -836.0,
+                "illustration_pan_y": 1102.0,
+                "illustration_scale": 2.12
             },
             "back": {
                 "type": "encounter"
@@ -2650,9 +2691,9 @@
                 "illustration": "./images/Shadows - Timi Honkanen 3.jpg",
                 "illustrator": "Illus. Timi Honkanen",
                 "name": "<unique><name>",
-                "illustration_scale": 1.22,
-                "illustration_pan_x": -591,
-                "illustration_pan_y": 578
+                "illustration_scale": 2.12,
+                "illustration_pan_x": -836.0,
+                "illustration_pan_y": 1102.0
             },
             "back": {
                 "type": "encounter"
@@ -2672,8 +2713,9 @@
                 "illustration": "./images/Sun - Zuxiang Woo.jpg",
                 "illustrator": "Illus. Ilse Hviid",
                 "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Platziere 1 Verderben auf die aktuelle Agenda. Durch diesen Effekt kann die aktuelle Agenda vorr\u00fccken.\n<bullet> Platziere 2 deiner Hinweise auf deinem Ort.\n<bullet> Nimm 2 direkten Horror.",
-                "illustration_pan_x": 74,
-                "illustration_pan_y": -149
+                "illustration_pan_y": -301.0,
+                "illustration_scale": 1.12,
+                "illustration_pan_x": 132.0
             },
             "back": {
                 "type": "encounter"
@@ -2694,9 +2736,9 @@
                 "victory": "",
                 "illustration": "./images/Apple - Ilse Hviid.jpg",
                 "illustrator": "Illus. Ilse Hviid",
-                "illustration_pan_x": 66,
-                "illustration_pan_y": -15,
-                "illustration_scale": 1.2
+                "illustration_scale": 1.0,
+                "illustration_pan_x": 28.0,
+                "illustration_pan_y": -172.0
             },
             "back": {
                 "type": "encounter"
@@ -2724,9 +2766,9 @@
                 "victory": "",
                 "illustration": "./images/Shadows - Timi Honkanen 4.jpg",
                 "illustrator": "Illus. Timi Honkanen",
-                "illustration_pan_x": 136.0,
-                "illustration_pan_y": 1319.0,
-                "illustration_scale": 0.74
+                "illustration_scale": 1.42,
+                "illustration_pan_x": -116.0,
+                "illustration_pan_y": 1093.0
             },
             "back": {
                 "type": "encounter"
@@ -2754,9 +2796,9 @@
                 "victory": "",
                 "illustration": "./images/Crocodile - Pam Gutti.jpg",
                 "illustrator": "Illus. Pam Gutti",
-                "illustration_pan_x": -147,
-                "illustration_pan_y": 601,
-                "illustration_scale": 0.42
+                "illustration_pan_x": -348.0,
+                "illustration_pan_y": 1139.0,
+                "illustration_scale": 0.88
             },
             "back": {
                 "type": "encounter"
@@ -2777,8 +2819,8 @@
                 "victory": "",
                 "illustration": "./images/Environment - Ruben Megido.jpg",
                 "illustrator": "Illus. Ruben Megido",
-                "illustration_pan_x": 62,
-                "illustration_pan_y": -322
+                "illustration_pan_x": -112.0,
+                "illustration_pan_y": -832.0
             },
             "back": {
                 "type": "encounter"
@@ -2806,9 +2848,9 @@
                 "victory": "",
                 "illustration": "./images/Walrus and Carpenter - Rodney Matthews.jpg",
                 "illustrator": "Illus. Rodney Matthews",
-                "illustration_pan_x": 9.0,
-                "illustration_pan_y": 884.0,
-                "illustration_scale": 0.88
+                "illustration_pan_y": 500.0,
+                "illustration_scale": 1.5,
+                "illustration_pan_x": -150.0
             },
             "back": {
                 "type": "encounter"
@@ -2836,9 +2878,9 @@
                 "illustration": "./images/Walrus and Carpenter - Rodney Matthews.jpg",
                 "illustrator": "Illus. Rodney Matthews",
                 "name": "<unique><name>",
-                "illustration_pan_x": -957,
-                "illustration_pan_y": -140,
-                "illustration_scale": 1.0
+                "illustration_pan_x": -1461.0,
+                "illustration_pan_y": 136.0,
+                "illustration_scale": 1.54
             },
             "back": {
                 "type": "encounter"
@@ -2859,9 +2901,9 @@
                 "victory": "",
                 "illustration": "./images/Walrus and Carpenter - Harry Rountree.jpg",
                 "illustrator": "Illus. Harry Rountree",
-                "illustration_pan_x": 82,
-                "illustration_pan_y": -71,
-                "illustration_scale": 1.38
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": -163.0,
+                "illustration_scale": 0.86
             },
             "back": {
                 "type": "encounter"
@@ -2882,9 +2924,8 @@
                 "illustration": "./images/Walrus - Josefine Maier.jpg",
                 "illustrator": "Illus. Josefine Maier",
                 "flavor_text": "\u201eBewein' euch denn\u201c, das Walross sprach:\n\u201eMit gro\u00dfer Sympathie.\u201c",
-                "illustration_pan_x": 70,
-                "illustration_pan_y": 12,
-                "illustration_scale": 0.42
+                "illustration_pan_x": 140.0,
+                "illustration_pan_y": -40.0
             },
             "back": {
                 "type": "encounter"
@@ -2903,7 +2944,10 @@
                 "flavor_text": "Du hebst den Deckel an und versuchst, die Haselmaus wachzur\u00fctteln, aber sie schl\u00e4ft immer noch tief. Vielleicht k\u00f6nnte etwas auf dem Tisch hier sie aufwecken. Aber w\u00e4hle weise - du ahnst nicht, was sich in den Kannen und Tassen befindet.",
                 "illustration": "./images/Teacups - LCQ92.png",
                 "index": "2a",
-                "illustrator": "Illus. LCQ92"
+                "illustrator": "Illus. LCQ92",
+                "illustration_scale": 0.52,
+                "illustration_pan_x": 790.0,
+                "illustration_pan_y": -170.0
             },
             "back": {
                 "type": "act_back",
@@ -2925,7 +2969,10 @@
                 "flavor_text": "\u201eIhr m\u00fcsst die St\u00fchle festbinden\u201d, befiehlt die Haselmaus, \u201efindet einen Weg, jeden einzelnen zu verankern, und der Tisch wird mit ihnen zur\u00fcckkehren.\u201d Du schaust dich am Tisch um und \u00fcberlegst, wie du das erreichen kannst.",
                 "illustration": "./images/Teacups - LCQ92.png",
                 "index": "3a",
-                "illustrator": "Illus. LCQ92"
+                "illustrator": "Illus. LCQ92",
+                "illustration_pan_y": -170.0,
+                "illustration_pan_x": 790.0,
+                "illustration_scale": 0.52
             },
             "back": {
                 "type": "act_back",
@@ -2948,7 +2995,8 @@
                 "illustration": "./images/Teapot - Unknown.jpg",
                 "doom": "6",
                 "index": "1a",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -80.0
             },
             "back": {
                 "type": "agenda_back",
@@ -2971,7 +3019,8 @@
                 "illustration": "./images/Teapot - Unknown.jpg",
                 "doom": "6",
                 "index": "2a",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -80.0
             },
             "back": {
                 "type": "agenda_back",
@@ -2994,7 +3043,9 @@
                 "illustration": "./images/Teapot - Unknown.jpg",
                 "doom": "6",
                 "index": "3a",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_y": 0.0,
+                "illustration_pan_x": -80.0
             },
             "back": {
                 "type": "agenda_back",
@@ -3018,9 +3069,8 @@
                 "index": "1c",
                 "illustrator": "Illus. Gregory Hildebrandt",
                 "doom": "<dash>",
-                "illustration_scale": 0.98,
-                "illustration_pan_x": 5.0,
-                "illustration_pan_y": 52.0
+                "illustration_scale": 1.1,
+                "illustration_pan_x": -60.0
             },
             "back": {
                 "type": "agenda_back",
@@ -3041,12 +3091,11 @@
                 "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der M\u00e4rzhase besiegt wird, r\u00fccke vor.",
                 "flavor_text": "Die Wut des Hasen \u00fcber den Verlust seines Freundes entfacht ein wildes Feuer in ihm. Kein Wort, keine Tat vermag ihn zu bes\u00e4nftigen. So bleibt dir nichts anderes \u00fcbrig, als deine Bem\u00fchungen, die zerr\u00fcttete Teegesellschaft zu beruhigen, trotz dieses neuen Sturms fortzusetzen.",
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
-                "doom": "-",
+                "doom": "<dash>",
                 "index": "2c",
                 "illustrator": "Illus. Gregory Hildebrandt",
-                "illustration_pan_x": 5.0,
-                "illustration_pan_y": 52.0,
-                "illustration_scale": 0.98
+                "illustration_pan_x": -60.0,
+                "illustration_scale": 1.1
             },
             "back": {
                 "type": "agenda_back",
@@ -3067,12 +3116,12 @@
                 "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls der Hutmacher besiegt wird, r\u00fccke vor.",
                 "flavor_text": "Der Hutmacher ist so w\u00fctend \u00fcber den Tod seines Freundes, dass er kaum sprechen kann, und er starrt dich mit b\u00f6sem Blick an. Du musst deine Ermittlungen trotz seines Zorns fortsetzen.",
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
-                "doom": "-",
                 "index": "2c",
                 "illustrator": "Illus. Gregory Hildebrandt",
-                "illustration_pan_y": 52.0,
-                "illustration_pan_x": 5.0,
-                "illustration_scale": 0.98
+                "doom": "<dash>",
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 1.1,
+                "illustration_pan_x": -60.0
             },
             "back": {
                 "type": "agenda_back",
@@ -3095,10 +3144,12 @@
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "doom": "<dash>",
                 "index": "3c",
-                "illustrator": "Illus. Gregory Hildebrandt"
+                "illustrator": "Illus. Gregory Hildebrandt",
+                "illustration_scale": 1.1,
+                "illustration_pan_x": -60.0
             },
             "back": {
-                "type": "agenda_portrait",
+                "type": "act_agenda_full_back",
                 "illustration": "./images/Miscellaneous - Unknown 3.jpg",
                 "illustrator": "Illus. Unknown",
                 "name": "Du verschwendest deine Zeit!",
@@ -3185,9 +3236,9 @@
                     "circle"
                 ],
                 "illustrator": "Illus. Arthur Rackham",
-                "illustration_scale": 1.32,
-                "illustration_pan_x": -26,
-                "illustration_pan_y": -500
+                "illustration_pan_x": -331.0,
+                "illustration_pan_y": -1230.0,
+                "illustration_scale": 3.16
             },
             "back": {
                 "type": "location_back",
@@ -3200,7 +3251,7 @@
                 "connections": [
                     "circle"
                 ],
-                "illustration_scale": 1.32
+                "illustration_scale": 3.16
             },
             "encounter_number": "12",
             "project_number": "58",
@@ -3224,9 +3275,7 @@
                     "square"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 30,
-                "illustration_pan_y": -6,
-                "illustration_scale": 0.76
+                "illustration_pan_y": -180.0
             },
             "back": {
                 "type": "location_back",
@@ -3261,7 +3310,6 @@
                     "square"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 32,
                 "illustration_pan_y": 20
             },
             "back": {
@@ -3305,8 +3353,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 82,
-                "illustration_pan_x": 36
+                "illustration_pan_y": 120.0
             },
             "back": {
                 "type": "location_back",
@@ -3388,9 +3435,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 34,
-                "illustration_pan_y": 28,
-                "illustration_scale": 0.64
+                "illustration_pan_y": 40.0
             },
             "back": {
                 "type": "location_back",
@@ -3429,9 +3474,7 @@
                     "square"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 32,
-                "illustration_pan_y": 46,
-                "illustration_scale": 0.64
+                "illustration_pan_y": 100.0
             },
             "back": {
                 "type": "location_back",
@@ -3474,9 +3517,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 34,
-                "illustration_pan_y": 38,
-                "illustration_scale": 0.94
+                "illustration_pan_y": 60.0
             },
             "back": {
                 "type": "location_back",
@@ -3514,9 +3555,7 @@
                     "square"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 26,
-                "illustration_pan_y": 18,
-                "illustration_scale": 0.52
+                "illustration_pan_y": 60.0
             },
             "back": {
                 "type": "location_back",
@@ -3638,9 +3677,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 26,
-                "illustration_pan_y": 2,
-                "illustration_scale": 0.96
+                "illustration_pan_y": 100.0
             },
             "back": {
                 "type": "location_back",
@@ -3683,7 +3720,6 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 36,
                 "illustration_pan_y": 40
             },
             "back": {
@@ -3726,7 +3762,8 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. n/a"
+                "illustrator": "Illus. n/a",
+                "illustration_pan_y": 100.0
             },
             "back": {
                 "type": "location_back",
@@ -3769,9 +3806,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 36,
-                "illustration_pan_y": 48,
-                "illustration_scale": 0.66
+                "illustration_pan_y": 50.0
             },
             "back": {
                 "type": "location_back",
@@ -3815,9 +3850,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 32,
-                "illustration_pan_y": -50,
-                "illustration_scale": 0.8
+                "illustration_pan_y": -100.0
             },
             "back": {
                 "type": "location_back",
@@ -3860,8 +3893,8 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 32,
-                "illustration_pan_y": 76
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 100.0
             },
             "back": {
                 "type": "location_back",
@@ -3904,8 +3937,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_x": 36,
-                "illustration_pan_y": -46
+                "illustration_pan_y": -200.0
             },
             "back": {
                 "type": "location_back",
@@ -3943,7 +3975,8 @@
                 "illustration": "./images/March Hare - Bobby Chiu.jpg",
                 "illustrator": "Illus. Bobby Chiu",
                 "name": "<unique><name>",
-                "text": "<name> kann Ermtitler auf der Tischmitte nicht angreifen.\n<for> Falls Der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege Den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls Der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <com>-Probe (3) ab, um Den M\u00e4rzhasen mit deiner St\u00e4rke abzulenken. Falls die Probe gelingt, entkommst du Dem M\u00e4rzhasen automatisch."
+                "text": "<size 49><name> kann Ermtitler auf der Tischmitte nicht angreifen.\n<for> Falls Der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege Den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls Der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <com>-Probe (3) ab, um Den M\u00e4rzhasen mit deiner St\u00e4rke abzulenken. Falls die Probe gelingt, entkommst du Dem M\u00e4rzhasen automatisch.",
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "enemy",
@@ -3961,9 +3994,9 @@
                 "evade": "4",
                 "damage": 2,
                 "horror": 2,
-                "illustration_scale": 1.94,
-                "illustration_pan_x": -260,
-                "illustration_pan_y": 289
+                "illustration_pan_y": 353.0,
+                "illustration_scale": 4.0,
+                "illustration_pan_x": -694.0
             },
             "encounter_number": "30",
             "project_number": "76",
@@ -3988,9 +4021,7 @@
                 "illustration": "./images/Mad Hatter - Snugglestab 2.jpg",
                 "illustrator": "Illus. Snugglestab",
                 "name": "<unique><name>",
-                "illustration_pan_x": 30,
-                "illustration_pan_y": 253,
-                "illustration_scale": 1.18
+                "illustration_pan_y": 400.0
             },
             "back": {
                 "type": "enemy",
@@ -4008,9 +4039,9 @@
                 "evade": "4",
                 "damage": 2,
                 "horror": 2,
-                "illustration_pan_x": -287,
-                "illustration_pan_y": 10,
-                "illustration_scale": 1.86
+                "illustration_pan_y": -172.0,
+                "illustration_scale": 3.84,
+                "illustration_pan_x": -690.0
             },
             "encounter_number": "31",
             "project_number": "77",
@@ -4027,9 +4058,9 @@
                 "victory": "",
                 "illustration": "./images/March Hare - Kadaric.jpg",
                 "illustrator": "Illus. Kadaric",
-                "illustration_pan_x": 75,
-                "illustration_pan_y": -284,
-                "illustration_scale": 1.12
+                "illustration_pan_y": -548.0,
+                "illustration_scale": 2.26,
+                "illustration_pan_x": 128.0
             },
             "back": {
                 "type": "encounter"
@@ -4070,9 +4101,9 @@
                 "victory": "",
                 "illustration": "./images/Mad Tea Party - Fabio Barboni.jpg",
                 "illustrator": "Illus. Fabio Barboni",
-                "illustration_pan_x": 75,
-                "illustration_pan_y": -181,
-                "illustration_scale": 2.6
+                "illustration_pan_x": 153.0,
+                "illustration_pan_y": -113.0,
+                "illustration_scale": 4.48
             },
             "back": {
                 "type": "encounter"
@@ -4100,8 +4131,7 @@
                 "victory": "",
                 "illustration": "./images/Demented Guest - Matijos Gebreselassie.jpg",
                 "illustrator": "Illus. Matijos Gebreselassie",
-                "illustration_pan_x": 36,
-                "illustration_pan_y": 500
+                "illustration_pan_y": 900.0
             },
             "back": {
                 "type": "encounter"
@@ -4122,8 +4152,7 @@
                 "victory": "",
                 "illustration": "./images/Mad Hatter - Snugglestab 1.jpg",
                 "illustrator": "Illus. Snugglestab",
-                "illustration_pan_x": 62,
-                "illustration_pan_y": -236
+                "illustration_pan_y": -800.0
             },
             "back": {
                 "type": "encounter"
@@ -4151,8 +4180,7 @@
                 "victory": "",
                 "illustration": "./images/Obsessive Visitor - Ray Caesar.jpg",
                 "illustrator": "Illus. Ray Caesar",
-                "illustration_pan_x": 35,
-                "illustration_pan_y": 573
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "encounter"
@@ -4180,8 +4208,7 @@
                 "victory": "",
                 "illustration": "./images/Teatotaler - Omar Rayyan.jpg",
                 "illustrator": "Illus. Omar Rayyan",
-                "illustration_pan_x": 36,
-                "illustration_pan_y": 452
+                "illustration_pan_y": 600.0
             },
             "back": {
                 "type": "encounter"
@@ -4202,8 +4229,7 @@
                 "victory": "",
                 "illustration": "./images/Mad Tea Party - Salvador Dali.jpg",
                 "illustrator": "Illus. Salvador Dali",
-                "illustration_pan_x": 35,
-                "illustration_pan_y": -240
+                "illustration_pan_y": -400.0
             },
             "back": {
                 "type": "encounter"
@@ -4235,13 +4261,13 @@
                 "illustration": "./images/Mad Tea Party - Scott Gustafson.jpg",
                 "illustrator": "Illus. Scott Gustafson",
                 "name": "<unique><name>",
-                "illustration_pan_x": -197,
-                "illustration_pan_y": -719,
-                "illustration_scale": 1.6,
                 "slots": [
                     "ally"
                 ],
-                "level": "None"
+                "level": "None",
+                "illustration_pan_y": -1013.0,
+                "illustration_scale": 2.6,
+                "illustration_pan_x": -47.0
             },
             "back": {
                 "type": "player"
@@ -4259,7 +4285,10 @@
                 "flavor_text": "Die Herz-K\u00f6nigin scheint bereit zu sein, jeden in ihrer N\u00e4he zu enthaupten, wenn der Raub nicht aufgekl\u00e4rt wird. Als Erstes musst du dir aber Zugang zu den Tatorten verschaffen, um deine Unschuld zu beweisen. Das w\u00e4re einfacher, wenn du nicht der Hauptverd\u00e4chtige w\u00e4rst...",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
                 "index": "1a",
-                "illustrator": "Illus. Scott Gustafson"
+                "illustrator": "Illus. Scott Gustafson",
+                "illustration_pan_x": 945.0,
+                "illustration_pan_y": 91.0,
+                "illustration_scale": 2.1
             },
             "back": {
                 "type": "act_back",
@@ -4282,7 +4311,10 @@
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
                 "clues": "3<per>",
                 "index": "2a",
-                "illustrator": "Illus. Scott Gustafson"
+                "illustrator": "Illus. Scott Gustafson",
+                "illustration_scale": 2.1,
+                "illustration_pan_x": 945.0,
+                "illustration_pan_y": 91.0
             },
             "back": {
                 "type": "act_back",
@@ -4304,7 +4336,10 @@
                 "flavor_text": "Der Knabe ist vielleicht nicht die vertrauensw\u00fcrdigste Person, die du je getroffen hast, aber die Gefahr, dass Gurathnakas Schatten das Schloss verschlingen, l\u00e4sst dir keine andere Wahl.",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
                 "index": "3a",
-                "illustrator": "Illus. Scott Gustafson"
+                "illustrator": "Illus. Scott Gustafson",
+                "illustration_pan_y": 91.0,
+                "illustration_pan_x": 945.0,
+                "illustration_scale": 2.1
             },
             "back": {
                 "type": "act_back",
@@ -4583,7 +4618,8 @@
                     "circle",
                     "equals"
                 ],
-                "illustrator": "Illus. Kaylea Hampson"
+                "illustrator": "Illus. Kaylea Hampson",
+                "illustration_pan_x": -200.0
             },
             "back": {
                 "type": "location_back",
@@ -4623,11 +4659,11 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Lucy Lisett"
+                "illustrator": "Illus. Lucy Lisett",
+                "illustration_pan_x": -300.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Lucy Lisett",
                 "name": "<name>",
                 "subtitle": "",
@@ -4662,10 +4698,7 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. David Hall",
-                "illustration_scale": 1.08,
-                "illustration_pan_x": 20,
-                "illustration_pan_y": 120
+                "illustrator": "Illus. David Hall"
             },
             "back": {
                 "type": "location_back",
@@ -4678,8 +4711,7 @@
                 "connections": [
                     "heart",
                     "hourglass"
-                ],
-                "illustration_scale": 1.08
+                ]
             },
             "encounter_number": "13",
             "project_number": "99",
@@ -4707,7 +4739,8 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Maxime Gayral"
+                "illustrator": "Illus. Maxime Gayral",
+                "illustration_pan_x": -350.0
             },
             "back": {
                 "type": "location_back",
@@ -4741,7 +4774,8 @@
                     "square",
                     "equals"
                 ],
-                "illustrator": "Illus. George Factor"
+                "illustrator": "Illus. George Factor",
+                "illustration_pan_y": -60.0
             },
             "back": {
                 "type": "location_back",
@@ -4775,7 +4809,10 @@
                 "illustration": "./images/King of Hearts - Alexandra Vardanian.jpg",
                 "illustrator": "Illus. Alexandra Vardanian",
                 "level": "None",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_scale": 2.0,
+                "illustration_pan_x": 110.0,
+                "illustration_pan_y": 176.0
             },
             "back": {
                 "type": "encounter"
@@ -4802,9 +4839,9 @@
                 "illustration": "./images/Miscellaneous - Luke Mancini 1.jpg",
                 "illustrator": "Illus. Luke Mancini",
                 "name": "<unique><name>",
-                "illustration_pan_x": -296,
-                "illustration_pan_y": 574,
-                "illustration_scale": 2.06
+                "illustration_pan_x": -626.0,
+                "illustration_pan_y": 1155.0,
+                "illustration_scale": 2.86
             },
             "back": {
                 "type": "encounter"
@@ -4855,9 +4892,9 @@
                 "victory": "",
                 "illustration": "./images/Queen of Hearts - Rodney Matthews.jpg",
                 "illustrator": "Illus. Rodney Matthews",
-                "illustration_pan_x": 24,
-                "illustration_pan_y": -86,
-                "illustration_scale": 1.72
+                "illustration_pan_x": -32.0,
+                "illustration_pan_y": -163.0,
+                "illustration_scale": 3.36
             },
             "back": {
                 "type": "encounter"
@@ -4883,11 +4920,11 @@
                 "horror": 1,
                 "flavor_text": "",
                 "victory": "",
-                "illustration": "./images/Queen of Hearts - Frank Adams.jpg",
+                "illustration": "./images/Queen of Hearts - Frank Adams.webp",
                 "illustrator": "Illus. Frank Adams",
-                "illustration_scale": 1.76,
-                "illustration_pan_x": 34,
-                "illustration_pan_y": 254
+                "illustration_pan_x": -19.0,
+                "illustration_pan_y": 531.0,
+                "illustration_scale": 4.54
             },
             "back": {
                 "type": "encounter"
@@ -4908,9 +4945,9 @@
                 "victory": "",
                 "illustration": "./images/King of Hearts - Rodney Matthews.jpg",
                 "illustrator": "Illus. Rodney Matthews",
-                "illustration_pan_x": -818,
-                "illustration_pan_y": -874,
-                "illustration_scale": 1.6
+                "illustration_pan_x": -1109.0,
+                "illustration_pan_y": -1150.0,
+                "illustration_scale": 2.48
             },
             "back": {
                 "type": "encounter"
@@ -4931,8 +4968,7 @@
                 "victory": "",
                 "illustration": "./images/Queen of Hearts - Adri\u00e1n Valdez.jpg",
                 "illustrator": "Illus. Adri\u00e1n Valdez",
-                "illustration_pan_x": 60,
-                "illustration_pan_y": -42
+                "illustration_pan_y": -150.0
             },
             "back": {
                 "type": "encounter"
@@ -4953,9 +4989,9 @@
                 "victory": "",
                 "illustration": "./images/Queen of Hearts - John Tenniel.jpg",
                 "illustrator": "Illus. John Tenniel",
-                "illustration_pan_x": 14,
-                "illustration_pan_y": -438,
-                "illustration_scale": 0.8
+                "illustration_pan_x": 130.0,
+                "illustration_pan_y": -745.0,
+                "illustration_scale": 1.44
             },
             "back": {
                 "type": "encounter"
@@ -5002,7 +5038,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Tarts - Rustam K.jpg",
-                "illustrator": "Illus. Rustam K"
+                "illustrator": "Illus. Rustam K",
+                "illustration_pan_x": 164.0,
+                "illustration_pan_y": 84.0,
+                "illustration_scale": 0.68
             },
             "back": {
                 "type": "encounter"
@@ -5035,8 +5074,9 @@
                     "hand"
                 ],
                 "name": "<unique><name>",
-                "illustration_pan_x": 52,
-                "illustration_pan_y": -32
+                "illustration_pan_x": 86.0,
+                "illustration_pan_y": -48.0,
+                "illustration_scale": 3.02
             },
             "back": {
                 "type": "player"
@@ -5087,7 +5127,10 @@
                 "flavor_text": "\u201eAuf zum Schlarg!\u201c, ruft der B\u00fcttel, w\u00e4hrend sich die J\u00e4ger im Tulgen Wald verstreuen. \u201eSucht \u00fcberall, denn ein Schlarg kann in jedem Baum oder jeder H\u00f6hle lauern! Sobald wir die Orientierung gefunden haben, ist es so gut wie gefunden!\u201c Ihr seid nicht \u00fcberzeugt, dass es so einfach sein wird oder dass die Kreatur \u00fcberhaupt in diesen W\u00e4ldern lebt, aber ein wenig Erkundung kann nicht schaden.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "1a",
-                "illustrator": "Illus. Jeffrey Fisher"
+                "illustrator": "Illus. Jeffrey Fisher",
+                "illustration_scale": 2.26,
+                "illustration_pan_x": -218.0,
+                "illustration_pan_y": -210.0
             },
             "back": {
                 "type": "act_back",
@@ -5109,7 +5152,10 @@
                 "flavor_text": "Trotz dieser gewaltigen Aufgabe und der Unerfahrenheit der anderen J\u00e4ger scheint es doch Aussicht auf Erfolg zu geben. Nun gilt es, den Spuren zu folgen, wohin auch immer sie f\u00fchren m\u00f6gen.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "2a",
-                "illustrator": "Illus. Jeffrey Fisher"
+                "illustrator": "Illus. Jeffrey Fisher",
+                "illustration_pan_x": -218.0,
+                "illustration_pan_y": -210.0,
+                "illustration_scale": 2.26
             },
             "back": {
                 "type": "act_back",
@@ -5131,7 +5177,10 @@
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Jeffrey Fisher",
-                "flavor_text": "\u201eDas ist unsere Chance!\u201c, br\u00fcllt der B\u00fcttel. \u201eSucht es mit Fingerh\u00fcten, sucht es mit Sorgfalt! Verfolgt es mit Gabeln und Hoffnung! Bedroht sein Leben mit einer Eisenbahn-Aktie! Bezaubert es mit L\u00e4cheln und Seife! Variiert nur eure Methoden, sonst k\u00f6nnte der Schlarg misstrauisch werden!\u201c"
+                "flavor_text": "\u201eDas ist unsere Chance!\u201c, br\u00fcllt der B\u00fcttel. \u201eSucht es mit Fingerh\u00fcten, sucht es mit Sorgfalt! Verfolgt es mit Gabeln und Hoffnung! Bedroht sein Leben mit einer Eisenbahn-Aktie! Bezaubert es mit L\u00e4cheln und Seife! Variiert nur eure Methoden, sonst k\u00f6nnte der Schlarg misstrauisch werden!\u201c",
+                "illustration_scale": 2.26,
+                "illustration_pan_x": -218.0,
+                "illustration_pan_y": -210.0
             },
             "back": {
                 "type": "act_back",
@@ -5301,10 +5350,7 @@
                     "square"
                 ],
                 "illustrator": "Illus. Sarah Ireland",
-                "flavor_text": "Die Rinde des Baums zeigt Spuren eines monstr\u00f6sen Angriffs.",
-                "illustration_scale": 1.0,
-                "illustration_pan_x": -624,
-                "illustration_pan_y": -180
+                "flavor_text": "Die Rinde des Baums zeigt Spuren eines monstr\u00f6sen Angriffs."
             },
             "back": {
                 "type": "location_back",
@@ -5315,10 +5361,7 @@
                 "flavor_text": "Ein perfekter Ort, um sich auszuruhen und in Gedanken zu versinken.\nDer B\u00fcttel trommelt mit lautem L\u00e4uten seiner Glocke die Schlarg-J\u00e4ger vom Baum herunter.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "traits": "Wunderland. Tulger Wald.",
-                "illustration_pan_x": -624,
-                "illustration_pan_y": -180,
-                "illustration_scale": 1.0
+                "traits": "Wunderland. Tulger Wald."
             },
             "encounter_number": "8",
             "project_number": "121",
@@ -5347,21 +5390,18 @@
                     "none"
                 ],
                 "illustrator": "Illus. ",
-                "illustration_pan_x": -64,
-                "illustration_pan_y": -188,
-                "illustration_scale": 1.02
+                "illustration_pan_y": -200.0
             },
             "back": {
                 "type": "location_back",
                 "illustrator": "Illus. ",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Wunderland. Tulger Wald.",
                 "text": "",
                 "flavor_text": "Das hohe Gras bildet Ringe um felsige \u00d6ffnungen im \nBoden, die weit in die Tiefe f\u00fchren.",
                 "connection": "<copy>",
-                "connections": "<copy>",
-                "illustration_scale": 1.02
+                "connections": "<copy>"
             },
             "encounter_number": "10",
             "project_number": "123",
@@ -5433,7 +5473,7 @@
             "back": {
                 "type": "location_back",
                 "illustrator": "Illus. Niels Hoyle-Dodson",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "text": "",
                 "connection": "<copy>",
@@ -5470,8 +5510,8 @@
                 "evade": "?",
                 "damage": 0,
                 "horror": 0,
-                "illustration_pan_x": -38,
-                "illustration_pan_y": 567
+                "illustration_pan_x": -4.0,
+                "illustration_pan_y": 1146.0
             },
             "encounter_number": "14",
             "project_number": "127",
@@ -5504,7 +5544,8 @@
                     "hourglass",
                     "slash",
                     "star"
-                ]
+                ],
+                "illustration_pan_y": 200.0
             },
             "encounter_number": "22",
             "project_number": "135",
@@ -5537,9 +5578,7 @@
                     "hourglass",
                     "slash",
                     "star"
-                ],
-                "illustration_pan_x": 18,
-                "illustration_pan_y": 128
+                ]
             },
             "encounter_number": "17",
             "project_number": "130",
@@ -5572,10 +5611,7 @@
                     "hourglass",
                     "slash",
                     "star"
-                ],
-                "illustration_pan_x": 12,
-                "illustration_pan_y": -10,
-                "illustration_scale": 1.02
+                ]
             },
             "encounter_number": "16",
             "project_number": "129",
@@ -5610,9 +5646,7 @@
                     "hourglass",
                     "slash",
                     "star"
-                ],
-                "illustration_pan_x": 2,
-                "illustration_pan_y": 130
+                ]
             },
             "encounter_number": "15",
             "project_number": "128",
@@ -5679,9 +5713,7 @@
                     "square",
                     "slash",
                     "moon"
-                ],
-                "illustration_pan_x": -642,
-                "illustration_pan_y": 115
+                ]
             },
             "encounter_number": "21",
             "project_number": "134",
@@ -5748,9 +5780,7 @@
                     "moon"
                 ],
                 "flavor_text": "Die Route des Bootblacks f\u00fchrt dich zu einem kleinen Felsvorsprung an einer steilen Felswand.",
-                "illustration_pan_x": 26,
-                "illustration_pan_y": -82,
-                "illustration_scale": 1.06
+                "illustration_pan_y": 30.0
             },
             "encounter_number": "20",
             "project_number": "133",
@@ -5782,9 +5812,8 @@
                 "slots": [
                     "ally"
                 ],
-                "illustration_pan_x": -188,
-                "illustration_pan_y": -9,
-                "illustration_scale": 0.94
+                "illustration_pan_x": -2.0,
+                "illustration_pan_y": 50.0
             },
             "back": {
                 "type": "player"
@@ -6004,9 +6033,9 @@
                 "slots": [
                     "hand"
                 ],
-                "illustration_pan_x": -915,
-                "illustration_pan_y": -180,
-                "illustration_scale": 1.1
+                "illustration_pan_x": -1186.0,
+                "illustration_pan_y": -188.0,
+                "illustration_scale": 1.76
             },
             "back": {
                 "type": "player"
@@ -6043,7 +6072,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Absto\u00dfende Abscheulichkeit",
                 "traits": "Wunderland. Monster. Abscheulichkeit. Elite.",
-                "text": "Alarmiert. Gewaltig. Zur\u00fcckschlagen.\n<for> Sobald der Schebberoch w\u00e4hrend der Gegnerphase angreift: Er f\u00fcgt +1 Schaden und +1 Horror zu.\n<for> Am Ende der Runde: L\u00f6se den Schebberoch von allen Ermittlern und lege ihn mit allen Markern auf ihm neben die Agenda au\u00dferhalb des Spiels.",
+                "text": "<size 60>Alarmiert. Gewaltig. Zur\u00fcckschlagen.\n<for> Sobald der Schebberoch w\u00e4hrend der Gegnerphase angreift: Er f\u00fcgt +1 Schaden und +1 Horror zu.\n<for> Am Ende der Runde: L\u00f6se den Schebberoch von allen Ermittlern und lege ihn mit allen Markern auf ihm neben die Agenda au\u00dferhalb des Spiels.",
                 "health": "4<per>",
                 "evade": "3",
                 "attack": "4",
@@ -6052,7 +6081,8 @@
                 "flavor_text": "",
                 "victory": "Sieg 2.",
                 "illustration": "./images/Jabberwock - Dave Melvin.jpg",
-                "illustrator": "Illus. Dave Melvin"
+                "illustrator": "Illus. Dave Melvin",
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "encounter"
@@ -6070,7 +6100,10 @@
                 "flavor_text": "Um den sinnlosen Krieg zwischen Dideldei und Dideldum zu beenden und an die Rassel zu kommen, musst du kreativ sein, vor allem, wenn du nicht einfach einen von ihnen t\u00f6ten willst. Leider machen die Unmengen an Karten und Schachfiguren, die die Br\u00fcder rekrutiert haben, alle deine Pl\u00e4ne zunichte.",
                 "illustration": "./images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
                 "index": "1a",
-                "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez"
+                "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez",
+                "illustration_scale": 2.42,
+                "illustration_pan_x": -1288.0,
+                "illustration_pan_y": -29.0
             },
             "back": {
                 "type": "act_back",
@@ -6093,7 +6126,10 @@
                 "illustration": "./images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
                 "clues": "3<per>",
                 "index": "2a",
-                "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez"
+                "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez",
+                "illustration_scale": 2.42,
+                "illustration_pan_x": -1288.0,
+                "illustration_pan_y": -29.0
             },
             "back": {
                 "type": "act_back",
@@ -6115,7 +6151,10 @@
                 "flavor_text": "Die Br\u00fcder geraten bereits in Panik, versuchen aber dennoch, ihre Truppen zum Gefecht zu bewegen. Mit der dunklen Kr\u00e4he, die sich \u00fcber das Schlachtfeld hermacht, hast du das n\u00f6tige Werkzeug, um den Zwillingen etwas Vernunft einzubl\u00e4uen.",
                 "illustration": "./images/Environment - Jes\u00fas Campos Jim\u00e9nez.jpg",
                 "index": "3a",
-                "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez"
+                "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez",
+                "illustration_scale": 2.42,
+                "illustration_pan_x": -1288.0,
+                "illustration_pan_y": -29.0
             },
             "back": {
                 "type": "act_back",
@@ -6139,7 +6178,10 @@
                 "illustration": "./images/Environment - Darek Zabrocki.jpg",
                 "doom": "3",
                 "index": "1a",
-                "illustrator": "Illus. Darek Zabrocki"
+                "illustrator": "Illus. Darek Zabrocki",
+                "illustration_pan_x": -1245.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 2.9
             },
             "back": {
                 "type": "agenda_back",
@@ -6660,14 +6702,14 @@
                 "victory": "Sieg 0.",
                 "illustration": "./images/Tweedledum Tweedledee - Lisa Falkenstern.jpg",
                 "illustrator": "Illus. Lisa Falkenstern",
-                "illustration_pan_x": -344,
-                "illustration_pan_y": -36,
-                "illustration_scale": 1.12,
                 "classes": [
                     "story"
                 ],
                 "name": "<unique><name>",
-                "level": "None"
+                "level": "None",
+                "illustration_pan_x": -717.0,
+                "illustration_pan_y": -52.0,
+                "illustration_scale": 2.28
             },
             "back": {
                 "type": "asset",
@@ -6685,10 +6727,10 @@
                     "story"
                 ],
                 "slot": "None",
-                "illustration_scale": 1.12,
-                "illustration_pan_x": -344,
-                "illustration_pan_y": -36,
-                "level": "0"
+                "illustration_scale": 2.28,
+                "illustration_pan_x": -717.0,
+                "illustration_pan_y": -52.0,
+                "level": "None"
             },
             "encounter_number": "17",
             "project_number": "164",
@@ -6710,13 +6752,13 @@
                 "illustrator": "Illus. Lisa Falkenstern",
                 "health": "3",
                 "level": "None",
-                "illustration_pan_x": 34,
-                "illustration_pan_y": 52,
-                "illustration_scale": 1.12,
+                "illustration_scale": 2.28,
                 "classes": [
                     "story"
                 ],
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_pan_y": 0.0,
+                "illustration_pan_x": 70.0
             },
             "back": {
                 "type": "asset",
@@ -6734,9 +6776,9 @@
                     "story"
                 ],
                 "slot": "None",
-                "illustration_scale": 1.12,
-                "illustration_pan_x": 34,
-                "illustration_pan_y": 52,
+                "illustration_scale": 2.28,
+                "illustration_pan_x": 70.0,
+                "illustration_pan_y": 0.0,
                 "level": "None"
             },
             "encounter_number": "18",
@@ -7069,7 +7111,10 @@
                     "double_slash",
                     "triangle"
                 ],
-                "illustrator": "Illus. Dinmoney"
+                "illustrator": "Illus. Dinmoney",
+                "illustration_pan_y": 70.0,
+                "illustration_pan_x": -1288.0,
+                "illustration_scale": 3.44
             },
             "back": {
                 "type": "location_back",
@@ -7107,7 +7152,9 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Jonas Zavacky"
+                "illustrator": "Illus. Jonas Zavacky",
+                "illustration_pan_x": -300.0,
+                "illustration_pan_y": 200.0
             },
             "back": {
                 "type": "location_back",
@@ -7144,7 +7191,8 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Chris Drake"
+                "illustrator": "Illus. Chris Drake",
+                "illustration_pan_x": -1500.0
             },
             "back": {
                 "type": "location_back",
@@ -7297,7 +7345,9 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Stephanie Stutz"
+                "illustrator": "Illus. Stephanie Stutz",
+                "illustration_pan_x": -400.0,
+                "illustration_pan_y": 200.0
             },
             "back": {
                 "type": "location_back",
@@ -7362,7 +7412,9 @@
                 "victory": "",
                 "illustration": "./images/White Knight - Barry Moser 1.jpg",
                 "illustrator": "Illus. Barry Moser",
-                "flavor_text": "\u201eDa f\u00e4llt er schon! Genau auf den Kopf, wie immer!\u201c"
+                "flavor_text": "\u201eDa f\u00e4llt er schon! Genau auf den Kopf, wie immer!\u201c",
+                "illustration_pan_x": -19.0,
+                "illustration_pan_y": -104.0
             },
             "back": {
                 "type": "encounter"
@@ -7389,7 +7441,10 @@
                 "victory": "Sieg 2.",
                 "illustration": "./images/Red King - Soo K.jpg",
                 "illustrator": "Illus. Soo K",
-                "subtitle": "Finsterer F\u00fcrst"
+                "subtitle": "Finsterer F\u00fcrst",
+                "illustration_pan_x": -44.0,
+                "illustration_pan_y": 317.0,
+                "illustration_scale": 1.46
             },
             "back": {
                 "type": "encounter"
@@ -7415,7 +7470,10 @@
                 "flavor_text": "",
                 "victory": "Sieg 2.",
                 "illustration": "./images/Red King - Soo K.jpg",
-                "illustrator": "Illus. Soo K"
+                "illustrator": "Illus. Soo K",
+                "illustration_pan_x": -44.0,
+                "illustration_pan_y": 317.0,
+                "illustration_scale": 1.46
             },
             "back": {
                 "type": "encounter"
@@ -7439,14 +7497,14 @@
                 "damage": 1,
                 "horror": 2,
                 "flavor_text": "",
-                "victory": "Victory 2.",
                 "illustration": "./images/White King - Alexandr Ukolov.jpg",
                 "illustrator": "Illus. Alexandr Ukolov",
                 "classes": [
                     "story"
                 ],
                 "sanity": "1",
-                "level": "None"
+                "level": "None",
+                "illustration_pan_y": -50.0
             },
             "back": {
                 "type": "encounter"
@@ -7465,7 +7523,8 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Jabnormalities.jpg",
-                "illustrator": "Illus. Jabnormalities"
+                "illustrator": "Illus. Jabnormalities",
+                "illustration_pan_x": -250.0
             },
             "back": {
                 "type": "encounter"
@@ -7510,7 +7569,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Shadows - Nele Diel.jpg",
-                "illustrator": "Illus. Nele Diel"
+                "illustrator": "Illus. Nele Diel",
+                "illustration_pan_x": -948.0,
+                "illustration_pan_y": 1128.0,
+                "illustration_scale": 2.72
             },
             "back": {
                 "type": "encounter"
@@ -7576,7 +7638,10 @@
                 "evade": "3",
                 "damage": "1",
                 "horror": "1",
-                "flavor_text": "\u201eAlles, woran sie sich erinnern kann, ist, dass sie Hand in Hand rannten, und die K\u00f6nigin so schnell lief, dass sie \u00e4u\u00dferste M\u00fche hatte, mit ihr mitzuhalten und immer noch rief die K\u00f6nigin fortw\u00e4hrend: \u201aSchneller! Schneller!\u2018\u201c"
+                "flavor_text": "\u201eAlles, woran sie sich erinnern kann, ist, dass sie Hand in Hand rannten, und die K\u00f6nigin so schnell lief, dass sie \u00e4u\u00dferste M\u00fche hatte, mit ihr mitzuhalten und immer noch rief die K\u00f6nigin fortw\u00e4hrend: \u201aSchneller! Schneller!\u2018\u201c",
+                "illustration_pan_x": -440.0,
+                "illustration_pan_y": 694.0,
+                "illustration_scale": 2.4
             },
             "back": {
                 "type": "encounter"
@@ -7604,7 +7669,9 @@
                 "level": "None",
                 "classes": [
                     "story"
-                ]
+                ],
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 236.0
             },
             "back": {
                 "type": "encounter"
@@ -8534,9 +8601,9 @@
                 "victory": "",
                 "illustration": "./images/Card Guards - Rodney Matthews 2.jpg",
                 "illustrator": "Illus. Rodney Matthews",
-                "illustration_pan_x": -60,
-                "illustration_pan_y": 144,
-                "illustration_scale": 0.82
+                "illustration_pan_x": -184.0,
+                "illustration_pan_y": 105.0,
+                "illustration_scale": 1.78
             },
             "back": {
                 "type": "encounter"
@@ -8563,7 +8630,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Card Guards - Joel Santana.jpg",
-                "illustrator": "Illus. Joel Santana"
+                "illustrator": "Illus. Joel Santana",
+                "illustration_pan_x": 24.0,
+                "illustration_pan_y": 1123.0,
+                "illustration_scale": 1.74
             },
             "back": {
                 "type": "encounter"
@@ -8591,9 +8661,9 @@
                 "victory": "",
                 "illustration": "./images/Card Guards - Andrea Anselmi.jpg",
                 "illustrator": "Illus. Andrea Anselmi",
-                "illustration_pan_x": 6,
-                "illustration_pan_y": 572,
-                "illustration_scale": 0.52
+                "illustration_pan_y": 1154.0,
+                "illustration_scale": 1.08,
+                "illustration_pan_x": -32.0
             },
             "back": {
                 "type": "encounter"
@@ -8621,9 +8691,7 @@
                 "victory": "",
                 "illustration": "./images/Card Guards - Andrea Bettin.jpg",
                 "illustrator": "Illus. ",
-                "illustration_pan_x": 18,
-                "illustration_pan_y": 544,
-                "illustration_scale": 0.4
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "encounter"
@@ -8644,9 +8712,7 @@
                 "victory": "",
                 "illustration": "./images/Cards - John Lobster.jpg",
                 "illustrator": "Illus. John Lobster",
-                "illustration_pan_x": 50,
-                "illustration_pan_y": 26,
-                "illustration_scale": 1.0
+                "illustration_pan_x": 150.0
             },
             "back": {
                 "type": "encounter"
@@ -8827,7 +8893,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Red Knight - Lucas Parolin de Souza.jpg",
-                "illustrator": "Illus. Lucas Parolin de Souza"
+                "illustrator": "Illus. Lucas Parolin de Souza",
+                "illustration_pan_x": -248.0,
+                "illustration_pan_y": 1078.0,
+                "illustration_scale": 2.64
             },
             "back": {
                 "type": "encounter"
@@ -8853,7 +8922,8 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Red Pawn - Carlo Spagnola.jpg",
-                "illustrator": "Illus. Carlo Spagnola"
+                "illustrator": "Illus. Carlo Spagnola",
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "encounter"
@@ -8880,7 +8950,10 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Red Bishop - Aleksandar Kostic.jpg",
-                "illustrator": "Illus. Aleksandar Kostic"
+                "illustrator": "Illus. Aleksandar Kostic",
+                "illustration_pan_x": 4.0,
+                "illustration_pan_y": 710.0,
+                "illustration_scale": 3.76
             },
             "back": {
                 "type": "encounter"
@@ -8925,7 +8998,8 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Ruslan Grechka.jpg",
-                "illustrator": "Illus. Ruslan Grechka"
+                "illustrator": "Illus. Ruslan Grechka",
+                "illustration_pan_x": -500.0
             },
             "back": {
                 "type": "encounter"
@@ -9252,9 +9326,9 @@
                 "illustration": "./images/Dodo - Hicuro.jpg",
                 "illustrator": "Illus. Hicuro",
                 "name": "<unique><name>",
-                "illustration_pan_x": 0,
-                "illustration_pan_y": 561,
-                "illustration_scale": 0.5
+                "illustration_pan_x": -48.0,
+                "illustration_pan_y": 1122.0,
+                "illustration_scale": 0.96
             },
             "back": {
                 "type": "encounter"
@@ -9278,7 +9352,10 @@
                 "victory": "",
                 "illustration": "./images/Duchess - Omri Koresh.jpg",
                 "illustrator": "Illus. Omri Koresh",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_pan_x": -960.0,
+                "illustration_pan_y": 1125.0,
+                "illustration_scale": 1.72
             },
             "back": {
                 "type": "encounter"
@@ -9302,7 +9379,8 @@
                 "illustration": "./images/Humpty Dumpty - Robert Williams.jpg",
                 "illustrator": "Illus. Robert Williams",
                 "name": "<unique><name>",
-                "subtitle": "Gefallen und Zerbrochen"
+                "subtitle": "Gefallen und Zerbrochen",
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "encounter"
@@ -9326,7 +9404,10 @@
                 "victory": "",
                 "illustration": "./images/Gryphon and Mock Turtle - Ken Wong.jpg",
                 "illustrator": "Illus. Ken Wong",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_pan_x": -206.0,
+                "illustration_pan_y": 1108.0,
+                "illustration_scale": 2.48
             },
             "back": {
                 "type": "encounter"
@@ -9350,7 +9431,8 @@
                 "victory": "",
                 "illustration": "./images/White Queen - Yaroslav Gerzhedovich.jpg",
                 "illustrator": "Illus. Yaroslav Gerzhedovich",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_pan_y": 600.0
             },
             "back": {
                 "type": "encounter"
@@ -9377,7 +9459,8 @@
                 "illustration": "./images/Humpty Dumpty - Scott Gustafson.jpg",
                 "illustrator": "Illus. Scott Gustafson",
                 "name": "<unique><name>",
-                "level": "None"
+                "level": "None",
+                "illustration_pan_y": -10.0
             },
             "back": {
                 "type": "encounter"
@@ -9403,7 +9486,8 @@
                 ],
                 "illustration": "./images/Caterpillar - Shreya Shetty.jpg",
                 "illustrator": "Illus. Shreya Shretty",
-                "level": "None"
+                "level": "None",
+                "illustration_pan_y": -100.0
             },
             "back": {
                 "type": "encounter"
@@ -9429,11 +9513,11 @@
                 ],
                 "illustration": "./images/Dodo - Amelia Tzemis.jpg",
                 "illustrator": "Illus. Amelia Tzemis",
-                "illustration_pan_x": 50,
-                "illustration_pan_y": 132,
-                "illustration_scale": 0.48,
                 "name": "<unique><name>",
-                "level": "None"
+                "level": "None",
+                "illustration_pan_x": 84.0,
+                "illustration_pan_y": 264.0,
+                "illustration_scale": 1.06
             },
             "back": {
                 "type": "encounter"
@@ -9459,7 +9543,10 @@
                 "illustration": "./images/Duchess - Denis Zilber.jpg",
                 "illustrator": "Illus. Denis Zilber",
                 "level": "None",
-                "subtitle": "Gesellige Hofdame"
+                "subtitle": "Gesellige Hofdame",
+                "illustration_pan_x": 68.0,
+                "illustration_pan_y": -28.0,
+                "illustration_scale": 1.14
             },
             "back": {
                 "type": "encounter"
@@ -9485,7 +9572,10 @@
                 ],
                 "illustration": "./images/Gryphon and Mock Turtle - Scott Gustafson.jpg",
                 "illustrator": "Illus. Scott Gustafson",
-                "level": "None"
+                "level": "None",
+                "illustration_pan_x": -52.0,
+                "illustration_pan_y": 24.0,
+                "illustration_scale": 2.26
             },
             "back": {
                 "type": "encounter"
@@ -9537,7 +9627,8 @@
                 ],
                 "illustration": "./images/White Queen - Victoria Ying.jpg",
                 "illustrator": "Illus. Victoria Ying",
-                "level": "None"
+                "level": "None",
+                "illustration_pan_y": 280.0
             },
             "back": {
                 "type": "encounter"
@@ -9675,7 +9766,8 @@
                 "flavor_text": "Du denkst \u00fcber die kryptischen Worte der Grinsekatze sorgf\u00e4ltig nach. Die Katze scheint nicht nur anzudeuten, dass das Monster, das das Haus des Wei\u00dfen Kaninchens zerst\u00f6rt hat, zu Gurathnaka geh\u00f6rt, sondern auch, dass die Austern in der N\u00e4he dabei helfen k\u00f6nnten, es zu finden und zu besiegen. Wenn ihr dieses Ungeheuer vernichten k\u00f6nnt, kann vielleicht auch Gurathnaka rechtzeitig vernichtet werden.",
                 "illustration": "./images/Environment - Aernout van Pallandt 1.jpg",
                 "index": "1a",
-                "illustrator": "Illus. Aernout van Pallandt"
+                "illustrator": "Illus. Aernout van Pallandt",
+                "illustration_pan_x": 400.0
             },
             "back": {
                 "type": "act_back",
@@ -9697,7 +9789,10 @@
                 "illustration": "./images/Teacups - LCQ92.png",
                 "clues": "2<per>",
                 "index": "1a",
-                "illustrator": "Illus. LCQ92"
+                "illustrator": "Illus. LCQ92",
+                "illustration_pan_x": 790.0,
+                "illustration_scale": 0.52,
+                "illustration_pan_y": -170.0
             },
             "back": {
                 "type": "act_back",
@@ -9718,8 +9813,6 @@
             "front": {
                 "type": "treachery",
                 "illustration": "./images/Jabberwock - Juan Calle.jpg",
-                "illustration_pan_x": 65,
-                "illustration_pan_y": 10,
                 "illustrator": "Illus. Juan Calle",
                 "text": "<rev> Falls sich der Schebberoch im Siegpunktestapel befindet, erh\u00e4lt <name> Nachr\u00fcsten. \nAnsonsten, falls der Schebberoch sich im Spiel befindet, nimmt jeder Ermittler an seinem Ort 1 Schaden und 1 Horror. Dann bewegt sich der Schebberoch an deinen Ort. Falls der Schebberoch sich nicht im Spiel befindet, platziere ihn an deinem Ort <i>(nur, wenn er nicht im Siegpunktestapel ist)</i>."
             },
@@ -9737,10 +9830,7 @@
                 "type": "treachery",
                 "text": "<rev> Lege eine <agi>-Probe (3) ab. Diese Probe erh\u00e4lt Wagnis und +1 Schwierigkeit, falls sich der Schebberoch im Spiel befindet. Falls die Probe misslingt, nimm 1 Schaden und verliere 2 Ressourcen.",
                 "traits": "Gefahr.",
-                "illustration": "./images/Jabberwock - Stacy LeFevre.jpg",
-                "illustration_pan_x": 75,
-                "illustration_pan_y": 34,
-                "illustration_scale": 1.22
+                "illustration": "./images/Jabberwock - Stacy LeFevre.jpg"
             },
             "back": {
                 "type": "encounter"
@@ -9766,17 +9856,16 @@
                 "clues": "2<per>",
                 "illustrator": "Illus. Daria Chu",
                 "illustration": "./images/Sundial - Daria Chu.jpg",
-                "illustration_pan_x": -380,
-                "illustration_pan_y": 0,
-                "illustration_scale": 0.84
+                "illustration_pan_y": 0.0,
+                "illustration_pan_x": -652.0,
+                "illustration_scale": 1.48
             },
             "back": {
                 "type": "location_back",
                 "flavor_text": "Unerkl\u00e4rlicherweise teilt sich der Wald zu einer kleinen Lichtung auf, in deren Mitte eine Sonnenuhr steht.",
                 "illustrator": "Illus. Daria Chu",
                 "traits": "Wunderland. Tulger Wald.",
-                "illustration_scale": 0.84,
-                "illustration_pan_x": -380,
+                "illustration_scale": 1.48,
                 "illustration_pan_y": 0
             },
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
@@ -9827,7 +9916,10 @@
                 "victory": "",
                 "illustration": "./images/Lion and Unicorn - Robert Walker.jpg",
                 "illustrator": "Illus. Robert Walker",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "illustration_pan_x": -32.0,
+                "illustration_pan_y": 1055.0,
+                "illustration_scale": 1.2
             },
             "back": {
                 "type": "encounter"
