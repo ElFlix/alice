@@ -584,21 +584,23 @@
     ],
     "cards": [
         {
-            "name": "Darkest Before Dawn",
+            "name": "Am dunkelsten vor der Morgenr\u00f6te",
             "front": {
                 "type": "act",
-                "text": "<for> At the start of the investigator phase: The investigators as a group must choose and play one card from Alice's hand. Then, you may move Alice to any connecting location.\n<reaction> When you would discover any amount of clues, even if your location has no clues on it: You may place that many of your clues on Gurathnaka instead.\n<obj> If there are more clues on Gurathnaka than it has remaining health, advance.",
-                "flavor_text": "Though the void draws the shadows and last vestiges of Alice's dream, Gurathnaka resists its pull, its continued howls reverberating in your bones. Its indescribable voice speaks to a primal fear within you, but the only way to survive this nightmare is to banish the Eater of\u00a0Dreams.",
+                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand. Alice spielt diese Karte. Die Ermittler d\u00fcrfen Alice an einen verbunden Ort bewegen.\n<reaction> Sobald du 1 oder mehr Hinweise an deinem Ort entdecken w\u00fcrdest, selbst wenn sich auf deinem Ort keine Hinweise befinden: Lege stattdessen genauso viele Hinweise auf Gurathnaka.\n<obj> Falls die verbleibende Ausdauer von Gurathnaka niedriger als die Anzahl an Hinweisen auf Gurathnaka ist, r\u00fccke vor.",
                 "illustration": "./images/Rabbit Hole - Masateru Ikeda.jpg",
-                "clues": "-",
                 "index": "2a",
-                "illustrator": "Illus. Masateru Ikeda"
+                "illustrator": "Illus. Masateru Ikeda",
+                "illustration_pan_x": 800.0,
+                "clues": "<dash>",
+                "flavor_text": "Obwohl die Leere die Schatten und letzten Spuren von Alices Traum an sich zieht, widersetzt sich Gurathnaka ihrem Sog, und sein unaufh\u00f6rliches Heulen hallt in deinen Knochen wider. Seine unbeschreibliche Stimme spricht eine urzeitliche Angst in dir an, doch der einzige Weg, diesen Albtraum zu \u00fcberleben, besteht darin, den Traumfresser zu verbannen."
             },
             "back": {
                 "type": "act_back",
-                "name": "Call it a Night",
+                "name": "F\u00fcr heute ist Feierabend",
                 "victory": "",
-                "text": "<blockquote>Amid the rushing vacuum of the darkness through the wavering fissure, Gurathnaka claws at Arkham greedily. Each time you repel the monster, drawing from your recent experiences to weaken its grip through the dimensions. Alice focuses every fiber of her will on maintaining stability while you unravel the portal and sever Gurathnaka's attachment to Arkham. Weary minutes pass, until finally, a breakthrough! The shadowy abomination falls through the endless void, still reaching toward you with empty hunger. \"It's through!\" Alice cries, though you cannot make a reply before the rift sutures itself shut, and a ripple bursts forth from the point of exit, knocking you off your feet.</blockquote>\n(<res>5</res>)\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "(<resolution><b>A5</b>)",
+                "flavor_text": "Inmitten des tosenden Vakuums der Dunkelheit, das durch den wabernden Spalt str\u00f6mt, krallt sich Gurathnaka gierig an Arkham fest. Jedes Mal, wenn du das Monster zur\u00fcckschl\u00e4gst, nutzt du deine j\u00fcngsten Erfahrungen, um seinen Halt durch die Dimensionen zu schw\u00e4chen. Alice konzentriert sich mit jeder Faser ihres Willens darauf, die Stabilit\u00e4t aufrechtzuerhalten, w\u00e4hrend du das Portal aufl\u00f6st und Gurathnakas Verbindung zu Arkham durchtrennst. M\u00fchsame Minuten vergehen, bis endlich der Durchbruch gelingt! Hungrig nach dir ausgestreckt st\u00fcrzt die schattenhafte Abscheulichkeit durch die endlose Leere. \u201eEs ist geschafft!\u201c, ruft Alice, doch du kommst nicht dazu, zu antworten, als sich die Spalte von selbst wieder verschlie\u00dft und eine letzte Welle aus ihr hervorbricht, die dich von den Beinen rei\u00dft."
             },
             "encounter_number": "6",
             "project_number": "204",
@@ -606,22 +608,25 @@
             "id": "b1dd3120-257c-4e7f-80b4-70cb24ec6db7"
         },
         {
-            "name": "Burgeoning Darkness",
+            "name": "Wachsende Dunkelheit",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell cannot take control of the Cheshire Cat.\nEnemies cannot engage, attack, or target Alice Liddell when moving via the hunter keyword.\n<for> At the end of the enemy phase: Move Gurathnaka one location towards the location with the most investigators.\n<for> If Alice is defeated, (<res>2</res>).",
-                "flavor_text": "The stability of Arkham continues to degrade as it had when you first entered Wonderland. Darkness spreads from the north half of the city, and with it, Gurathnaka and its minions. Shadows greedily consume everything in their path like a forest fire, gorging and growing steadily stronger.",
+                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselworts J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
+                "flavor_text": "Die Stabilit\u00e4t Arkhams verschlechtert sich zunehmend, wie vor deinem ersten Betreten des Wunderlandes. Dunkelheit breitet sich aus dem Norden der Stadt aus, und mit ihr Gurathnaka und seine Schergen. Gierig wie ein Waldbrand verzehren Schatten alles, was auf ihrem Weg liegt, und werden dabei st\u00e4rker und st\u00e4rker.",
                 "illustration": "./images/Shadows - Yoojin Rhee.jpg",
                 "doom": "7",
                 "index": "1a",
-                "illustrator": "Illus. Yoojin Rhee"
+                "illustrator": "Illus. Yoojin Rhee",
+                "illustration_pan_x": -887.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Psychological Warfare",
+                "name": "Psychologische Kriegsf\u00fchrung",
                 "victory": "",
-                "text": "<blockquote>Alice leans against a partially demolished building as another ungodly roar rips through the air. Her efforts are slowing the shadows from crossing over into Arkham, but her body and spirit are being quickly overtaxed.</blockquote>\nDeal 1 damage or 1 horror to Alice. If resolving this effect would defeat Alice: (<res>2</res>).\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n",
-                "index": "1b"
+                "text": "Alice nimmt 1 Schaden oder 1 Horror. Falls durch diesen Effekt Alice besiegt wird: (<resolution><b>A2</b>).\n",
+                "index": "1b",
+                "flavor_text": "Alice lehnt an einem teilweise zerst\u00f6rten Geb\u00e4ude, als erneut ein gottloses Dr\u00f6hnen die Luft zerrei\u00dft. Ihre Bem\u00fchungen verlangsamen zwar das Vordringen der Schatten in Arkham, aber ihr K\u00f6rper und ihr Geist sind schnell am Rande ihrer Kr\u00e4fte."
             },
             "encounter_number": "2",
             "project_number": "200",
@@ -629,21 +634,23 @@
             "id": "8b40d284-b308-4c2c-bfff-72196c3bca3e"
         },
         {
-            "name": "Mass Consumption",
+            "name": "Massenkonsum",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell cannot take control of the Cheshire Cat.\nEnemies cannot engage, attack, or target Alice Liddell when moving via the hunter keyword.\n<for> At the end of the enemy phase: Move Gurathnaka one location towards the location with the most investigators.\n<for> If Alice is defeated, (<res>2</res>).",
-                "flavor_text": "Gurathnaka leads its shadows in consuming any and all material they can claw apart; animal, vegetable, or mineral. A dark void radiates out in their wake, emptier even than the void of space.",
+                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselworts J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
+                "flavor_text": "Gurathnaka treibt seine Schatten an, alles zu verschlingen, was sie zerrei\u00dfen k\u00f6nnen \u2013 sei es tierischen, pflanzlichen oder mineralischen Ursprungs. Sie hinterlassen eine dunkle Leere, die noch leerer ist als die Leere des Weltraums.",
                 "illustration": "./images/Shadows - Yoojin Rhee.jpg",
                 "doom": "7",
                 "index": "2a",
-                "illustrator": "Illus. Yoojin Rhee"
+                "illustrator": "Illus. Yoojin Rhee",
+                "illustration_pan_x": -887.0
             },
             "back": {
                 "type": "agenda_back",
-                "name": "The Mind Recoils",
+                "name": "Der Verstand schreckt zur\u00fcck",
                 "victory": "",
-                "text": "\n<blockquote>Reality wavers and ripples inconstantly, unbalancing you in its shifting state. You rise quickly, but Alice takes several more moments to push herself unsteadily back up. If the shadows grow in strength much further, then Alice may not survive the strain.</blockquote>\nDeal 2 damage and/or horror to Alice. If resolving this effect would defeat Alice: (<res>2</res>).\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n"
+                "text": "Alice nimmt 2 Schaden und/oder Horror. Falls durch diesen Effekt Alice besiegt wird: (<resolution><b>A2</b>).",
+                "flavor_text": "Die Realit\u00e4t schwankt und wogt unbest\u00e4ndig und bringt dich in ihrem st\u00e4ndigen Wandel aus dem Gleichgewicht. Du stehst schnell wieder auf, doch Alice braucht noch einige Augenblicke, um sich wackelig wieder aufzurichten. Sollten die Schatten noch weiter an Kraft gewinnen, wird Alice die Belastung m\u00f6glicherweise nicht \u00fcberleben."
             },
             "encounter_number": "3",
             "project_number": "201",
@@ -651,22 +658,24 @@
             "id": "7541791d-a428-4ef9-b6a5-790f872e08df"
         },
         {
-            "name": "Last Light",
+            "name": "Letzte Lichtstrahlen",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell cannot take control of the Cheshire Cat.\nEnemies cannot engage, attack, or target Alice Liddell when moving via the hunter keyword.\n<for> At the end of the enemy phase: Move Gurathnaka one location towards the location with the most investigators.\n<for> If Alice is defeated, (<res>2</res>).",
-                "flavor_text": "The fading glow of twilight and the few remaining street lights in Arkham light your way as you hurry as never before. When darkness overtakes the city, it will be the end not only for you, but all life on Earth.",
+                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselworts J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
                 "illustration": "./images/Shadows - Yoojin Rhee.jpg",
                 "doom": "6",
                 "index": "3a",
-                "illustrator": "Illus. Yoojin Rhee"
+                "illustrator": "Illus. Yoojin Rhee",
+                "illustration_pan_x": -887.0,
+                "flavor_text": "Das schwindende Licht der D\u00e4mmerung und die wenigen verbliebenen Stra\u00dfenlaternen von Arkham erhellen deinen Weg, w\u00e4hrend du dich beeilst wie nie zuvor. Wenn die Dunkelheit die Stadt \u00fcberzieht, wird dies nicht nur f\u00fcr dich, sondern f\u00fcr alles Leben auf der Erde das Ende bedeuten."
             },
             "back": {
                 "type": "agenda_back",
-                "name": "The Dead of Night",
                 "victory": "",
-                "text": "<blockquote>The sharp popping and shattering of glass sounds over the rumble of the crumbling landscape. With all now artificial light gone, you can only watch in despair as the fading glow of twilight darkens to night and the shadows claw at you from all sides.</blockquote>\nEach investigator who has not resigned is defeated.\n<blockquote></blockquote>\n\n<blockquote></blockquote>\n",
-                "index": "3b"
+                "text": "Jeder Ermittler, der nicht aufgegeben hat, wird besiegt",
+                "index": "3b",
+                "flavor_text": "Das schrille Knacken und Zerbrechen von Glas \u00fcbert\u00f6nt das Grollen der zerfallenden Landschaft. Jetzt, wo alles k\u00fcnstliche Licht vollst\u00e4ndig erloschen ist, kannst du nur noch verzweifelt zusehen, wie der schwindende Glanz der D\u00e4mmerung zur Nacht wird und die Schatten dich von allen Seiten umschlingen.",
+                "name": "Die finsterste Nacht"
             },
             "encounter_number": "4",
             "project_number": "202",
@@ -688,13 +697,13 @@
                         "token": [
                             "cultist"
                         ],
-                        "text": "\u20132. \u20134 instead if you are at a <t>Wonderland</t> or <t>Shadow</t> location."
+                        "text": "\u20132 (\u20134 stattdessen, falls du dich an einem <t>Wunderland</t>- oder <t>Schatten</t>-Ort befindest)."
                     },
                     {
                         "token": [
                             "tablet"
                         ],
-                        "text": "\u20132. \u20134 instead if there are 3 or fewer <t>Wonderland</t> locations in play."
+                        "text": "\u20132 (\u20134 stattdessen, falls sich 3 oder weniger <t>Wunderland</t>-Orte im Spiel befinden)."
                     },
                     {
                         "token": [
@@ -718,13 +727,13 @@
                         "token": [
                             "cultist"
                         ],
-                        "text": "\u20133. \u20135 instead if you are at a <t>Wonderland</t> or <t>Shadow</t> location."
+                        "text": "\u20133 (\u20135 stattdessen, falls du dich an einem <t>Wunderland</t>- oder <t>Schatten</t>-Ort befindest)."
                     },
                     {
                         "token": [
                             "tablet"
                         ],
-                        "text": "\u20133. \u20135 instead if there are 3 or fewer <t>Wonderland</t> locations in play."
+                        "text": "\u20133 (\u20135 stattdessen, falls sich 3 oder weniger <t>Wunderland</t>-Orte im Spiel befinden)."
                     },
                     {
                         "token": [
@@ -741,12 +750,12 @@
             "id": "b05c9072-79a9-4d99-9d2b-d7c009cd7c23"
         },
         {
-            "name": "Miskatonic University",
+            "name": "Miskatonic Universit\u00e4t",
             "front": {
                 "type": "location",
-                "subtitle": "Entering the Endgame",
+                "subtitle": "Im Endspiel",
                 "traits": "Arkham. Wonderland.",
-                "text": "\n<action>: <b>Investigate</b>. When you initiate this test, discard the top card of your deck. If that card is a weakness, draw it. Otherwise, you get +X <intellect> for this test, where X is the cost of the discarded card.\n<for> If there are no clues on <name>: Flip it.",
+                "text": "\n<action>: <b>Investigate</b>. When you initiate this test, discard the top card of your deck. If that card is a weakness, draw it. Otherwise, you get +X <intellect> for this test, where X is the cost of the discarded card.\n<for> Falls sich keine Hinweise auf der <name> befinden: Drehe diese Karte um.",
                 "flavor_text": "Miskatonic's campus is segmented and alternates between colored sections in a pattern like the chess field of Wonderland.",
                 "victory": "",
                 "illustration": "./images/Miskatonic - Tomasz Jedruszek and Unknown.jpg",
@@ -766,10 +775,9 @@
                 "type": "location",
                 "illustration": "./images/Miskatonic - Tomasz Jedruszek.jpg",
                 "illustrator": "Illus. Tomasz Jedruszek",
-                "name": "Miskatonic University",
-                "subtitle": "Reeducation",
+                "name": "<name>",
+                "subtitle": "Zur\u00fcck zum Stundenplan",
                 "traits": "Arkham.",
-                "text": "\n",
                 "flavor_text": "The university's ivy halls have returned \nand reordered, but the invasive darkness \nstill pervades the campus grounds.",
                 "victory": "",
                 "shroud": "4",
@@ -783,12 +791,12 @@
             "id": "fab1f609-e9ac-42d7-9a7a-b2caba19a317"
         },
         {
-            "name": "Merchant District",
+            "name": "Gesch\u00e4ftsviertel",
             "front": {
                 "type": "location",
-                "subtitle": "Doubled Down",
+                "subtitle": "Doppelter Aufruhr",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: <b>Investigate</b>. Double <name>'s shroud for this test. If you succeed, discover an additional clue. If you fail, discard a card from your hand at random and lose a resource (limit one success per turn).\n<for> If there are no clues on <name>: Flip it.",
+                "text": "<action>: <b>Investigate</b>. Double <name>'s shroud for this test. If you succeed, discover an additional clue. If you fail, discard a card from your hand at random and lose a resource (limit one success per turn).\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
                 "flavor_text": "The streets of the Merchant District blend with the features of\nthe steep valley where the Tweedles met in their earlier battle.",
                 "victory": "",
                 "illustration": "./images/Merchant District - Jokubas Uogintas and Roberto Maldonado.jpg",
@@ -809,8 +817,8 @@
                 "type": "location",
                 "illustration": "./images/Merchant District - Jokubas Uogintas.jpg",
                 "illustrator": "Illus. Jokubas Uogintas",
-                "name": "Merchant District",
-                "subtitle": "Business as Usual",
+                "name": "<name>",
+                "subtitle": "Zur\u00fcck zur Tagesordnung",
                 "traits": "Arkham.",
                 "text": "",
                 "flavor_text": "The Merchant District returns to its lonely state, no less abandoned at night for all the chaos around it.",
@@ -826,12 +834,12 @@
             "id": "7970a6a3-d259-4e5d-a15e-e57c15a1a396"
         },
         {
-            "name": "Rivertown",
+            "name": "Hafenviertel",
             "front": {
                 "type": "location",
-                "subtitle": "Come Hell or High Water",
+                "subtitle": "St\u00fcrmische See",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: Test <agility> (3). If you succeed, <name> gets \u20133 shroud until the end of the phase. If you fail, take 1 damage (limit 1 success per round).\n<for> If there are no clues on <name>: Flip it.",
+                "text": "<action>: Test <agility> (3). If you succeed, <name> gets \u20133 shroud until the end of the phase. If you fail, take 1 damage (limit 1 success per round).\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
                 "flavor_text": "The Miskatonic river carries a salt air, and the waves wash over the riverbank as if it were Wonderland's Sea of Tears.",
                 "victory": "",
                 "illustration": "./images/Rivertown - Cristi Balanescu and Jeremy Paillotin.jpg",
@@ -849,8 +857,7 @@
                 "type": "location",
                 "illustration": "./images/Rivertown - Cristi Balanescu.jpg",
                 "illustrator": "Illus. Cristi Balanescu",
-                "name": "Rivertown",
-                "subtitle": "Smooth Sailing",
+                "name": "<name>",
                 "traits": "Arkham.",
                 "text": "",
                 "flavor_text": "The waters of the Miskatonic have receded, though the surface still churns with each ripple of reality.",
@@ -858,7 +865,8 @@
                 "shroud": "3",
                 "clues": "0",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "subtitle": "In ruhigem Fahrwasser"
             },
             "encounter_number": "8",
             "project_number": "206",
@@ -866,12 +874,12 @@
             "id": "563b2325-da8f-4685-9feb-0df16e2f260d"
         },
         {
-            "name": "French Hill",
+            "name": "Franz\u00f6sisches Viertel",
             "front": {
                 "type": "location",
-                "subtitle": "The Heart of the Problem",
+                "subtitle": "Das Herz des Problems",
                 "traits": "Arkham. Wunderland.",
-                "text": "<name> gets \u20133 shroud while there is any amount of doom on enemies at <name> or treacheries attached to <name>.\n<free> Place a doom on an enemy at <name> or a treachery attached to <name>.\n<for> If there are no clues on <name>: Flip it.",
+                "text": "<name> gets \u20133 shroud while there is any amount of doom on enemies at <name> or treacheries attached to <name>.\n<free> Place a doom on an enemy at <name> or a treachery attached to <name>.\n<for> Falls sich keine Hinweise auf dem Franz\u00f6sischen Viertel befinden: Drehe diese Karte um.",
                 "flavor_text": "The stately architecture of French Hill overlaps with ornate \nstonework that you recognize from the Queen of Hearts' castle.",
                 "victory": "",
                 "illustration": "./images/French Hill - Cristi Balanescu and Clement Caubet.jpg",
@@ -892,7 +900,7 @@
                 "illustration": "./images/French Hill - Cristi Balanescu.jpg",
                 "illustrator": "Illus. Cristi Balanescu",
                 "name": "French Hill",
-                "subtitle": "The Heart of Society",
+                "subtitle": "Das Herz der Gesellschaft",
                 "traits": "Arkham.",
                 "text": "",
                 "flavor_text": "French Hill once again sits in its usual splendor, \nthough its gambrel roofs rattle with the \nrumbling throughout the city.",
@@ -908,12 +916,12 @@
             "id": "3d984237-4ac4-4ec3-8dbe-a1637c331c12"
         },
         {
-            "name": "Uptown",
+            "name": "W\u00e4lder von Arkham",
             "front": {
                 "type": "location",
-                "subtitle": "Not Out of the Woods Yet",
+                "subtitle": "Wundersame Ver\u00e4stelungen",
                 "traits": "Arkham. Wonderland.",
-                "text": "\n<action>: Search your deck or discard pile for a weakness and draw it. If you drew a weakness, discover 2 clues on <name> (limit once per turn).\n<for> If there are no clues on <name>: Flip it.",
+                "text": "\n<action>: Search your deck or discard pile for a weakness and draw it. If you drew a weakness, discover 2 clues on <name> (limit once per turn).\n<for> Falls sich keine Hinweise auf den W\u00e4ldern von Arkham befinden: Drehe diese Karte um.",
                 "flavor_text": "The woods outside of Arkham twist into strange shapes that you only recall from the much stranger Tulgey Wood.",
                 "victory": "",
                 "illustration": "./images/Uptown - Nele Diel and Alex van der Linde.jpg",
@@ -934,8 +942,7 @@
                 "type": "location",
                 "illustration": "./images/Uptown - Nele Diel 2.jpg",
                 "illustrator": "Illus. Nele Diel",
-                "name": "Uptown",
-                "subtitle": "The Same Old Haunts",
+                "subtitle": " Geh\u00f6lz voll altem Spuk",
                 "traits": "Arkham.",
                 "text": "\n",
                 "flavor_text": "Arkham's woods unravel and twist back \ninto their familiar but foreboding forms, \ngiving you little peace of mind.",
@@ -951,12 +958,12 @@
             "id": "746a7b75-7680-4f1c-934d-0b1cc529da0d"
         },
         {
-            "name": "Southside",
+            "name": "S\u00fcdstadt",
             "front": {
                 "type": "location",
-                "subtitle": "Not Your Cup of Tea",
+                "subtitle": "Nicht nach deinem Geschmack",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: Test <willpower> (3). If you succeed, <name> gets \u20133 shroud until the end of the phase. If you fail, take 1 horror (limit 1 success per round).\n<for> If there are no clues on <name>: Flip it.",
+                "text": "<action>: Test <willpower> (3). If you succeed, <name> gets \u20133 shroud until the end of the phase. If you fail, take 1 horror (limit 1 success per round).\n<for> Falls sich keine Hinweise auf der S\u00fcdstadt befinden: Drehe diese Karte um.",
                 "flavor_text": "Southside's quiet roads are cluttered with \nsilverware, crockery, and half-eaten refreshments \nfrom the Tea Party table.",
                 "victory": "",
                 "illustration": "./images/Southside - Jokubas Uogintas and Abigail Larson.jpg",
@@ -977,8 +984,8 @@
                 "type": "location",
                 "illustration": "./images/Southside - Jokubas Uogintas.jpg",
                 "illustrator": "Illus. Jokubas Uogintas",
-                "name": "Southside",
-                "subtitle": "Tea and Sympathy",
+                "name": "<name>",
+                "subtitle": "Der Tee ist ausgetrunken",
                 "traits": "Arkham.",
                 "text": "",
                 "flavor_text": "Southside once again sits in quiet seclusion, in stark contrast to the roiling chaos just north of it.",
@@ -994,7 +1001,7 @@
             "id": "d1955a3d-0cbf-44d3-8580-6dd16555ff75"
         },
         {
-            "name": "Easttown",
+            "name": "Oststadt",
             "front": {
                 "type": "location",
                 "subtitle": "",
@@ -1034,12 +1041,12 @@
             "id": "8bad73e0-2c77-4057-a0db-18aca27854ee"
         },
         {
-            "name": "Northside",
+            "name": "Nordstadt",
             "front": {
                 "type": "location",
                 "subtitle": "",
                 "traits": "Arkham.",
-                "text": "\n<for> After you resolve a test at <name> where 3 or more skill icons were committed: Take 1 damage.",
+                "text": "<for> After you resolve a test at <name> where 3 or more skill icons were committed: Take 1 damage.",
                 "flavor_text": "Remnants of the earlier chaos still linger in Northside. They may be the key to fully closing off \nthe connection to Wonderland.",
                 "victory": "Victory 1.",
                 "illustration": "./images/Northside - Jokubas Uogintas.jpg",
@@ -1280,7 +1287,7 @@
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Abomination. Schatten.",
+                "traits": "Abscheulichkeit. Schatten.",
                 "text": "Hunter. Alert.\n<name>'s damage and horror values are 1 less than Gurathnaka's damage and horror values.",
                 "health": "4",
                 "evade": "3",
@@ -1302,10 +1309,10 @@
             "amount": 2
         },
         {
-            "name": "Vacuous Void",
+            "name": "Inhaltslose Leere",
             "front": {
                 "type": "location",
-                "subtitle": "The End Is in Sight",
+                "subtitle": "Das Ende ist in Sicht",
                 "traits": "Arkham. Schatten.",
                 "text": "<reaction> After you successfully investigate <name>: Discover an additional clue.",
                 "flavor_text": "It will take all of your faculties to seal this rift between worlds and save Arkham from certain annihilation.",
@@ -1493,16 +1500,16 @@
             "amount": 3
         },
         {
-            "name": "Tenebrous Nightmares",
+            "name": "D\u00fcstere Albtr\u00e4ume",
             "front": {
                 "type": "treachery",
                 "title": "<unique> <name>",
                 "traits": "Schrecken. Komplott. Schatten.",
-                "text": "<rev> Put <name> into play in your threat area.\nYou cannot draw cards or gain resources during the upkeep phase.\n<action> <action>: Discard <name>.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nDu kannst w\u00e4hrend der Unterhaltsphase keine Karten ziehen oder Ressourcen erhalten.\n<action><action>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
-                    "story weakness"
+                    "weakness"
                 ],
                 "illustration": "./images/Shadows - Snugglestab.jpg",
                 "illustrator": "Illus. Snugglestab"
@@ -3287,7 +3294,8 @@
                 "text": "Das <name> kann das Spiel nicht verlassen.",
                 "flavor_text": "Am Kopfende des Teetischs steht ein absurd hoher roter Stuhl, auf dem der gastgebende Hase sitzt.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -180.0
             },
             "encounter_number": "13",
             "project_number": "59",
@@ -3322,7 +3330,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "14",
             "project_number": "60",
@@ -3362,7 +3371,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "15",
             "project_number": "61",
@@ -3397,7 +3407,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "16",
             "project_number": "62",
@@ -3438,7 +3449,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "17",
             "project_number": "63",
@@ -3474,7 +3486,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "18",
             "project_number": "64",
@@ -3514,7 +3527,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "19",
             "project_number": "65",
@@ -3549,7 +3563,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "20",
             "project_number": "66",
@@ -3583,7 +3598,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "21",
             "project_number": "67",
@@ -3622,7 +3638,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "22",
             "project_number": "68",
@@ -3663,9 +3680,7 @@
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_x": 36,
-                "illustration_pan_y": 124,
-                "illustration_scale": 0.38
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "23",
             "project_number": "69",
@@ -3705,7 +3720,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "24",
             "project_number": "70",
@@ -3745,7 +3761,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "25",
             "project_number": "71",
@@ -3785,7 +3802,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "26",
             "project_number": "72",
@@ -3826,7 +3844,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "27",
             "project_number": "73",
@@ -3867,7 +3886,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "28",
             "project_number": "74",
@@ -3907,7 +3927,8 @@
                 "text": "",
                 "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 190.0
             },
             "encounter_number": "29",
             "project_number": "75",
@@ -6665,7 +6686,8 @@
                 "level": "None",
                 "illustration_pan_x": -717.0,
                 "illustration_pan_y": -52.0,
-                "illustration_scale": 2.28
+                "illustration_scale": 2.28,
+                "sanity": "<dash>"
             },
             "back": {
                 "type": "asset",
@@ -6714,7 +6736,8 @@
                 ],
                 "name": "<unique><name>",
                 "illustration_pan_y": 0.0,
-                "illustration_pan_x": 70.0
+                "illustration_pan_x": 70.0,
+                "sanity": "<dash>"
             },
             "back": {
                 "type": "asset",
@@ -9887,28 +9910,29 @@
         },
         {
             "id": "4f539b6b-7feb-4260-8e5b-f963ef43cc4d",
-            "name": "Separating Fantasy",
+            "name": "Fantasie trennen",
             "front": {
                 "type": "act",
                 "index": "1a",
-                "flavor_text": "Shards and echoes of Wonderland pervade the familiar districts of Arkham. The only way you will be able to banish the shadows is to purge the parts of the city overlapping with Alice's dreams. It is finally time for you to leverage what you learned in your journey.",
-                "text": "<for> At the start of the investigator phase: The investigators as a group must choose and play one card from Alice's hand. Then, you may move Alice to any connecting location.\n<reaction> After you successfully attack Gurathnaka: Discover a clue at your location.\n<obj> If there are no <t>Wonderland</t> locations in play, you must immediately advance.",
+                "flavor_text": "Fragmente und Echos des Wunderlandes durchdringen die vertrauten Stadtteile von Arkham. Du wirst die Schatten nur vertreiben, wenn du die Teile der Stadt, die mit Alices Verstand \u00fcberlappen, davon befreien kannst. Es ist an der Zeit, dass du das, was du auf deiner Reise gelernt hast, in die Tat umsetzt.",
+                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand. Alice spielt diese Karte. Die Ermittler d\u00fcrfen Alice an einen verbunden Ort bewegen.\n<reaction> Nachdem du Gurathnaka erfolgreich angegriffen hast: Entdecke 1 Hinweis an deinem Ort.\n<obj> Sobald sich kein <t>Wunderland</t>-Ort im Spiel befindet, r\u00fccke sofort vor.",
                 "illustrator": "Illus. Masateru Ikeda",
-                "illustration": "./images/Rabbit Hole - Masateru Ikeda.jpg"
+                "illustration": "./images/Rabbit Hole - Masateru Ikeda.jpg",
+                "illustration_pan_x": 800.0
             },
             "back": {
                 "type": "act_back",
-                "name": "Reinforced Reality",
+                "name": "Verst\u00e4rkte Realit\u00e4t",
                 "index": "1b",
-                "flavor_text": "With Alice attempting to repel her own dreams from the real world, you focus on your memories of the people and places of Arkham. Each routine sound, unique scent, and memorable hallmark of the city that you can recall helps to separate the two worlds and redefine the boundaries. As you peel away Wonderland from Arkham, the impossible jumble that you left behind in the Northside and Downtown districts begins to rearrange. The overwhelming darkness begins to concentrate at the spot where Alice's house once appeared, each shadow being drawn inevitably toward it. Gurathnaka stutters, as if attempting to exist in multiple realities at once, bellowing with abominable fury as it too is drawn toward the growing void.",
-                "text": "Put the set-aside Northside, Downtown, Easttown, and Vacuous Void locations into play. Move each investigator and weakness enemy to Easttown. Flip Gurathnaka and move it to Vacuous Void. Discard all other enemies and remove each other location from the game."
+                "text": "Bringe die beiseitegelegten Orte Nordstadt, Innenstadt, Oststadt und Inhaltslose Leere ins Spiel. Bewege alle Ermittler und Schw\u00e4che-Gegner auf die Oststadt. Drehe Gurathnaka um und bewege Gurathnaka auf die Inhaltslose Leere. Lege alle anderen Gegner ab und entferne alle anderen Orte aus dem Spiel.",
+                "flavor_text": "W\u00e4hrend Alice versucht, ihre eigenen Tr\u00e4ume aus der realen Welt zu verdr\u00e4ngen, konzentrierst du dich auf deine Erinnerungen an die Menschen und Orte von Arkham. Jedes allt\u00e4gliche Ger\u00e4usch, jeder einzigartige Duft und jedes unvergessliche Wahrzeichen der Stadt, an das du dich erinnern kannst, hilft dabei, die beiden Welten voneinander zu trennen und die Grenzen neu zu ziehen. W\u00e4hrend du das Wunderland von Arkham abtrennst, beginnt sich das unm\u00f6gliche Durcheinander, das du in der Nordstadt und Innenstadt zur\u00fcckgelassen hast, neu zu ordnen. Die \u00fcberw\u00e4ltigende Dunkelheit konzentriert sich an der Stelle, an der einst Alices Haus aufgetaucht ist, und jeder Schatten wird dorthin gezogen. Gurathnaka stottert, als versuche er, in mehreren Realit\u00e4ten gleichzeitig zu existieren, und br\u00fcllt vor abscheulicher Wut, w\u00e4hrend auch er von der wachsenden Leere angezogen wird."
             },
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "encounter_number": "5",
             "project_number": "203"
         },
         {
-            "name": "Downtown",
+            "name": "Innenstadt",
             "front": {
                 "type": "location",
                 "traits": "Arkham.",
