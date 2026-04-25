@@ -10083,10 +10083,22 @@
     "icon": "./images/Alice in Wonderland.png",
     "guides": [
         {
-            "path": "./guide.html",
-            "name": "Guide",
-            "id": "57df5c6d-4c0f-4d96-a5e6-2f162ccfedd5",
-            "sections": []
+            "id": "e82eb546-5d64-4bca-bf60-439ab5cfff31",
+            "name": "Alice im Wunderland",
+            "sections": [
+                {
+                    "id": "d0fb9748",
+                    "type": "cover",
+                    "name": "Titelseite",
+                    "markdown": "# Titelseite\n\n"
+                },
+                {
+                    "id": "fd528e7b",
+                    "type": "intro",
+                    "name": "Einleitung",
+                    "markdown": "## Ein Reich des reinen Wahnsinns\n:::story\n\u201aIn der Richtung\u2018, sprach die Katze, und lie\u00df dabei ihre rechte Pfote kreisen, \u201awohnt ein Hutmacher: und in der Richtung\u2018, die linke kreisen lassend, \u201awohnt ein M\u00e4rzhase. Besuch, wen du willst: sie sind beide verr\u00fcckt.\u2018\n  \u201aAber ich will nicht unter verr\u00fcckte Leute gehn\u2018, bemerkte Alice.\n  \u201aOh, das kannst du nicht vermeiden\u2018, sprach die Katze: \u201awir alle hier sind verr\u00fcckt. Ich bin verr\u00fcckt. Du bist verr\u00fcckt.\u2018\n:::right\n\\- Lewis Carroll, \u201eAlices Abenteuer im Wunderland\u201c\n:::\n:::\n\n<i>[project:name]</i> ist eine achtteilige Kampagne f\u00fcr <i>Arkham Horror: Das Kartenspiel</i> f\u00fcr 1 - 4 Spieler. Sie basiert auf <i>Alices Abenteuer im Wunderland, Durch den Spiegel,</i> sowie auf weiteren Gedichten von Lewis Carroll und wurde mit zus\u00e4tzlichen Verkn\u00fcpfungen und behutsamen Anpassungen in den Mythos von <i>Arkham Horror</i> eingewoben.\n\n:::image-bottom\n./images/Cheshire Cat - Nightgrowler.jpg\n:::\n\n## Inhalt\n:::toc\n:::\n\n## Erweiterungssymbol\nDie Karten aus *[project:name]* k\u00f6nnen an diesem Symbol vor\njeder Setnummer erkannt werden:\n:::center\n[project:icon]\n:::\n\n## Kampagnenvorbereitung\nUm die Kampagne *[project:name]* vorzubereiten, werden folgende Schritte in der angegeben Reihenfolge durchgef\u00fchrt.\n\n**1\\. Ermittler w\u00e4hlen.**\n\n**2\\. Ermittlerdecks der Spieler zusammenstellen.**\n\n**3\\. Schwierigkeitsgrad w\u00e4hlen.**\n\n**4\\. Chaosbeutel f\u00fcr die Kampagne zusamenstellen.**\n\n:::indent\n<bullet> **Einfach (I want to experience the story):**  \n+1, +1, 0, 0, 0, \u20131, \u20131, \u20131, \u20132, \u20132, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Normal (I want a challenge):**  \n+1, 0, 0, \u20131, \u20131, \u20131, \u20132, \u20132, \u20133, \u20134, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Schwer (I want a true nightmare):**  \n0, 0, 0, \u20131, \u20131, \u20132, \u20132, \u20133, \u20133, \u20134, \u20135, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Experte (I want Arkham Horror):**  \n0, \u20131, \u20131, \u20132, \u20132, \u20133, \u20133, \u20134, \u20134, \u20135, \u20136, \u20138, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>\n:::\n\nDie Ermittler k\u00f6nnen nun mit dem **Prolog** beginnen.\n"
+                }
+            ]
         }
     ],
     "translations": {
