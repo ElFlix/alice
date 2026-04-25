@@ -755,8 +755,7 @@
                 "type": "location",
                 "subtitle": "Im Endspiel",
                 "traits": "Arkham. Wonderland.",
-                "text": "\n<action>: <b>Investigate</b>. When you initiate this test, discard the top card of your deck. If that card is a weakness, draw it. Otherwise, you get +X <intellect> for this test, where X is the cost of the discarded card.\n<for> Falls sich keine Hinweise auf der <name> befinden: Drehe diese Karte um.",
-                "flavor_text": "Miskatonic's campus is segmented and alternates between colored sections in a pattern like the chess field of Wonderland.",
+                "text": "<action>: <b>Ermitteln (<int>)</b>. Sobald du diese F\u00e4higkeit initiierst, lege die oberste Karte deines Decks ab. Falls jene Karte eine Schw\u00e4che ist, ziehe sie. Ansonsten bekommst du +X <int> f\u00fcr diese Probe. X sind die Kosten der abgelegten Karte.\n<for> Falls sich keine Hinweise auf der <name> befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/Miskatonic - Tomasz Jedruszek and Unknown.jpg",
                 "clues": "2<per>",
@@ -769,7 +768,11 @@
                     "diamond",
                     "quote"
                 ],
-                "illustrator": "Illus. Tomasz Jedruszek & Unknown"
+                "illustrator": "Illus. Tomasz Jedruszek & Unknown",
+                "flavor_text": "Der Campus der Miskatonic Universit\u00e4t ist zerteilt und wechselt zwischen farbigen Abschnitten in einem Muster, das dich an das Schachbrettfeld des Wunderlands erinnert.",
+                "illustration_pan_x": -1095.0,
+                "illustration_pan_y": -859.0,
+                "illustration_scale": 3.0
             },
             "back": {
                 "type": "location",
@@ -778,12 +781,15 @@
                 "name": "<name>",
                 "subtitle": "Zur\u00fcck zum Stundenplan",
                 "traits": "Arkham.",
-                "flavor_text": "The university's ivy halls have returned \nand reordered, but the invasive darkness \nstill pervades the campus grounds.",
                 "victory": "",
                 "shroud": "4",
                 "clues": "0",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "flavor_text": "Die mit Efeu bewachsenen Geb\u00e4ude der Universit\u00e4t sind wieder da und wurden neu angeordnet, doch die bedr\u00fcckende Dunkelheit liegt immer noch \u00fcber dem Campusgel\u00e4nde.",
+                "illustration_scale": 3.0,
+                "illustration_pan_x": -1095.0,
+                "illustration_pan_y": -859.0
             },
             "encounter_number": "9",
             "project_number": "207",
@@ -796,8 +802,7 @@
                 "type": "location",
                 "subtitle": "Doppelter Aufruhr",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: <b>Investigate</b>. Double <name>'s shroud for this test. If you succeed, discover an additional clue. If you fail, discard a card from your hand at random and lose a resource (limit one success per turn).\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
-                "flavor_text": "The streets of the Merchant District blend with the features of\nthe steep valley where the Tweedles met in their earlier battle.",
+                "text": "<action>: <b>Ermitteln (<intellect>)</b>. Verdopple f\u00fcr diese Ermittlung den Schleier des Gesch\u00e4ftsviertels. Falls die Probe gelingt, entdeckst du 1 zus\u00e4tzlichen Hinweis an diesem Ort. Falls die Probe misslingt, lege 1 zuf\u00e4llige Karte von deiner Hand ab und du verlierst 1 Ressource. (Nur 1 Erfolg pro Runde.)\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/Merchant District - Jokubas Uogintas and Roberto Maldonado.jpg",
                 "clues": "2<per>",
@@ -811,7 +816,9 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Jokubas Uogintas & Roberto Maldonado"
+                "illustrator": "Illus. Jokubas Uogintas & Roberto Maldonado",
+                "illustration_pan_y": -400.0,
+                "flavor_text": "Die Stra\u00dfen des Gesch\u00e4ftsviertels f\u00fcgen sich harmonisch in die Landschaft des steilen Tals ein, in dem sich Dideldei und Dideldum bei ihrer Schlacht gegen\u00fcberstanden."
             },
             "back": {
                 "type": "location",
@@ -821,12 +828,13 @@
                 "subtitle": "Zur\u00fcck zur Tagesordnung",
                 "traits": "Arkham.",
                 "text": "",
-                "flavor_text": "The Merchant District returns to its lonely state, no less abandoned at night for all the chaos around it.",
                 "victory": "",
                 "shroud": "2",
                 "clues": "0",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -400.0,
+                "flavor_text": "Das Gesch\u00e4ftsviertel kehrt in einen einsamen Zustand zur\u00fcck. Trotz des Chaos im Rest der Stadt ist es nachts nicht weniger verlassen."
             },
             "encounter_number": "7",
             "project_number": "205",
@@ -839,8 +847,8 @@
                 "type": "location",
                 "subtitle": "St\u00fcrmische See",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: Test <agility> (3). If you succeed, <name> gets \u20133 shroud until the end of the phase. If you fail, take 1 damage (limit 1 success per round).\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
-                "flavor_text": "The Miskatonic river carries a salt air, and the waves wash over the riverbank as if it were Wonderland's Sea of Tears.",
+                "text": "<action>: Lege eine <agility>-Probe (3) ab. Falls die Probe gelingt, bekommt das Hafenviertel --3 Schleier bis zum Ende der Phase. Falls die Probe misslingt, nimm 1 Schaden. (Nur 1 Erfolg pro Runde f\u00fcr die gesamte Gruppe.)\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
+                "flavor_text": "Der Miskatonic verstr\u00f6mt eine salzige Brise, und die Wellen schwappen \u00fcber das Ufer, als w\u00e4re es das Meer der Tr\u00e4nen des Wunderlands.",
                 "victory": "",
                 "illustration": "./images/Rivertown - Cristi Balanescu and Jeremy Paillotin.jpg",
                 "clues": "1<per>",
@@ -851,7 +859,8 @@
                     "square",
                     "heart"
                 ],
-                "illustrator": "Illus. Cristi Balanescu & Jeremy Paillotin"
+                "illustrator": "Illus. Cristi Balanescu & Jeremy Paillotin",
+                "illustration_pan_y": -550.0
             },
             "back": {
                 "type": "location",
@@ -860,13 +869,14 @@
                 "name": "<name>",
                 "traits": "Arkham.",
                 "text": "",
-                "flavor_text": "The waters of the Miskatonic have receded, though the surface still churns with each ripple of reality.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "subtitle": "In ruhigem Fahrwasser"
+                "subtitle": "In ruhigem Fahrwasser",
+                "flavor_text": "Das Wasser des Miskatonic ist zur\u00fcckgegangen, doch die Oberfl\u00e4che sch\u00e4umt noch immer bei jeder Ersch\u00fctterung der Realit\u00e4t.",
+                "illustration_pan_y": -550.0
             },
             "encounter_number": "8",
             "project_number": "206",
@@ -879,8 +889,7 @@
                 "type": "location",
                 "subtitle": "Das Herz des Problems",
                 "traits": "Arkham. Wunderland.",
-                "text": "<name> gets \u20133 shroud while there is any amount of doom on enemies at <name> or treacheries attached to <name>.\n<free> Place a doom on an enemy at <name> or a treachery attached to <name>.\n<for> Falls sich keine Hinweise auf dem Franz\u00f6sischen Viertel befinden: Drehe diese Karte um.",
-                "flavor_text": "The stately architecture of French Hill overlaps with ornate \nstonework that you recognize from the Queen of Hearts' castle.",
+                "text": "Falls sich auf einem Gegner an diesem Ort oder auf einer an diesen Ort angeh\u00e4ngten Verratskarte Verderben befindet, bekommt das Franz\u00f6sische Viertel --3 Schleier.\n<free> Platziere 1 Verderben auf einem Gegner an diesem Ort oder einer Verratskarte, die an diesen Ort angeh\u00e4ngt ist.\n<for> Falls sich keine Hinweise auf dem Franz\u00f6sischen Viertel befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/French Hill - Cristi Balanescu and Clement Caubet.jpg",
                 "clues": "1<per>",
@@ -893,22 +902,25 @@
                     "diamond",
                     "quote"
                 ],
-                "illustrator": "Illus. Cristi Balanescu & Clement Caubet"
+                "illustrator": "Illus. Cristi Balanescu & Clement Caubet",
+                "flavor_text": "Die stattliche Architektur des Franz\u00f6sischen Viertels verschmilzt mit kunstvollem Mauerwerk, das du vom Schloss der Herz-K\u00f6nigin kennst.",
+                "illustration_pan_y": 10.0
             },
             "back": {
                 "type": "location",
                 "illustration": "./images/French Hill - Cristi Balanescu.jpg",
                 "illustrator": "Illus. Cristi Balanescu",
-                "name": "French Hill",
+                "name": "<name>",
                 "subtitle": "Das Herz der Gesellschaft",
                 "traits": "Arkham.",
                 "text": "",
-                "flavor_text": "French Hill once again sits in its usual splendor, \nthough its gambrel roofs rattle with the \nrumbling throughout the city.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "0",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 10.0,
+                "flavor_text": "Das Franz\u00f6sische Viertel erstrahlt wieder in seiner gewohnten Pracht, auch wenn seine Mansardd\u00e4cher unter dem Grollen, das durch die ganze Stadt hallt, klappern."
             },
             "encounter_number": "10",
             "project_number": "208",
@@ -921,8 +933,7 @@
                 "type": "location",
                 "subtitle": "Wundersame Ver\u00e4stelungen",
                 "traits": "Arkham. Wonderland.",
-                "text": "\n<action>: Search your deck or discard pile for a weakness and draw it. If you drew a weakness, discover 2 clues on <name> (limit once per turn).\n<for> Falls sich keine Hinweise auf den W\u00e4ldern von Arkham befinden: Drehe diese Karte um.",
-                "flavor_text": "The woods outside of Arkham twist into strange shapes that you only recall from the much stranger Tulgey Wood.",
+                "text": "<action>: Durchsuche dein Deck oder deinen Ablagestapel nach einer Schw\u00e4che und ziehe sie. Mische dein Deck. Falls du eine Schw\u00e4che gezogen hast, entdecke 2 Hinweise an den W\u00e4ldern von Arkham. (Nur ein Mal pro Runde.)\n<for> Falls sich keine Hinweise auf den W\u00e4ldern von Arkham befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/Uptown - Nele Diel and Alex van der Linde.jpg",
                 "clues": "2<per>",
@@ -936,7 +947,8 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Nele Diel & Alex van der Linde"
+                "illustrator": "Illus. Nele Diel & Alex van der Linde",
+                "flavor_text": "Die W\u00e4lder vor Arkham drehen und winden sich in seltsame Formen, die du dich an den so viel seltsameren Tulgen Wald erinnern."
             },
             "back": {
                 "type": "location",
@@ -944,13 +956,12 @@
                 "illustrator": "Illus. Nele Diel",
                 "subtitle": " Geh\u00f6lz voll altem Spuk",
                 "traits": "Arkham.",
-                "text": "\n",
-                "flavor_text": "Arkham's woods unravel and twist back \ninto their familiar but foreboding forms, \ngiving you little peace of mind.",
                 "victory": "",
                 "shroud": "4",
                 "clues": "0",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "flavor_text": "Die W\u00e4lder von Arkham entwirren sich wieder zu einer vertrauten, aber immernoch unheilvollen Form, was dir nur wenig Seelenfrieden gew\u00e4hrt."
             },
             "encounter_number": "11",
             "project_number": "209",
@@ -963,8 +974,7 @@
                 "type": "location",
                 "subtitle": "Nicht nach deinem Geschmack",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: Test <willpower> (3). If you succeed, <name> gets \u20133 shroud until the end of the phase. If you fail, take 1 horror (limit 1 success per round).\n<for> Falls sich keine Hinweise auf der S\u00fcdstadt befinden: Drehe diese Karte um.",
-                "flavor_text": "Southside's quiet roads are cluttered with \nsilverware, crockery, and half-eaten refreshments \nfrom the Tea Party table.",
+                "text": "<action>: Lege eine <willpower>-Probe (3) ab. Falls die Probe gelingt, bekommt das Hafenviertel --3 Schleier bis zum Ende der Phase. Falls die Probe misslingt, nimm 1 Horror. (Nur 1 Erfolg pro Runde f\u00fcr die gesamte Gruppe.)\n<for> Falls sich keine Hinweise auf der S\u00fcdstadt befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/Southside - Jokubas Uogintas and Abigail Larson.jpg",
                 "clues": "1<per>",
@@ -978,7 +988,9 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Jokubas Uogintas & Abigail Larson"
+                "illustrator": "Illus. Jokubas Uogintas & Abigail Larson",
+                "illustration_pan_y": -320.0,
+                "flavor_text": "Die ruhigen Stra\u00dfen der S\u00fcdstadt sind \u00fcbers\u00e4t mit Besteck, Geschirr und angebissenen Leckereien vom Tisch der der Teegesellschaft."
             },
             "back": {
                 "type": "location",
@@ -988,12 +1000,13 @@
                 "subtitle": "Der Tee ist ausgetrunken",
                 "traits": "Arkham.",
                 "text": "",
-                "flavor_text": "Southside once again sits in quiet seclusion, in stark contrast to the roiling chaos just north of it.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "0",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -320.0,
+                "flavor_text": "Die S\u00fcdstadt liegt wieder einmal in ruhiger Abgeschiedenheit, ganz im Gegensatz zum brodelnden Chaos, das sich n\u00f6rdlich davon abspielt."
             },
             "encounter_number": "12",
             "project_number": "210",
@@ -1006,9 +1019,8 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Arkham.",
-                "text": "<for> After you fail a skill test by 2 or more at <name>: Take 1 damage or 1 horror.\n<action>: <b>Resign</b>. There is no possible hope of repelling Gurathnaka, but there may still be a way to save yourself.",
-                "flavor_text": "Despite its proximity to the breach between the two worlds,\nEasttown is relatively untouched by the chaos.",
-                "victory": "Victory 1.",
+                "text": "<for> Nachdem dir eine Fertigkeitsprobe in der Oststadt um 2 oder mehr misslungen ist: Nimm 1 Schaden oder 1 Horror.\n<action>: <b>Aufgeben</b>. Es gibt keine Hoffnung, Gurathnaka zur\u00fcckzuschlagen, aber vielleicht gibt es noch einen Weg, dich selbst zu retten.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Easttown - Jokubas Uogintas.jpg",
                 "clues": "0",
                 "shroud": "3",
@@ -1021,19 +1033,20 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Jokubas Uogintas"
+                "illustrator": "Illus. Jokubas Uogintas",
+                "flavor_text": "Obwohl die Oststadt in unmittelbarer N\u00e4he des Durchbruchs zwischen den zwei Welten liegt, blieb es von dem Chaos weitgehend verschont.",
+                "illustration_pan_y": -150.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Jokubas Uogintas",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Arkham.",
                 "text": "",
-                "flavor_text": "Easttown has always been considered one of the safer districts due to the police presence, but in these circumstances, it's just as vulnerable as the others.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "flavor_text": "Die Oststadt galt aufgrund der starken Polizeipr\u00e4senz schon immer als einer der sichereren Stadtteile, doch unter den gegebenen Umst\u00e4nden ist sie genauso schutzlos wie alle anderen."
             },
             "encounter_number": "14",
             "project_number": "212",
@@ -1046,9 +1059,8 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Arkham.",
-                "text": "<for> After you resolve a test at <name> where 3 or more skill icons were committed: Take 1 damage.",
-                "flavor_text": "Remnants of the earlier chaos still linger in Northside. They may be the key to fully closing off \nthe connection to Wonderland.",
-                "victory": "Victory 1.",
+                "text": "Nachdem du eine Fertigkeitsprobe in der Nordstadt durchgef\u00fchrt hast, falls 3 oder mehr Fertigkeitssymbole beigetragen wurden: Nimm 1 Schaden.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Northside - Jokubas Uogintas.jpg",
                 "clues": "0",
                 "shroud": "3",
@@ -1061,19 +1073,19 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Jokubas Uogintas"
+                "illustrator": "Illus. Jokubas Uogintas",
+                "flavor_text": "In der Nordstadt sind noch immer Spuren des fr\u00fcheren Chaos zu sp\u00fcren. Sie k\u00f6nnten der Schl\u00fcssel dazu sein, die Verbindung zum Wunderland endg\u00fcltig zu unterbrechen.",
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
                 "illustrator": "Illus. Jokubas Uogintas",
-                "name": "",
+                "name": "<name>",
                 "subtitle": "",
                 "traits": "Arkham.",
-                "text": "\n",
-                "flavor_text": "When you left Northside behind in your journey to Wonderland, you weren't sure if you'd ever see it in a recognizable state ever again.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "flavor_text": "Als du die Nordstadt auf deiner Reise ins Wunderland hinter dir zur\u00fcckgelassen hast, warst du dir nicht sicher, ob du sie jemals wieder in einem wiedererkennbaren Zustand sehen w\u00fcrdest."
             },
             "encounter_number": "15",
             "project_number": "213",
@@ -1085,10 +1097,9 @@
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Atrophied Eater of Dreams",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive.\n<name> cannot be damaged.\n<name> cannot make attacks of opportunity during move actions.\nInvestigators cannot use Alice's ability or elder sign effect during attack or evade attempts against <name>.",
-                "health": "-",
+                "subtitle": "Verk\u00fcmmerter Traumfresser",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt..\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden..",
                 "evade": "1",
                 "attack": "1",
                 "damage": 2,
@@ -1097,16 +1108,20 @@
                 "victory": "",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
-                "name": "<unique><name>"
+                "name": "<unique><name>",
+                "health": "<dash>",
+                "illustration_pan_x": -1873.0,
+                "illustration_pan_y": 975.0,
+                "illustration_scale": 2.72
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
                 "name": "Gurathnaka",
-                "subtitle": "The Jaws of Defeat",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive.\n<name> gets +6 <per> health.\n<name> cannot be defeated by damage.\n<name> cannot make attacks of opportunity during move actions.\n<for> At the end of the enemy phase, if Gurathnaka is ready: Add 1 doom to the current agenda.",
+                "subtitle": "F\u00e4nge der Niederlage",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1114,7 +1129,10 @@
                 "attack": "1",
                 "evade": "1",
                 "damage": 2,
-                "horror": 2
+                "horror": 2,
+                "illustration_pan_y": 975.0,
+                "illustration_scale": 2.72,
+                "illustration_pan_x": -1873.0
             },
             "encounter_number": "17",
             "project_number": "215",
@@ -1126,10 +1144,9 @@
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Haggard Eater of Dreams",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive. Retaliate.\n<name> cannot be damaged.\n<name> cannot make attacks of opportunity during move actions.\nInvestigators cannot use Alice's ability or elder sign effect during attack or evade attempts against <name>.",
-                "health": "-",
+                "subtitle": "Abgezehrter Traumfresser",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden..",
                 "evade": "2",
                 "attack": "2",
                 "damage": 2,
@@ -1137,16 +1154,20 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
-                "illustrator": "Illus. Chris Cold"
+                "illustrator": "Illus. Chris Cold",
+                "health": "<dash>",
+                "illustration_pan_y": 975.0,
+                "illustration_pan_x": -1873.0,
+                "illustration_scale": 2.72
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
                 "name": "Gurathnaka",
-                "subtitle": "The Jaws of Defeat",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive. Retaliate.\n<name> gets +6 <per> health.\n<name> cannot be defeated by damage.\n<name> cannot make attacks of opportunity during move actions.\n<for> At the end of the enemy phase, if Gurathnaka is ready: Add 1 doom to the current agenda.",
+                "subtitle": "F\u00e4nge der Niederlage",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1154,7 +1175,10 @@
                 "attack": "2",
                 "evade": "2",
                 "damage": 2,
-                "horror": 2
+                "horror": 2,
+                "illustration_pan_y": 975.0,
+                "illustration_pan_x": -1873.0,
+                "illustration_scale": 2.72
             },
             "encounter_number": "18",
             "project_number": "216",
@@ -1166,10 +1190,9 @@
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Ravenous Eater of Dreams",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive. Retaliate.\n<name> cannot be damaged.\n<name> cannot make attacks of opportunity during move actions.\nInvestigators cannot use Alice's ability or elder sign effect during attack or evade attempts against <name>.",
-                "health": "-",
+                "subtitle": "Hei\u00dfhungriger Traumfresser",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden..",
                 "evade": "3",
                 "attack": "3",
                 "damage": 2,
@@ -1177,16 +1200,20 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
-                "illustrator": "Illus. Chris Cold"
+                "illustrator": "Illus. Chris Cold",
+                "health": "<dash>",
+                "illustration_pan_y": 975.0,
+                "illustration_pan_x": -1873.0,
+                "illustration_scale": 2.72
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
                 "name": "Gurathnaka",
-                "subtitle": "The Jaws of Defeat",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive. Retaliate.\n<name> gets +6 <per> health.\n<name> cannot be defeated by damage.\n<name> cannot make attacks of opportunity during move actions.\n<for> At the end of the enemy phase, if Gurathnaka is ready: Add 1 doom to the current agenda.",
+                "subtitle": "F\u00e4nge der Niederlage",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1194,7 +1221,10 @@
                 "attack": "3",
                 "evade": "3",
                 "damage": 2,
-                "horror": 3
+                "horror": 3,
+                "illustration_pan_y": 975.0,
+                "illustration_pan_x": -1873.0,
+                "illustration_scale": 2.72
             },
             "encounter_number": "19",
             "project_number": "217",
@@ -1206,10 +1236,9 @@
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Satiated Eater of Dreams",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive. Retaliate. Alert.\n<name> cannot be damaged.\n<name> cannot make attacks of opportunity during move actions.\nInvestigators cannot use Alice's ability or elder sign effect during attack or evade attempts against <name>.",
-                "health": "-",
+                "subtitle": "Ges\u00e4ttigter Traumfresser",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden..",
                 "evade": "4",
                 "attack": "4",
                 "damage": "2",
@@ -1217,15 +1246,19 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
-                "illustrator": "Illus. Chris Cold"
+                "illustrator": "Illus. Chris Cold",
+                "health": "<dash>",
+                "illustration_pan_y": 975.0,
+                "illustration_pan_x": -1873.0,
+                "illustration_scale": 2.72
             },
             "back": {
                 "type": "enemy",
                 "illustrator": "Illus. Chris Cold",
                 "name": "Gurathnaka",
-                "subtitle": "The Jaws of Defeat",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive. Retaliate. Alert.\n<name> gets +6 <per> health.\n<name> cannot be defeated by damage.\n<name> cannot make attacks of opportunity during move actions.\n<for> At the end of the enemy phase, if Gurathnaka is ready: Add 1 doom to the current agenda.",
+                "subtitle": "F\u00e4nge der Niederlage",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1234,7 +1267,10 @@
                 "evade": "4",
                 "damage": "2",
                 "horror": 3,
-                "illustration": "./images/Gurathnaka - Chris Cold.jpg"
+                "illustration": "./images/Gurathnaka - Chris Cold.jpg",
+                "illustration_pan_y": 975.0,
+                "illustration_pan_x": -1873.0,
+                "illustration_scale": 2.72
             },
             "encounter_number": "20",
             "project_number": "218",
@@ -1246,10 +1282,8 @@
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
-                "subtitle": "Gorged Eater of Dreams",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive. Retaliate. Alert.\n<name> cannot be damaged.\n<name> cannot make attacks of opportunity during move actions.\nInvestigators cannot use Alice's ability or elder sign effect during attack or evade attempts against <name>.",
-                "health": "-",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden..",
                 "evade": "5",
                 "attack": "5",
                 "damage": 3,
@@ -1257,16 +1291,21 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
-                "illustrator": "Illus. Chris Cold"
+                "illustrator": "Illus. Chris Cold",
+                "health": "<dash>",
+                "illustration_pan_y": 975.0,
+                "illustration_pan_x": -1873.0,
+                "illustration_scale": 2.72,
+                "subtitle": "Vollgestopfter Traumfresser"
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
                 "name": "Gurathnaka",
-                "subtitle": "The Jaws of Defeat",
-                "traits": "Ancient One. Schatten. Elite.",
-                "text": "Massive. Retaliate. Alert.\n<name> gets +6 <per> health.\n<name> cannot be defeated by damage.\n<name> cannot make attacks of opportunity during move actions.\n<for> At the end of the enemy phase, if Gurathnaka is ready: Add 1 doom to the current agenda.",
+                "subtitle": "F\u00e4nge der Niederlage",
+                "traits": "Gro\u00dfer Alter. Schatten. Elite.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1274,7 +1313,10 @@
                 "attack": "5",
                 "evade": "5",
                 "damage": 3,
-                "horror": 3
+                "horror": 3,
+                "illustration_pan_y": 975.0,
+                "illustration_pan_x": -1873.0,
+                "illustration_scale": 2.72
             },
             "encounter_number": "21",
             "project_number": "219",
@@ -1282,13 +1324,12 @@
             "id": "30f39f2f-0d14-4208-860d-3e77ee5e866b"
         },
         {
-            "name": "Insatiable Shade",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "Hunter. Alert.\n<name>'s damage and horror values are 1 less than Gurathnaka's damage and horror values.",
+                "text": "J\u00e4ger. Alarmiert.\nDer Schadenswert von <name> entspricht dem Schadenswert von Gurathnaka minus 1.\nDer Horrorwert von <name> entspricht dem Horrorwert von Gurathnaka minus 1.",
                 "health": "4",
                 "evade": "3",
                 "attack": "4",
@@ -1297,7 +1338,8 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Shadows - Unknown 2.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_y": 850.0
             },
             "back": {
                 "type": "encounter"
@@ -1306,7 +1348,8 @@
             "project_number": "220",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "46665bef-ee3d-4ee8-af79-bc3853d74afd",
-            "amount": 2
+            "amount": 2,
+            "name": "Uners\u00e4ttlicher Schatten"
         },
         {
             "name": "Inhaltslose Leere",
@@ -1314,9 +1357,8 @@
                 "type": "location",
                 "subtitle": "Das Ende ist in Sicht",
                 "traits": "Arkham. Schatten.",
-                "text": "<reaction> After you successfully investigate <name>: Discover an additional clue.",
-                "flavor_text": "It will take all of your faculties to seal this rift between worlds and save Arkham from certain annihilation.",
-                "victory": "Victory 1.",
+                "text": "<reaction> Nachdem du erfolgreich in der inhaltslosen Leere ermittelt hast: Entdecke 1 zus\u00e4tzlichen Hinweis an diesem Ort.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Arkham - Tomasz Jedruszek and TheKayeman.jpg",
                 "clues": "0",
                 "shroud": "6",
@@ -1329,7 +1371,10 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. Tomasz Jedruszek & TheKayeman"
+                "illustrator": "Illus. Tomasz Jedruszek & TheKayeman",
+                "flavor_text": "Du wirst all deine Kr\u00e4fte aufbieten m\u00fcssen, um diesen Riss zwischen den Welten zu schlie\u00dfen und Arkham vor der sicheren Vernichtung zu bewahren.",
+                "illustration_pan_x": -470.0,
+                "illustration_pan_y": 200.0
             },
             "back": {
                 "type": "location_back",
@@ -1339,9 +1384,11 @@
                 "subtitle": "",
                 "traits": "Arkham. Schatten.",
                 "text": "",
-                "flavor_text": "A wide tear in reality hovers far above the city.\nWind rushes in toward it, but only the \ninvading shadows seem to be affected by its pull.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "flavor_text": "Hoch \u00fcber der Stadt schwebt ein breiter Riss in der Realit\u00e4t. Der Wind str\u00f6mt darauf zu, doch nur die eindringenden Schatten scheinen von seiner Anziehungskraft erfasst zu werden.",
+                "illustration_pan_x": -470.0,
+                "illustration_pan_y": 200.0
             },
             "encounter_number": "16",
             "project_number": "214",
@@ -1349,15 +1396,16 @@
             "id": "cf9ed577-9d48-4924-9a1d-69ac8dfd5ed0"
         },
         {
-            "name": "Mental Exhaustion",
+            "name": "Mentale Ersch\u00f6pfung",
             "front": {
                 "type": "treachery",
                 "traits": "Makel.",
-                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\nInvestigators (including Alice) cannot draw cards during upkeep. As an additional cost to take the draw action, take 1 horror.\n<for> At the end of the round, discard 1 copy of <name>. (Max once per round.)",
+                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\nErmittler <i>(inklusive Alice)</i> k\u00f6nnen w\u00e4hrend der Unterhaltphase keine Karten ziehen.\nAls zus\u00e4tzliche Kosten, um eine Ziehen-Aktion zu nehmen, nimm 1 Horror.\n<for> Am Ende der Runde: Lege 1 Kopie von <name> aus dem Spiel ab. (Max. 1 Mal pro Runde.)",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Rael Brian.jpg",
-                "illustrator": "Illus. Rael Brian"
+                "illustrator": "Illus. Rael Brian",
+                "illustration_pan_y": -400.0
             },
             "back": {
                 "type": "encounter"
@@ -1369,15 +1417,16 @@
             "amount": 3
         },
         {
-            "name": "Limits of Control",
+            "name": "Die Grenze des Steuerbaren",
             "front": {
                 "type": "treachery",
                 "traits": "Makel.",
-                "text": "<rev> For each weakness in Alice's \nhand, deal 1 damage or 1 horror to her. For \neach copy of Shadow Strain in Alice's hand, \ndeal 1\u00a0additional horror to her. If there are no weaknesses in Alice's hand, <name> gains surge.",
+                "text": "<rev> Falls sich keine Schw\u00e4chen auf Alices Hand befinden, erh\u00e4lt <name> Nachr\u00fcsten.\nF\u00fcr jede Schw\u00e4che in Alices Hand nimmt Alice 1 Schaden oder 1 Horror.\nF\u00fcr jede Kopie von Belastende Schatten in ihrer Hand nimmt Alice 1 zus\u00e4tzlichen Horror.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - George Grie.jpg",
-                "illustrator": "Illus. George Grie"
+                "illustrator": "Illus. George Grie",
+                "illustration_pan_x": -540.0
             },
             "back": {
                 "type": "encounter"
@@ -1389,22 +1438,23 @@
             "amount": 4
         },
         {
-            "name": "Living Eclipse",
+            "name": "Lebende Verfinsterung",
             "front": {
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "subtitle": "",
-                "traits": "Abomination. Schatten. Elite.",
-                "text": "Massive.\n<name>'s location gets +2 shroud. Each location connected to <name>'s location gets +1 shroud.",
+                "traits": "Abscheulichkeit. Schatten. Elite.",
+                "text": "Gewaltig.\nDer Ort der Lebenden Verfinsterung bekommt +2 Schleier. Jeder verbundene Ort erh\u00e4lt +1 Schleier.",
                 "health": "4",
                 "evade": "4",
                 "attack": "5",
                 "damage": 1,
                 "horror": 2,
                 "flavor_text": "",
-                "victory": "Victory 1.",
+                "victory": "Sieg 1.",
                 "illustration": "./images/Shadows - Raven Coenen.jpg",
-                "illustrator": "Illus. Raven Coenen"
+                "illustrator": "Illus. Raven Coenen",
+                "illustration_pan_y": 900.0
             },
             "back": {
                 "type": "encounter"
@@ -1416,11 +1466,11 @@
             "amount": 2
         },
         {
-            "name": "Shadowy Gorger",
+            "name": "Schattenhafter Schlund",
             "front": {
                 "type": "enemy",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "Aloof. \n<spawn> Furthest location from all investigators.\n<for> At the end of the enemy phase, if <fullname> is ready and unengaged: Place 1 doom on it.",
+                "text": "Zur\u00fcckhaltend. \n<spawn> Am weitesten von allen Ermittlern entfernter Ort.\n<for> Am Ende der Gegnerphase, falls <name> nicht in einen Kampf verwickelt ist: Platziere 1 Verderben auf <name>.",
                 "flavor_text": "",
                 "illustration": "./images/Shadows - Toby Crow.jpg",
                 "illustrator": "Illus. Toby Crow",
@@ -1428,7 +1478,10 @@
                 "horror": "1",
                 "attack": "3",
                 "health": "3",
-                "evade": "4"
+                "evade": "4",
+                "illustration_pan_y": 1096.0,
+                "illustration_scale": 1.78,
+                "illustration_pan_x": -188.0
             },
             "back": {
                 "type": "encounter"
@@ -1440,15 +1493,15 @@
             "amount": 3
         },
         {
-            "name": "Spatial Stutter",
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "\n<rev> Test <agility> (3). If you fail, resolve the following (choose one):\n<bullet> Move to a connecting location and take 2 damage.\n<bullet> Move to a location exactly 2 connections away\n from your location and take 1 damage.\nThen, if there are more clues on your new location than on your previous location: Take 1 horror.\n",
+                "text": "<rev> Lege eine <agility>-Probe (3) ab. Falls die Probe misslingt, musst du entweder (w\u00e4hle eins):\n<bullet> Bewege dich an einen verbundenen Ort und nimm 2 Schaden.\n<bullet> Bewege dich an einen Ort, der genau 2 Verbindungen von deinem Ort entfernt ist, und nimm 1 Schaden.\nFalls sich dann auf deinem neuen Ort mehr Hinweise befinden als auf deinem vorherigen Ort, nimm 1 Horror.\n",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Oliver Vernon 9.jpg",
-                "illustrator": "Illus. Oliver Vernon"
+                "illustrator": "Illus. Oliver Vernon",
+                "illustration_pan_y": -350.0
             },
             "back": {
                 "type": "encounter"
@@ -1457,18 +1510,19 @@
             "project_number": "226",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "54ff11e5-94c7-4513-b852-9733bfa98e53",
-            "amount": 3
+            "amount": 3,
+            "name": "R\u00e4umliches Stottern"
         },
         {
-            "name": "Shattering Psyche",
             "front": {
                 "type": "treachery",
                 "traits": "Makel. Paradox.",
-                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> After an investigator discovers 2 or more total clues or places 2 or more total clues on an enemy during their turn: Deal 1 damage or 1 horror to Alice.\n<for> At the end of the round, discard a copy of <name>. (Max once per round.)\n",
+                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<for> Am Ende des Zuges jedes Ermittlers, falls der Ermittler in seinem Zug 2 oder mehr Hinweise entdeckt hat oder 2 oder mehr Hinweise auf einen Gegner gelegt hat: Alice nimmt 1 Schaden oder 1 Horror.\n<for> Am Ende der Runde: Lege 1 Kopie von <name> aus dem Spiel ab. (Max. 1 Mal pro Runde.)",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Bruce Rolff 1.jpg",
-                "illustrator": "Illus. Bruce Rolff"
+                "illustrator": "Illus. Bruce Rolff",
+                "illustration_pan_y": -370.0
             },
             "back": {
                 "type": "encounter"
@@ -1477,14 +1531,15 @@
             "project_number": "225",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "0cbb3264-f09d-4c43-8190-833bacc9d27a",
-            "amount": 3
+            "amount": 3,
+            "name": "Zerbrechende Psyche"
         },
         {
-            "name": "Weakening Boundary",
+            "name": "Schw\u00e4chende Grenze",
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Attach <name> to the location with the most clues.\n<for> At the end of the investigator phase: Place 1 clue (2 clues instead if there are 3 or 4 players) on the attached location (from the token bank) or place 1 doom on <name> (choose one). If it is act 2, you cannot choose to place clues.\n<action>: Test <willpower> (3). If you succeed, discard <name>.\n<for> If <name>'s location is flipped, discard <name>.",
+                "text": "<rev> H\u00e4nge diese Karte an den Ort mit den meisten Hinweisen an.\n<for> Am Ende der Ermittlungsphase: Du musst entweder (w\u00e4hle eins):\n<bullet> F\u00fcge dem Ort mit dieser Verst\u00e4rkung 1 Hinweis aus dem Markervorrat hinzu (stattdessen 2 Hinweise, falls 3 oder 4 Ermittler im Spiel sind). Falls die Nummer der aktuellen Szene 2 ist, kannst du diese Option nicht w\u00e4hlen.\n<bullet> Lege 1 Verderben auf <name>.\n<action>: Lege eine <willpower>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.\n<for> Falls der Ort mit dieser Verst\u00e4rkung umgedreht wird, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Rabbit Hole - Misha Bean.jpg",
@@ -7758,7 +7813,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator heals any amount of damage and/or horror: That investigator heals 1 additional damage or horror (choose one).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Nachdem ein anderer Effekt Schaden oder Horror von einem Ermittler geheilt hat: Jener Effekt heilt 1 zus\u00e4tzlichen Schaden oder Horror.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -7767,7 +7822,9 @@
                     "story"
                 ],
                 "illustration": "./images/Heart - Joao Rod 3.jpg",
-                "illustrator": "Illus. Joao Rod"
+                "illustrator": "Illus. Joao Rod",
+                "illustration_pan_x": -200.0,
+                "illustration_pan_y": 50.0
             },
             "back": {
                 "type": "player"
@@ -7784,7 +7841,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator engages or becomes engaged with an enemy: That investigator may draw a card.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler einen Gegner in einen Kampf verwickelt: Der Ermittler darf 1 Karte ziehen.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -7793,7 +7850,9 @@
                     "story"
                 ],
                 "illustration": "./images/Heart - Joao Rod 1.jpg",
-                "illustrator": "Illus. Joao Rod"
+                "illustrator": "Illus. Joao Rod",
+                "illustration_pan_x": -200.0,
+                "illustration_pan_y": 50.0
             },
             "back": {
                 "type": "player"
@@ -7810,7 +7869,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Einsicht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> After an investigator moves: That investigator gets +1 on all skill tests until the end of their turn (limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald sich ein Ermittler bewegt: Der Ermittler bekommt bis zum Ende seines Zuges +1 auf jede Fertigkeit. (Nur ein Mal pro Ermittler).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -7819,7 +7878,9 @@
                     "story"
                 ],
                 "illustration": "./images/Brain - Jolygon 1.jpg",
-                "illustrator": "Illus. Jolygon"
+                "illustrator": "Illus. Jolygon",
+                "illustration_pan_y": 55.0,
+                "illustration_pan_x": -500.0
             },
             "back": {
                 "type": "player"
@@ -7836,7 +7897,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Einsicht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator would play an event: That event gains fast (limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Ereigniskarte spielt: Jene Ereigniskarte erh\u00e4lt das Schl\u00fcsselwort Schnell. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -7844,7 +7905,9 @@
                     "story"
                 ],
                 "illustration": "./images/Brain - Jolygon 3.jpg",
-                "illustrator": "Illus. Jolygon"
+                "illustrator": "Illus. Jolygon",
+                "illustration_pan_y": 55.0,
+                "illustration_pan_x": -500.0
             },
             "back": {
                 "type": "player"
@@ -7861,7 +7924,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> After an investigator resolves a test where they committed a skill card to that test: That investigator may draw a card.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Nachdem ein Ermittler eine Fertigkeitsprobe durchgef\u00fchrt hat, falls er 1 Fertigkeitskarte beigetragen hat: Der Ermittler darf 1 Karte ziehen.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -7870,7 +7933,9 @@
                     "story"
                 ],
                 "illustration": "./images/Heart - Joao Rod 2.jpg",
-                "illustrator": "Illus. Joao Rod"
+                "illustrator": "Illus. Joao Rod",
+                "illustration_pan_x": -200.0,
+                "illustration_pan_y": 50.0
             },
             "back": {
                 "type": "player"
@@ -7887,7 +7952,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Einsicht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> An investigator performing a test gets +X to that test, where X is the amount of clues they control (to a maximum of 4, limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Fertigkeitsprobe durchf\u00fchrt: Der Ermittler bekommt +X auf seinen Fertigkeitswert f\u00fcr diese Probe. X ist die Anzahl an Hinweisen, die der Ermittler kontrolliert (bis zu einem Maximum von 4). (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -7896,7 +7961,9 @@
                     "story"
                 ],
                 "illustration": "./images/Brain - Jolygon 2.jpg",
-                "illustrator": "Illus. Jolygon"
+                "illustrator": "Illus. Jolygon",
+                "illustration_pan_x": -500.0,
+                "illustration_pan_y": 55.0
             },
             "back": {
                 "type": "player"
@@ -8313,12 +8380,11 @@
             "id": "84710398-de00-42f5-95d3-ed95a8001bbe"
         },
         {
-            "name": "Shadow Strain",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Schatten. Komplott. Macht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nSet Alice's base <intellect> to 1.\n<for> At the end of the round, deal 1 damage or 1 horror to Alice (choose one) and discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nSetze Alices Grund-<intellect>-Fertigkeitswert auf 1.\n<for> Am Ende der Runde: F\u00fcge Alice 1 Schaden oder 1 Horror zu. Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8336,7 +8402,8 @@
             "project_number": "262",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "id": "1d3cda2c-2224-4918-baf0-d1d49f7ceb3a",
-            "amount": 3
+            "amount": 3,
+            "name": "Belastende Schatten"
         },
         {
             "name": "Shed a Bitter Tear",
@@ -8497,13 +8564,13 @@
                 "text": "Bringe diese Karte neben Alice ins Spiel.\nAll abilities on treachery and weakness cards require an additional action to activate.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "You find a shattered sword lying on the ground,\nalongside several dented pieces of armor.",
                 "victory": "",
                 "classes": [
                     "story weakness"
                 ],
                 "illustration": "./images/Broken Sword - A Shipwright.jpg",
-                "illustrator": "Illus. A Shipwright"
+                "illustrator": "Illus. A Shipwright",
+                "flavor_text": "Du findest ein zerbrochenes Schwert auf dem Boden liegen,daneben liegen mehrere verbeulte R\u00fcstungsteile."
             },
             "back": {
                 "type": "player"
@@ -9936,8 +10003,7 @@
             "front": {
                 "type": "location",
                 "traits": "Arkham.",
-                "text": "<for> After you resolve a test at <name> where 3 or more skill icons were committed: Take 1 horror.",
-                "flavor_text": "If you can find the first cracks of Wonderland's incursion, then perhaps you might be able to seal it for good.",
+                "text": "<for> Nachdem du eine Fertigkeitsprobe in der Innenstadt durchgef\u00fchrt hast, falls 3 oder mehr Fertigkeitssymbole beigetragen wurden: Nimm 1 Horror.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/Downtown - Jokubas Uogintas.jpg",
                 "clues": "0",
@@ -9949,18 +10015,16 @@
                     "star"
                 ],
                 "illustrator": "Illus. Jokubas Uogintas",
-                "illustration_pan_x": 4.0,
-                "illustration_pan_y": -326.0
+                "illustration_pan_y": -326.0,
+                "flavor_text": "Wenn du die Risse finden kannst, an denen das Wunderland zuerst eingedrungen ist, dann gelingt es dir vielleicht, sie ein f\u00fcr alle Mal zu verschlie\u00dfen."
             },
             "back": {
                 "type": "location_back",
                 "illustrator": "Illus. Jokubas Uogintas",
                 "name": "<name>",
                 "traits": "Arkham.",
-                "text": "\n",
-                "flavor_text": "The region of Arkham where the trouble all began.\nIt has mostly returned to an unaltered state, suprisingly.",
                 "victory": "",
-                "clues": "0"
+                "flavor_text": "Der Teil Arkhams, in der der ganze \u00c4rger seinen Anfang nahm. \u00dcberraschenderweise ist die Innenstadt gr\u00f6\u00dftenteils wieder zum Normalzustand zur\u00fcckgekehrt."
             },
             "encounter_number": "13",
             "project_number": "211",
