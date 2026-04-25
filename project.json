@@ -1121,7 +1121,7 @@
                 "name": "Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1167,7 +1167,7 @@
                 "name": "Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1213,7 +1213,7 @@
                 "name": "Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1258,7 +1258,7 @@
                 "name": "Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1305,7 +1305,7 @@
                 "name": "Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1631,7 +1631,7 @@
             "name": "Folge dem Wei\u00dfen Kaninchen",
             "front": {
                 "type": "act",
-                "text": "<obj> Falls sich 3<per> Hinweise auf dieser Szene befinden, r\u00fccke vor.",
+                "text": "<obj> Falls sich 3<per_large> Hinweise auf dieser Szene befinden, r\u00fccke vor.",
                 "flavor_text": "Das Wei\u00dfe Kaninchen scheint das zu haben, wonach du in der sich st\u00e4ndig drehenden Landschaft suchst: Ein Ziel. Wenn dieser Wahnsinn einen Ursprung hat, dann findest du ihn dort, wohin auch immer das Kaninchen unterwegs ist.",
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
@@ -1655,7 +1655,7 @@
             "name": "Hinter den Spiegeln",
             "front": {
                 "type": "act",
-                "text": "<for> Am Ende der Runde: Wenn sich auf keinem Ort Hinweise befinden: Platziere 1<per> Hinweis aus dem Vorrat auf dem Verlassenen Haus.\n<obj> Falls jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.",
+                "text": "<for> Am Ende der Runde: Wenn sich auf keinem Ort Hinweise befinden: Platziere 1<per_large> Hinweis aus dem Vorrat auf dem Verlassenen Haus.\n<obj> Falls jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.",
                 "flavor_text": "Wenn es etwas gibt, das \u00fcber die Lage in Arkham sicher ist, dann ist es, dass das Wunderland die Quelle des Chaos ist. Wenn du eine echte Chance haben willst, das Chaos zu stoppen, musst du durch den Spiegel in diese Welt gelangen.",
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
@@ -1689,7 +1689,7 @@
             "back": {
                 "type": "agenda_back",
                 "victory": "",
-                "text": "<blockquote>Die Stadt bricht aus allen N\u00e4hten, w\u00e4hrend schattenhafte Kreaturen sie weiter aufl\u00f6sen, indem sie alles verzehren, was sie zerrei\u00dfen k\u00f6nnen. Geb\u00e4ude st\u00fcrzen ein, w\u00e4hrend sich ihre Ziegel in elfenbeinfarbene Dominosteine verwandeln, Stra\u00dfenlaternen sprie\u00dfen und erbl\u00fchen wie G\u00e4nsebl\u00fcmchen, und der Boden selbst verschiebt sich wie ein Teppich auf poliertem Boden. Je st\u00e4rker die Verzerrungen werden, desto mehr fragt man sich, ob die Ver\u00e4nderungen \u00fcberhaupt noch r\u00fcckg\u00e4ngig gemacht werden k\u00f6nnen.</blockquote>\nDrehe den zum Arkham Sanatorium n\u00e4chstgelegenen Ort, der nicht das Merkmal <t>Wunderland</t> besitzt, um und platziere 1<per> Hinweis darauf. Jeder Ermittler an diesem Ort nimmt 1 Schaden und 1 Horror.\nFalls jeder Ort, der sich im Spiel befindet, das Merkmal <t>Wunderland</t> besitzt, ist jeder Ermittler, der nicht aufgegeben hat, besiegt und erleidet 1 k\u00f6rperliches oder seelisches Trauma (du entscheidest). \nAnsonsten drehe diese Karte wieder um.",
+                "text": "<blockquote>Die Stadt bricht aus allen N\u00e4hten, w\u00e4hrend schattenhafte Kreaturen sie weiter aufl\u00f6sen, indem sie alles verzehren, was sie zerrei\u00dfen k\u00f6nnen. Geb\u00e4ude st\u00fcrzen ein, w\u00e4hrend sich ihre Ziegel in elfenbeinfarbene Dominosteine verwandeln, Stra\u00dfenlaternen sprie\u00dfen und erbl\u00fchen wie G\u00e4nsebl\u00fcmchen, und der Boden selbst verschiebt sich wie ein Teppich auf poliertem Boden. Je st\u00e4rker die Verzerrungen werden, desto mehr fragt man sich, ob die Ver\u00e4nderungen \u00fcberhaupt noch r\u00fcckg\u00e4ngig gemacht werden k\u00f6nnen.</blockquote>\nDrehe den zum Arkham Sanatorium n\u00e4chstgelegenen Ort, der nicht das Merkmal <t>Wunderland</t> besitzt, um und platziere 1<per_large> Hinweis darauf. Jeder Ermittler an diesem Ort nimmt 1 Schaden und 1 Horror.\nFalls jeder Ort, der sich im Spiel befindet, das Merkmal <t>Wunderland</t> besitzt, ist jeder Ermittler, der nicht aufgegeben hat, besiegt und erleidet 1 k\u00f6rperliches oder seelisches Trauma (du entscheidest). \nAnsonsten drehe diese Karte wieder um.",
                 "name": "Tr\u00e4ume vom Wunderland",
                 "index": "1b"
             },
@@ -2317,7 +2317,7 @@
             "name": "Beginne jetzt das Mahl",
             "front": {
                 "type": "agenda",
-                "text": "<for> Am Ende der Mythosphase: Entferne alles Verderben von jeder Karte im Spiel. F\u00fchre f\u00fcr jedes so entfernte Verderben die oberste m\u00f6gliche Option 1<per> Mal aus:\n<bullet> Bewege 1 Auster, die sich am Ort des Walrosses oder des Zimmermanns befindet, auf diesen Gegner.\n<bullet> Bewege Das Walross oder Den Zimmermann um einen Ort in Richtung des Ortes mit den meisten Austern\n<for> Falls sich keine Austern auf Orten befinden, r\u00fccke vor.",
+                "text": "<for> Am Ende der Mythosphase: Entferne alles Verderben von jeder Karte im Spiel. F\u00fchre f\u00fcr jedes so entfernte Verderben die oberste m\u00f6gliche Option 1<per_large> Mal aus:\n<bullet> Bewege 1 Auster, die sich am Ort des Walrosses oder des Zimmermanns befindet, auf diesen Gegner.\n<bullet> Bewege Das Walross oder Den Zimmermann um einen Ort in Richtung des Ortes mit den meisten Austern\n<for> Falls sich keine Austern auf Orten befinden, r\u00fccke vor.",
                 "flavor_text": "Die beiden hungrigen Gestalten machen sich mit der klaren Absicht, die Austern zu verschlingen, auf den Weg zum Strand. Mit jedem Bissen scheinen sie immer gr\u00f6\u00dfer und gleichzeitig dunkler und verzerrter zu werden.",
                 "illustration": "./images/Sea of Tears - Zdzis\u0142aw Beksi\u0144ski.jpg",
                 "index": "2a",
@@ -2402,7 +2402,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<for> Zu Beginn der Ermittlerphase: Lege Hinweise auf diesen Ort, bis sich 1<per> hier befinden.\n<for> Falls sich hier keine Hinweise befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c: <i>Intuition.</i>\n<act>: <b>Aufgeben.</b> \u201eDas war kein Strandspaziergang!\u201d",
+                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<for> Zu Beginn der Ermittlerphase: Lege Hinweise auf diesen Ort, bis sich 1<per_large> hier befinden.\n<for> Falls sich hier keine Hinweise befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c: <i>Intuition.</i>\n<act>: <b>Aufgeben.</b> \u201eDas war kein Strandspaziergang!\u201d",
                 "flavor_text": "Das Innere des Hauses erinnert auf bizarre Weise an etwas.",
                 "victory": "",
                 "illustration": "./images/White Rabbit House - Mike Paolilli.jpg",
@@ -2901,7 +2901,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Gefr\u00e4\u00dfiger Gourmet",
                 "traits": "Wunderland. Kreatur. Verr\u00fcckt. Elite.",
-                "text": "Zur\u00fcckhaltend.\n<name> kann keinen Schaden nehmen.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: Bewege bis zu 1<per> Austern von ihm auf seinen Ort. (Nur ein Mal pro Runde.)",
+                "text": "Zur\u00fcckhaltend.\n<name> kann keinen Schaden nehmen.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: Bewege bis zu 1<per_large> Austern von ihm auf seinen Ort. (Nur ein Mal pro Runde.)",
                 "health": "-",
                 "evade": "3",
                 "attack": "3",
@@ -2930,7 +2930,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Hartgesottener Holzarbeiter",
                 "traits": "Wunderland. Humanoid. Verr\u00fcckt. Elite.",
-                "text": "Zur\u00fcckhaltend.\n<name> kann keinen Schaden nehmen.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: Bewege bis zu 1<per> Austern von ihm auf seinen Ort. (Nur ein Mal pro Runde.)",
+                "text": "Zur\u00fcckhaltend.\n<name> kann keinen Schaden nehmen.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: Bewege bis zu 1<per_large> Austern von ihm auf seinen Ort. (Nur ein Mal pro Runde.)",
                 "health": "-",
                 "evade": "3",
                 "attack": "3",
@@ -3003,7 +3003,7 @@
             "name": "Weckruf",
             "front": {
                 "type": "act",
-                "text": "Solange die Haselmaus nicht von einem Ermittler kontrolliert wird, erh\u00e4lt sie: \n\u201e<free> Gebt 2<per> Hinweise als Gruppe aus: <b>Verhandlung</b>. \u00dcbernimm die Kontrolle \u00fcber die Haselmaus. Sie ben\u00f6tigt keinen Verb\u00fcndeten-Slot.\u201d\n<obj> Falls ein Ermittler die Haselmaus kontrolliert, r\u00fccke vor.",
+                "text": "Solange die Haselmaus nicht von einem Ermittler kontrolliert wird, erh\u00e4lt sie: \n\u201e<free> Gebt 2<per_large> Hinweise als Gruppe aus: <b>Verhandlung</b>. \u00dcbernimm die Kontrolle \u00fcber die Haselmaus. Sie ben\u00f6tigt keinen Verb\u00fcndeten-Slot.\u201d\n<obj> Falls ein Ermittler die Haselmaus kontrolliert, r\u00fccke vor.",
                 "flavor_text": "Du hebst den Deckel an und versuchst, die Haselmaus wachzur\u00fctteln, aber sie schl\u00e4ft immer noch tief. Vielleicht k\u00f6nnte etwas auf dem Tisch hier sie aufwecken. Aber w\u00e4hle weise - du ahnst nicht, was sich in den Kannen und Tassen befindet.",
                 "illustration": "./images/Teacups - LCQ92.png",
                 "index": "2a",
@@ -3065,7 +3065,7 @@
                 "type": "agenda_back",
                 "name": "Nicht nach deinem Geschmack",
                 "victory": "",
-                "text": "<blockquote>W\u00e4hrend die St\u00fchle kommen und gehen und wirren Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft.</blockquote>\nHeile jeweils 2<per> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
+                "text": "<blockquote>W\u00e4hrend die St\u00fchle kommen und gehen und wirren Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft.</blockquote>\nHeile jeweils 2<per_large> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
                 "index": "1b"
             },
             "encounter_number": "2",
@@ -3089,7 +3089,7 @@
                 "type": "agenda_back",
                 "name": "Trinket und seid fr\u00f6hlich!",
                 "victory": "",
-                "text": "<blockquote>Die Teegesellschaft schl\u00fcrft gierig ihre Tassen leer und stopft sich mit allem voll, was greifbar ist, w\u00e4hrend ihr wirres Geplapper kein Ende nimmt. Dieser Wahnsinn wird euch alle umbringen, wenn ihr nicht bald zur Besinnung kommt.</blockquote>\nHeile jeweils 2<per> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
+                "text": "<blockquote>Die Teegesellschaft schl\u00fcrft gierig ihre Tassen leer und stopft sich mit allem voll, was greifbar ist, w\u00e4hrend ihr wirres Geplapper kein Ende nimmt. Dieser Wahnsinn wird euch alle umbringen, wenn ihr nicht bald zur Besinnung kommt.</blockquote>\nHeile jeweils 2<per_large> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
                 "index": "2b"
             },
             "encounter_number": "3",
@@ -3126,7 +3126,7 @@
             "name": "Die verr\u00fcckte Teegesellschaft",
             "front": {
                 "type": "agenda",
-                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls der M\u00e4rzhase oder der Hutmacher besiegt wird, r\u00fccke vor.",
+                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls der M\u00e4rzhase oder der Hutmacher besiegt wird, r\u00fccke vor.",
                 "flavor_text": "Der Hase und der Hutmacher scheinen h\u00f6chst zufrieden damit, ihre Feierlichkeiten im tobenden Chaos fortzusetzen. Jede Verletzung der Etikette beantwortet das Duo aber mit heftiger Emp\u00f6rung. Von den Schatten scheinen sie nichts zu wissen und noch weniger lassen sie sich von ihnen st\u00f6ren. Welche Rolle sie bei der Aufrechterhaltung dieses seltsamen Teetreibens spielen, ist unklar. Du solltest ihnen mit Vorsicht zu begegnen.",
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "index": "1c",
@@ -3151,7 +3151,7 @@
             "name": "Der verr\u00fcckte M\u00e4rzhase",
             "front": {
                 "type": "agenda",
-                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der M\u00e4rzhase besiegt wird, r\u00fccke vor.",
+                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der M\u00e4rzhase besiegt wird, r\u00fccke vor.",
                 "flavor_text": "Die Wut des Hasen \u00fcber den Verlust seines Freundes entfacht ein wildes Feuer in ihm. Kein Wort, keine Tat vermag ihn zu bes\u00e4nftigen. So bleibt dir nichts anderes \u00fcbrig, als deine Bem\u00fchungen, die zerr\u00fcttete Teegesellschaft zu beruhigen, trotz dieses neuen Sturms fortzusetzen.",
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "doom": "<dash>",
@@ -3176,7 +3176,7 @@
             "name": "Der verr\u00fcckte Hutmacher",
             "front": {
                 "type": "agenda",
-                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls der Hutmacher besiegt wird, r\u00fccke vor.",
+                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls der Hutmacher besiegt wird, r\u00fccke vor.",
                 "flavor_text": "Der Hutmacher ist so w\u00fctend \u00fcber den Tod seines Freundes, dass er kaum sprechen kann, und er starrt dich mit b\u00f6sem Blick an. Du musst deine Ermittlungen trotz seines Zorns fortsetzen.",
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "index": "2c",
@@ -3202,7 +3202,7 @@
             "name": "Eine ausufernde Teegesellschaft",
             "front": {
                 "type": "agenda",
-                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Zu Beginn der Mythosphase, falls sich keine Gegner im Spiel befinden: Platziere 1 Verderben auf der a-Agenda.",
+                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben</b>. Du springst in die Schatten und vertraust deiner Intuition.\n<for> Zu Beginn der Mythosphase, falls sich keine Gegner im Spiel befinden: Platziere 1 Verderben auf der a-Agenda.",
                 "flavor_text": "Nach dem Tod von Hase und Hutmacher wird die schwebende Teeparty immer br\u00fcchiger. Schattenhafte Ranken kriechen von allen Seiten heran und versuchen, Tisch und St\u00fchle zu zerrei\u00dfen. Nutze die n\u00e4chsten Minuten, ehe alles zerf\u00e4llt.",
                 "illustration": "./images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "doom": "<dash>",
@@ -3327,7 +3327,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Stuhl.",
-                "text": "Das <name> kann das Spiel nicht verlassen.\n<for> Nachdem du diesen Ort betreten hast: Lege Hinweise auf diesen Ort, bis Hinweise in H\u00f6he seines Hinweiswertes darauf liegen.\n<act>: Lege 1 Ressource aus dem Vorrat als Ticken auf diesen Ort. Falls sich 1<per> Ticken auf diesem Ort befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c: <i>Geduld.</i>",
+                "text": "Das <name> kann das Spiel nicht verlassen.\n<for> Nachdem du diesen Ort betreten hast: Lege Hinweise auf diesen Ort, bis Hinweise in H\u00f6he seines Hinweiswertes darauf liegen.\n<act>: Lege 1 Ressource aus dem Vorrat als Ticken auf diesen Ort. Falls sich 1<per_large> Ticken auf diesem Ort befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c: <i>Geduld.</i>",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Head of the Table.jpg",
@@ -4313,7 +4313,7 @@
             "name": "Lippenbekenntnis",
             "front": {
                 "type": "act",
-                "text": "<obj> Falls 1<per> oder mehr <t>Gesperrt</t>-Orte enth\u00fcllt sind, r\u00fccke vor.",
+                "text": "<obj> Falls 1<per_large> oder mehr <t>Gesperrt</t>-Orte enth\u00fcllt sind, r\u00fccke vor.",
                 "flavor_text": "Die Herz-K\u00f6nigin scheint bereit zu sein, jeden in ihrer N\u00e4he zu enthaupten, wenn der Raub nicht aufgekl\u00e4rt wird. Als Erstes musst du dir aber Zugang zu den Tatorten verschaffen, um deine Unschuld zu beweisen. Das w\u00e4re einfacher, wenn du nicht der Hauptverd\u00e4chtige w\u00e4rst...",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
                 "index": "1a",
@@ -4364,7 +4364,7 @@
             "name": "Wutbew\u00e4ltigung",
             "front": {
                 "type": "act",
-                "text": "<action> Wenn du am Ort des Herz-Bubens bist, gib 1 Hinweis aus: Platziere 1 Schaden auf deinem Ort und bewege den Herz-Buben an einen verbundenen Ort.\n<reaction> Nachdem du einen Gegner besiegt hast: Platziere 1 Schaden auf deinen Ort.\n<reaction> Nachdem die Herz-K\u00f6nigin einen Ort betreten hat: Entferne allen Schaden von diesem Ort und platziere so viel Horror auf der Herz-K\u00f6nigin.\n<obj> Falls sich 3<per> oder mehr Horror auf der Herz-K\u00f6nigin befinden, r\u00fccke vor.",
+                "text": "<action> Wenn du am Ort des Herz-Bubens bist, gib 1 Hinweis aus: Platziere 1 Schaden auf deinem Ort und bewege den Herz-Buben an einen verbundenen Ort.\n<reaction> Nachdem du einen Gegner besiegt hast: Platziere 1 Schaden auf deinen Ort.\n<reaction> Nachdem die Herz-K\u00f6nigin einen Ort betreten hat: Entferne allen Schaden von diesem Ort und platziere so viel Horror auf der Herz-K\u00f6nigin.\n<obj> Falls sich 3<per_large> oder mehr Horror auf der Herz-K\u00f6nigin befinden, r\u00fccke vor.",
                 "flavor_text": "Der Knabe ist vielleicht nicht die vertrauensw\u00fcrdigste Person, die du je getroffen hast, aber die Gefahr, dass Gurathnakas Schatten das Schloss verschlingen, l\u00e4sst dir keine andere Wahl.",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
                 "index": "3a",
@@ -4676,7 +4676,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schloss. Gesperrt.",
-                "text": "<reaction> Nachdem du den Scharfrichter an diesem Ort besiegt hast oder ihm entkommen bist: Lege 1 Ressource <i>(aus dem Markervorrat)</i> als Schl\u00fcssel auf <name>.\n<for> Falls sich 1<per> oder mehr Schl\u00fcssel auf dem <name> befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c <i>Mitgef\u00fchl.</i>",
+                "text": "<reaction> Nachdem du den Scharfrichter an diesem Ort besiegt hast oder ihm entkommen bist: Lege 1 Ressource <i>(aus dem Markervorrat)</i> als Schl\u00fcssel auf <name>.\n<for> Falls sich 1<per_large> oder mehr Schl\u00fcssel auf dem <name> befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c <i>Mitgef\u00fchl.</i>",
                 "flavor_text": "Die G\u00e4rtner der K\u00f6nigin warten hoffnungslos, aber geduldig auf ihre Hinrichtung. Wenn es doch nur etwas g\u00e4be, was man f\u00fcr die armen, zum Tode verurteilten Karten tun k\u00f6nnte.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/Dungeon - Lucy Lisett.jpg",
@@ -5155,7 +5155,7 @@
             "name": "Jungs im Wald",
             "front": {
                 "type": "act",
-                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Falls sich 6 enth\u00fcllte <t>Tulger Wald</t>-Orte im Spiel befinden, r\u00fccke vor.",
+                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per_large> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Falls sich 6 enth\u00fcllte <t>Tulger Wald</t>-Orte im Spiel befinden, r\u00fccke vor.",
                 "flavor_text": "\u201eAuf zum Schlarg!\u201c, ruft der B\u00fcttel, w\u00e4hrend sich die J\u00e4ger im Tulgen Wald verstreuen. \u201eSucht \u00fcberall, denn ein Schlarg kann in jedem Baum oder jeder H\u00f6hle lauern! Sobald wir die Orientierung gefunden haben, ist es so gut wie gefunden!\u201c Ihr seid nicht \u00fcberzeugt, dass es so einfach sein wird oder dass die Kreatur \u00fcberhaupt in diesen W\u00e4ldern lebt, aber ein wenig Erkundung kann nicht schaden.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "1a",
@@ -5180,7 +5180,7 @@
             "name": "Die Jagd nach dem Schlarg",
             "front": {
                 "type": "act",
-                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Wenn der Schlarg ins Spiel kommt, r\u00fccke voran.",
+                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls sich kein Horror auf deinem Ort befindet, gib 1<per_large> Hinweise als Gruppe aus: Platziere 1 Horror auf deinem Ort.\n<obj> Wenn der Schlarg ins Spiel kommt, r\u00fccke voran.",
                 "flavor_text": "Trotz dieser gewaltigen Aufgabe und der Unerfahrenheit der anderen J\u00e4ger scheint es doch Aussicht auf Erfolg zu geben. Nun gilt es, den Spuren zu folgen, wohin auch immer sie f\u00fchren m\u00f6gen.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "2a",
@@ -5205,7 +5205,7 @@
             "name": "Ein Allesk\u00f6nner",
             "front": {
                 "type": "act",
-                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls du dich am Ort des Schlargs befindest: <b>Verhandlung</b>. Lege eine beliebige Fertigkeitsprobe (4) ab. Falls die Probe gelingt, lege entsprechend des Fertigkeitswerts einen Marker auf den Schlarg:\n<bullet> Wenn du eine <willpower>-Probe abgelegt hast: 1 Horror.\n<bullet> Wenn du eine <intellect>-Probe abgelegt hast: 1 Hinweis.\n<bullet> Wenn du eine <combat>-Probe abgelegt hast: 1 Schaden.\n<bullet> Wenn du eine <agility>-Probe abgelegt hast: 1 Ressource.\nFalls die Probe misslingt, bewege den Schlarg an einen angrenzenden Ort.\n<obj> Wenn sich 2<per> Marker auf dem Schlarg befinden, r\u00fccke vor.",
+                "text": "Ermittler auf beliebigen Orten d\u00fcrfen die F\u00e4higkeiten des B\u00fcttels ausl\u00f6sen.\n<action> Falls du dich am Ort des Schlargs befindest: <b>Verhandlung</b>. Lege eine beliebige Fertigkeitsprobe (4) ab. Falls die Probe gelingt, lege entsprechend des Fertigkeitswerts einen Marker auf den Schlarg:\n<bullet> Wenn du eine <willpower>-Probe abgelegt hast: 1 Horror.\n<bullet> Wenn du eine <intellect>-Probe abgelegt hast: 1 Hinweis.\n<bullet> Wenn du eine <combat>-Probe abgelegt hast: 1 Schaden.\n<bullet> Wenn du eine <agility>-Probe abgelegt hast: 1 Ressource.\nFalls die Probe misslingt, bewege den Schlarg an einen angrenzenden Ort.\n<obj> Wenn sich 2<per_large> Marker auf dem Schlarg befinden, r\u00fccke vor.",
                 "illustration": "./images/Hunting of the Snark - Jeffrey Fisher.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Jeffrey Fisher",
@@ -5264,7 +5264,7 @@
                 "type": "agenda_back",
                 "name": "Erschlugst den Schebberoch?",
                 "victory": "",
-                "text": "Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per> Schaden auf ihn.",
+                "text": "Durchsuche alle Zonen innerhalb und au\u00dferhalb des Spiels nach dem Gegner Der Schebberoch. Dieser erscheint am Ort des Ermittlungsleiters. Falls sich der Schebberoch im Siegpunktestapel befunden hat, lege 2<per_large> Schaden auf ihn.",
                 "index": "2b",
                 "flavor_text": "Die teuflische Kreatur greift mit zunehmender H\u00e4ufigkeit und Heftigkeit an, w\u00e4hrend du versuchst, den Tulgen Wald zu durchk\u00e4mmen. Wohin du dich auch wendest, die brennenden Augen und b\u00f6sartigen Klauen des Schebberochs sind \u00fcberall. Selbst deine besten Angriffe lassen dich daran zweifeln, ob das Biest \u00fcberhaupt get\u00f6tet werden kann."
             },
@@ -5406,7 +5406,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem <name> liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Vorteilskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem <name>.",
+                "text": "<action> Falls kein Horror auf dem <name> liegt, legen Ermittler an diesem Ort als Gruppe 3 <per_large> Vorteilskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem <name>.",
                 "flavor_text": "Du musst einige deiner Vorr\u00e4te umfunktionieren, um hier auf Erkundung zu gehen.",
                 "victory": "",
                 "illustration": "./images/Chasms - Noah Bradley.jpg",
@@ -5445,7 +5445,7 @@
             "front": {
                 "type": "location",
                 "subtitle": "",
-                "text": "<action> Falls kein Horror auf der Anh\u00e4ufung von Felsen liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Fertigkeitskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf der Anh\u00e4ufung von Felsen.",
+                "text": "<action> Falls kein Horror auf der Anh\u00e4ufung von Felsen liegt, legen Ermittler an diesem Ort als Gruppe 3 <per_large> Fertigkeitskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf der Anh\u00e4ufung von Felsen.",
                 "victory": "",
                 "illustration": "./images/Environment - Logan Feliciano 2.jpg",
                 "clues": "1<per>",
@@ -5485,7 +5485,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem engen Tal liegt, legen Ermittler an diesem Ort als Gruppe 3 <per> Ereigniskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem engen Tal.",
+                "text": "<action> Falls kein Horror auf dem engen Tal liegt, legen Ermittler an diesem Ort als Gruppe 3 <per_large> Ereigniskarten von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem engen Tal.",
                 "victory": "",
                 "illustration": "./images/Environment - Niels Hoyle-Dodson 1.jpg",
                 "clues": "1<per>",
@@ -5667,7 +5667,7 @@
                 "name": "Einsames Waldgebiet",
                 "subtitle": "Die Spur des Bankiers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, geben Ermittler an diesem Ort als Gruppe 3 <per> Ressourcen aus: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem einsamen Waldgebiet liegt, geben Ermittler an diesem Ort als Gruppe 3 <per_large> Ressourcen aus: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Das Vorhaben des Bankiers endet am Ufer einer gef\u00e4hrlichen Stromschnelle.",
                 "victory": "Sieg 1.",
                 "shroud": "4",
@@ -5701,7 +5701,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Billard-Mark\u00f6rs",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5734,7 +5734,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des B\u00f6rsenh\u00e4ndlers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens 3 <per> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens 3 <per_large> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Der Weg des B\u00f6rsenmaklers f\u00fchrt \u00fcber sumpfigen Boden, der deine M\u00f6glichkeiten stark einschr\u00e4nkt.",
                 "victory": "",
                 "shroud": "3",
@@ -5767,7 +5767,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bonnet-Machers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Der Weg des Hutmachers f\u00fchrt zum Eingang einer tiefen und unheimlichen H\u00f6hle.",
                 "victory": "",
                 "shroud": "3",
@@ -5800,7 +5800,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bootblacks",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5915,7 +5915,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "",
-                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Platziere 1 Verderbensmarker auf die aktuelle Agenda. Durch diesen Effekt kann die aktuelle Agenda vorr\u00fccken.\n<bullet> Entferne 1 Horror von einem Ort. Platziere dann 1 <per> Hinweise <i>(aus dem Markervorrat)</i> auf diesem Ort.",
+                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Platziere 1 Verderbensmarker auf die aktuelle Agenda. Durch diesen Effekt kann die aktuelle Agenda vorr\u00fccken.\n<bullet> Entferne 1 Horror von einem Ort. Platziere dann 1 <per_large> Hinweise <i>(aus dem Markervorrat)</i> auf diesem Ort.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Tulgey Wood - Sam Nielson.jpg",
@@ -6237,7 +6237,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "\u20131 (\u20133 stattdessen, falls sich 1<per> oder mehr Marker auf der Szenario\u00fcbersichtskarte befinden)."
+                        "text": "\u20131 (\u20133 stattdessen, falls sich 1<per_large> oder mehr Marker auf der Szenario\u00fcbersichtskarte befinden)."
                     },
                     {
                         "token": [
@@ -6262,7 +6262,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "\u20132 (\u20134 stattdessen, falls sich 1<per> oder mehr Marker auf der Szenario\u00fcbersichtskarte befinden)."
+                        "text": "\u20132 (\u20134 stattdessen, falls sich 1<per_large> oder mehr Marker auf der Szenario\u00fcbersichtskarte befinden)."
                     },
                     {
                         "token": [
@@ -6291,7 +6291,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland.",
-                "text": "<action> Falls sich mindestens 2<per> Marker auf der Szenario\u00fcbersichtskarte befinden: Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c <i>Vernunft</i>.",
+                "text": "<action> Falls sich mindestens 2<per_large> Marker auf der Szenario\u00fcbersichtskarte befinden: Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c <i>Vernunft</i>.",
                 "flavor_text": "Karten- und Schachsoldaten prallen um dich herum aufeinander, den Befehlen der Zwillinge gehorchend. Wenn du sie doch nur dazu bringen k\u00f6nntest, dieses absurde Duell aufzugeben.",
                 "victory": "",
                 "illustration": "./images/Tulgey Wood - Carmen Thora 2.jpg",
@@ -6727,7 +6727,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Zankhafter Zwilling",
                 "traits": "Wunderland. Humanoid.",
-                "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1 <per> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Siegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <b>(<resolution>A2)</b>.",
+                "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1 <per_large> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Siegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <b>(<resolution>A2)</b>.",
                 "cost": "<dash>",
                 "health": "3",
                 "flavor_text": "",
@@ -6777,7 +6777,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Zankhafter Zwilling",
                 "traits": "Wunderland. Humanoid.",
-                "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1 <per> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Siegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <b>(<resolution>A2)</b>.",
+                "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1 <per_large> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Siegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <b>(<resolution>A2)</b>.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "Sieg 0.",
@@ -7271,7 +7271,7 @@
                 "illustrator": "Illus. Nell Fallcard",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Als zus\u00e4tzliche Kosten, um die f\u00fcnfte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per> Hinweise ausgeben.",
+                "text": "Als zus\u00e4tzliche Kosten, um die f\u00fcnfte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
                 "flavor_text": "Eine Spalte im Feld trennt die vierte von der f\u00fcnften Reihe. Am Grund wirbeln Schatten, die ihre Tiefe verschleiern.",
                 "connection": "<copy>",
                 "connections": "<copy>"
@@ -7310,7 +7310,7 @@
                 "illustrator": "Illus. Alex van der Linde",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Als zus\u00e4tzliche Kosten, um die sechste Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per> Hinweise ausgeben.",
+                "text": "Als zus\u00e4tzliche Kosten, um die sechste Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
                 "flavor_text": "Das Gel\u00e4nde wird unwegsamer mit jedem Schritt, den du in feindliches Gebiet vorr\u00fcckst.",
                 "connection": "<copy>",
                 "connections": "<copy>"
@@ -7348,7 +7348,7 @@
                 "illustrator": "Illus. James Wolf",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Als zus\u00e4tzliche Kosten, um die siebte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per> Hinweise ausgeben.",
+                "text": "Als zus\u00e4tzliche Kosten, um die siebte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
                 "flavor_text": "Die \u00e4u\u00dferen Befestigungen der roten Burg liegen in Tr\u00fcmmern, aber viele korrumpierte Figuren lauern immer noch in ihnen.",
                 "connection": "<copy>",
                 "connections": "<copy>"
@@ -7364,7 +7364,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "Solange sich 1<per> oder weniger Hinweise an diesem Ort befinden: Als zus\u00e4tzliche Kosten, um in der achten Reihe zu ermitteln, musst du 1 Karte von deiner Hand abwerfen.\n<reaction> Nachdem du 1 oder mehr Hinweise an diesem Ort entdeckt hast: F\u00fcge dem Roten K\u00f6nig genauso viel Schaden zu.",
+                "text": "Solange sich 1<per_large> oder weniger Hinweise an diesem Ort befinden: Als zus\u00e4tzliche Kosten, um in der achten Reihe zu ermitteln, musst du 1 Karte von deiner Hand abwerfen.\n<reaction> Nachdem du 1 oder mehr Hinweise an diesem Ort entdeckt hast: F\u00fcge dem Roten K\u00f6nig genauso viel Schaden zu.",
                 "flavor_text": "Die Burg des Roten K\u00f6nigs liegt in Tr\u00fcmmern am Rande einer riesigen wolkigen Leere, ungleichm\u00e4\u00dfig zerfetzt von hungrigen Klauen.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/Castle - Stephanie Stutz.jpg",
@@ -7389,7 +7389,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "Als zus\u00e4tzliche Kosten, um die achte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per> Hinweise ausgeben.",
+                "text": "Als zus\u00e4tzliche Kosten, um die achte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
                 "flavor_text": "Eine wirbelnde Decke aus Dunkelheit verh\u00fcllt das letzte Feld fast vollst\u00e4ndig.",
                 "connection": "<copy>",
                 "connections": "<copy>"
@@ -7427,7 +7427,7 @@
                 "illustrator": "Illus. Daniel Rocal",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Du kannst das ferne Feld nicht betreten.\n<action> Gib 1<per> Hinweise als Gruppe aus: Enth\u00fclle das ferne Feld. Jeder Ermittler darf diese F\u00e4higkeit von einem beliebigen Ort aktivieren.",
+                "text": "Du kannst das ferne Feld nicht betreten.\n<action> Gib 1<per_large> Hinweise als Gruppe aus: Enth\u00fclle das ferne Feld. Jeder Ermittler darf diese F\u00e4higkeit von einem beliebigen Ort aktivieren.",
                 "flavor_text": "Aus dem Augenwinkel kannst du sehen, wie sich Schachfiguren auf dieses Feld bewegen, aber es scheint meilenweit entfernt zu sein.",
                 "connection": "<copy>",
                 "connections": "<copy>"
@@ -7465,7 +7465,7 @@
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Schatten. Schach. Adlig. Elite.",
-                "text": "Alarmiert.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine <b>Ermitteln</b>-Aktion nimmt. \nSolange sich mehr als 1<per> Hinweise auf der achten Reihe befinden, bekommt der Rote K\u00f6nig +2 Kampf und Zur\u00fcckschlagen.",
+                "text": "Alarmiert.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine <b>Ermitteln</b>-Aktion nimmt. \nSolange sich mehr als 1<per_large> Hinweise auf der achten Reihe befinden, bekommt der Rote K\u00f6nig +2 Kampf und Zur\u00fcckschlagen.",
                 "health": "4<per>",
                 "evade": "3",
                 "attack": "1",
@@ -7495,7 +7495,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "D\u00fcsterer Despot",
                 "traits": "Wunderland. Schatten. Schach. Adlig. Elite.",
-                "text": "Alarmiert.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine <b>Ermitteln</b>-Aktion nimmt. \nSolange sich mehr als 1<per> Hinweise auf der achten Reihe befinden, bekommt der Rote K\u00f6nig +2 Kampf und Zur\u00fcckschlagen.",
+                "text": "Alarmiert.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine <b>Ermitteln</b>-Aktion nimmt. \nSolange sich mehr als 1<per_large> Hinweise auf der achten Reihe befinden, bekommt der Rote K\u00f6nig +2 Kampf und Zur\u00fcckschlagen.",
                 "health": "5<per>",
                 "evade": "4",
                 "attack": "2",
@@ -9852,7 +9852,7 @@
             "name": "Suche nach der \u00c4ltesten Auster",
             "front": {
                 "type": "act",
-                "text": "<obj> Falls sich auf Orten im Spiel mindestens 4<per> Austern befinden, darfst du w\u00e4hlen vorzur\u00fccken.",
+                "text": "<obj> Falls sich auf Orten im Spiel mindestens 4<per_large> Austern befinden, darfst du w\u00e4hlen vorzur\u00fccken.",
                 "flavor_text": "Du denkst \u00fcber die kryptischen Worte der Grinsekatze sorgf\u00e4ltig nach. Die Katze scheint nicht nur anzudeuten, dass das Monster, das das Haus des Wei\u00dfen Kaninchens zerst\u00f6rt hat, zu Gurathnaka geh\u00f6rt, sondern auch, dass die Austern in der N\u00e4he dabei helfen k\u00f6nnten, es zu finden und zu besiegen. Wenn ihr dieses Ungeheuer vernichten k\u00f6nnt, kann vielleicht auch Gurathnaka rechtzeitig vernichtet werden.",
                 "illustration": "./images/Environment - Aernout van Pallandt 1.jpg",
                 "index": "1a",
@@ -10096,7 +10096,20 @@
                     "id": "fd528e7b",
                     "type": "intro",
                     "name": "Einleitung",
-                    "markdown": "## Ein Reich des reinen Wahnsinns\n:::story\n\u201aIn der Richtung\u2018, sprach die Katze, und lie\u00df dabei ihre rechte Pfote kreisen, \u201awohnt ein Hutmacher: und in der Richtung\u2018, die linke kreisen lassend, \u201awohnt ein M\u00e4rzhase. Besuch, wen du willst: sie sind beide verr\u00fcckt.\u2018\n  \u201aAber ich will nicht unter verr\u00fcckte Leute gehn\u2018, bemerkte Alice.\n  \u201aOh, das kannst du nicht vermeiden\u2018, sprach die Katze: \u201awir alle hier sind verr\u00fcckt. Ich bin verr\u00fcckt. Du bist verr\u00fcckt.\u2018\n:::right\n\\- Lewis Carroll, \u201eAlices Abenteuer im Wunderland\u201c\n:::\n:::\n\n<i>[project:name]</i> ist eine achtteilige Kampagne f\u00fcr <i>Arkham Horror: Das Kartenspiel</i> f\u00fcr 1 - 4 Spieler. Sie basiert auf <i>Alices Abenteuer im Wunderland, Durch den Spiegel,</i> sowie auf weiteren Gedichten von Lewis Carroll und wurde mit zus\u00e4tzlichen Verkn\u00fcpfungen und behutsamen Anpassungen in den Mythos von <i>Arkham Horror</i> eingewoben.\n\n:::image-bottom\n./images/Cheshire Cat - Nightgrowler.jpg\n:::\n\n## Inhalt\n:::toc\n:::\n\n## Erweiterungssymbol\nDie Karten aus *[project:name]* k\u00f6nnen an diesem Symbol vor\njeder Setnummer erkannt werden:\n:::center\n[project:icon]\n:::\n\n## Kampagnenvorbereitung\nUm die Kampagne *[project:name]* vorzubereiten, werden folgende Schritte in der angegeben Reihenfolge durchgef\u00fchrt.\n\n**1\\. Ermittler w\u00e4hlen.**\n\n**2\\. Ermittlerdecks der Spieler zusammenstellen.**\n\n**3\\. Schwierigkeitsgrad w\u00e4hlen.**\n\n**4\\. Chaosbeutel f\u00fcr die Kampagne zusamenstellen.**\n\n:::indent\n<bullet> **Einfach (I want to experience the story):**  \n+1, +1, 0, 0, 0, \u20131, \u20131, \u20131, \u20132, \u20132, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Normal (I want a challenge):**  \n+1, 0, 0, \u20131, \u20131, \u20131, \u20132, \u20132, \u20133, \u20134, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Schwer (I want a true nightmare):**  \n0, 0, 0, \u20131, \u20131, \u20132, \u20132, \u20133, \u20133, \u20134, \u20135, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Experte (I want Arkham Horror):**  \n0, \u20131, \u20131, \u20132, \u20132, \u20133, \u20133, \u20134, \u20134, \u20135, \u20136, \u20138, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>\n:::\n\nDie Ermittler k\u00f6nnen nun mit dem **Prolog** beginnen.\n"
+                    "markdown": "## Ein Reich des reinen Wahnsinns\n:::story\n\u201aIn der Richtung\u2018, sprach die Katze, und lie\u00df dabei ihre rechte Pfote kreisen, \u201awohnt ein Hutmacher: und in der Richtung\u2018, die linke kreisen lassend, \u201awohnt ein M\u00e4rzhase. Besuch, wen du willst: sie sind beide verr\u00fcckt.\u2018\n  \u201aAber ich will nicht unter verr\u00fcckte Leute gehn\u2018, bemerkte Alice.\n  \u201aOh, das kannst du nicht vermeiden\u2018, sprach die Katze: \u201awir alle hier sind verr\u00fcckt. Ich bin verr\u00fcckt. Du bist verr\u00fcckt.\u2018\n:::right\n\\- Lewis Carroll, \u201eAlices Abenteuer im Wunderland\u201c\n:::\n:::\n\n<i>[project:name]</i> ist eine achtteilige Kampagne f\u00fcr <i>Arkham Horror: Das Kartenspiel</i> f\u00fcr 1 - 4 Spieler. Sie basiert auf <i>Alices Abenteuer im Wunderland, Durch den Spiegel,</i> sowie auf weiteren Gedichten von Lewis Carroll und wurde mit zus\u00e4tzlichen Verkn\u00fcpfungen und behutsamen Anpassungen in den Mythos von <i>Arkham Horror</i> eingewoben.\n\n:::image-bottom\n./images/Cheshire Cat - Nightgrowler.jpg\n:::\n\n## Inhalt\n:::toc\n:::\n\n## Erweiterungssymbol\nDie Karten aus *[project:name]* k\u00f6nnen an diesem Symbol vor\njeder Setnummer erkannt werden:\n:::center\n[project:icon]\n:::\n\n## Kampagnenvorbereitung\nUm die Kampagne *[project:name]* vorzubereiten, werden folgende Schritte in der angegeben Reihenfolge durchgef\u00fchrt.\n\n**1\\. Ermittler w\u00e4hlen.**\n\n**2\\. Ermittlerdecks der Spieler zusammenstellen.**\n\n**3\\. Schwierigkeitsgrad w\u00e4hlen.**\n\n**4\\. Chaosbeutel f\u00fcr die Kampagne zusamenstellen.**\n\n:::indent\n<bullet> **Einfach (<i>Ich will bei Verstand bleiben</i>):**  \n+1, +1, 0, 0, 0, \u20131, \u20131, \u20131, \u20132, \u20132, <skull>, <skull>, <elder_thing>, <auto_fail>, <elder_sign>  \n<bullet> **Normal (<i>Ich will verr\u00fcckt sein wie ein M\u00e4rzhase</i>):**  \n+1, 0, 0, \u20131, \u20131, \u20131, \u20132, \u20132, \u20133, \u20134, <skull>, <skull>, <elder_thing>, <auto_fail>, <elder_sign>  \n<bullet> **Schwer (<i>Ich will verr\u00fcckt sein wie ein Hutmacher</i>):**  \n+1, 0, \u20131, \u20131, \u20132, \u20132, \u20133, \u20134, \u20135, \u20136, <skull>, <skull>, <elder_thing>, <aut:::story\no_fail>, <elder_sign>  \n<bullet> **Experte (<i>Ich will dorthin gehen, wo noch nie jemand zuvor gewesen ist</i>):**  \n0, \u20131, \u20131, \u20132, \u20133, \u20134, \u20135, \u20136, -7, \u20138, <skull>, <skull>, <elder_thing>, <auto_fail>, <elder_sign>\n:::\n\nDie Ermittler k\u00f6nnen nun mit dem **Prolog** beginnen.\n"
+                },
+                {
+                    "id": "d174445e",
+                    "type": "prelude",
+                    "name": "Pr\u00e4ludium",
+                    "markdown": ":::image-bottom\n./images/Rabbit Hole - Clement Caubet.jpg\n:::\n\n\n# Prolog\n\n:::story\nAnfangs nahm man an, der Vorfall sei auf Ersch\u00f6pfung und Paranoia zur\u00fcckzuf\u00fchren. Eine reisende Engl\u00e4nderin namens Alice Liddell brach mit einem Schrei zusammen, als der Zug am Bahnhof von Arkhams Nordstadt einfuhr. Andere Fahrg\u00e4ste versuchten, sie zu beruhigen, doch Ms. Liddell war in blanker Panik. \u201eDer Mann gekleidet in Zeitungspapier... die Ziege und der K\u00e4fer... ihr habt sie auch gesehen, nicht wahr?\u201c, flehte sie die Umstehenden an, aber die sch\u00fcttelten nur verwirrt den Kopf. \u201eEs folgt mir noch immer, selbst nach all dem Weg... wie weit muss ich noch, damit es endlich reicht?!\u201c Die Panik der jungen Frau steigerte sich rasch, und die Fahrg\u00e4ste riefen nach dem Schaffner, damit er sie aus dem Zug begleite. Sie flehte sie an, sie nicht aufzuhalten, sie m\u00fcsse ihre Reise sofort fortsetzen, doch ihre Proteste wurden ignoriert. Wer sollte solch eine absurde Geschichte auch glauben? Du selbst h\u00e4ttest ihr vielleicht ebenso wenig geglaubt, h\u00e4ttest du im kurzen Augenblick vor ihrem Zusammenbruch nicht ebenfalls jene seltsamen Gestalten gesehen, von denen Alice sprach.\nDu verl\u00e4sst den Zug so schnell wie m\u00f6glich, findest auf dem Bahnsteig jedoch keine Spur von Ms. Liddell. Gep\u00e4cktr\u00e4ger berichten dir, die Polizei habe sich eingeschaltet und beschlossen, sie vor\u00fcbergehend ins Arkham Sanatorium zu bringen. Bei dem Gedanken, dass diese ber\u00fcchtigte Anstalt ihr irgendwie helfen k\u00f6nnte, r\u00fcmpfst du die Nase. Was auch immer Alice im Zug gesehen hat, muss existiert haben, wenn auch nur f\u00fcr einen Wimpernschlag. Du musst mit ihr sprechen, um herauszufinden, was es war und weshalb es sie mit solcher Furcht erf\u00fcllt. Du gehst nach Hause, um dich auf ein eingehendes Gespr\u00e4ch mit Ms. Liddell vorzubereiten.\nArkham wird seit jeher vom Seltsamen, Ghulhaften und Arkanen heimgesucht. Vielleicht hat es dich weniger ersch\u00fcttert als andere, doch dass eine Fremde unmittelbar bei ihrer Ankunft in Arkham davon erfasst wurde, erscheint dir \u00e4u\u00dferst befremdlich. W\u00e4hrend du zu Hause deine Sachen zusammensuchst, gehst du im Geiste Hunderte m\u00f6glicher \u00dcbel durch, die Ms. Liddell verfolgen k\u00f6nnten, eines unangenehmer als das andere. F\u00fcr den Fall, dass dir etwas Finsteres entgegentritt, steckst du einige Waffen und zus\u00e4tzliches Material ein.\nDein Haus liegt auf der anderen Seite der Stadt als das Sanatorium, sodass dir auf dem Weg durch Arkhams Innenstadt reichlich Zeit zum Gr\u00fcbeln bleibt. Gen\u00e4hrt von neuer Furcht hoffst du, dass dir nur deine Augen einen Streich spielen, doch die Stadt wirkt dunkler, als sie es an einem Sommernachmittag sein sollte.\n:::\n\n:::right\nFahre mit **Szenario 1: Arkham im Wunderland** fort.\n:::\n\n\n\n"
+                },
+                {
+                    "id": "2257bb52",
+                    "type": "scenario",
+                    "name": "Szenario",
+                    "markdown": "# [encounter:815adf7b-9e62-4ad3-b4c8-59e036be1bb6:name]\n\n:::story\nDu betrittst das Sanatorium und gehst zur Rezeption, in der Erwartung, dass nun eine lange, z\u00e4he Reihe von Genehmigungen folgt. Umso angenehmer \u00fcberrascht bist du, als du erf\u00e4hrst, dass Alice frei besucht werden darf. Ms. Liddell sei bei ihrer Aufnahme ausgesprochen kooperativ gewesen; man gab ihr ein m\u00f6bliertes Zimmer ohne Fixierung. Ein Pfleger f\u00fchrt dich durch einen der weniger trostlosen Flure in Alices Zimmer. Sie sitzt mit gefalteten H\u00e4nden auf der Bettkante und f\u00e4hrt hoch, als du eintrittst; die Angst steht ihr deutlich ins Gesicht geschrieben. Erst als du ihr zu verstehen gibst, dass du ihre Geschichte glaubst, entspannt sie sich sichtbar - doch die Sorge weicht nicht aus ihrem Blick.\n\u201eWas du gesehen hast, war ein Traum\u201c, erkl\u00e4rt sie langsam, \u201eeiner aus meiner Kindheit, von einem seltsamen Ort namens Wunderland. Wie unschuldig es einmal war...\u201c Ihre Stimme bricht weg, und sie beginnt zu zittern. \u201eAls ich j\u00fcnger war, hielt ich es f\u00fcr einen wirklichen Ort. Damals schien mir alles ganz und gar real, und gerade dieser Glaube zog die Aufmerksamkeit von etwas Dunklem auf sich. Ein gro\u00dfes, schreckliches Wesen, das in Schatten haust und sich von Tr\u00e4umen n\u00e4hrt. Doch statt das Wunderland zu verschlingen, machte das Wesen es st\u00e4rker... nein, es hielt es wie Vieh. Es m\u00e4stete es. Das Wunderland wurde lebendiger und wirklicher, als ich es mir je h\u00e4tte ausmalen k\u00f6nnen, und ich verlor die Kontrolle dar\u00fcber. In den letzten Monaten beginnen meine Tr\u00e4ume, in die wirkliche Welt \u00fcberzugreifen.\u201c\nIhre Geschichte ist von Grund auf fantastisch, und dennoch h\u00f6rst du gebannt zu. Dann tritt nackter Schrecken in ihre Stimme. \u201eDas Wesen benutzt mich als Br\u00fccke zwischen den Wirklichkeiten. Es will die erwachte Welt mit dem Wunderland verschmelzen, um beide zu verschlingen. Begonnen hat es in meiner Heimatstadt in England, wo die Welt um mich herum zu zerfallen begann. Ich bin geflohen, in der Hoffnung, ihm zu entkommen - doch es folgt mir, wohin ich auch gehe.\u201c Alice sieht dich an, mit ersch\u00f6pfter Verzweiflung in den Augen. \u201eUnd jetzt, da ich hier nicht mehr fort kann, ist es nur eine Frage der Zeit, bis auch Arkham zu zerfallen beginnt. Du musst einen Weg finden, dieses Wesen aufzuhalten - wenn nicht um meinetwillen, dann deinetwegen. Bitte. Du musst einen Weg finden.\u201c\nDu versuchst, Alice so gut es geht zu beruhigen, und verl\u00e4sst das Sanatorium mit der Frage im Kopf, wo man bei einer solchen Aufgabe \u00fcberhaupt anfangen soll. Als du hinausgehst, beginnt der vertraute Anblick von Arkhams Innenstadt vor deinen Augen zu flirren wie hei\u00dfe Sommerluft und sich langsam zu verformen. Noch ehe du handeln kannst, erscheint vor dir ein grinsender Mund, um den sich kurz darauf eine gestreifte Katze herum bildet. \u201eWillkommen im Wunderland\u201c, schnurrt sie pl\u00f6tzlich, \u201eoder vielleicht solltest du besser das Wunderland willkommen hei\u00dfen. Je l\u00e4nger du wartest, desto mehr davon wird es geben... und desto weniger von dir. Gurathnaka hat Hunger, und es ist bald Zeit f\u00fcrs Abendessen.\u201c\n:::\n\n### Vorbereitung\n\n- Es werden alle Katen aus folgenden Begegnungssets herausgesucht:*[encounter:815adf7b-9e62-4ad3-b4c8-59e036be1bb6:name]*, *[encounter:f65a386b-aa46-41cc-b5d7-5bebd924f2ee:name]* und *[encounter:142deea6-8fa3-4d5b-9b4a-3552157dee73:name]*. Diese Sets sind an folgeden Symbolen zu erkennen:\n\n:::center\n[encounter:815adf7b-9e62-4ad3-b4c8-59e036be1bb6:icon][encounter:f65a386b-aa46-41cc-b5d7-5bebd924f2ee:icon][encounter:142deea6-8fa3-4d5b-9b4a-3552157dee73:icon]\n:::\n\n- Das Begegnungsset [encounter:501c1bc3-6c99-42f8-93da-efd313f3ea01:name] wird als nicht im Spiel befindlich beiseite gelegt. Dieses Set ist am folgenden Symbol zu erkennen:\n\n:::center\n[encounter:501c1bc3-6c99-42f8-93da-efd313f3ea01:icon]\n:::\n\n## Location layout\n[encounter:815adf7b-9e62-4ad3-b4c8-59e036be1bb6:location_overview]\n\n## Resolution\n\n:::resolution\n## DO NOT READ<br>until end of scenario\n\n**If no resolution was reached (each investigator resigned or was defeated):** You all died. Tough luck.\n\n- The investigators lost the campaign.\n\n**Resolution 1**: *Huraa!*\n\n- Each investigator earns experience equal to the Victory X value of each card in the victory display.\n- The investigators win the campaign. Proceed to **Interlude 1 - Title Here**.\n:::\n",
+                    "encounter_set_id": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6"
                 }
             ]
         }
