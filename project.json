@@ -7721,7 +7721,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Schrecken.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator engages or becomes engaged with an enemy: That investigator discards a card from their hand at random.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald ein Ermittler einen Gegner in einen Kampf verwickelt: Der Ermittler muss 1  zuf\u00e4llige Karte von seiner Hand ablegen.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -7730,7 +7730,9 @@
                     "story weakness"
                 ],
                 "illustration": "./images/Heart - Joao Rod 4.jpg",
-                "illustrator": "Illus. Joao Rod"
+                "illustrator": "Illus. Joao Rod",
+                "illustration_pan_y": 50.0,
+                "illustration_pan_x": -200.0
             },
             "back": {
                 "type": "player"
@@ -7975,21 +7977,21 @@
             "amount": 2
         },
         {
-            "name": "Broke Her Crown",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an enemy would enter the encounter discard pile or victory display: Place that enemy back on top of the encounter deck instead.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Falls ein Gegner auf den Begegnungs-Ablagestapel oder den Siegpunktestapel gelegt werden w\u00fcrde: Lege den Gegner stattdessen oben auf das Begegnungsdeck.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "You happen across an enormous pool of blood with the Queen of Hearts' crown half-sunken into it.",
                 "victory": "",
                 "classes": [
                     "story weakness"
                 ],
                 "illustration": "./images/Heart - Mediphysical.jpg",
-                "illustrator": "Illus. Mediphysical"
+                "illustrator": "Illus. Mediphysical",
+                "flavor_text": "Du st\u00f6\u00dft auf eine riesige Blutlache, in der die Krone der Herz-K\u00f6nigin halb versunken ist.",
+                "illustration_scale": 1.46
             },
             "back": {
                 "type": "player"
@@ -7997,18 +7999,19 @@
             "encounter_number": "34",
             "project_number": "250",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
-            "id": "c99998d1-1bff-4c3e-862c-f0a04e22162c"
+            "id": "c99998d1-1bff-4c3e-862c-f0a04e22162c",
+            "name": "Sie zerbrach ihre Krone"
         },
         {
-            "name": "Brothers in Arms",
+            "name": "Waffenbr\u00fcder",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When a card would enter an investigator's discard pile: That investigator may place it on top of their deck instead (Limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Falls eine Karte auf den Ablagestapel eines Ermittlers gelegt werden w\u00fcrde: Der Ermittler darf sie stattdessen auf sein Deck legen. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "Tweedledum and Tweedledee stand shoulder to shoulder, ready to assist in their own meager way.",
+                "flavor_text": "Dideldei und Dideldum stehen Schulter an Schulter, bereit dich auf ihre eigene, d\u00fcrftige Weise zu unterst\u00fctzen.",
                 "victory": "",
                 "classes": [
                     "story"
@@ -8025,12 +8028,12 @@
             "id": "13a16344-86df-45c6-82a5-f4481b0acf75"
         },
         {
-            "name": "Empty Table",
+            "name": "Leerer Tisch",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> At the end of the round, each investigator discards an asset they control or discards two assets from their hand (choose one). Then, discard <name>.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Am Ende der Runde: Jeder Ermittler muss entweder 1 Vorteilskarte, die er kontrolliert, ablegen oder 2 Vorteilskarten von der Hand abwerfen. Lege dann <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "A cracked tea set sits on the ground before you,\nsmeared with butter, jam, and blood.",
@@ -8055,7 +8058,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nInvestigators cannot activate <free> or <reaction> abilities, or play events with the fast keyword.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nErmittler k\u00f6nnen keine F\u00e4higkeiten mit freiem Ausl\u00f6ser (<free>) oder Reaktionsausl\u00f6ser (<reaction>) ausl\u00f6sen.\nErmittler k\u00f6nnen keine Ereigniskarten mit dem Schl\u00fcsselwort Schnell spielen.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "Die Situation l\u00e4sst kaum Raum zum Handeln.",
@@ -8075,21 +8078,23 @@
             "id": "b15ceb82-7500-4eb6-a03e-4133962f2b7a"
         },
         {
-            "name": "Galumphing Back",
+            "name": "Und galumphiert' zur\u00fcck",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gl\u00fccksfall. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When an investigator would take any amount of damage and/or horror: That investigator takes 1 fewer damage or horror (choose one).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine beliebige Menge Schaden oder Horror nehmen w\u00fcrde: Senke jene Menge um 1.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "\"O frabjous day! Callooh! Callay!\u201d\nHe chortled in his joy.\"",
+                "flavor_text": "\u201e\u201a Fantabler Tag! Ich juch! Ich jach\u2018\nGluckst' der in seiner Lust.\u201c",
                 "victory": "",
                 "classes": [
                     "story"
                 ],
                 "illustration": "./images/Jabberwock - Chris Voy.jpg",
-                "illustrator": "Illus. Chris Voy"
+                "illustrator": "Illus. Chris Voy",
+                "illustration_pan_x": -30.0,
+                "illustration_pan_y": 14.0
             },
             "back": {
                 "type": "player"
@@ -8100,12 +8105,12 @@
             "id": "f8c2ebfa-b5a9-400e-baf5-d9212da2ae73"
         },
         {
-            "name": "Glory and Honor",
+            "name": "Ruhm und Ehre",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nAll abilities on treachery and weakness cards require one fewer action to activate. If an ability on a treachery or weakness only requires one action, it can be activated as a <free> instead.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nSenke die Kosten von F\u00e4higkeiten auf Schw\u00e4che- oder Verratskarten um 1 Aktion. <i>(Falls eine F\u00e4higkeit auf einer Schw\u00e4che- oder Verratskarte 1 Aktion kosten w\u00fcrde, kann sie nun als freier Ausl\u00f6ser (<free>) ausgel\u00f6st werden.)\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "With a victorious cheer, the White Knight gallops onto the field of battle, barely keeping his place in the saddle.",
@@ -8130,7 +8135,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefahr.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator would take any amount of damage and/or horror: That investigator takes 1 additional damage or horror (choose one).\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Immer wenn ein Ermittler 1 oder mehr Schaden oder Horror nimmt: Er nimmt 1 zus\u00e4tzlichen Schaden oder Horror.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "\u201eH\u00fct' dich, mein Sohn, vorm Schebberoch,\nDes Maules Biss, der Klauen Krall!\u201c",
@@ -8139,7 +8144,8 @@
                 "illustrator": "Illus. Lady Fiszi",
                 "classes": [
                     "story weakness"
-                ]
+                ],
+                "illustration_pan_y": -500.0
             },
             "back": {
                 "type": "player"
@@ -8155,7 +8161,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Makel.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator heals any amount of damage and/or horror: That investigator heals 1 less damage and/or horror.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem ein Effekt Schaden oder Horror von einem Ermittler heilen w\u00fcrde: Jener Effekt heilt 1 Schaden oder Horror weniger.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8164,7 +8170,9 @@
                     "story weakness"
                 ],
                 "illustration": "./images/Heart - Joao Rod 6.jpg",
-                "illustrator": "Illus. Joao Rod"
+                "illustrator": "Illus. Joao Rod",
+                "illustration_pan_y": 50.0,
+                "illustration_pan_x": -200.0
             },
             "back": {
                 "type": "player"
@@ -8181,7 +8189,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Madness.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an investigator moves: That investigator gets \u20131 on all skill tests until the end of their turn.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald sich ein Ermittler bewegt: Der Ermittler bekommt bis zum Ende seines Zuges --1 auf jede Fertigkeit.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8190,7 +8198,9 @@
                     "story weakness"
                 ],
                 "illustration": "./images/Brain - Jolygon 4.jpg",
-                "illustrator": "Illus. Jolygon"
+                "illustrator": "Illus. Jolygon",
+                "illustration_pan_x": -500.0,
+                "illustration_pan_y": 55.0
             },
             "back": {
                 "type": "player"
@@ -8207,7 +8217,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Madness.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator would play an event: That investigator must spend 2 additional resources.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nAls zus\u00e4tzliche Kosten, um ein Ereignis zu spielen, musst du 2 Ressourcen ausgeben.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8216,7 +8226,9 @@
                 "illustrator": "Illus. Jolygon",
                 "classes": [
                     "story weakness"
-                ]
+                ],
+                "illustration_pan_x": -500.0,
+                "illustration_pan_y": 55.0
             },
             "back": {
                 "type": "player"
@@ -8233,7 +8245,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Makel.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When an investigator is performing a test: That investigator must commit a skill card to that test if possible.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Wenn ein Ermittler eine Fertigkeitsprobe durchf\u00fchrt: Er muss 1 Fertigkeitskarte beitragen (<i>wenn m\u00f6glich</i>).\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8242,7 +8254,9 @@
                     "story weakness"
                 ],
                 "illustration": "./images/Heart - Joao Rod 5.jpg",
-                "illustrator": "Illus. Joao Rod"
+                "illustrator": "Illus. Joao Rod",
+                "illustration_pan_y": 50.0,
+                "illustration_pan_x": -200.0
             },
             "back": {
                 "type": "player"
@@ -8254,12 +8268,12 @@
             "amount": 2
         },
         {
-            "name": "Mangel an Verstand",
+            "name": "Mangel an Vernunft",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Madness.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> The first test each investigator performs gets -X, where X is the amount of clues they control (to a maximum of \u20134).\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nJeder Ermittler bekommt --X auf seinen Fertigkeitswert f\u00fcr seine n\u00e4chste Probe in dieser Runde. X ist die Anzahl an Hinweisen, die der Ermittler kontrolliert (bis zu einem Maximum von 4).\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8268,7 +8282,9 @@
                     "story weakness"
                 ],
                 "illustration": "./images/Brain - Jolygon 5.jpg",
-                "illustrator": "Illus. Jolygon"
+                "illustrator": "Illus. Jolygon",
+                "illustration_pan_y": 55.0,
+                "illustration_pan_x": -500.0
             },
             "back": {
                 "type": "player"
@@ -8280,21 +8296,21 @@
             "amount": 2
         },
         {
-            "name": "No Survivors",
+            "name": "Keine \u00dcberlebenden",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> When a non-weakness card would enter an investigator's discard pile: Remove that card from the game instead.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Falls eine Nicht-Schw\u00e4che-Karte auf den Ablagestapel eines Ermittlers gelegt werden w\u00fcrde: Entferne sie stattdessen aus dem Spiel.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "Cracked pots, dented washtubs, and shredded pillows lie in a heap, each piece speckled with blood.",
                 "victory": "",
                 "illustration": "./images/Broken Toys - Unknown.jpg",
                 "illustrator": "Illus. Unknown",
                 "classes": [
                     "story weakness"
-                ]
+                ],
+                "flavor_text": "Zerbrochene T\u00f6pfe, verbeulte Waschzuber und zerfetzte Kissen liegen in einem Haufen, jedes St\u00fcck mit Blutflecken \u00fcbers\u00e4t."
             },
             "back": {
                 "type": "player"
@@ -8305,21 +8321,21 @@
             "id": "1d99b6ec-69cc-47bb-8b4b-dc8b766df5b5"
         },
         {
-            "name": "Royal Decree",
+            "name": "K\u00f6niglicher Beschluss",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Adlig. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nEach investigator other than Alice may gain up to 4 resources. Playing assets or events does not provoke attacks of opportunity.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nJeder Ermittler au\u00dfer Alice darf bis zu 4 Ressourcen erhalten.\nDas Spielen von Vorteilskarten und Ereignissen l\u00f6st keine Gelegenheitsangriffe aus.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "The White King appears, commanding an army of\nchess pieces that obey his every whim.",
                 "victory": "",
                 "classes": [
                     "story"
                 ],
                 "illustration": "./images/White King - Csaba Baity.jpg",
-                "illustrator": "Illus. Csaba Baity"
+                "illustrator": "Illus. Csaba Baity",
+                "flavor_text": "Der wei\u00dfe K\u00f6nig erscheint und befehligt eine Armee von Schachfiguren, die ihm auf Schritt und Tritt gehorchen."
             },
             "back": {
                 "type": "player"
@@ -8330,21 +8346,21 @@
             "id": "d835f363-96c1-4503-9093-afb1c79eecca"
         },
         {
-            "name": "Qualities of a Snark",
+            "name": "Eigenschaften eines Schlargs",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Kreatur. Talent.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nCheck the Campaign Log. If <i>the investigators...</i>\n<bullet> <i>...commanded the Snark,</i>all investigators get +1 <willpower>.\n<bullet> <i>...puzzled the Snark,</i>all investigators get +1 <intellect>.\n<bullet> <i>...intimidated the Snark,</i>all investigators get +1 <combat>.\n<bullet> <i>...tricked the Snark,</i>all investigators get +1 <agility>.\n<bullet> <i>...intrigued the Snark,</i>all investigators get +1 to all skills.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>die Ermittler...</i>\n<bullet> <i>...den Schlarg unter Kontrolle gebracht haben,</i> bekommen alle Ermittler +1 <willpower>.\n<bullet> <i>...den Schlarg verbl\u00fcfft haben,</i> bekommen alle Ermittler +1 <intellect>.\n<bullet> <i>...den Schlarg eingesch\u00fcchtert haben,</i> bekommen alle Ermittler  +1 <combat>.\n<bullet> <i>...den Schlarg ausgetrickst haben,</i>bekommen alle Ermittler +1 <agility>.\n<bullet> <i>...den Schlarg fasziniert haben,</i>bekommen alle Ermittler +1 auf alle Fertigkeitswerte.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "Astonishingly, the Snark stands before you once again,\nready to assist you with its many talents.",
                 "victory": "",
                 "classes": [
                     "story"
                 ],
                 "illustration": "./images/Snark - Astridv.jpg",
-                "illustrator": "Illus. Astridv"
+                "illustrator": "Illus. Astridv",
+                "flavor_text": "Erstaunlicherweise steht der Snark wieder vor dir, bereit, dir mit seinen vielen Talenten zur Seite zu stehen."
             },
             "back": {
                 "type": "player"
@@ -8355,21 +8371,21 @@
             "id": "ae8ec01b-4895-4f2f-a5fd-488ba80c4e25"
         },
         {
-            "name": "Running Out of Time",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an investigator fails a test against an enemy: Place 1 doom on that enemy (limit once per investigator turn).\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem eine Probe gegen einen Gegner misslingt: Lege 1 Verderben auf den Gegner (nur ein Mal pro Ermittler).\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "A broken pocket watch lies on the ground in front\nof you, stuck just one minute to twelve o'clock.",
                 "victory": "",
                 "classes": [
                     "story weakness"
                 ],
                 "illustration": "./images/Broken Clock - Unknown.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "flavor_text": "Eine kaputte Taschenuhr liegt vor dir auf dem Boden, die Zeiger stehen auf eine Minute vor zw\u00f6lf.",
+                "illustration_scale": 2.24
             },
             "back": {
                 "type": "player"
@@ -8377,7 +8393,8 @@
             "encounter_number": "27",
             "project_number": "243",
             "encounter_set": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
-            "id": "84710398-de00-42f5-95d3-ed95a8001bbe"
+            "id": "84710398-de00-42f5-95d3-ed95a8001bbe",
+            "name": "Die Zeit rennt davon"
         },
         {
             "front": {
@@ -8406,21 +8423,22 @@
             "name": "Belastende Schatten"
         },
         {
-            "name": "Shed a Bitter Tear",
+            "name": "Sie weinten dabei bitterlich",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> As an additional cost to play an asset or event, an investigator must discard another card from their hand.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nAls zus\u00e4tzliche Kosten, um eine Vorteilskarte oder Ereignis zu spielen, musst du 1 Karte von deiner Hand abwerfen.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "But answer came there none \u2014",
+                "flavor_text": "Kein Laut ans Ohr ihm drang \u2014",
                 "victory": "",
                 "classes": [
                     "story weakness"
                 ],
                 "illustration": "./images/Oyster - Unknown.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_y": -125.0
             },
             "back": {
                 "type": "player"
@@ -8436,7 +8454,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer. Komplott. Paradox.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> After an <t>Ally</t> asset controlled by an investigator takes any amount of damage or horror: Defeat that <t>Ally</t> asset.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem einer <t>Verb\u00fcndeter</t>-Vorteilskarte eine beliebige Menge an Schaden oder Horror zugewiesen wurde: Besiege diese  <t>Verb\u00fcndeter</t>-Vorteilskarte.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "\u201eDoch wei\u00df ich nun eben: K\u00e4me jemals im Leben\nein Buhmalm mir einst zu Gesicht,\nw\u00e4r' ich binnen Sekunden und lautlos verschwunden!\nDieses Wissen ertrage ich nicht!\u201c",
@@ -8445,7 +8463,10 @@
                     "story weakness"
                 ],
                 "illustration": "./images/Footprints - Even Liu.jpg",
-                "illustrator": "Illus. Even Liu"
+                "illustrator": "Illus. Even Liu",
+                "illustration_scale": 1.8,
+                "illustration_pan_x": -111.0,
+                "illustration_pan_y": -16.0
             },
             "back": {
                 "type": "player"
@@ -8456,21 +8477,24 @@
             "id": "e3f56b83-8a69-4820-a253-2882ccef67e5"
         },
         {
-            "name": "Sole Survivor",
+            "name": "Der einzige \u00dcberlebende",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> When a card would enter an investigator's discard pile: That investigator may shuffle it into their deck instead (Limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Falls eine Karte auf den Ablagestapel eines Ermittlers gelegt werden w\u00fcrde: Der Ermittler darf sie stattdessen in sein Deck mischen. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "The living Tweedle focuses his grief and anger at the shadows that indirectly caused him to lose his brother.",
                 "victory": "",
                 "classes": [
                     "story"
                 ],
                 "illustration": "./images/Tweedledum Tweedledee - John Tenniel.jpg",
-                "illustrator": "Illus. John Tenniel"
+                "illustrator": "Illus. John Tenniel",
+                "flavor_text": "Der noch lebende Bruder richtet seine Trauer und seinen Zorn gegen die Schatten, die indirekt zum Tod seines Zwillingsbruders gef\u00fchrt haben.",
+                "illustration_scale": 1.78,
+                "illustration_pan_x": -98.0,
+                "illustration_pan_y": -69.0
             },
             "back": {
                 "type": "player"
@@ -8481,21 +8505,22 @@
             "id": "3d84bd6f-8b33-4823-b383-0c191fec5af0"
         },
         {
-            "name": "Still Ticking",
+            "name": "Sie tickt immernoch",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nMove all doom from all enemies and treacheries in play to <name>.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nBewege alles Verderben von Gegnern und Verratskarten im Spiel auf <name>.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "The White Rabbit leaps past you, tapping \nhis pocket watch frantically. \"There are still \nseconds to spare! Use them quickly!\"",
                 "victory": "",
                 "classes": [
                     "story"
                 ],
                 "illustration": "./images/White Rabbit - Megan Tompkins.jpg",
-                "illustrator": "Illus. Megan Tompkins"
+                "illustrator": "Illus. Megan Tompkins",
+                "illustration_pan_y": -250.0,
+                "flavor_text": "Das Wei\u00dfe Kaninchen springt an dir vorbei und klopft \nverzweifelt auf seine Taschenuhr. \u201eEs sind noch \nein paar Sekunden \u00fcbrig! Nutze sie schnell!\u201c"
             },
             "back": {
                 "type": "player"
@@ -8511,16 +8536,16 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Einsicht.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nEach investigator other than Alice may immediately draw up to 3 cards. Investigators may choose not to discard cards during the upkeep phase.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nJeder Ermittler darf bis zu 3 Karten ziehen.\nIn der Unterhaltsphase darf jeder Ermittler sein Handkartenlimit ignorieren.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "The Walrus and the Carpenter are suddenly walking beside you, providing many insights that are strangely useful.",
                 "victory": "",
                 "classes": [
                     "story"
                 ],
                 "illustration": "./images/Walrus and Carpenter - Ron Embleton.jpg",
-                "illustrator": "Illus. Ron Embleton"
+                "illustrator": "Illus. Ron Embleton",
+                "flavor_text": "Pl\u00f6tzlich gehen das Walross und der Zimmermann neben dir her und teilen dir ihre Erkenntnisse, die seltsamerweise sehr n\u00fctzlich sind."
             },
             "back": {
                 "type": "player"
@@ -8536,16 +8561,17 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen. Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> During an investigator's turn, that investigator may play an asset from their hand, paying half its cost, rounded up (limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Vorteilskarte spielt: Jene Ereigniskarte erh\u00e4lt das Schl\u00fcsselwort Schnell. Reduziere die Kosten der Vorteilskarte auf die H\u00e4lfte (aufgerundet). (nur ein Mal pro Ermittler).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "\"More tea?\" The Hatter and the March Hare reach\nfrom above and below you, offering refreshments.",
                 "victory": "",
                 "classes": [
                     "story"
                 ],
                 "illustration": "./images/Mad Tea Party - Scott Gustafson.jpg",
-                "illustrator": "Illus. Scott Gustafson"
+                "illustrator": "Illus. Scott Gustafson",
+                "flavor_text": "\u201eNoch etwas Tee?\u201c Der Hutmacher und der M\u00e4rzhase strecken sich von oben und unten nach dir aus und bieten dir Erfrischungen an.",
+                "illustration_pan_y": -100.0
             },
             "back": {
                 "type": "player"
@@ -8561,7 +8587,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nAll abilities on treachery and weakness cards require an additional action to activate.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nAls zus\u00e4tzliche Kosten, um F\u00e4higkeiten auf Schw\u00e4che- oder Verratskarten zu aktivieren, musst du 1 Aktion ausgeben.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -8570,7 +8596,8 @@
                 ],
                 "illustration": "./images/Broken Sword - A Shipwright.jpg",
                 "illustrator": "Illus. A Shipwright",
-                "flavor_text": "Du findest ein zerbrochenes Schwert auf dem Boden liegen,daneben liegen mehrere verbeulte R\u00fcstungsteile."
+                "flavor_text": "Du findest ein zerbrochenes Schwert auf dem Boden liegen,daneben liegen mehrere verbeulte R\u00fcstungsteile.",
+                "illustration_pan_y": -200.0
             },
             "back": {
                 "type": "player"
@@ -8581,21 +8608,22 @@
             "id": "acd8b25e-d2f0-4303-99c3-e785e0cfb879"
         },
         {
-            "name": "The Queen's Justice",
+            "name": "Die Gerechtigkeit der K\u00f6nigin",
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Adlig. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> At the end of the investigator phase: Deal 1 damage to each enemy in play. For each enemy defeated by this effect, each investigator other than Alice may gain 1 resource.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Am Ende der Ermittlungsphase: F\u00fcge jedem Gegner im Spiel 1 Schaden zu. F\u00fcr jeden Gegner, der durch diesen Effekt besiegt wird, d\u00fcrfen alle Ermittler au\u00dfer Alice 1 Ressource erhalten.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "The Queen of Hearts is suddenly beside you, \nflanked by dozens of card guards and still \nbearing a grudge against the shadows.",
                 "victory": "",
                 "classes": [
                     "story"
                 ],
                 "illustration": "./images/Queen of Hearts - Meggy M.jpg",
-                "illustrator": "Illus. Meggy M"
+                "illustrator": "Illus. Meggy M",
+                "illustration_pan_y": -100.0,
+                "flavor_text": "Pl\u00f6tzlich steht die Herz-K\u00f6nigin neben dir, umgeben von Dutzenden von Kartenw\u00e4chtern und immer noch voller Groll gegen die Schatten."
             },
             "back": {
                 "type": "player"
@@ -8611,16 +8639,17 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> During an investigator's turn, that investigator may play an asset from their hand, paying its cost (limit once per investigator).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Vorteilskarte spielt: Jene Ereigniskarte erh\u00e4lt das Schl\u00fcsselwort Schnell. (nur ein Mal pro Ermittler).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "Cups and saucers fly, hurled at the shadows by the\nsole remaining occupant of the tea party table.",
+                "flavor_text": "Tassen und Untertassen fliegen durch die Luft, geworfen auf die Schatten von dem einzigen verbliebenen Gast am Teetisch.",
                 "victory": "",
                 "illustration": "./images/Teacups - Riccardo Maniero.jpg",
                 "illustrator": "Illus. Riccardo Maniero",
                 "classes": [
                     "story"
-                ]
+                ],
+                "illustration_scale": 1.12
             },
             "back": {
                 "type": "player"
@@ -9689,96 +9718,111 @@
             "front": {
                 "type": "investigator",
                 "title": "<unique> <name>",
-                "subtitle": "The Wonder Worker",
-                "traits": "Dreamer.",
-                "text": "<reaction> When an investigator at your location initiates a skill test: Set the base value for that skill equal to Alice's base <intellect> for that test. (Limit once per round.)\n<elder_sign> +0. Choose and shuffle a card from your discard pile back into your deck. Any investigator at your location may use this effect instead of their own elder sign effect.",
+                "subtitle": "Die Wunderwirkerin",
+                "traits": "Tr\u00e4umer.",
+                "text": "<reaction> Sobald ein Ermittler an deinem Ort eine beliebige Fertigkeitsprobe ablegt: Der Ermittler legt die Probe stattdessen mit deinem Grund-<intellect>-Fertigkeitswert ab. (Nur ein Mal pro Runde.)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-Effekts abhandeln.",
                 "health": "6",
                 "sanity": "8",
-                "flavor_text": "\"Curiouser and curiouser.\"",
+                "flavor_text": "\u201eMerk- und merkerw\u00fcrdiger!\u201c",
                 "classes": [
                     "seeker"
                 ],
-                "illustration": "./images/Alice - Aucher-fargue Nicolas.jpg",
-                "illustrator": "Illus. Aucher-fargue Nicolas"
+                "illustration": "./images/Alice - Aucher-fargue Nicolas.png",
+                "illustrator": "Illus. Aucher-fargue Nicolas",
+                "illustration_scale": 1.68,
+                "illustration_pan_x": -418.0,
+                "illustration_pan_y": 15.0,
+                "willpower": "4",
+                "intellect": "4",
+                "combat": "2",
+                "agility": "2"
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/0_Alice - Aucher-fargue Nicolas.jpg"
+                "illustration": "./images/Alice - Aucher-fargue Nicolas.jpg",
+                "illustration_pan_y": -179.0,
+                "illustration_scale": 1.6,
+                "illustration_pan_x": -524.0,
+                "entries": [
+                    [
+                        "<b>Deckgr\u00f6\u00dfe</b>:",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbau-Optionen</b>:",
+                        "Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker (<mystic>) und/ oder \u00dcberlebender (<survivor>) Karten der Stufe 0."
+                    ],
+                    [
+                        "<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker (<mystic>) und/ oder \u00dcberlebender (<survivor>) Karten der Stufe 0.",
+                "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu verschmelzen. Alice versuchte, dem sich ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft, so viele von Arkhams bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren."
             },
             "project_number": "305",
-            "id": "3c2a7134-bedb-47bc-b55a-42a85357eb25"
+            "id": "3c2a7134-bedb-47bc-b55a-42a85357eb25",
+            "amount": 1
         },
         {
-            "name": "Lost in Thought",
+            "name": "In Gedanken verloren",
             "front": {
                 "type": "treachery",
                 "title": "<unique> <name>",
-                "traits": "Madness.",
-                "text": "Uses (0 secrets). If there are 4 or more secrets on <name>, discard it.\n<rev> Put <name> into play in your threat area.\nSet your base <intellect> to X, where X is the number of secrets on <name>. Ignore any other game effect that would change your base <intellect>.\n<free> Move 1 secret from an asset you control to <name>. \n<for> At the end of the round, place 1 resource token on \n <name> from the token bank, as a secret.",
+                "traits": "Wahnsinn.",
+                "text": "Anwendungen (0 Geheimnisse). Falls sich 4 oder mehr Geheimnisse auf <name> befinden, lege es ab.\n<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange <name> im Spiel ist, ist dein Grund-<intellect>-Fertigkeitswert X. X ist die Anzahl an Geheimnissen auf dieser Karte. \n<free> Bewege 1 Geheimnis von einer Vorteilskarte, die du kontrollierst, auf <name>. \n<for> Am Ende der Runde: Platziere 1 Geheimnis auf dieser Karte.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
                     "weakness"
                 ],
                 "illustration": "./images/Rabbit Hole - Clement Caubet.jpg",
-                "illustrator": "Illus. Clement Caubet"
+                "illustrator": "Illus. Clement Caubet",
+                "illustration_pan_x": 114.0,
+                "illustration_pan_y": -110.0,
+                "illustration_scale": 3.0
             },
             "back": {
                 "type": "player"
             },
-            "encounter_number": "1",
             "project_number": "307",
-            "id": "666b6887-349e-4ba7-86e8-12f63d724965"
+            "id": "666b6887-349e-4ba7-86e8-12f63d724965",
+            "amount": 1
         },
         {
-            "name": "Mysteries of Wonderland",
+            "name": "Geheimnisse des Wunderlandes",
             "front": {
                 "type": "asset",
                 "title": "<unique> <name>",
-                "subtitle": "Further Down the Rabbit Hole",
-                "traits": "Talent. Boon. Madness?",
-                "text": "Alice Liddell deck only.\n<free> During a skill test you are performing, exhaust <name>: You get +X skill value for this test, where X is the highest number of secrets on an asset you control (to a maximum of +4). After that test resolves, remove 1 secret from that asset.",
+                "traits": "Talent. Segen. Wahnsinn?",
+                "text": "Nur f\u00fcr das Deck von Alice Liddell.\n<free> W\u00e4hrend du eine Fertigkeitsprobe durchf\u00fchrst, ersch\u00f6pfe <name>: Du bekommst f\u00fcr diese Probe +X auf deinen Fertigkeitswert. X ist die gr\u00f6\u00dfte Anzahl an Geheimnissen auf einer Vorteilskarte, die du kontrollierst (bis zu einem Maximum von 4). Nachdem die Fertigkeitsprobe endet, entferne 1 Geheimnis von jener Vorteilskarte.",
                 "cost": "3",
                 "level": "None",
-                "flavor_text": "`And how do you know that you\u2019re mad?\u2019\n<vs>",
+                "flavor_text": "\u201eUnd woher willst du wissen, dass du verr\u00fcckt bist?\u201c",
                 "victory": "",
                 "classes": [
                     "neutral"
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/Miscellaneous - Hanh Chu.jpg",
-                "illustrator": "Illus. Hanh Chu"
+                "illustrator": "Illus. Hanh Chu",
+                "subtitle": "Noch tiefer in den Kaninchenbau",
+                "illustration_pan_y": -1220.0
             },
             "back": {
                 "type": "player"
             },
             "project_number": "306",
-            "id": "eb4446a4-6de3-4060-963a-fefd19b61fd1"
-        },
-        {
-            "name": "Mysteries of Wonderland",
-            "front": {
-                "type": "asset",
-                "title": "<unique> <name>",
-                "subtitle": "Further Down the Rabbit Hole",
-                "traits": "Talent. Boon. Madness?",
-                "text": "Alice Liddell deck only.\n<free> During a skill test you are performing, exhaust <name>: You get +X skill value for this test, where X is the highest number of secrets on an asset you control (to a maximum of +4). After that test resolves, remove 1 secret from that asset.",
-                "cost": "3",
-                "level": "None",
-                "flavor_text": "`And how do you know that you\u2019re mad?\u2019\n<vs>",
-                "victory": "",
-                "classes": [
-                    "neutral"
-                ],
-                "icons": "WIQ",
-                "illustration": "./images/Miscellaneous - Hanh Chu.jpg",
-                "illustrator": "Illus. Hanh Chu"
-            },
-            "back": {
-                "type": "player"
-            },
-            "project_number": "306",
-            "id": "bd3931e5-c614-42d5-834e-a61037ba19fd"
+            "id": "eb4446a4-6de3-4060-963a-fefd19b61fd1",
+            "amount": 1
         },
         {
             "id": "d93fc2e0-20e5-447c-bbca-7ad98ca9f015",
