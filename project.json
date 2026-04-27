@@ -2256,7 +2256,7 @@
                 "type": "act_back",
                 "name": "Fang des Tages",
                 "victory": "",
-                "text": "<blockquote>Unter der Anleitung der weisen Auster sammelst du auf einem kleinen Felsvorsprung mit Blick auf das Meer der Tr\u00e4nen eine Sammlung von Treibgut. \u201eAuch diese Gegenst\u00e4nde stammen nicht aus dem Wunderland\u201d, erkl\u00e4rt die Auster, \u201esie m\u00fcssen also von dort stammen, wo du herkommst. Die Schatten sehnen sich nach Dingen aus deiner Heimat, und mit so vielen hast du sicher genug, um einen K\u00f6der auszuwerfen.\u201d Du bindest die Tr\u00fcmmer zusammen und wirfst sie an einer Leine ins Wasser. Kaum ist der Haufen im Wasser, taucht eine riesige Schattengestalt aus dem Meer auf und verschlingt die Gegenst\u00e4nde mit einem einzigen Biss. Bill, die Eidechse, st\u00f6\u00dft beim blo\u00dfen Anblick des Ungeheuers einen erschrockenen Schrei aus, und du tust dein Bestes, um ihn an der Flucht zu hindern, als das Monster auftaucht.</blockquote>\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler den Kaninchenbau hinab stiegen,</i>bringe den beiseitegelegten Tiefen Verfolger <i>(Riesiges Raubtier)</i> am Felsigen Ausl\u00e4ufer ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Tiefen Verfolger <i>(M\u00e4chtiger M\u00f6rder)</i> am Felsigen Ausl\u00e4ufer ins Spiel.",
+                "text": "<blockquote>Unter der Anleitung der weisen Auster sammelst du auf einem kleinen Felsvorsprung mit Blick auf das Meer der Tr\u00e4nen einen Haufen von Treibgut. \u201eAuch diese Gegenst\u00e4nde stammen nicht aus dem Wunderland\u201d, erkl\u00e4rt die Auster, \u201esie m\u00fcssen also von dort stammen, wo du herkommst. Die Schatten sehnen sich nach Dingen aus deiner Heimat, und mit so vielen hast du sicher genug, um einen K\u00f6der auszuwerfen.\u201d Du bindest die Tr\u00fcmmer zusammen und wirfst sie an einer Leine ins Wasser. Kaum ist das B\u00fcndel im Wasser, taucht eine riesige Schattengestalt aus dem Meer auf und verschlingt die Gegenst\u00e4nde mit einem einzigen Biss. Bill, die Eidechse, st\u00f6\u00dft beim blo\u00dfen Anblick des Ungeheuers einen erschrockenen Schrei aus, und du tust dein Bestes, um ihn an der Flucht zu hindern, als das Monster auftaucht.</blockquote>\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler den Kaninchenbau hinab stiegen,</i>bringe den beiseitegelegten Tiefen Verfolger <i>(Riesiges Raubtier)</i> am Felsigen Ausl\u00e4ufer ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Tiefen Verfolger <i>(M\u00e4chtiger M\u00f6rder)</i> am Felsigen Ausl\u00e4ufer ins Spiel.",
                 "index": "2b"
             },
             "encounter_number": "5",
@@ -2279,7 +2279,7 @@
                 "type": "act_back",
                 "name": "Auf dem Trockenen sitzen",
                 "victory": "",
-                "text": "<blockquote>Alles, was du hast, wirfst du auf das wilde Monster, um es zur\u00fcck zu schlagen. Nach grauenvollen Minuten wird die schattenhafte Kreatur instabil und l\u00f6st sich mit einem leeren Schrei auf. Bill, die Eidechse, verl\u00e4sst der Mut. Mit einem panischen Jaulen flieht er vor dem schrecklichen Todesr\u00f6cheln des Schattens und l\u00e4sst dich mit der verblassenden Gestalt alleine.</blockquote>\n(<b><resolution>A2</b>)",
+                "text": "<blockquote>Alles, was du hast, wirfst du auf das wilde Monster, um es zur\u00fcck zu schlagen. Nach grauenvollen Minuten wird die schattenhafte Kreatur instabil und l\u00f6st sich mit einem hohlen Schrei auf. Bill, die Eidechse, verl\u00e4sst der Mut. Mit einem panischen Jaulen flieht er vor dem schrecklichen Todesr\u00f6cheln des Schattens und l\u00e4sst dich mit der verblassenden Gestalt alleine.</blockquote>\n(<b><resolution>A2</b>)",
                 "index": "3b"
             },
             "encounter_number": "6",
@@ -2536,7 +2536,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<act> Lege bis zu 2 Karten von deiner Hand ab: Lege X Austern auf diesem Ort, wobei X die Anzahl abgelegter Karten ist. (Nur ein Mal pro Zug.)",
+                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<act> Lege bis zu 2 Karten von deiner Hand ab: Lege X Austern auf diesen Ort, wobei X die Anzahl abgelegter Karten ist. (Nur ein Mal pro Zug.)",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Alex van der Linde.jpg",
@@ -2570,7 +2570,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<reaction> Nachdem du an diesem Ort einen Gegner besiegt hast: Lege X Austern auf diesen Ort, wobei X die Ausdauer des Gegners minus 1 ist (minimal 1).",
+                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<reaction> Nachdem du an diesem Ort einen Gegner besiegt hast: Lege X Austern auf diesen Ort, wobei X die Ausdauer des Gegners minus 1 ist (Minimum 1).",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Environment - Alex van der Linde 13.jpg",
@@ -2596,7 +2596,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "Alle Arten von Fischen versammeln sich hier in kleinen Schw\u00e4rmen,\naber wo sind ihre Lehrer?",
+                "flavor_text": "Alle Arten von Fischen versammeln sich hier in kleinen Schulen,\naber wo sind ihre Lehrer?",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_scale": 3.12
@@ -2635,9 +2635,9 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "Die Korallen in diesem Teil der K\u00fcste schl\u00e4ngeln sich in komplizierten Schleifen um sich selbst herum, die kaum m\u00f6glich scheinen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "flavor_text": "Die Korallen in diesem Teil der K\u00fcste schl\u00e4ngeln sich in komplizierten Schleifen um sich selbst herum, die kaum m\u00f6glich erscheinen."
             },
             "encounter_number": "12",
             "project_number": "33",
@@ -9853,7 +9853,7 @@
             "name": "Suche nach der \u00c4ltesten Auster",
             "front": {
                 "type": "act",
-                "text": "<obj> Falls sich auf Orten im Spiel mindestens 4<per_large> Austern befinden, darfst du w\u00e4hlen vorzur\u00fccken.",
+                "text": "<obj> Ihr d\u00fcrft w\u00e4hlen vorzur\u00fccken, falls sich mindestens 4<per_large> Austern auf Orten im Spiel befinden.",
                 "flavor_text": "Du denkst \u00fcber die kryptischen Worte der Grinsekatze sorgf\u00e4ltig nach. Die Katze scheint nicht nur anzudeuten, dass das Monster, das das Haus des Wei\u00dfen Kaninchens zerst\u00f6rt hat, zu Gurathnaka geh\u00f6rt, sondern auch, dass die Austern in der N\u00e4he dabei helfen k\u00f6nnten, es zu finden und zu besiegen. Wenn ihr dieses Ungeheuer vernichten k\u00f6nnt, kann vielleicht auch Gurathnaka rechtzeitig vernichtet werden.",
                 "illustration": "./images/Environment - Aernout van Pallandt 1.jpg",
                 "index": "1a",
