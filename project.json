@@ -9900,7 +9900,7 @@
                 "type": "treachery",
                 "illustration": "./images/Jabberwock - Juan Calle.jpg",
                 "illustrator": "Illus. Juan Calle",
-                "text": "<rev> Falls sich der Schebberoch im Siegpunktestapel befindet, erh\u00e4lt <name> Nachr\u00fcsten. \nAnsonsten, falls der Schebberoch sich im Spiel befindet, nimmt jeder Ermittler an seinem Ort 1 Schaden und 1 Horror. Dann bewegt sich der Schebberoch an deinen Ort. Falls der Schebberoch sich nicht im Spiel befindet, platziere ihn an deinem Ort <i>(nur, wenn er nicht im Siegpunktestapel ist)</i>."
+                "text": "<rev> Falls sich der Schebberoch im Siegpunktestapel befindet, erh\u00e4lt <name> Nachr\u00fcsten. \nAnsonsten, falls der Schebberoch sich nicht im Spiel befindet, platziere ihn an deinem Ort. Falls der Schebberoch sich bereits im Spiel befindet, f\u00fcgt er jedem Ermittler an seinem Ort 1 Schaden und 1 Horror zu und bewegt sich dann an deinen Ort.\n\n"
             },
             "back": {
                 "type": "encounter"
@@ -9923,7 +9923,7 @@
             },
             "encounter_set": "fd8f93f3-7024-4101-89bf-0b0ce16e4c3d",
             "encounter_number": "2-4",
-            "name": "Der Klaueln Krall!",
+            "name": "Der Klauen Krall!",
             "project_number": "145"
         },
         {
