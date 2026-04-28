@@ -2903,7 +2903,7 @@
                 "subtitle": "Gefr\u00e4\u00dfiger Gourmet",
                 "traits": "Wunderland. Kreatur. Verr\u00fcckt. Elite.",
                 "text": "Zur\u00fcckhaltend.\n<name> kann keinen Schaden nehmen.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: Bewege bis zu 1<per_large> Austern von ihm auf seinen Ort. (Nur ein Mal pro Runde.)",
-                "health": "-",
+                "health": "<dash>",
                 "evade": "3",
                 "attack": "3",
                 "damage": 1,
@@ -2932,7 +2932,7 @@
                 "subtitle": "Hartgesottener Holzarbeiter",
                 "traits": "Wunderland. Humanoid. Verr\u00fcckt. Elite.",
                 "text": "Zur\u00fcckhaltend.\n<name> kann keinen Schaden nehmen.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: Bewege bis zu 1<per_large> Austern von ihm auf seinen Ort. (Nur ein Mal pro Runde.)",
-                "health": "-",
+                "health": "<dash>",
                 "evade": "3",
                 "attack": "3",
                 "damage": 1,
@@ -3066,7 +3066,7 @@
                 "type": "agenda_back",
                 "name": "Nicht nach deinem Geschmack",
                 "victory": "",
-                "text": "<blockquote>W\u00e4hrend die St\u00fchle kommen und gehen und wirren Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft.</blockquote>\nHeile jeweils 2<per_large> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
+                "text": "<blockquote>W\u00e4hrend die St\u00fchle kommen und gehen und wirre Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft.</blockquote>\nHeile jeweils 2<per_large> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
                 "index": "1b"
             },
             "encounter_number": "2",
@@ -4008,7 +4008,7 @@
                 "illustration": "./images/March Hare - Bobby Chiu.jpg",
                 "illustrator": "Illus. Bobby Chiu",
                 "name": "<unique><name>",
-                "text": "<size 49><name> kann Ermtitler auf der Tischmitte nicht angreifen.\n<for> Falls Der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege Den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls Der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <com>-Probe (3) ab, um Den M\u00e4rzhasen mit deiner St\u00e4rke abzulenken. Falls die Probe gelingt, entkommst du Dem M\u00e4rzhasen automatisch.",
+                "text": "<size 49><name> kann Ermittler auf der Tischmitte nicht angreifen.\n<for> Falls der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege Den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <com>-Probe (3) ab, um den M\u00e4rzhasen mit deiner St\u00e4rke abzulenken. Falls die Probe gelingt, entkommst du dem M\u00e4rzhasen automatisch.",
                 "illustration_pan_y": 1100.0
             },
             "back": {
@@ -4018,7 +4018,7 @@
                 "name": "<unique><name>",
                 "subtitle": "Schimpfend und Tobend",
                 "traits": "Wunderland. Kreatur. Verr\u00fcckt. Elite.",
-                "text": "<for> Falls Der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege Den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls Der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.",
+                "text": "<for> Falls der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.",
                 "flavor_text": "",
                 "victory": "Sieg 2.",
                 "title": "<unique> <name>",
@@ -4043,7 +4043,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Merkw\u00fcrdiger Modist",
                 "traits": "Wunderland. Humanoid. Verr\u00fcckt. Elite.",
-                "text": "<name> kann Ermtitler auf der Tischmitte nicht angreifen.\n<for> Falls Der Hutmacher spielbereit ist: Nachdem ein Ermittler Hinweis entdeckt hat, bewege Den Hutmacher 1 Ort in Richtung des Ermittlers. Falls Der Hutmacher bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <int>-Probe (3) ab, um Den Hutmacher mit einem R\u00e4tsel abzulenken. Falls die Probe gelingt, entkommst du Dem Hutmacher automatisch.",
+                "text": "<name> kann Ermittler auf der Tischmitte nicht angreifen.\n<for> Falls der Hutmacher spielbereit ist: Nachdem ein Ermittler 1 oder mehr Hinweise entdeckt hat, bewege den Hutmacher 1 Ort in Richtung des Ermittlers. Falls der Hutmacher bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <int>-Probe (3) ab, um Den Hutmacher mit einem R\u00e4tsel abzulenken. Falls die Probe gelingt, entkommst du Dem Hutmacher automatisch.",
                 "health": "4<per>",
                 "evade": "3",
                 "attack": "3",
@@ -4063,7 +4063,7 @@
                 "name": "<unique><name>",
                 "subtitle": "Schimpfend und Tobend",
                 "traits": "Wunderland. Humanoid. Verr\u00fcckt. Elite.",
-                "text": "<for> Falls Der Hutmacher spielbereit ist: Nachdem ein Ermittler Hinweis entdeckt hat, bewege Den Hutmacher 1 Ort in Richtung des Ermittlers. Falls Der Hutmacher bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.",
+                "text": "<for> Falls der Hutmacher spielbereit ist: Nachdem ein Ermittler 1 oder mehr Hinweise entdeckt hat, bewege den Hutmacher 1 Ort in Richtung des Ermittlers. Falls der Hutmacher bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.",
                 "flavor_text": "",
                 "victory": "Sieg 2.",
                 "title": "<unique> <name>",
@@ -4365,7 +4365,7 @@
             "name": "Wutbew\u00e4ltigung",
             "front": {
                 "type": "act",
-                "text": "<action> Wenn du am Ort des Herz-Bubens bist, gib 1 Hinweis aus: Platziere 1 Schaden auf deinem Ort und bewege den Herz-Buben an einen verbundenen Ort.\n<reaction> Nachdem du einen Gegner besiegt hast: Platziere 1 Schaden auf deinen Ort.\n<reaction> Nachdem die Herz-K\u00f6nigin einen Ort betreten hat: Entferne allen Schaden von diesem Ort und platziere so viel Horror auf der Herz-K\u00f6nigin.\n<obj> Falls sich 3<per_large> oder mehr Horror auf der Herz-K\u00f6nigin befinden, r\u00fccke vor.",
+                "text": "<action> Wenn du am Ort des Herz-Bubens bist, gib 1 Hinweis aus: Platziere 1 Schaden auf deinem Ort und bewege den Herz-Buben an einen verbundenen Ort.\n<reaction> Nachdem du einen Gegner besiegt hast: Platziere 1 Schaden auf deinem Ort.\n<reaction> Nachdem die Herz-K\u00f6nigin einen Ort betreten hat: Entferne allen Schaden von diesem Ort und platziere so viel Horror auf der Herz-K\u00f6nigin.\n<obj> Falls sich 3<per_large> oder mehr Horror auf der Herz-K\u00f6nigin befinden, r\u00fccke vor.",
                 "flavor_text": "Der Knabe ist vielleicht nicht die vertrauensw\u00fcrdigste Person, die du je getroffen hast, aber die Gefahr, dass Gurathnakas Schatten das Schloss verschlingen, l\u00e4sst dir keine andere Wahl.",
                 "illustration": "./images/Knave of Hearts - Scott Gustafson.jpg",
                 "index": "3a",
@@ -4537,7 +4537,7 @@
                 "connection": "diamond",
                 "connections": [
                     "circle",
-                    "equals"
+                    "double_slash"
                 ],
                 "illustrator": "Illus. Mike Savad"
             },
@@ -4606,7 +4606,7 @@
                 "illustration": "./images/Hedge Maze - Milivoj \u0106eran.jpg",
                 "clues": "1<per>",
                 "shroud": "4",
-                "connection": "equals",
+                "connection": "double_slash",
                 "connections": [
                     "heart",
                     "cross",
@@ -4623,7 +4623,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "Wenn man bedenkt, wie schwierig es ist, sich im Wunderland zurechtzufinden, ist es kaum vorstellbar, wie frustrierend ein\nabsichtlich angelegtes Labyrinth wohl sein muss.",
+                "flavor_text": "Wenn man bedenkt, wie schwierig es ist, sich im Wunderland zurechtzufinden, ist es kaum vorstellbar, wie frustrierend ein absichtlich angelegtes Labyrinth wohl sein muss.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4649,7 +4649,7 @@
                     "t",
                     "square",
                     "circle",
-                    "equals"
+                    "double_slash"
                 ],
                 "illustrator": "Illus. Kaylea Hampson",
                 "illustration_pan_x": -200.0
@@ -4660,7 +4660,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "Herz-Motive zieren jede S\u00e4ule, jeden Bogen und jedes Wimpel des Schlosses. Selbst die Doppelt\u00fcren, die in den k\u00f6niglichen Audienzsaal f\u00fchren, sind herzf\u00f6rmig.",
+                "flavor_text": "Herz-Motive zieren jede S\u00e4ule, jeden Bogen und jeden Wimpel des Schlosses. Selbst die Doppelt\u00fcren, die in den k\u00f6niglichen Audienzsaal f\u00fchren, sind herzf\u00f6rmig.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "traits": "Wunderland. Schloss."
@@ -4701,7 +4701,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du das <name> nicht betreten.",
-                "flavor_text": "Die Verliese des Schlosses sind, wie zu erwarten, streng verschlossen. \nDie Seufzer und St\u00f6hnen der darin schmachtenden Gefangenen erf\u00fcllen die Luft.",
+                "flavor_text": "Die Verliese des Schlosses sind, wie zu erwarten, streng verschlossen. Das Seufzen und St\u00f6hnen der darin schmachtenden Gefangenen erf\u00fcllt die Luft.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -4805,7 +4805,7 @@
                 "connection": "cross",
                 "connections": [
                     "square",
-                    "equals"
+                    "double_slash"
                 ],
                 "illustrator": "Illus. George Factor",
                 "illustration_pan_y": -60.0
@@ -5131,7 +5131,7 @@
                 "slot": "Ally",
                 "health": "2",
                 "sanity": "2",
-                "flavor_text": "Wenn du schnell aus Gefahr fliehen musst,\nist der Bube zur stelle - oder auch nicht.",
+                "flavor_text": "Wenn du schnell aus Gefahr fliehen musst,\nist der Bube zur stelle -- oder auch nicht.",
                 "victory": "",
                 "classes": [
                     "story"
