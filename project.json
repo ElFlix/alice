@@ -5126,7 +5126,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Lord Langfinger",
                 "traits": "Verb\u00fcndeter. Karte. Adlig. Wunderland.",
-                "text": "Du bekommst +1 <agility>.\n<reaction> Nachdem du einen Chaosmarker w\u00e4hrend einem Angriff oder Entkommen-Versuch enth\u00fcllst, ersch\u00f6pfe den Herz-Buben: Hebe den Angriff oder Entkommen-Versuch und alle Effekte des Markers auf. Schicke jede Karte, die f\u00fcr diese Aktion gespielt oder beigetragen wurde, auf deine Hand zur\u00fcck.",
+                "text": "Du bekommst +1 <agility>.\n<reaction> Sobald du einen Chaosmarker w\u00e4hrend einem Angriff oder Entkommen-Versuch enth\u00fcllst, ersch\u00f6pfe den Herz-Buben: Hebe den Angriff oder Entkommen-Versuch und alle Effekte des Markers auf. Schicke jede Karte, die f\u00fcr diese Aktion gespielt oder beigetragen wurde, auf deine Hand zur\u00fcck.",
                 "cost": "3",
                 "slot": "Ally",
                 "health": "2",
@@ -5567,7 +5567,7 @@
                 "subtitle": "Die Spur des Butchers",
                 "traits": "Wunderland. Tulger Wald.",
                 "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, durchsuche das Begegnungsdeck und Ablagestapel nach 1 Gegner ohne Nachr\u00fcsten und ziehe ihn (stattdessen 2 Gegner, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
-                "flavor_text": "Der Umweg des Butchers f\u00fchrt an einem hohlen Baum vorbei, in dem sich einige aufgekratzte Kreaturenen niedergelassen haben.",
+                "flavor_text": "Der Umweg des Butchers f\u00fchrt an einem hohlen Baum vorbei, in dem sich einige aufgekratzte Kreaturen niedergelassen haben.",
                 "victory": "Sieg 1.",
                 "shroud": "4",
                 "clues": "1<per>",
@@ -5702,7 +5702,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Billard-Mark\u00f6rs",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine beliebige Fertigkeitsprobe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5735,7 +5735,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des B\u00f6rsenh\u00e4ndlers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens 3 <per_large> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, legen Ermittler an diesem Ort als Gruppe Karten mit Gesamtkosten von mindestens 3 <per_large> von ihrer Hand ab: Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "flavor_text": "Der Weg des B\u00f6rsenmaklers f\u00fchrt \u00fcber sumpfigen Boden, der deine M\u00f6glichkeiten stark einschr\u00e4nkt.",
                 "victory": "",
                 "shroud": "3",
@@ -5768,7 +5768,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bonnet-Machers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "flavor_text": "Der Weg des Hutmachers f\u00fchrt zum Eingang einer tiefen und unheimlichen H\u00f6hle.",
                 "victory": "",
                 "shroud": "3",
@@ -5801,7 +5801,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bootblacks",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 <per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -5873,8 +5873,9 @@
                 "victory": "",
                 "illustration": "./images/Bandersnatch - Dave Allsop.jpg",
                 "illustrator": "Illus. Dave Allsop",
-                "illustration_pan_x": -152,
-                "illustration_pan_y": 547
+                "illustration_pan_x": 20.0,
+                "illustration_pan_y": 1263.0,
+                "illustration_scale": 1.0
             },
             "back": {
                 "type": "encounter"
@@ -5901,7 +5902,8 @@
                 "flavor_text": "Dieser sieht besonders jimmrig aus.",
                 "victory": "",
                 "illustration": "./images/Borogrove - Bobby Chiu.jpg",
-                "illustrator": "Illus. Bobby Chiu"
+                "illustrator": "Illus. Bobby Chiu",
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "encounter"
@@ -5916,7 +5918,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "",
-                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Platziere 1 Verderbensmarker auf die aktuelle Agenda. Durch diesen Effekt kann die aktuelle Agenda vorr\u00fccken.\n<bullet> Entferne 1 Horror von einem Ort. Platziere dann 1 <per_large> Hinweise <i>(aus dem Markervorrat)</i> auf diesem Ort.",
+                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Platziere 1 Verderbensmarker auf der aktuellen Agenda. Durch diesen Effekt kann die aktuelle Agenda vorr\u00fccken.\n<bullet> Entferne 1 Horror von einem Ort. Platziere dann 1 <per_large> Hinweise <i>(aus dem Markervorrat)</i> auf diesem Ort.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Tulgey Wood - Sam Nielson.jpg",
@@ -5949,8 +5951,7 @@
                 "victory": "",
                 "illustration": "./images/Jubjub Bird - Richard Svensson.jpg",
                 "illustrator": "Illus. Richard Svensson",
-                "illustration_pan_x": 11,
-                "illustration_pan_y": 565
+                "illustration_pan_y": 1100.0
             },
             "back": {
                 "type": "encounter"
@@ -5971,9 +5972,9 @@
                 "victory": "",
                 "illustration": "./images/Looking Glass Swarm - Adam Ferrando.jpg",
                 "illustrator": "Illus. David Ferrando",
-                "illustration_scale": 1.32,
-                "illustration_pan_x": -390,
-                "illustration_pan_y": -202
+                "illustration_pan_x": -1350.0,
+                "illustration_scale": 4.0,
+                "illustration_pan_y": -900.0
             },
             "back": {
                 "type": "encounter"
@@ -6001,9 +6002,9 @@
                 "victory": "",
                 "illustration": "./images/Mome Rath - Simon Holland.jpg",
                 "illustrator": "Illus. Michael Kutsche",
-                "illustration_pan_x": -261,
-                "illustration_pan_y": 360,
-                "illustration_scale": 0.8
+                "illustration_scale": 1.3,
+                "illustration_pan_x": -300.0,
+                "illustration_pan_y": 950.0
             },
             "back": {
                 "type": "encounter"
@@ -6031,8 +6032,7 @@
                 "victory": "",
                 "illustration": "./images/Slithy Tove - Michael Kutsche.jpg",
                 "illustrator": "Illus. Michael Kutsche",
-                "illustration_pan_x": 36,
-                "illustration_pan_y": 518
+                "illustration_pan_y": 1000.0
             },
             "back": {
                 "type": "encounter"
@@ -9216,9 +9216,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Puzzle - Luis Alfonso.jpg",
-                "illustrator": "Illus. Luis Alfonso",
-                "illustration_pan_x": -23,
-                "illustration_pan_y": 35
+                "illustrator": "Illus. Luis Alfonso"
             },
             "back": {
                 "type": "encounter"
@@ -9238,9 +9236,7 @@
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Question - Unknown.jpg",
-                "illustrator": "Illus. Unknown",
-                "illustration_pan_x": 18,
-                "illustration_pan_y": 35
+                "illustrator": "Illus. Unknown"
             },
             "back": {
                 "type": "encounter"
@@ -9261,9 +9257,9 @@
                 "victory": "",
                 "illustration": "./images/Croquet - Scott Gustafson.jpg",
                 "illustrator": "Illus. Scott Gustafson",
-                "illustration_pan_x": 20,
-                "illustration_pan_y": -1019,
-                "illustration_scale": 0.76
+                "illustration_pan_x": -33.0,
+                "illustration_pan_y": -2438.0,
+                "illustration_scale": 1.7
             },
             "back": {
                 "type": "encounter"
@@ -9307,8 +9303,7 @@
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Dinmoney.jpg",
                 "illustrator": "Illus. Dinmoney",
-                "illustration_pan_x": -952.0,
-                "illustration_pan_y": 0.0
+                "illustration_pan_x": -952.0
             },
             "back": {
                 "type": "encounter"
