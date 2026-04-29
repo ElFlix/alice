@@ -2318,7 +2318,7 @@
             "name": "Beginne jetzt das Mahl",
             "front": {
                 "type": "agenda",
-                "text": "<for> Am Ende der Mythosphase: Entferne alles Verderben von jeder Karte im Spiel. F\u00fchre f\u00fcr jedes so entfernte Verderben die oberste m\u00f6gliche Option 1<per_large> Mal aus:\n<bullet> Bewege 1 Auster, die sich am Ort des Walrosses oder des Zimmermanns befindet, auf diesen Gegner.\n<bullet> Bewege Das Walross oder den Zimmermann um einen Ort in Richtung des Ortes mit den meisten Austern\n<for> Falls sich keine Austern auf Orten befinden, r\u00fccke vor.",
+                "text": "<for> Am Ende der Mythosphase: Entferne alles Verderben von jeder Karte im Spiel. F\u00fchre f\u00fcr jedes so entfernte Verderben die oberste m\u00f6gliche Option 1<per_large> Mal aus:\n<bullet> Bewege 1 Auster, die sich am Ort des Walrosses oder des Zimmermanns befindet, auf diesen Gegner.\n<bullet> Bewege Das Walross oder Den Zimmermann um einen Ort in Richtung des Ortes mit den meisten Austern\n<for> Falls sich keine Austern auf Orten befinden, r\u00fccke vor.",
                 "flavor_text": "Die beiden hungrigen Gestalten machen sich mit der klaren Absicht, die Austern zu verschlingen, auf den Weg zum Strand. Mit jedem Bissen scheinen sie immer gr\u00f6\u00dfer und gleichzeitig dunkler und verzerrter zu werden.",
                 "illustration": "./images/Sea of Tears - Zdzis\u0142aw Beksi\u0144ski.jpg",
                 "index": "2a",
@@ -3141,7 +3141,7 @@
                 "name": "Gegen die Etikette",
                 "victory": "",
                 "index": "1d",
-                "text": "<b>Falls der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor.\n\n<b>Falls der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig w\u00fctend. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
+                "text": "<b>Falls der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor.\n\n<b>Falls der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig w\u00fctend. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der Den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
             },
             "encounter_number": "5",
             "project_number": "51",
@@ -3400,7 +3400,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Stuhl.",
-                "text": "<for> Nachdem du den <name> betreten hast: Lege Hinweise auf diesen Ort, bis Hinweise in H\u00f6he seines Hinweiswertes darauf liegen. Falls du keinen Vorteil, der mindestens einen Handslot ben\u00f6tigt, kontrollierst: Du verlierst 1 Aktion.",
+                "text": "<for> Nachdem du den <name> betreten hast: Lege Hinweise auf diesen Ort, bis Hinweise in H\u00f6he seines Hinweiswertes darauf liegen. Falls du keinen Vorteil kontrollierst, der mindestens einen Handslot ben\u00f6tigt: Du verlierst 1 Aktion.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chair - Armchair.jpg",
@@ -3914,7 +3914,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Stuhl.",
-                "text": "<for> Nachdem du den <name> betreten hast: Lege Hinweise auf diesen Ort, bis Hinweise in H\u00f6he seines Hinweiswertes darauf liegen. Falls du keinen Vorteil, der einen arkanen Slot ben\u00f6tigt, kontrollierst: Du verlierst 1 Aktion.",
+                "text": "<for> Nachdem du den <name> betreten hast: Lege Hinweise auf diesen Ort, bis Hinweise in H\u00f6he seines Hinweiswertes darauf liegen. Falls du keinen Vorteil kontrollierst, der einen arkanen Slot ben\u00f6tigt: Du verlierst 1 Aktion.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chair - Wicker.jpg",
@@ -4008,7 +4008,7 @@
                 "illustration": "./images/March Hare - Bobby Chiu.jpg",
                 "illustrator": "Illus. Bobby Chiu",
                 "name": "<unique><name>",
-                "text": "<size 49><name> kann Ermittler auf der Tischmitte nicht angreifen.\n<for> Falls der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <com>-Probe (3) ab, um den M\u00e4rzhasen mit deiner St\u00e4rke abzulenken. Falls die Probe gelingt, entkommst du dem M\u00e4rzhasen automatisch.",
+                "text": "<size 49><name> kann Ermittler auf der Tischmitte nicht angreifen.\n<for> Falls der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege Den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <com>-Probe (3) ab, um den M\u00e4rzhasen mit deiner St\u00e4rke abzulenken. Falls die Probe gelingt, entkommst du dem M\u00e4rzhasen automatisch.",
                 "illustration_pan_y": 1100.0
             },
             "back": {
@@ -4262,7 +4262,9 @@
                 "victory": "",
                 "illustration": "./images/Mad Tea Party - Salvador Dali.jpg",
                 "illustrator": "Illus. Salvador Dali",
-                "illustration_pan_y": -400.0
+                "illustration_pan_y": -400.0,
+                "illustration_pan_x": 90.0,
+                "illustration_scale": 0.7
             },
             "back": {
                 "type": "encounter"
@@ -9582,7 +9584,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Kluges K\u00f6pfchen",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege den Dodo ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege Den Dodo ab.",
                 "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
