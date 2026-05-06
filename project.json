@@ -1616,7 +1616,7 @@
                 "type": "act_back",
                 "name": "Der Weg hinein",
                 "victory": "",
-                "text": "Die Ermittler m\u00fcssen w\u00e4hlen (w\u00e4hlt eins):\n<bullet> <i>Wir m\u00fcssen herausfinden, was das Kaninchen vorhat.</i> Bringe die beiseitegelegte Vorteilskarte Das wei\u00dfe Kaninchen am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a - \u201eFolge dem wei\u00dfen Kaninchen\u201c vor.\n<bullet> <i>Wir m\u00fcssen herausfinden, wie wir in diesen Spiegel kommen.</i> Bringe die beiseitegelegte Vorteilskarte Der Spiegel am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a - \u201eHinter den Spiegeln\u201c vor.",
+                "text": "Die Ermittler m\u00fcssen w\u00e4hlen (w\u00e4hlt eins):\n<bullet> <i>Wir m\u00fcssen herausfinden, was das Kaninchen vorhat.</i> Bringe die beiseitegelegte Vorteilskarte Das wei\u00dfe Kaninchen am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a -- Folge dem wei\u00dfen Kaninchen vor.\n<bullet> <i>Wir m\u00fcssen herausfinden, wie wir in diesen Spiegel kommen.</i> Bringe die beiseitegelegte Vorteilskarte Der Spiegel am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a -- Hinter den Spiegeln vor.",
                 "level": "1",
                 "index": "2b",
                 "flavor_text": "Du \u00f6ffnest die T\u00fcr zu dem idyllischen Haus und betrittst es z\u00f6gernd. Die R\u00e4ume sind gr\u00f6\u00dftenteils kahl, und die wenigen M\u00f6bel sind mit staubigen wei\u00dfen Laken bedeckt. Die Suche scheint immer aussichtsloser zu werden, bis du einen Raum betrittst, dessen einzige Einrichtung ein gro\u00dfer Spiegel auf dem Kaminsims ist. Merkw\u00fcrdigerweise kr\u00e4uselt sich die Oberfl\u00e4che des Spiegels von Zeit zu Zeit, und man kann durch ihn einen ganz anderen Raum sehen. Als du dich ihm n\u00e4herst, lenkt das Kratzen von Pfoten auf dem alten Holzboden deine Aufmerksamkeit wieder auf den Flur hinter dir. Ein wei\u00dfes Kaninchen in alter viktorianischer Kleidung flitzt davon, umklammert eine Taschenuhr und murmelt vor sich hin. Du wirst keine Gelegenheit haben, beides zu untersuchen, bevor sich Arkham komplett aufl\u00f6st."
@@ -6863,7 +6863,8 @@
             "encounter_number": "26-27",
             "project_number": "169",
             "encounter_set": "d18ba6d9-cfc6-43b1-811c-31086ab85b7e",
-            "id": "a77d8569-2a92-469c-8ac8-700d9e4f3c5a"
+            "id": "a77d8569-2a92-469c-8ac8-700d9e4f3c5a",
+            "amount": 2
         },
         {
             "name": "An Boden gewinnen",
