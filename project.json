@@ -2305,7 +2305,7 @@
                 "name": "Das Walross und der Zimmermann",
                 "victory": "",
                 "text": "Bringe den beiseitegelegten Gegner Das Walross am Gezeitent\u00fcmpel ins Spiel.\nBringe den beiseitegelegten Gegner Der Zimmermann am Haus des Wei\u00dfen Kaninchens ins Spiel.\nDer Rest des beiseitegelegten Begegnungssets <i>Walross und Zimmermann</i> wird zusammen mit dem Begegnungs-Ablagestapel ins Begegnungsdeck gemischt.",
-                "flavor_text": "\u201eProbleme mit dem alten Landhaus?\u201d Ein uninteressierter Zimmermann n\u00e4hert sich dem Wei\u00dfen Kaninchen und seinem teilweise zerst\u00f6rten Haus und wirft beiden nur einen kurzen Blick zu.\n\u201eJa, ja, beeilen Sie sich!\u201d, fleht das Kaninchen und tippt mit dem Fu\u00df.\n\u201eImmer mit der Ruhe, Boss\u201c, erwidert der Zimmermann und reibt sich den Bauch, \u201eder Job ist so gut wie erledigt, aber ich bin ein bisschen hungrig. Ich komme wieder, sobald ich einen Happen gegessen habe.\u201c\nWeiter unten an der felsigen K\u00fcste erhebt sich ein riesiges Walross aus der Brandung. Sein Magen knurrt wie ein Erdbeben, w\u00e4hrend es \u00fcber das Meer der Tr\u00e4nen blickt. \u201eLebensmittel gibt es im H\u00fclle und F\u00fclle. Ein Austernessen scheint die einzige L\u00f6sung zu sein\u201d, grummelt es vor sich hin.",
+                "flavor_text": "\u201eProbleme mit dem alten Landhaus?\u201d Ein uninteressierter Zimmermann n\u00e4hert sich dem Wei\u00dfen Kaninchen und seinem teilweise zerst\u00f6rten Haus und wirft beiden nur einen kurzen Blick zu.\n\u201eJa, ja, beeilen Sie sich!\u201d, fleht das Kaninchen und tippt mit dem Fu\u00df.\n\u201eImmer mit der Ruhe, Boss\u201c, erwidert der Zimmermann und reibt sich den Bauch, \u201eder Job ist so gut wie erledigt, aber ich bin ein bisschen hungrig. Ich komme wieder, sobald ich einen Happen gegessen habe.\u201c\nWeiter unten an der felsigen K\u00fcste erhebt sich ein riesiges Walross aus der Brandung. Sein Magen knurrt wie ein Erdbeben, w\u00e4hrend es \u00fcber das Meer der Tr\u00e4nen blickt. \u201eLebensmittel gibt es in H\u00fclle und F\u00fclle. Ein Austernessen scheint die einzige L\u00f6sung zu sein\u201d, grummelt es vor sich hin.",
                 "index": "1b"
             },
             "encounter_number": "2",
@@ -2318,7 +2318,7 @@
             "name": "Beginne jetzt das Mahl",
             "front": {
                 "type": "agenda",
-                "text": "<for> Am Ende der Mythosphase: Entferne alles Verderben von jeder Karte im Spiel. F\u00fchre f\u00fcr jedes so entfernte Verderben die oberste m\u00f6gliche Option 1<per_large> Mal aus:\n<bullet> Bewege 1 Auster, die sich am Ort des Walrosses oder des Zimmermanns befindet, auf diesen Gegner.\n<bullet> Bewege Das Walross oder Den Zimmermann um einen Ort in Richtung des Ortes mit den meisten Austern\n<for> Falls sich keine Austern auf Orten befinden, r\u00fccke vor.",
+                "text": "<for> Am Ende der Mythosphase: Entferne alles Verderben von jeder Karte im Spiel. F\u00fchre f\u00fcr jedes so entfernte Verderben die oberste m\u00f6gliche Option 1<per_large> Mal aus:\n<bullet> Bewege 1 Auster, die sich am Ort des Walrosses oder des Zimmermanns befindet, auf diesen Gegner.\n<bullet> Bewege das Walross oder den Zimmermann um einen Ort in Richtung des Ortes mit den meisten Austern.\n<for> Falls sich keine Austern auf Orten befinden, r\u00fccke vor.",
                 "flavor_text": "Die beiden hungrigen Gestalten machen sich mit der klaren Absicht, die Austern zu verschlingen, auf den Weg zum Strand. Mit jedem Bissen scheinen sie immer gr\u00f6\u00dfer und gleichzeitig dunkler und verzerrter zu werden.",
                 "illustration": "./images/Sea of Tears - Zdzis\u0142aw Beksi\u0144ski.jpg",
                 "index": "2a",
@@ -2328,11 +2328,11 @@
             },
             "back": {
                 "type": "agenda_back",
-                "name": "Verspeist warn sie ja lang",
+                "name": "Verspeist war'n sie ja lang",
                 "victory": "",
                 "text": "Jeder unbesiegte Ermittler, der nicht aufgegeben hat, erleidet 1 seelisches Trauma, da er Zeuge dieses schrecklichen Ereignisses wurde.\n<b>(<resolution>A1)</b>",
                 "index": "2b",
-                "flavor_text": "Das Walross und der Zimmermann verschlingen die Austern eine nach der anderen, ohne eine Pause einzulegen. Sie \u00fcberragen den Strand, w\u00e4hrend sie die Austern in immer gr\u00f6\u00dferen Mengen an sich rei\u00dfen. Als die beiden die letzte der armen Kreaturen verschlungen haben, explodieren Schatten aus ihnen heraus, zerfetzen ihre K\u00f6rper und zertr\u00fcmmern die K\u00fcste auf die gleiche Weise, wie das Haus des wei\u00dfen Kaninchens zerst\u00f6rt worden war. Du fliehst landeinw\u00e4rts und entkommst nur knapp der sich ausbreitenden Dunkelheit."
+                "flavor_text": "Das Walross und der Zimmermann verschlingen die Austern eine nach der anderen, ohne eine Pause einzulegen. Sie \u00fcberragen den Strand, w\u00e4hrend sie die Austern in immer gr\u00f6\u00dferen Mengen an sich rei\u00dfen. Als die beiden die letzte der armen Kreaturen verschlungen haben, explodieren Schatten aus ihnen heraus, zerfetzen ihre K\u00f6rper und zertr\u00fcmmern die K\u00fcste auf die gleiche Weise, wie das Haus des Wei\u00dfen Kaninchens zerst\u00f6rt worden war. Du fliehst landeinw\u00e4rts und entkommst nur knapp der sich ausbreitenden Dunkelheit."
             },
             "encounter_number": "3",
             "project_number": "24",
@@ -2856,7 +2856,7 @@
                 "attack": "3",
                 "damage": 1,
                 "horror": 0,
-                "flavor_text": "\u201eUnd kleine Fische schwimmen ein\nIns gro\u00dfe L\u00e4chelmaul!\u201c",
+                "flavor_text": "\u201eUnd kleine Fische schwimmen ein.\nIns gro\u00dfe L\u00e4chelmaul!\u201c",
                 "victory": "",
                 "illustration": "./images/Crocodile - Pam Gutti.jpg",
                 "illustrator": "Illus. Pam Gutti",
@@ -2878,7 +2878,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Wetter. Hindernis.",
-                "text": "<rev> Bewege so viele Austern wie m\u00f6glich von deinem Ort gleichm\u00e4\u00dfig verteilt an verbundene Orte. \nFalls 1 oder weniger Austern durch diesen Effekt bewegt wurden, erh\u00e4lt <name> nachr\u00fcsten. Falls 3 oder mehr Austern durch diesen Effekt bewegt wurden, nimm 1 Schaden.",
+                "text": "<rev> Bewege so viele Austern wie m\u00f6glich von deinem Ort gleichm\u00e4\u00dfig verteilt an verbundene Orte. \nFalls 1 oder weniger Austern durch diesen Effekt bewegt wurden, erh\u00e4lt <name> Nachr\u00fcsten. \nFalls 3 oder mehr Austern durch diesen Effekt bewegt wurden, nimm 1 Schaden.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Environment - Ruben Megido.jpg",
@@ -3054,7 +3054,7 @@
             "name": "In Schatten getr\u00e4nkt",
             "front": {
                 "type": "agenda",
-                "text": "An jedem <t>Stuhl</t>-Ort kann sich max. ein Ermittler oder Gegner befinden.\nDie Regeln f\u00fcr <t>Stuhl</t>-Orte sind im Kampagnenleitfaden.\nAlle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
+                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
                 "flavor_text": "Die wirbelnden Schatten umkreisen und isolieren dich vom Rest der Teegesellschaft. Um dich kreisen wacklige St\u00fchle, keiner l\u00e4dt zum Verweilen ein. Wenn du zur\u00fcck auf festen Boden willst, musst du dich beeilen.",
                 "illustration": "./images/Teapot - Unknown.jpg",
                 "doom": "6",
@@ -3078,8 +3078,8 @@
             "name": "In die Dunkelheit treiben",
             "front": {
                 "type": "agenda",
-                "text": "An jedem <t>Stuhl</t>-Ort kann sich max. ein Ermittler oder Gegner befinden.\nDie Regeln f\u00fcr <t>Stuhl</t>-Orte sind im Kampagnenleitfaden.\nAlle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
-                "flavor_text": "Jedes Mal, wenn St\u00fchle vom Tisch treiben, sinken sie tiefer und tiefer in die Schatten. Bald schon wirst du keinen Tritt mehr finden.",
+                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
+                "flavor_text": "Jedes Mal, wenn St\u00fchle vom Tisch weg treiben, sinken sie tiefer und tiefer in die Schatten. Bald schon wirst du keinen Tritt mehr finden.",
                 "illustration": "./images/Teapot - Unknown.jpg",
                 "doom": "6",
                 "index": "2a",
@@ -3102,7 +3102,7 @@
             "name": "F\u00fcnf vor Zw\u00f6lf",
             "front": {
                 "type": "agenda",
-                "text": "An jedem <t>Stuhl</t>-Ort kann sich max. ein Ermittler oder Gegner befinden.\nDie Regeln f\u00fcr <t>Stuhl</t>-Orte sind im Kampagnenleitfaden.\nAlle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
+                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Leerer <t>Stuhl</t>-Ort.\u201c",
                 "flavor_text": "Das sp\u00e4rliche Licht, das den Teetisch beleuchtet, schwindet schnell. Wenn du keinen Ausweg findest, bevor die Dunkelheit dich umh\u00fcllt, ist es ungewiss, ob du jemals wieder Tageslicht sehen wirst.",
                 "illustration": "./images/Teapot - Unknown.jpg",
                 "doom": "6",
@@ -3242,7 +3242,7 @@
                             "cultist",
                             "tablet"
                         ],
-                        "text": "--2. (--4 stattdessen, falls du \u201eschreckliche Tischmanieren \nhast\u201c)"
+                        "text": "--2 (--4 stattdessen, falls du \u201eschreckliche Tischmanieren \nhast\u201c)."
                     },
                     {
                         "token": [
@@ -3267,7 +3267,7 @@
                             "cultist",
                             "tablet"
                         ],
-                        "text": "--3. (--5 stattdessen, falls du \u201eschreckliche Tischmanieren \nhast\u201c)"
+                        "text": "--3 (--5 stattdessen, falls du \u201eschreckliche Tischmanieren \nhast\u201c)."
                     },
                     {
                         "token": [
@@ -3384,7 +3384,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3425,7 +3425,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3461,7 +3461,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3503,7 +3503,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3540,7 +3540,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3581,7 +3581,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3617,7 +3617,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3652,7 +3652,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3692,7 +3692,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3733,7 +3733,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3774,7 +3774,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3815,7 +3815,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3856,7 +3856,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3898,7 +3898,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3940,7 +3940,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -3981,7 +3981,7 @@
                 "name": "Freier Platz",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie es aber auch nicht.",
+                "flavor_text": "F\u00fcr den Moment leer.\nDie Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 190.0
@@ -4008,7 +4008,7 @@
                 "illustration": "./images/March Hare - Bobby Chiu.jpg",
                 "illustrator": "Illus. Bobby Chiu",
                 "name": "<unique><name>",
-                "text": "<size 49><name> kann Ermittler auf der Tischmitte nicht angreifen.\n<for> Falls der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege Den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <com>-Probe (3) ab, um den M\u00e4rzhasen mit deiner St\u00e4rke abzulenken. Falls die Probe gelingt, entkommst du dem M\u00e4rzhasen automatisch.",
+                "text": "<size 49><name> kann Ermittler auf der Tischmitte nicht angreifen.\n<for> Falls der M\u00e4rzhase spielbereit ist: Nachdem ein Ermittler einem anderen Gegner Schaden zugef\u00fcgt hat, bewege den M\u00e4rzhasen 1 Ort in Richtung des Ermittlers. Falls der M\u00e4rzhase bereits an einem benachbarten Ort ist, greift er den Ermittler stattdessen an.\n<act>: <b>Verhandeln</b>. Lege eine <com>-Probe (3) ab, um den M\u00e4rzhasen mit deiner St\u00e4rke abzulenken. Falls die Probe gelingt, entkommst du dem M\u00e4rzhasen automatisch.",
                 "illustration_pan_y": 1100.0
             },
             "back": {
@@ -4702,7 +4702,7 @@
                 "illustrator": "Illus. Lucy Lisett",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du das <name> nicht betreten.",
+                "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie von K\u00f6niglicher Verdacht befinden, kannst du das <name> nicht betreten.",
                 "flavor_text": "Die Verliese des Schlosses sind, wie zu erwarten, streng verschlossen. Das Seufzen und St\u00f6hnen der darin schmachtenden Gefangenen erf\u00fcllt die Luft.",
                 "connection": "<copy>",
                 "connections": "<copy>"
@@ -4817,7 +4817,7 @@
                 "illustrator": "Illus. George Factor",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du die <name> nicht betreten.",
+                "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie von K\u00f6niglicher Verdacht befinden, kannst du die <name> nicht betreten.",
                 "flavor_text": "Die Kartenwachen der K\u00f6nigin kreuzen ihre Speere, als du dich n\u00e4herst, misstrauisch gegen\u00fcber jedem, den sie des Diebstahls bezichtigt hat.",
                 "connection": "<copy>",
                 "connections": "<copy>"
@@ -5292,7 +5292,7 @@
                 "victory": "",
                 "text": "<blockquote>W\u00e4hrend die Schlarg-J\u00e4ger bei ihrer Suche immer weiter auseinander geraten, versucht der B\u00fcttel, die Moral der Gruppe aufrechtzuerhalten. Die Glocke l\u00e4utet und klirrt, aber mittlerweile kann sie nur noch die Aufmerksamkeit der Schatten auf sich ziehen, die durch den Angriff des Schebberochs entstanden sind.</blockquote>\nJeder Ermittler, der nicht aufgegeben hat, ist besiegt.",
                 "index": "3b",
-                "name": "Jetzt schl\u00e4gts dreizehn"
+                "name": "Jetzt schl\u00e4gt's dreizehn"
             },
             "encounter_number": "4",
             "project_number": "117",
@@ -5356,7 +5356,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20133 (\u20134 stattdessen, falls sich der Schebberoch im Spiel befindet)."
+                        "text": "\u20133 (\u20135 stattdessen, falls sich der Schebberoch im Spiel befindet)."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -5568,7 +5568,7 @@
                 "name": "Einsames Waldgebiet",
                 "subtitle": "Die Spur des Butchers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, durchsuche das Begegnungsdeck und Ablagestapel nach 1 Gegner ohne Nachr\u00fcsten und ziehe ihn (stattdessen 2 Gegner, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
+                "text": "<action> Falls kein Horror auf dem rauen Hinterland liegt, durchsuche das Begegnungsdeck und den Ablagestapel nach 1 Gegner ohne Nachr\u00fcsten und ziehe ihn (stattdessen 2 Gegner, falls 3 oder 4 Ermittler im Spiel sind): Platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem einsamen Waldgebiet.",
                 "flavor_text": "Der Umweg des Butchers f\u00fchrt an einem hohlen Baum vorbei, in dem sich einige aufgekratzte Kreaturen niedergelassen haben.",
                 "victory": "Sieg 1.",
                 "shroud": "4",
@@ -6030,7 +6030,7 @@
                 "attack": "3",
                 "damage": 1,
                 "horror": 1,
-                "flavor_text": "Zerschirrt und drillbert fort",
+                "flavor_text": "Zerschirrt und drillbert fort.",
                 "victory": "",
                 "illustration": "./images/Slithy Tove - Michael Kutsche.jpg",
                 "illustrator": "Illus. Michael Kutsche",
@@ -6171,7 +6171,7 @@
                 "name": "Ein Pfund Federn",
                 "victory": "",
                 "text": "Bringe den beiseitegelegten Gegner Monstr\u00f6se Kr\u00e4he neben dem Agendadeck ins Spiel.",
-                "flavor_text": "Zun\u00e4chst scheint es unm\u00f6glich, die Schatten auf einen bestimmten Teil des Schlachtfeldes zu lenken. Auf dem absch\u00fcssigen Gel\u00e4nde rund um das Schlachtfeld findest du jedoch mehrere heruntergefallene Kr\u00e4henfedern, welche die Schatten anzuziehen scheinen. Du sammelst so viele du finden kannst und bringst sie in die zentrale Senke. Innerhalb weniger Minuten beginnt sich Dunkelheit um das Federb\u00fcndel zu sammeln und zu einer riesigen Gestalt auszudehnen. Du trittst mehrere Schritte zur\u00fcck und h\u00e4ltst dir die Ohren zu, als das unheimliches Kr\u00e4chzen einer unnat\u00fcrlichen Kr\u00e4he aus der wachsenden Dunkelheit ert\u00f6nt. Dideldei und Dideldum h\u00f6ren auf, Befehle zu ihren Untergebenen zu br\u00fcllen, und stehen vor Ehrfurcht erstarrte da, w\u00e4hrend die schattenhafte Kr\u00e4he Gestalt annimmt."
+                "flavor_text": "Zun\u00e4chst scheint es unm\u00f6glich, die Schatten auf einen bestimmten Teil des Schlachtfeldes zu lenken. Auf dem absch\u00fcssigen Gel\u00e4nde rund um das Schlachtfeld findest du jedoch mehrere heruntergefallene Kr\u00e4henfedern, welche die Schatten anzuziehen scheinen. Du sammelst so viele du finden kannst und bringst sie in die zentrale Senke. Innerhalb weniger Minuten beginnt sich Dunkelheit um das Federb\u00fcndel zu sammeln und zu einer riesigen Gestalt auszudehnen. Du trittst mehrere Schritte zur\u00fcck und h\u00e4ltst dir die Ohren zu, als das unheimliches Kr\u00e4chzen einer unnat\u00fcrlichen Kr\u00e4he aus der wachsenden Dunkelheit ert\u00f6nt. Dideldei und Dideldum h\u00f6ren auf, Befehle zu ihren Untergebenen zu br\u00fcllen, und stehen vor Ehrfurcht erstarrt da, w\u00e4hrend die schattenhafte Kr\u00e4he Gestalt annimmt."
             },
             "encounter_number": "4",
             "project_number": "151",
@@ -6208,7 +6208,7 @@
             "name": "Bruder gegen Bruder",
             "front": {
                 "type": "agenda",
-                "text": "<for> Nachdem ein <t>Karte</t>-Gegner besiegt wurde: Platziere 1 Schaden auf der Szenario\u00fcbersichtskarte.\n<for> Nachdem ein <t>Schach</t>-Gegner besiegt wurde: Platziere 1 Schaden auf der Szenario\u00fcbersichtskarte.",
+                "text": "<for> Nachdem ein <t>Karte</t>-Gegner besiegt wurde: Platziere 1 Schaden auf der Szenario\u00fcbersichtskarte.\n<for> Nachdem ein <t>Schach</t>-Gegner besiegt wurde: Platziere 1 Horror auf der Szenario\u00fcbersichtskarte.",
                 "flavor_text": "Auf Befehl der Didel-Br\u00fcder bek\u00e4mpfen sich die Karten und Schachfiguren an jedem nur m\u00f6glichen Ort in dem kleinen bewaldeten Tal. Bei dem rasanten Tempo, mit dem diese Schlacht eskaliert, k\u00f6nnten die Soldaten noch einen der Br\u00fcder t\u00f6ten, bevor du die Rassel in die H\u00e4nde bekommst.",
                 "illustration": "./images/Environment - Darek Zabrocki.jpg",
                 "doom": "3",
@@ -6247,7 +6247,7 @@
                             "cultist",
                             "tablet"
                         ],
-                        "text": "\u20132. (\u20134 stattdessen, falls sich ungleich viele Schadensmarker und Horrormarker auf der Szenario\u00fcbersichtskarte befinden)."
+                        "text": "\u20132 (\u20134 stattdessen, falls sich ungleich viele Schadensmarker und Horrormarker auf der Szenario\u00fcbersichtskarte befinden)."
                     },
                     {
                         "token": [
@@ -6316,7 +6316,7 @@
                 "subtitle": "",
                 "traits": "Wunderland.",
                 "text": "",
-                "flavor_text": "Umgest\u00fcrzte Baumst\u00e4mme und verhedderte Str\u00e4ucher bedecken die Senke des kleinen Tals. Das schreckt aber weder Karten noch Schachfiguren davon ab, von ihren H\u00fcgeln herrab zu marschieren.",
+                "flavor_text": "Umgest\u00fcrzte Baumst\u00e4mme und verhedderte Str\u00e4ucher bedecken die Senke des kleinen Tals. Das schreckt aber weder Karten noch Schachfiguren davon ab, von ihren H\u00fcgeln herab zu marschieren.",
                 "connection": "<copy>",
                 "connections": "<copy>"
             },
@@ -6913,7 +6913,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "Wagnis.\n<rev> H\u00e4nge <name> an einen <t>Soldaten</t>-Gegner an. Falls sich keine <t>Soldat</t>-Gegner im Spiel befinden, erh\u00e4lt <name> nachr\u00fcsten.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +2 Ausdauern, +1 Entkommen, und erh\u00e4lt <t>Elite</t>.",
+                "text": "Wagnis.\n<rev> H\u00e4nge <name> an einen <t>Soldaten</t>-Gegner an. Falls sich keine <t>Soldat</t>-Gegner im Spiel befinden, erh\u00e4lt <name> Nachr\u00fcsten.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +2 Ausdauer, +1 Entkommen, und erh\u00e4lt <t>Elite</t>.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Card Guards - Mary Blair.jpg",
@@ -6943,7 +6943,7 @@
                 "type": "act_back",
                 "name": "Rochade",
                 "victory": "",
-                "text": "\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler durch den Spiegel gegangen sind,</i>bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(Finserer F\u00fcrst)</i> an der achten Reihe ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(D\u00fcsterer Despot)</i> an der achten Reihe ins Spiel.\nFalls Die Rote K\u00f6nigin nicht im Spiel oder im Siegpuntestapel ist, erscheint sie in der achten Reihe.",
+                "text": "\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler durch den Spiegel gegangen sind,</i>bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(Finsterer F\u00fcrst)</i> in der achten Reihe ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(D\u00fcsterer Despot)</i> in der achten Reihe ins Spiel.\nFalls die Rote K\u00f6nigin nicht im Spiel oder im Siegpunktestapel ist, erscheint sie in der achten Reihe.",
                 "flavor_text": "Durch die wirbelnde Dunkelheit st\u00fcrmst du die Stufen des Roten Schlosses hinauf und st\u00fcrmst durch die imposanten Fl\u00fcgelt\u00fcren. Der Rote K\u00f6nig sitzt am anderen Ende eines gro\u00dfen Saals, tr\u00e4ge auf einem pr\u00e4chtigen, skelettartigen Thron. Er r\u00fchrt sich kein bisschen, als du eintrittst, und die Schatten, die aus seinem Mantel hervorquellen, werden immer dichter."
             },
             "encounter_number": "5",
@@ -7012,7 +7012,7 @@
                 "type": "agenda_back",
                 "name": "Gardez la Reine",
                 "victory": "",
-                "text": "Falls Die Rote K\u00f6nigin nicht im Spiel oder im Siegpuntestapel ist, erscheint sie in der achten Reihe.",
+                "text": "Falls die Rote K\u00f6nigin nicht im Spiel oder im Siegpunktestapel ist, erscheint sie in der achten Reihe.",
                 "flavor_text": "Die roten Figuren unterbrechen ihren Kampf, verneigen sich und knien nieder, als eine imposante Gestalt aus einem schattenhaften Schleier hervortritt. Die Rote K\u00f6nigin, deren Gesicht auf seltsame Weise gleichzeitig hart und weich wirkt, blickt dich voller Hass \u00fcber das Schlachtfeld hinweg an, w\u00e4hrend eine Macht in ihr w\u00e4chst. Schatten str\u00f6men aus ihren Roben, und sie beginnt sich weiter zu verwandeln. \u201eSchlagt die Eindringlinge nieder!\u201c, br\u00fcllt sie und st\u00fcrmt mit unglaublicher Geschwindigkeit auf dich zu."
             },
             "encounter_number": "3",
@@ -7415,7 +7415,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach.",
-                "text": "<rev> Notiere im Kampagnonenlogbuch unter \u201eFragmente von Alice\u201c: <i>Neuigierde.</i>\nDu kannst das ferne Feld nicht betreten.\n<free> Falls der Wei\u00dfe Ritter sich auf dem fernen Feld befindet, f\u00fcge ihm 1 Horror zu: Mache ihn spielbereit und bewege ihn an einen enth\u00fcllten Ort. Jeder Ermittler darf diese F\u00e4higkeit von einem beliebigen Ort aktivieren.",
+                "text": "<rev> Notiere im Kampagnonenlogbuch unter \u201eFragmente von Alice\u201c: <i>Neugierde.</i>\nDu kannst das ferne Feld nicht betreten.\n<free> Falls der Wei\u00dfe Ritter sich auf dem fernen Feld befindet, f\u00fcge ihm 1 Horror zu: Mache ihn spielbereit und bewege ihn an einen enth\u00fcllten Ort. Jeder Ermittler darf diese F\u00e4higkeit von einem beliebigen Ort aktivieren.",
                 "flavor_text": "Die Grinsekatze k\u00f6nnte beleidigt sein, wenn du ihr erz\u00e4hlst, dass Neugierde der Katze Tod ist.",
                 "victory": "",
                 "illustration": "./images/Chess - Daniel Rocal.jpg",
@@ -7563,7 +7563,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott. Macht.",
-                "text": "Wagnis.\n<rev> Falls sich kein <t>Schach</t> -& <t>Soldat</t>-Gegner im Spiel befindet, enth\u00e4lt <name> Nachr\u00fcsten. Ansonsten h\u00e4nge <name> an einen <t>Schach</t> -& <t>Soldat</t>-Gegner an.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +1 Entkommen und +1 Horror. \nFalls der Gegner Bauer ist, erh\u00e4lt er zus\u00e4tzlich +1 Kampf, +2 Ausdauer und +1 Entkommen.",
+                "text": "Wagnis.\n<rev> Falls sich kein <t>Soldat</t>-Gegner im Spiel befindet, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten h\u00e4nge <name> an einen <t>Soldat</t>-Gegner an.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +1 Entkommen und +1 Horror. \nFalls der Gegner Bauer ist, bekommt er zus\u00e4tzlich +1 Kampf, +2 Ausdauer und +1 Entkommen.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chess - Jabnormalities.jpg",
@@ -9880,7 +9880,7 @@
             "name": "M\u00e4usejagd",
             "front": {
                 "type": "act",
-                "flavor_text": "W\u00e4hrend du versuchst, dich festzuhalten, ist dir deine Aufgabe schon klar. Als die Haselmaus eingeschlief, fielen die Schatten ein. Dabei ist der ganze Tisch durcheinander geraten. Du musst die Haselmaus um jeden Preis finden.",
+                "flavor_text": "W\u00e4hrend du versuchst, dich festzuhalten, ist dir deine Aufgabe schon klar. Als die Haselmaus einschlief, fielen die Schatten ein. Dabei ist der ganze Tisch durcheinander geraten. Du musst die Haselmaus um jeden Preis finden.",
                 "illustration": "./images/Teacups - LCQ92.png",
                 "clues": "2<per>",
                 "index": "1a",
@@ -9986,7 +9986,7 @@
                 "cost": "2",
                 "level": "None",
                 "traits": "Wunderland. Gegenstand. Gesegnet?",
-                "text": "<act> Ersch\u00f6pfe <name>: <b>Ermitteln (<intellect>)</b>. Ignoriere f\u00fcr diese Probe alle Effekte, die den Grund-Schleierwert deines Ortes ver\u00e4ndert w\u00fcrden.\n<act> Ersch\u00f6pfe <name>: <b>Entkommen (<agi>)</b>. Falls das Ziel dieses Entkommen-Versuchs ein <t>Monster</t>, <t>Abscheulichkeit</t>- oder <t>Schatten</t>-Gegner ist, bekommst du f\u00fcr diese Probe +2 <agi>.",
+                "text": "<act> Ersch\u00f6pfe <name>: <b>Ermitteln (<intellect>)</b>. Ignoriere f\u00fcr diese Probe alle Effekte, die den Grund-Schleierwert deines Ortes ver\u00e4ndern w\u00fcrden.\n<act> Ersch\u00f6pfe <name>: <b>Entkommen (<agi>)</b>. Falls das Ziel dieses Entkommen-Versuchs ein <t>Monster</t>-, <t>Abscheulichkeit</t>- oder <t>Schatten</t>-Gegner ist, bekommst du f\u00fcr diese Probe +2 <agi>.",
                 "flavor_text": "Die sch\u00f6ne, neue Klapper.",
                 "illustration": "./images/Rattle.jpg",
                 "illustration_pan_y": 200.0,
