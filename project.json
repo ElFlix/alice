@@ -587,7 +587,7 @@
             "name": "Am dunkelsten vor der Morgenr\u00f6te",
             "front": {
                 "type": "act",
-                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand. Alice spielt diese Karte. Die Ermittler d\u00fcrfen Alice an einen verbunden Ort bewegen.\n<reaction> Sobald du 1 oder mehr Hinweise an deinem Ort entdecken w\u00fcrdest, selbst wenn sich auf deinem Ort keine Hinweise befinden: Lege stattdessen genauso viele Hinweise auf Gurathnaka.\n<obj> Falls die verbleibende Ausdauer von Gurathnaka niedriger als die Anzahl an Hinweisen auf Gurathnaka ist, r\u00fccke vor.",
+                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand. Alice spielt diese Karte. Die Ermittler d\u00fcrfen Alice an einen verbundenen Ort bewegen.\n<reaction> Sobald du 1 oder mehr Hinweise an deinem Ort entdecken w\u00fcrdest, selbst wenn sich auf deinem Ort keine Hinweise befinden: Lege stattdessen genauso viele Hinweise auf Gurathnaka.\n<obj> Falls die verbleibende Ausdauer von Gurathnaka niedriger als die Anzahl an Hinweisen auf Gurathnaka ist, r\u00fccke vor.",
                 "illustration": "./images/Rabbit Hole - Masateru Ikeda.jpg",
                 "index": "2a",
                 "illustrator": "Illus. Masateru Ikeda",
@@ -611,7 +611,7 @@
             "name": "Wachsende Dunkelheit",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselworts J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
+                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
                 "flavor_text": "Die Stabilit\u00e4t Arkhams verschlechtert sich zunehmend, wie vor deinem ersten Betreten des Wunderlandes. Dunkelheit breitet sich aus dem Norden der Stadt aus, und mit ihr Gurathnaka und seine Schergen. Gierig wie ein Waldbrand verzehren Schatten alles, was auf ihrem Weg liegt, und werden dabei st\u00e4rker und st\u00e4rker.",
                 "illustration": "./images/Shadows - Yoojin Rhee.jpg",
                 "doom": "7",
@@ -624,7 +624,7 @@
                 "type": "agenda_back",
                 "name": "Psychologische Kriegsf\u00fchrung",
                 "victory": "",
-                "text": "Alice nimmt 1 Schaden oder 1 Horror. Falls durch diesen Effekt Alice besiegt wird: (<resolution><b>A2</b>).\n",
+                "text": "Alice nimmt 1 Schaden oder 1 Horror. Falls Alice durch diesen Effekt besiegt wird: (<resolution><b>A2</b>).\n",
                 "index": "1b",
                 "flavor_text": "Alice lehnt an einem teilweise zerst\u00f6rten Geb\u00e4ude, als erneut ein gottloses Dr\u00f6hnen die Luft zerrei\u00dft. Ihre Bem\u00fchungen verlangsamen zwar das Vordringen der Schatten in Arkham, aber ihr K\u00f6rper und ihr Geist sind schnell am Rande ihrer Kr\u00e4fte."
             },
@@ -637,7 +637,7 @@
             "name": "Massenkonsum",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselworts J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
+                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
                 "flavor_text": "Gurathnaka treibt seine Schatten an, alles zu verschlingen, was sie zerrei\u00dfen k\u00f6nnen \u2013 sei es tierischen, pflanzlichen oder mineralischen Ursprungs. Sie hinterlassen eine dunkle Leere, die noch leerer ist als die Leere des Weltraums.",
                 "illustration": "./images/Shadows - Yoojin Rhee.jpg",
                 "doom": "7",
@@ -649,7 +649,7 @@
                 "type": "agenda_back",
                 "name": "Der Verstand schreckt zur\u00fcck",
                 "victory": "",
-                "text": "Alice nimmt 2 Schaden und/oder Horror. Falls durch diesen Effekt Alice besiegt wird: (<resolution><b>A2</b>).",
+                "text": "Alice nimmt 2 Schaden und/oder Horror. Falls Alice durch diesen Effekt besiegt wird: (<resolution><b>A2</b>).",
                 "flavor_text": "Die Realit\u00e4t schwankt und wogt unbest\u00e4ndig und bringt dich in ihrem st\u00e4ndigen Wandel aus dem Gleichgewicht. Du stehst schnell wieder auf, doch Alice braucht noch einige Augenblicke, um sich wackelig wieder aufzurichten. Sollten die Schatten noch weiter an Kraft gewinnen, wird Alice die Belastung m\u00f6glicherweise nicht \u00fcberleben."
             },
             "encounter_number": "3",
@@ -661,7 +661,7 @@
             "name": "Letzte Lichtstrahlen",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselworts J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
+                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: (<resolution><b>A2</b>).",
                 "illustration": "./images/Shadows - Yoojin Rhee.jpg",
                 "doom": "6",
                 "index": "3a",
@@ -672,7 +672,7 @@
             "back": {
                 "type": "agenda_back",
                 "victory": "",
-                "text": "Jeder Ermittler, der nicht aufgegeben hat, wird besiegt",
+                "text": "Jeder Ermittler, der nicht aufgegeben hat, wird besiegt.",
                 "index": "3b",
                 "flavor_text": "Das schrille Knacken und Zerbrechen von Glas \u00fcbert\u00f6nt das Grollen der zerfallenden Landschaft. Jetzt, wo alles k\u00fcnstliche Licht vollst\u00e4ndig erloschen ist, kannst du nur noch verzweifelt zusehen, wie der schwindende Glanz der D\u00e4mmerung zur Nacht wird und die Schatten dich von allen Seiten umschlingen.",
                 "name": "Die finsterste Nacht"
@@ -802,7 +802,7 @@
                 "type": "location",
                 "subtitle": "Doppelter Aufruhr",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: <b>Ermitteln (<intellect>)</b>. Verdopple f\u00fcr diese Ermittlung den Schleier des Gesch\u00e4ftsviertels. Falls die Probe gelingt, entdeckst du 1 zus\u00e4tzlichen Hinweis an diesem Ort. Falls die Probe misslingt, lege 1 zuf\u00e4llige Karte von deiner Hand ab und du verlierst 1 Ressource. (Nur 1 Erfolg pro Runde.)\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
+                "text": "<action>: <b>Ermitteln (<intellect>)</b>. Verdopple f\u00fcr diese Ermittlung den Schleier des Gesch\u00e4ftsviertels. Falls die Probe gelingt, entdeckst du 1 zus\u00e4tzlichen Hinweis an diesem Ort. Falls die Probe misslingt, lege 1 zuf\u00e4llige Karte von deiner Hand ab und verliere 1 Ressource. (Nur 1 Erfolg pro Runde.)\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/Merchant District - Jokubas Uogintas and Roberto Maldonado.jpg",
                 "clues": "2<per>",
@@ -920,7 +920,7 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 10.0,
-                "flavor_text": "Das Franz\u00f6sische Viertel erstrahlt wieder in seiner gewohnten Pracht, auch wenn seine Mansardd\u00e4cher unter dem Grollen, das durch die ganze Stadt hallt, klappern."
+                "flavor_text": "Das Franz\u00f6sische Viertel erstrahlt wieder in seiner gewohnten Pracht, auch wenn seine Mansardend\u00e4cher unter dem Grollen, das durch die ganze Stadt hallt, klappern."
             },
             "encounter_number": "10",
             "project_number": "208",
@@ -948,7 +948,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. Nele Diel & Alex van der Linde",
-                "flavor_text": "Die W\u00e4lder vor Arkham drehen und winden sich in seltsame Formen, die du dich an den so viel seltsameren tulgen Wald erinnern."
+                "flavor_text": "Die W\u00e4lder vor Arkham drehen und winden sich in seltsame Formen, die dich an den so viel seltsameren tulgen Wald erinnern."
             },
             "back": {
                 "type": "location",
@@ -990,7 +990,7 @@
                 ],
                 "illustrator": "Illus. Jokubas Uogintas & Abigail Larson",
                 "illustration_pan_y": -320.0,
-                "flavor_text": "Die ruhigen Stra\u00dfen der S\u00fcdstadt sind \u00fcbers\u00e4t mit Besteck, Geschirr und angebissenen Leckereien vom Tisch der der Teegesellschaft."
+                "flavor_text": "Die ruhigen Stra\u00dfen der S\u00fcdstadt sind \u00fcbers\u00e4t mit Besteck, Geschirr und angebissenen Leckereien vom Tisch der Teegesellschaft."
             },
             "back": {
                 "type": "location",
@@ -1099,7 +1099,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Verk\u00fcmmerter Traumfresser",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
                 "evade": "1",
                 "attack": "1",
                 "damage": 2,
@@ -1146,7 +1146,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Abgezehrter Traumfresser",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
                 "evade": "2",
                 "attack": "2",
                 "damage": 2,
@@ -1192,7 +1192,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Hei\u00dfhungriger Traumfresser",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
                 "evade": "3",
                 "attack": "3",
                 "damage": 2,
@@ -1238,7 +1238,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Ges\u00e4ttigter Traumfresser",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
                 "evade": "4",
                 "attack": "4",
                 "damage": "2",
@@ -1247,10 +1247,10 @@
                 "victory": "",
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
-                "health": "<dash>",
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
-                "illustration_scale": 2.72
+                "illustration_scale": 2.72,
+                "health": "<dash>"
             },
             "back": {
                 "type": "enemy",
@@ -1283,7 +1283,7 @@
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs oder Entkommen-Versuches gegen Gurathnaka verwenden.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> kann keinen Schaden nehmen.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\nErmittler k\u00f6nnen Alices F\u00e4higkeit und <elder_sign>-Effekt nicht w\u00e4hrend eines Angriffs- oder Entkommen-Versuches gegen Gurathnaka verwenden.",
                 "evade": "5",
                 "attack": "5",
                 "damage": 3,
@@ -1400,7 +1400,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Makel.",
-                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\nErmittler <i>(inklusive Alice)</i> k\u00f6nnen w\u00e4hrend der Unterhaltphase keine Karten ziehen.\nAls zus\u00e4tzliche Kosten, um eine Ziehen-Aktion zu nehmen, nimm 1 Horror.\n<for> Am Ende der Runde: Lege 1 Kopie von <name> aus dem Spiel ab. (Max. 1 Mal pro Runde.)",
+                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\nErmittler <i>(inklusive Alice)</i> k\u00f6nnen w\u00e4hrend der Unterhaltsphase keine Karten ziehen.\nAls zus\u00e4tzliche Kosten, um eine Ziehen-Aktion zu nehmen, nimm 1 Horror.\n<for> Am Ende der Runde: Lege 1 Kopie von <name> aus dem Spiel ab. (Max. 1 Mal pro Runde.)",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Rael Brian.jpg",
@@ -8123,7 +8123,7 @@
                 "text": "Bringe diese Karte neben Alice ins Spiel.\nSenke die Kosten von F\u00e4higkeiten auf Schw\u00e4che- oder Verratskarten um 1 Aktion. <i>(Falls eine F\u00e4higkeit auf einer Schw\u00e4che- oder Verratskarte 1 Aktion kosten w\u00fcrde, kann sie nun als freier Ausl\u00f6ser (<free>) ausgel\u00f6st werden.)</i>\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "Mit siegreichem Jubel gallopiert der Wei\u00dfe Ritter auf das Feld der Schlacht, wobei er sich gerade noch im Sattel h\u00e4lt.",
+                "flavor_text": "Mit siegreichem Jubel gallopiert der Wei\u00dfe Springer auf das Feld der Schlacht, wobei er sich gerade noch im Sattel h\u00e4lt.",
                 "victory": "",
                 "classes": [
                     "story"
@@ -8370,7 +8370,7 @@
                 ],
                 "illustration": "./images/Snark - Astridv.jpg",
                 "illustrator": "Illus. Astridv",
-                "flavor_text": "Erstaunlicherweise steht der Snark wieder vor dir, bereit, dir mit seinen vielen Talenten zur Seite zu stehen."
+                "flavor_text": "Erstaunlicherweise steht der Schlarg wieder vor dir, bereit, dir mit seinen vielen Talenten zur Seite zu stehen."
             },
             "back": {
                 "type": "player"
@@ -8571,7 +8571,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen. Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Vorteilskarte spielt: Reduziere die Kosten der Vorteilskarte auf die H\u00e4lfte (aufgerundet). (nur ein Mal pro Ermittler).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Vorteilskarte spielt: Reduziere die Kosten der Vorteilskarte auf die H\u00e4lfte (aufgerundet). (Nur ein Mal pro Ermittler).\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -8606,7 +8606,7 @@
                 ],
                 "illustration": "./images/Broken Sword - A Shipwright.jpg",
                 "illustrator": "Illus. A Shipwright",
-                "flavor_text": "Du findest ein zerbrochenes Schwert auf dem Boden liegen,daneben liegen mehrere verbeulte R\u00fcstungsteile.",
+                "flavor_text": "Du findest ein zerbrochenes Schwert auf dem Boden liegen, daneben liegen mehrere verbeulte R\u00fcstungsteile.",
                 "illustration_pan_y": -200.0
             },
             "back": {
@@ -8706,7 +8706,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die <name> angegriffen hat: Lege 1 Karte mit mindestens einem <agility>-Fertigkeitssymbol von deiner Hand ab.  Falls du dies nicht kannst, nimm 1 Schaden.",
+                "text": "<for> Nachdem dich die <name> angegriffen hat: Lege 1 Karte mit mindestens einem <agility>-Fertigkeitssymbol von deiner Hand ab. Falls du dies nicht kannst, nimm 1 Schaden.",
                 "health": "3",
                 "evade": "3",
                 "attack": "2",
@@ -9771,7 +9771,10 @@
                     ]
                 ],
                 "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker (<mystic>) und/ oder \u00dcberlebender (<survivor>) Karten der Stufe 0.",
-                "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu verschmelzen. Alice versuchte, dem sich ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft, so viele von Arkhams bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren."
+                "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu verschmelzen. Alice versuchte, dem sich ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft, so viele von Arkhams bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren.",
+                "classes": [
+                    "seeker"
+                ]
             },
             "project_number": "305",
             "id": "3c2a7134-bedb-47bc-b55a-42a85357eb25",
@@ -10034,7 +10037,7 @@
                 "type": "act",
                 "index": "1a",
                 "flavor_text": "Fragmente und Echos des Wunderlandes durchdringen die vertrauten Stadtteile von Arkham. Du wirst die Schatten nur vertreiben, wenn du die Teile der Stadt, die mit Alices Verstand \u00fcberlappen, davon befreien kannst. Es ist an der Zeit, dass du das, was du auf deiner Reise gelernt hast, in die Tat umsetzt.",
-                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand. Alice spielt diese Karte. Die Ermittler d\u00fcrfen Alice an einen verbunden Ort bewegen.\n<reaction> Nachdem du Gurathnaka erfolgreich angegriffen hast: Entdecke 1 Hinweis an deinem Ort.\n<obj> Sobald sich kein <t>Wunderland</t>-Ort im Spiel befindet, r\u00fccke sofort vor.",
+                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand. Alice spielt diese Karte. Die Ermittler d\u00fcrfen Alice an einen verbundenen Ort bewegen.\n<reaction> Nachdem du Gurathnaka erfolgreich angegriffen hast: Entdecke 1 Hinweis an deinem Ort.\n<obj> Sobald sich kein <t>Wunderland</t>-Ort im Spiel befindet, r\u00fccke sofort vor.",
                 "illustrator": "Illus. Masateru Ikeda",
                 "illustration": "./images/Rabbit Hole - Masateru Ikeda.jpg",
                 "illustration_pan_x": 800.0
