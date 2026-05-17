@@ -3144,7 +3144,7 @@
                 "name": "Gegen die Etikette",
                 "victory": "",
                 "index": "1d",
-                "text": "<b>Falls der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor.\n\n<b>Falls der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig w\u00fctend. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
+                "text": "<b>Falls der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor.\n<hr> <b>Falls der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig w\u00fctend. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c - \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
             },
             "encounter_number": "5",
             "project_number": "51",
@@ -3220,7 +3220,7 @@
                 "illustration": "./images/Miscellaneous - Unknown 3.jpg",
                 "illustrator": "Illus. Unknown",
                 "name": "Du verschwendest deine Zeit!",
-                "text": "<center>Was suchst du auf dieser Seite?\nEs gibt wichtigere Dinge, die du tun solltest.\nDrehe diese Karte um.",
+                "text": "<center>Was suchst du auf dieser Seite?<br>Es gibt wichtigere Dinge, die du tun solltest.<br>Drehe diese Karte um.",
                 "index": "3d"
             },
             "encounter_number": "8",
@@ -7764,7 +7764,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Das Wunderkind",
                 "traits": "Tr\u00e4umer.",
-                "text": "<reaction> Sobald ein Ermittler am Ort von Alice eine beliebige Fertigkeitsprobe ablegt: Der Ermittler legt die Probe stattdessen mit dem Grund-<intellect>-Fertigkeitswert von Alice ab. (Nur ein Mal pro Runde pro Ermittler)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-Effekts abhandeln.",
+                "text": "<reaction> Sobald ein Ermittler am Ort von Alice eine beliebige Fertigkeits-<br>probe ablegt: Der Ermittler legt die Probe stattdessen mit dem Grund-<intellect>-Fertigkeitswert von Alice ab. (Nur ein Mal pro Runde pro <br>Ermittler)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-<br>Effekts abhandeln.",
                 "health": "6",
                 "sanity": "8",
                 "illustration": "./images/Alice - Aucher-fargue Nicolas.png",
@@ -8072,7 +8072,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nErmittler k\u00f6nnen keine F\u00e4higkeiten mit freiem Ausl\u00f6ser (<free>) oder Reaktionsausl\u00f6ser (<reaction>) ausl\u00f6sen.\nErmittler k\u00f6nnen keine Ereigniskarten mit dem Schl\u00fcsselwort Schnell spielen.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nErmittler k\u00f6nnen keine F\u00e4higkeiten mit freiem Ausl\u00f6ser <br>(<free>) oder Reaktionsausl\u00f6ser (<reaction>) ausl\u00f6sen.\nErmittler k\u00f6nnen keine Ereigniskarten mit dem Schl\u00fcsselwort Schnell spielen.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "Die Situation l\u00e4sst kaum Raum zum Handeln.",
@@ -8100,7 +8100,7 @@
                 "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler Schaden oder Horror nehmen w\u00fcrde: Senke jene Menge um 1.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "\u201e\u201a Fantabler Tag! Ich juch! Ich jach\u2018\nGluckst' der in seiner Lust.\u201c",
+                "flavor_text": "\u201e\u201a Fantabler Tag! Ich juch! Ich jach\u2018 <br>Gluckst' der in seiner Lust.\u201c",
                 "victory": "",
                 "classes": [
                     "story"
@@ -8152,7 +8152,7 @@
                 "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald ein Ermittler Schaden oder Horror nehmen w\u00fcrde: Er nimmt 1 zus\u00e4tzlichen Schaden oder Horror.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "\u201eH\u00fct' dich, mein Sohn, vorm Schebberoch,\nDes Maules Biss, der Klauen Krall!\u201c",
+                "flavor_text": "\u201eH\u00fct' dich, mein Sohn, vorm Schebberoch,<br>Des Maules Biss, der Klauen Krall!\u201c",
                 "victory": "",
                 "illustration": "./images/Jabberwock - Lady Fiszi.jpg",
                 "illustrator": "Illus. Lady Fiszi",
@@ -8202,7 +8202,7 @@
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
-                "traits": "Madness.",
+                "traits": "Wahnsinn.",
                 "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald sich ein Ermittler bewegt: Der Ermittler bekommt bis zum Ende seines Zuges --1 auf jede Fertigkeit.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
@@ -8230,7 +8230,7 @@
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
-                "traits": "Madness.",
+                "traits": "Wahnsinn.",
                 "text": "Bringe diese Karte neben Alice ins Spiel.\nAls zus\u00e4tzliche Kosten, um ein Ereignis zu spielen, musst du 2 Ressourcen ausgeben.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
@@ -8286,7 +8286,7 @@
             "front": {
                 "type": "event",
                 "title": "<unique> <name>",
-                "traits": "Madness.",
+                "traits": "Wahnsinn.",
                 "text": "Bringe diese Karte neben Alice ins Spiel.\nJeder Ermittler bekommt --X auf seinen Fertigkeitswert f\u00fcr seine n\u00e4chste Probe in dieser Runde. X ist die Anzahl an Hinweisen, die der Ermittler kontrolliert (bis zu einem Maximum von 4).\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
@@ -8340,7 +8340,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Adlig. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nJeder Ermittler au\u00dfer Alice darf bis zu 4 Ressourcen erhalten.\nDas Spielen von Karten l\u00f6st keine Gelegenheitsangriffe aus.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nJeder Ermittler au\u00dfer Alice darf bis zu 4 Ressourcen<br> erhalten.\nDas Spielen von Karten l\u00f6st keine Gelegenheitsangriffe aus.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -8468,10 +8468,10 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer. Komplott. Paradox.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem einer <t>Verb\u00fcndeter</t>-Vorteilskarte Schaden oder Horror zugewiesen wurde: Besiege diese  <t>Verb\u00fcndeter</t>-Vorteilskarte.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem einer <t>Verb\u00fcndeter</t>-Vorteilskarte Schaden oder Horror zugewiesen wurde: Besiege diese  <t>Verb\u00fcndeter</t>-<br>Vorteilskarte.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "\u201eDoch wei\u00df ich nun eben: K\u00e4me jemals im Leben\nein Buhmalm mir einst zu Gesicht,\nw\u00e4r' ich binnen Sekunden und lautlos verschwunden!\nDieses Wissen ertrage ich nicht!\u201c",
+                "flavor_text": "\u201eDoch wei\u00df ich nun eben: K\u00e4me jemals im Leben ein Buhmalm mir einst zu Gesicht, w\u00e4r' ich binnen Sekunden und lautlos verschwunden!Dieses Wissen ertrage ich nicht!\u201c",
                 "victory": "",
                 "classes": [
                     "story weakness"
@@ -8534,7 +8534,7 @@
                 "illustration": "./images/White Rabbit - Megan Tompkins.jpg",
                 "illustrator": "Illus. Megan Tompkins",
                 "illustration_pan_y": -250.0,
-                "flavor_text": "Das Wei\u00dfe Kaninchen springt an dir vorbei und klopft \nverzweifelt auf seine Taschenuhr. \u201eEs sind noch \nein paar Sekunden \u00fcbrig! Nutze sie schnell!\u201c"
+                "flavor_text": "Das Wei\u00dfe Kaninchen springt an dir vorbei und klopft verzweifelt auf seine Taschenuhr. \u201eEs sind noch ein paar Sekunden \u00fcbrig! Nutze sie schnell!\u201c"
             },
             "back": {
                 "type": "player"
@@ -8710,7 +8710,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die <name> angegriffen hat: Lege 1 Karte mit mindestens einem <agility>-Fertigkeitssymbol von deiner Hand ab. Falls du dies nicht kannst, nimm 1 Schaden.",
+                "text": "<for> Nachdem dich die Karo-<br>Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <agility>-Fertigkeitssymbol von deiner Hand ab. Falls du dies nicht kannst, nimm 1 Schaden.",
                 "health": "3",
                 "evade": "3",
                 "attack": "2",
@@ -8740,7 +8740,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die Herz-Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <willpower>-Fertigkeitssymbol von deiner Hand ab.  Falls du dies nicht kannst, nimm 1 Schaden.",
+                "text": "<for> Nachdem dich die Herz-<br>Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <willpower>-Fertigkeitssymbol von deiner Hand ab.  Falls du dies nicht kannst, nimm 1 Schaden.",
                 "health": "2",
                 "evade": "3",
                 "attack": "3",
@@ -8770,7 +8770,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Karte. Soldat.",
-                "text": "<for> Nachdem dich die Pik-Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <intellect>-Fertigkeitssymbol von deiner Hand ab. Falls du dies nicht kannst, nimm 1 Horror.",
+                "text": "<for> Nachdem dich die Pik-<br>Kartenwache angegriffen hat: Lege 1 Karte mit mindestens einem <intellect>-Fertigkeitssymbol von deiner Hand ab. Falls du dies nicht kannst, nimm 1 Horror.",
                 "health": "2",
                 "evade": "2",
                 "attack": "4",
@@ -8889,7 +8889,7 @@
                 "slot": "None",
                 "level": "None",
                 "name": "<unique><name>",
-                "flavor_text": "\u201eWenn du nicht wei\u00dft, wohin du gehen willst, \ndann spielt es keine Rolle, welchen Weg du einschl\u00e4gst.\u201c"
+                "flavor_text": "\u201eWenn du nicht wei\u00dft, wohin du gehen willst,<br>dann spielt es keine Rolle, welchen Weg du einschl\u00e4gst.\u201c"
             },
             "encounter_number": "1",
             "project_number": "263",
@@ -9003,7 +9003,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Schach. Soldat.",
-                "text": "Falls dies die erste in dieser Phase gezogene Kopie von <name> ist, erh\u00e4lt <name> Nachr\u00fcsten.",
+                "text": "Falls dies die erste in dieser Phase gezogene Kopie von <name> ist, erh\u00e4lt Roter Bauer <br>Nachr\u00fcsten.",
                 "health": "1",
                 "evade": "2",
                 "attack": "2",
@@ -9245,7 +9245,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott. Paradox.",
-                "text": "<rev> Lege eine <willpower>-Probe (3) ab. Falls sich an deinem Ort keine Hinweise befinden, kannst du keine Karten zu dieser Fertigkeitsprobe beitragen. Falls die Probe misslingt, nimm 1 Horror und lege 1 zuf\u00e4llige Karte von deiner Hand ab.",
+                "text": "<rev> Lege eine <willpower>-Probe (3) ab. Falls sich an deinem Ort keine Hinweise befinden, kannst du keine Karten zu dieser Fertigkeits-<br>probe beitragen. Falls die Probe misslingt, nimm 1 Horror und lege 1 zuf\u00e4llige Karte von deiner Hand ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Question - Unknown.jpg",
@@ -9354,7 +9354,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen: Lege eine <agi>-Probe (X) ab, wobei X die Anzahl der Orte ist, die mit diesem Ort verbunden sind. Falls die Probe misslingt, hebe die Effekte der Bewegung auf.\n<act><act>: Lege <name> ab.",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen: Lege eine <agi>-<br>Probe (X) ab, wobei X die Anzahl der Orte ist, die mit diesem Ort verbunden sind. Falls die Probe misslingt, hebe die Effekte der Bewegung auf.\n<act><act>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Evenvita.jpg",
@@ -9571,7 +9571,8 @@
                 "illustration": "./images/Caterpillar - Shreya Shetty.jpg",
                 "illustrator": "Illus. Shreya Shretty",
                 "level": "None",
-                "illustration_pan_y": -100.0
+                "illustration_pan_y": -100.0,
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9630,7 +9631,8 @@
                 "subtitle": "Gesellige Hofdame",
                 "illustration_pan_x": 68.0,
                 "illustration_pan_y": -28.0,
-                "illustration_scale": 1.14
+                "illustration_scale": 1.14,
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9659,7 +9661,8 @@
                 "level": "None",
                 "illustration_pan_x": -52.0,
                 "illustration_pan_y": 24.0,
-                "illustration_scale": 2.26
+                "illustration_scale": 2.26,
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9685,7 +9688,8 @@
                 ],
                 "illustration": "./images/Lion and Unicorn - Julie Dillon.jpg",
                 "illustrator": "Illus. Julie Dillon",
-                "level": "None"
+                "level": "None",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9712,7 +9716,8 @@
                 "illustration": "./images/White Queen - Victoria Ying.jpg",
                 "illustrator": "Illus. Victoria Ying",
                 "level": "None",
-                "illustration_pan_y": 280.0
+                "illustration_pan_y": 280.0,
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "encounter"
@@ -9729,7 +9734,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Die Wunderwirkerin",
                 "traits": "Tr\u00e4umer.",
-                "text": "<reaction> Sobald ein Ermittler an deinem Ort eine beliebige Fertigkeitsprobe ablegt: Der Ermittler legt die Probe stattdessen mit deinem Grund-<intellect>-Fertigkeitswert ab. (Nur ein Mal pro Runde.)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-Effekts abhandeln.",
+                "text": "<reaction> Sobald ein Ermittler an deinem Ort eine beliebige Fertigkeitsprobe ablegt: Der Ermittler legt die Probe stattdessen mit deinem Grund-<intellect>-<br>Fertigkeitswert ab. (Nur ein Mal pro Runde.)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-<br>Effekts abhandeln.",
                 "health": "6",
                 "sanity": "8",
                 "flavor_text": "\u201eMerk- und merkerw\u00fcrdiger!\u201c",
@@ -9790,7 +9795,7 @@
                 "type": "treachery",
                 "title": "<unique> <name>",
                 "traits": "Wahnsinn.",
-                "text": "Anwendungen (0 Geheimnisse). Falls sich 4 oder mehr Geheimnisse auf <name> befinden, lege es ab.\n<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange <name> im Spiel ist, ist dein Grund-<intellect>-Fertigkeitswert X. X ist die Anzahl an Geheimnissen auf dieser Karte. \n<free> Bewege 1 Geheimnis von einer Vorteilskarte, die du kontrollierst, auf <name>. \n<for> Am Ende der Runde: Platziere 1 Geheimnis auf dieser Karte.",
+                "text": "Anwendungen (0 Geheimnisse). Falls sich 4 oder mehr Geheimnisse auf <name> befinden, lege es ab.\n<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange <name> im Spiel ist, ist dein Grund-<intellect>-<br>Fertigkeitswert X. X ist die Anzahl an Geheimnissen auf dieser Karte. \n<free> Bewege 1 Geheimnis von einer Vorteilskarte, die du kontrollierst, auf <name>. \n<for> Am Ende der Runde: Platziere 1 Geheimnis auf dieser Karte.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
