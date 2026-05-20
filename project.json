@@ -775,7 +775,8 @@
                 "flavor_text": "Der Campus der Miskatonic Universit\u00e4t ist zerteilt und wechselt zwischen farbigen Abschnitten in einem Muster, das dich an das Schachbrettfeld des Wunderlands erinnert.",
                 "illustration_pan_x": -1095.0,
                 "illustration_pan_y": -859.0,
-                "illustration_scale": 3.0
+                "illustration_scale": 3.0,
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -792,7 +793,8 @@
                 "flavor_text": "Die mit Efeu bewachsenen Geb\u00e4ude der Universit\u00e4t sind wieder da und wurden neu angeordnet, doch die bedr\u00fcckende Dunkelheit liegt immer noch \u00fcber dem Campusgel\u00e4nde.",
                 "illustration_scale": 3.0,
                 "illustration_pan_x": -1095.0,
-                "illustration_pan_y": -859.0
+                "illustration_pan_y": -859.0,
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "9",
             "project_number": "207",
@@ -821,7 +823,8 @@
                 ],
                 "illustrator": "Illus. Jokubas Uogintas & Roberto Maldonado",
                 "illustration_pan_y": -400.0,
-                "flavor_text": "Die Stra\u00dfen des Gesch\u00e4ftsviertels f\u00fcgen sich harmonisch in die Landschaft des steilen Tals ein, in dem sich Dideldei und Dideldum bei ihrer Schlacht gegen\u00fcberstanden."
+                "flavor_text": "Die Stra\u00dfen des Gesch\u00e4ftsviertels f\u00fcgen sich harmonisch in die Landschaft des steilen Tals ein, in dem sich Dideldei und Dideldum bei ihrer Schlacht gegen\u00fcberstanden.",
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -837,7 +840,8 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": -400.0,
-                "flavor_text": "Das Gesch\u00e4ftsviertel kehrt in einen einsamen Zustand zur\u00fcck. Trotz des Chaos im Rest der Stadt ist es nachts nicht weniger verlassen."
+                "flavor_text": "Das Gesch\u00e4ftsviertel kehrt in einen einsamen Zustand zur\u00fcck. Trotz des Chaos im Rest der Stadt ist es nachts nicht weniger verlassen.",
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "7",
             "project_number": "205",
@@ -863,7 +867,8 @@
                     "heart"
                 ],
                 "illustrator": "Illus. Cristi Balanescu & Jeremy Paillotin",
-                "illustration_pan_y": -550.0
+                "illustration_pan_y": -550.0,
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -879,7 +884,8 @@
                 "connections": "<copy>",
                 "subtitle": "In ruhigem Fahrwasser",
                 "flavor_text": "Das Wasser des Miskatonic ist zur\u00fcckgegangen, doch die Oberfl\u00e4che sch\u00e4umt noch immer bei jeder Ersch\u00fctterung der Realit\u00e4t.",
-                "illustration_pan_y": -550.0
+                "illustration_pan_y": -550.0,
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "8",
             "project_number": "206",
@@ -907,7 +913,8 @@
                 ],
                 "illustrator": "Illus. Cristi Balanescu & Clement Caubet",
                 "flavor_text": "Die stattliche Architektur des Franz\u00f6sischen Viertels verschmilzt mit kunstvollem Mauerwerk, das du vom Schloss der Herz-K\u00f6nigin kennst.",
-                "illustration_pan_y": 10.0
+                "illustration_pan_y": 10.0,
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -923,7 +930,8 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 10.0,
-                "flavor_text": "Das Franz\u00f6sische Viertel erstrahlt wieder in seiner gewohnten Pracht, auch wenn seine Mansardend\u00e4cher unter dem Grollen, das durch die ganze Stadt hallt, klappern."
+                "flavor_text": "Das Franz\u00f6sische Viertel erstrahlt wieder in seiner gewohnten Pracht, auch wenn seine Mansardend\u00e4cher unter dem Grollen, das durch die ganze Stadt hallt, klappern.",
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "10",
             "project_number": "208",
@@ -951,7 +959,8 @@
                     "none"
                 ],
                 "illustrator": "Illus. Nele Diel & Alex van der Linde",
-                "flavor_text": "Die W\u00e4lder vor Arkham drehen und winden sich in seltsame Formen, die dich an den so viel seltsameren tulgen Wald erinnern."
+                "flavor_text": "Die W\u00e4lder vor Arkham drehen und winden sich in seltsame Formen, die dich an den so viel seltsameren tulgen Wald erinnern.",
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -964,7 +973,8 @@
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "Die W\u00e4lder von Arkham entwirren sich wieder zu einer vertrauten, aber immer noch unheilvollen Form, was dir nur wenig Seelenfrieden gew\u00e4hrt."
+                "flavor_text": "Die W\u00e4lder von Arkham entwirren sich wieder zu einer vertrauten, aber immer noch unheilvollen Form, was dir nur wenig Seelenfrieden gew\u00e4hrt.",
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "11",
             "project_number": "209",
@@ -993,7 +1003,8 @@
                 ],
                 "illustrator": "Illus. Jokubas Uogintas & Abigail Larson",
                 "illustration_pan_y": -320.0,
-                "flavor_text": "Die ruhigen Stra\u00dfen der S\u00fcdstadt sind \u00fcbers\u00e4t mit Besteck, Geschirr und angebissenen Leckereien vom Tisch der Teegesellschaft."
+                "flavor_text": "Die ruhigen Stra\u00dfen der S\u00fcdstadt sind \u00fcbers\u00e4t mit Besteck, Geschirr und angebissenen Leckereien vom Tisch der Teegesellschaft.",
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -1009,7 +1020,8 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": -320.0,
-                "flavor_text": "Die S\u00fcdstadt liegt wieder einmal in ruhiger Abgeschiedenheit, ganz im Gegensatz zum brodelnden Chaos, das sich n\u00f6rdlich davon abspielt."
+                "flavor_text": "Die S\u00fcdstadt liegt wieder einmal in ruhiger Abgeschiedenheit, ganz im Gegensatz zum brodelnden Chaos, das sich n\u00f6rdlich davon abspielt.",
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "12",
             "project_number": "210",
@@ -1049,7 +1061,8 @@
                 "text": "",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "Die Oststadt galt aufgrund der starken Polizeipr\u00e4senz schon immer als einer der sichereren Stadtteile, doch unter den gegebenen Umst\u00e4nden ist sie genauso schutzlos wie alle anderen."
+                "flavor_text": "Die Oststadt galt aufgrund der starken Polizeipr\u00e4senz schon immer als einer der sichereren Stadtteile, doch unter den gegebenen Umst\u00e4nden ist sie genauso schutzlos wie alle anderen.",
+                "collection": "<exi>              "
             },
             "encounter_number": "14",
             "project_number": "212",
@@ -1078,7 +1091,8 @@
                 ],
                 "illustrator": "Illus. Jokubas Uogintas",
                 "flavor_text": "In der Nordstadt sind noch immer Spuren des fr\u00fcheren Chaos zu sp\u00fcren. Sie k\u00f6nnten der Schl\u00fcssel dazu sein, die Verbindung zum Wunderland endg\u00fcltig zu unterbrechen.",
-                "illustration_pan_y": 0.0
+                "illustration_pan_y": 0.0,
+                "collection": "<esn>/<est>          <exi>      <exn>"
             },
             "back": {
                 "type": "location_back",
@@ -1088,7 +1102,8 @@
                 "traits": "Arkham.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "Als du die Nordstadt auf deiner Reise ins Wunderland hinter dir zur\u00fcckgelassen hast, warst du dir nicht sicher, ob du sie jemals wieder in einem wiedererkennbaren Zustand sehen w\u00fcrdest."
+                "flavor_text": "Als du die Nordstadt auf deiner Reise ins Wunderland hinter dir zur\u00fcckgelassen hast, warst du dir nicht sicher, ob du sie jemals wieder in einem wiedererkennbaren Zustand sehen w\u00fcrdest.",
+                "collection": "<exi>              "
             },
             "encounter_number": "15",
             "project_number": "213",
@@ -1115,7 +1130,8 @@
                 "health": "<dash>",
                 "illustration_pan_x": -1873.0,
                 "illustration_pan_y": 975.0,
-                "illustration_scale": 2.72
+                "illustration_scale": 2.72,
+                "collection": "<esn>/<est>        <exi><exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -1135,7 +1151,8 @@
                 "horror": 2,
                 "illustration_pan_y": 975.0,
                 "illustration_scale": 2.72,
-                "illustration_pan_x": -1873.0
+                "illustration_pan_x": -1873.0,
+                "collection": "<esn>/<est>        <exi><exn>b"
             },
             "encounter_number": "17",
             "project_number": "215",
@@ -1161,7 +1178,8 @@
                 "health": "<dash>",
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
-                "illustration_scale": 2.72
+                "illustration_scale": 2.72,
+                "collection": "<esn>/<est>        <exi><exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -1181,7 +1199,8 @@
                 "horror": 2,
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
-                "illustration_scale": 2.72
+                "illustration_scale": 2.72,
+                "collection": "<esn>/<est>        <exi><exn>b"
             },
             "encounter_number": "18",
             "project_number": "216",
@@ -1207,7 +1226,8 @@
                 "health": "<dash>",
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
-                "illustration_scale": 2.72
+                "illustration_scale": 2.72,
+                "collection": "<esn>/<est>        <exi><exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -1227,7 +1247,8 @@
                 "horror": 3,
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
-                "illustration_scale": 2.72
+                "illustration_scale": 2.72,
+                "collection": "<esn>/<est>        <exi><exn>b"
             },
             "encounter_number": "19",
             "project_number": "217",
@@ -1253,7 +1274,8 @@
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
                 "illustration_scale": 2.72,
-                "health": "<dash>"
+                "health": "<dash>",
+                "collection": "<esn>/<est>        <exi><exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -1273,7 +1295,8 @@
                 "illustration": "./images/Gurathnaka - Chris Cold.jpg",
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
-                "illustration_scale": 2.72
+                "illustration_scale": 2.72,
+                "collection": "<esn>/<est>        <exi><exn>b"
             },
             "encounter_number": "20",
             "project_number": "218",
@@ -1299,7 +1322,8 @@
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
                 "illustration_scale": 2.72,
-                "subtitle": "Vollgestopfter Traumfresser"
+                "subtitle": "Vollgestopfter Traumfresser",
+                "collection": "<esn>/<est>        <exi><exn>a"
             },
             "back": {
                 "type": "enemy",
@@ -1319,7 +1343,8 @@
                 "horror": 3,
                 "illustration_pan_y": 975.0,
                 "illustration_pan_x": -1873.0,
-                "illustration_scale": 2.72
+                "illustration_scale": 2.72,
+                "collection": "<esn>/<est>        <exi><exn>b"
             },
             "encounter_number": "21",
             "project_number": "219",
@@ -1382,7 +1407,6 @@
             "back": {
                 "type": "location_back",
                 "illustration": "./images/Arkham - Tomasz Jedruszek and TheKayeman.jpg",
-                "illustrator": "Illus. ",
                 "name": "<name>",
                 "subtitle": "",
                 "traits": "Arkham. Schatten.",
@@ -1391,7 +1415,9 @@
                 "connections": "<copy>",
                 "flavor_text": "Hoch \u00fcber der Stadt schwebt ein breiter Riss in der Realit\u00e4t. Der Wind str\u00f6mt darauf zu, doch nur die eindringenden Schatten scheinen von seiner Anziehungskraft erfasst zu werden.",
                 "illustration_pan_x": -470.0,
-                "illustration_pan_y": 200.0
+                "illustration_pan_y": 200.0,
+                "collection": "<exi>              ",
+                "illustrator": "Illus. Tomasz Jedruszek & TheKayeman"
             },
             "encounter_number": "16",
             "project_number": "214",
@@ -1763,7 +1789,8 @@
                 ],
                 "illustrator": "Illus. Mark Molnar",
                 "flavor_text": "Das Sanatorium hat nicht den besten Ruf, was die Heilung seiner Patienten angeht. Du hoffst, dass du Alice hier nicht lange zur\u00fccklassen musst.",
-                "illustration_pan_y": 100.0
+                "illustration_pan_y": 100.0,
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -1778,7 +1805,8 @@
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 100.0
+                "illustration_pan_y": 100.0,
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "7",
             "project_number": "7",
@@ -1803,7 +1831,8 @@
                     "diamond",
                     "circle"
                 ],
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -1818,7 +1847,8 @@
                 "shroud": "4",
                 "clues": "0",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "8",
             "project_number": "8",
@@ -1847,7 +1877,8 @@
                 "illustrator": "Illus. Cristi Balanescu",
                 "illustration_scale": 3.0,
                 "illustration_pan_x": -2093.0,
-                "illustration_pan_y": -527.0
+                "illustration_pan_y": -527.0,
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -1870,7 +1901,8 @@
                 ],
                 "illustration_scale": 3.0,
                 "illustration_pan_x": -2093.0,
-                "illustration_pan_y": -527.0
+                "illustration_pan_y": -527.0,
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "9",
             "project_number": "9",
@@ -1897,7 +1929,8 @@
                     "triangle"
                 ],
                 "illustrator": "Illus. Rowena Wang",
-                "illustration_pan_x": -500.0
+                "illustration_pan_x": -500.0,
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -1919,7 +1952,8 @@
                     "triangle"
                 ],
                 "level": "0",
-                "illustration_pan_x": -500.0
+                "illustration_pan_x": -500.0,
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "10",
             "project_number": "10",
@@ -1943,7 +1977,8 @@
                     "quote",
                     "t"
                 ],
-                "illustrator": "Illus. Anthony Devine"
+                "illustrator": "Illus. Anthony Devine",
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -1961,7 +1996,8 @@
                     "quote",
                     "t"
                 ],
-                "name": "Rarit\u00e4tenladen"
+                "name": "Rarit\u00e4tenladen",
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "11",
             "project_number": "11",
@@ -1986,7 +2022,8 @@
                     "moon"
                 ],
                 "illustrator": "Illus. Mark Molnar",
-                "illustration_pan_y": -200.0
+                "illustration_pan_y": -200.0,
+                "collection": "<esn>/<est>          <exi>     <exn>a"
             },
             "back": {
                 "type": "location",
@@ -2005,7 +2042,8 @@
                     "moon"
                 ],
                 "name": "<name>",
-                "illustration_pan_y": -200.0
+                "illustration_pan_y": -200.0,
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "12",
             "project_number": "12",
@@ -2437,7 +2475,8 @@
                     "moon",
                     "slash"
                 ],
-                "illustration_scale": 1.56
+                "illustration_scale": 1.56,
+                "collection": "<exi>            "
             },
             "encounter_number": "7",
             "project_number": "28",
@@ -2484,7 +2523,8 @@
                     "heart",
                     "slash"
                 ],
-                "illustration_scale": 3.82
+                "illustration_scale": 3.82,
+                "collection": "<exi>            "
             },
             "encounter_number": "8",
             "project_number": "29",
@@ -2526,7 +2566,8 @@
                 "flavor_text": "Eine Reihe voneinander getrennter Becken steht knapp au\u00dferhalb der Reichweite der Flut. In ihnen entstehen und gedeihen winzige \u00d6kosysteme.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_scale": 3.22
+                "illustration_scale": 3.22,
+                "collection": "<exi>            "
             },
             "encounter_number": "9",
             "project_number": "30",
@@ -2560,7 +2601,8 @@
                 "subtitle": "",
                 "text": "",
                 "flavor_text": "Ein Felsvorsprung ragt aus dem Meer der Tr\u00e4nen heraus, aber die Flut sp\u00fclt immer noch Muscheln den halben Felsen hinauf.",
-                "connection": "<copy>"
+                "connection": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "10",
             "project_number": "31",
@@ -2602,7 +2644,8 @@
                 "flavor_text": "Alle Arten von Fischen versammeln sich hier in kleinen Schulen, aber wo sind ihre Lehrer?",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_scale": 3.12
+                "illustration_scale": 3.12,
+                "collection": "<exi>            "
             },
             "encounter_number": "11",
             "project_number": "32",
@@ -2640,7 +2683,8 @@
                 "text": "",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "Die Korallen in diesem Teil der K\u00fcste schl\u00e4ngeln sich in komplizierten Schleifen um sich selbst herum, die kaum m\u00f6glich erscheinen."
+                "flavor_text": "Die Korallen in diesem Teil der K\u00fcste schl\u00e4ngeln sich in komplizierten Schleifen um sich selbst herum, die kaum m\u00f6glich erscheinen.",
+                "collection": "<exi>            "
             },
             "encounter_number": "12",
             "project_number": "33",
@@ -3069,8 +3113,9 @@
                 "type": "agenda_back",
                 "name": "Nicht nach deinem Geschmack",
                 "victory": "",
-                "text": "<blockquote>W\u00e4hrend die St\u00fchle kommen und gehen und wirre Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft.</blockquote>\nHeile jeweils 2<per_large> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
-                "index": "1b"
+                "text": "Heile jeweils 2<per_large> Schaden vom Hutmacher und dem M\u00e4rzhasen.",
+                "index": "1b",
+                "flavor_text": "W\u00e4hrend die St\u00fchle kommen und gehen und wirre Gestalten am Tisch auftauchen, tust du dein Bestes, nicht in die Schatten gezogen zu werden. Der Tisch wird lauter, wilder \u2014 Gel\u00e4chter mischt sich mit Gurgeln, w\u00e4hrend merkw\u00fcrdiger Tee in Str\u00f6men flie\u00dft."
             },
             "encounter_number": "2",
             "project_number": "48",
@@ -3221,7 +3266,8 @@
                 "illustrator": "Illus. Unknown",
                 "name": "Du verschwendest deine Zeit!",
                 "text": "<center>Was suchst du auf dieser Seite?<br>Es gibt wichtigere Dinge, die du tun solltest.<br>Drehe diese Karte um.",
-                "index": "3d"
+                "index": "3d",
+                "collection": " "
             },
             "encounter_number": "8",
             "project_number": "54",
@@ -3318,7 +3364,8 @@
                 "connections": [
                     "circle"
                 ],
-                "illustration_scale": 3.16
+                "illustration_scale": 3.16,
+                "collection": "<exi>            "
             },
             "encounter_number": "12",
             "project_number": "58",
@@ -3354,7 +3401,8 @@
                 "flavor_text": "Am Kopfende des Teetischs steht ein absurd hoher roter Stuhl, auf dem der gastgebende Hase sitzt.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": -180.0
+                "illustration_pan_y": -180.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "13",
             "project_number": "59",
@@ -3390,7 +3438,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "14",
             "project_number": "60",
@@ -3431,7 +3480,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "15",
             "project_number": "61",
@@ -3467,7 +3517,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "16",
             "project_number": "62",
@@ -3509,7 +3560,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "17",
             "project_number": "63",
@@ -3546,7 +3598,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "18",
             "project_number": "64",
@@ -3587,7 +3640,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "19",
             "project_number": "65",
@@ -3623,7 +3677,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "20",
             "project_number": "66",
@@ -3658,7 +3713,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "21",
             "project_number": "67",
@@ -3698,7 +3754,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "22",
             "project_number": "68",
@@ -3739,7 +3796,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "23",
             "project_number": "69",
@@ -3780,7 +3838,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "24",
             "project_number": "70",
@@ -3821,7 +3880,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "25",
             "project_number": "71",
@@ -3862,7 +3922,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "26",
             "project_number": "72",
@@ -3904,7 +3965,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "27",
             "project_number": "73",
@@ -3946,7 +4008,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "28",
             "project_number": "74",
@@ -3987,7 +4050,8 @@
                 "flavor_text": "F\u00fcr den Moment leer.<br>Die Flecken k\u00f6nnten von Tee oder Marmelade stammen, vielleicht sind sie aber auch von etwas g\u00e4nzlich anderem.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 190.0
+                "illustration_pan_y": 190.0,
+                "collection": "<exi>            "
             },
             "encounter_number": "29",
             "project_number": "75",
@@ -4554,7 +4618,8 @@
                 "text": "",
                 "flavor_text": "Die k\u00f6niglichen G\u00e4rten sind \u00fcbers\u00e4t mit leuchtend roten Blumen aller Art. Dir f\u00e4llt ein kleines Beet mit gl\u00e4nzenden Rosenb\u00fcschen auf, von denen rote Farbe tropft.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "8",
             "project_number": "94",
@@ -4592,7 +4657,8 @@
                 "text": "",
                 "flavor_text": "Das Gel\u00e4chter, das vom Gel\u00e4nde her\u00fcberhallt, vermischt sich mit dem Kreischen und Quieken von gequ\u00e4lten Tieren. Was f\u00fcr Spiele werden hier gespielt?",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "9",
             "project_number": "95",
@@ -4630,7 +4696,8 @@
                 "text": "",
                 "flavor_text": "Wenn man bedenkt, wie schwierig es ist, sich im Wunderland zurechtzufinden, ist es kaum vorstellbar, wie frustrierend ein absichtlich angelegtes Labyrinth wohl sein muss.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "10",
             "project_number": "96",
@@ -4668,7 +4735,8 @@
                 "flavor_text": "Herz-Motive zieren jede S\u00e4ule, jeden Bogen und jeden Wimpel des Schlosses. Selbst die Doppelt\u00fcren, die in den k\u00f6niglichen Audienzsaal f\u00fchren, sind herzf\u00f6rmig.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "traits": "Wunderland. Schloss."
+                "traits": "Wunderland. Schloss.",
+                "collection": "<exi>            "
             },
             "encounter_number": "11",
             "project_number": "97",
@@ -4708,7 +4776,8 @@
                 "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie von K\u00f6niglicher Verdacht befinden, kannst du das <name> nicht betreten.",
                 "flavor_text": "Die Verliese des Schlosses sind, wie zu erwarten, streng verschlossen. Das Seufzen und St\u00f6hnen der darin schmachtenden Gefangenen erf\u00fcllt die Luft.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "12",
             "project_number": "98",
@@ -4749,7 +4818,8 @@
                 "connections": [
                     "heart",
                     "hourglass"
-                ]
+                ],
+                "collection": "<exi>            "
             },
             "encounter_number": "13",
             "project_number": "99",
@@ -4788,7 +4858,8 @@
                 "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie K\u00f6niglicher Verdacht befinden, kannst du die <name> nicht betreten.",
                 "flavor_text": "Der Duft frisch gebackener T\u00f6rtchen dringt durch die T\u00fcr der k\u00f6niglichen K\u00fcchen. Diese neue Charge wird streng bewacht, und wer im Verdacht steht, sich von den ersten Torten bedient zu haben, darf nicht hinein.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "14",
             "project_number": "100",
@@ -4823,7 +4894,8 @@
                 "text": "Wenn sich mindestens 2 Anschuldigungen auf deiner Kopie von K\u00f6niglicher Verdacht befinden, kannst du die <name> nicht betreten.",
                 "flavor_text": "Die Kartenwachen der K\u00f6nigin kreuzen ihre Speere, als du dich n\u00e4herst, misstrauisch gegen\u00fcber jedem, den sie des Diebstahls bezichtigt hat.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "15",
             "project_number": "101",
@@ -5399,7 +5471,8 @@
                 "flavor_text": "Ein perfekter Ort, um sich auszuruhen und in Gedanken zu versinken. Der B\u00fcttel trommelt mit lautem L\u00e4uten seiner Glocke die Schlarg-J\u00e4ger vom Baum herunter.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "traits": "Wunderland. Tulger Wald."
+                "traits": "Wunderland. Tulger Wald.",
+                "collection": "<exi>            "
             },
             "encounter_number": "8",
             "project_number": "121",
@@ -5439,7 +5512,8 @@
                 "text": "",
                 "flavor_text": "Das hohe Gras bildet Ringe um felsige \u00d6ffnungen im Boden, die weit in die Tiefe f\u00fchren.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "10",
             "project_number": "123",
@@ -5478,7 +5552,8 @@
                 "text": "",
                 "flavor_text": "Aus dem Wald erhebt sich ein gro\u00dfer H\u00fcgel, der auf allen Seiten von einem Geflecht aus Felsvorspr\u00fcngen und Kanten bedeckt ist.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "11",
             "project_number": "124",
@@ -5517,7 +5592,8 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "traits": "Wunderland. Tulger Wald.",
-                "flavor_text": "Dieser Teil des Waldes erstreckt sich \u00fcber eine tiefe Felsspalte, die gerade gro\u00df genug ist, dass eine Person die Mitte \u00fcberqueren kann."
+                "flavor_text": "Dieser Teil des Waldes erstreckt sich \u00fcber eine tiefe Felsspalte, die gerade gro\u00df genug ist, dass eine Person die Mitte \u00fcberqueren kann.",
+                "collection": "<exi>            "
             },
             "encounter_number": "12",
             "project_number": "125",
@@ -5562,7 +5638,8 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eDer Schlarg hat sich aus dem Staub gemacht\u201c, erkl\u00e4rt der Metzger. \u201eWir haben ihn verscheucht, und so muss er zu seinem Rudel zur\u00fcckgekehrt sein.\u201c Du kannst dich nicht daran erinnern, dass Schlargs gesellige Wesen sind, aber du wirst von einem Durcheinander seltsamer Ger\u00e4usche zu einem nahe gelegenen W\u00e4ldchen gelockt.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDer Schlarg hat sich aus dem Staub gemacht\u201c, erkl\u00e4rt der Metzger. \u201eWir haben ihn verscheucht, und so muss er zu seinem Rudel zur\u00fcckgekehrt sein.\u201c Du kannst dich nicht daran erinnern, dass Schlargs gesellige Wesen sind, aber du wirst von einem Durcheinander seltsamer Ger\u00e4usche zu einem nahe gelegenen W\u00e4ldchen gelockt.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+                "collection": "<esn>/<est>        <exi>  <exn>a"
             },
             "back": {
                 "type": "location",
@@ -5583,7 +5660,8 @@
                     "slash",
                     "star"
                 ],
-                "illustration_pan_y": 200.0
+                "illustration_pan_y": 200.0,
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "22",
             "project_number": "135",
@@ -5596,7 +5674,8 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eDurchs dichte Geh\u00f6lz nagte ich mich, aber vom Schlarg ist keine Spur,\" murrt der Biber, \u201eer muss sich noch tiefer im Unterholz verstecken.\u201c Der Wald ist ohnehin schon voller Gefahren, aber auf Dr\u00e4ngen des Bibers gehst du weiter in Richtung eines schattigen und abgelegenen Tals.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDurchs dichte Geh\u00f6lz nagte ich mich, aber vom Schlarg ist keine Spur,\" murrt der Biber, \u201eer muss sich noch tiefer im Unterholz verstecken.\u201c Der Wald ist ohnehin schon voller Gefahren, aber auf Dr\u00e4ngen des Bibers gehst du weiter in Richtung eines schattigen und abgelegenen Tals.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+                "collection": "<esn>/<est>        <exi>  <exn>a"
             },
             "back": {
                 "type": "location",
@@ -5616,7 +5695,8 @@
                     "hourglass",
                     "slash",
                     "star"
-                ]
+                ],
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "17",
             "project_number": "130",
@@ -5629,7 +5709,8 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eDer Schlarg muss an einem tiefen, einsamen Ort sein\u201c, spekuliert der Barrister, \u201esonst h\u00e4tte er auf meine Vorladung zu Gericht reagiert.\u201c Du bist dir nicht sicher, ob der Schlarg \u00fcberhaupt lesen kann, aber die seltsamen Ger\u00e4usche, die aus einer nahe gelegenen H\u00f6hle dringen, sind Grund genug, sie zu durchsuchen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eDer Schlarg muss an einem tiefen, einsamen Ort sein\u201c, spekuliert der Barrister, \u201esonst h\u00e4tte er auf meine Vorladung zu Gericht reagiert.\u201c Du bist dir nicht sicher, ob der Schlarg \u00fcberhaupt lesen kann, aber die seltsamen Ger\u00e4usche, die aus einer nahe gelegenen H\u00f6hle dringen, sind Grund genug, sie zu durchsuchen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+                "collection": "<esn>/<est>        <exi>  <exn>a"
             },
             "back": {
                 "type": "location",
@@ -5649,7 +5730,8 @@
                     "hourglass",
                     "slash",
                     "star"
-                ]
+                ],
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "16",
             "project_number": "129",
@@ -5664,7 +5746,8 @@
                 "victory": "",
                 "traits": "",
                 "text": "<i>\u201eDer Schlarg widersteht allen Bestechungs-<br>versuchen\u201c, sinniert der Bankier, \u201eund muss daher an einer Schotterbank zu finden sein.\u201c Du bezweifelst den Zusammenhang, aber die nassen Fu\u00dfspuren, die du am Flussufer findest, sind Beweis genug, um die Jagd hier fortzusetzen.</i>\n<for> Wenn sich genau 2 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
-                "name": "<name>"
+                "name": "<name>",
+                "collection": "<esn>/<est>        <exi>  <exn>a"
             },
             "back": {
                 "type": "location",
@@ -5684,7 +5767,8 @@
                     "hourglass",
                     "slash",
                     "star"
-                ]
+                ],
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "15",
             "project_number": "128",
@@ -5698,7 +5782,8 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eEs hat unseren Impuls aufgegriffen\u201c beklagt sich der Billard-Mark\u00f6r, w\u00e4hrend er sich die H\u00e4nde abwischt, \u201eund deshalb wird es Kreide brauchen, um die Spitze zu best\u00e4uben, vermutlich von irgendwo aus den Felsen.\u201c Seine Theorie scheint bestenfalls weit hergeholt, aber man kann die Spur aus wei\u00dfem Pulver, die den Felsen hinunterf\u00fchrt, nicht leugnen.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eEs hat unseren Impuls aufgegriffen\u201c beklagt sich der Billard-Mark\u00f6r, w\u00e4hrend er sich die H\u00e4nde abwischt, \u201eund deshalb wird es Kreide brauchen, um die Spitze zu best\u00e4uben, vermutlich von irgendwo aus den Felsen.\u201c Seine Theorie scheint bestenfalls weit hergeholt, aber man kann die Spur aus wei\u00dfem Pulver, die den Felsen hinunterf\u00fchrt, nicht leugnen.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+                "collection": "<esn>/<est>        <exi>  <exn>a"
             },
             "back": {
                 "type": "location",
@@ -5718,7 +5803,8 @@
                     "spade",
                     "moon"
                 ],
-                "flavor_text": "Die F\u00e4hrte des Billard-Mark\u00f6rs zwingt dich, eine riesige Schlucht zu \u00fcberqueren."
+                "flavor_text": "Die F\u00e4hrte des Billard-Mark\u00f6rs zwingt dich, eine riesige Schlucht zu \u00fcberqueren.",
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "18",
             "project_number": "131",
@@ -5731,7 +5817,8 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eWir m\u00fcssen von oben nach unten alles absuchen\u201c, erkl\u00e4rt der B\u00f6rsenmakler, \u201eaber beginnen wir unten, zum Wohle unserer Aktien.\u201c Obwohl diese Pr\u00e4misse dir fragw\u00fcrdig scheint, f\u00fchrt sie dich zu Spuren in weichem Schlamm und geknickten Pflanzen, die darauf hindeuten, dass hier vor kurzem ein Tier vorbeigekommen ist.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eWir m\u00fcssen von oben nach unten alles absuchen\u201c, erkl\u00e4rt der B\u00f6rsenmakler, \u201eaber beginnen wir unten, zum Wohle unserer Aktien.\u201c Obwohl diese Pr\u00e4misse dir fragw\u00fcrdig scheint, f\u00fchrt sie dich zu Spuren in weichem Schlamm und geknickten Pflanzen, die darauf hindeuten, dass hier vor kurzem ein Tier vorbeigekommen ist.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+                "collection": "<esn>/<est>        <exi>  <exn>a"
             },
             "back": {
                 "type": "location",
@@ -5751,7 +5838,8 @@
                     "square",
                     "slash",
                     "moon"
-                ]
+                ],
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "21",
             "project_number": "134",
@@ -5764,7 +5852,8 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eEs gibt nichts, was dieses Biest zufriedenstellen k\u00f6nnte!\u201c, verzweifelt der Hutmacher. \u201eWenn es keinen Hut tragen will, muss es wohl drinnen leben!\u201c Du h\u00e4ltst dich mit einer Antwort zur\u00fcck, aber das Echo eines seltsamen Tieres aus einer abgelegenen H\u00f6hle l\u00e4sst dich umdenken.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eEs gibt nichts, was dieses Biest zufriedenstellen k\u00f6nnte!\u201c, verzweifelt der Hutmacher. \u201eWenn es keinen Hut tragen will, muss es wohl drinnen leben!\u201c Du h\u00e4ltst dich mit einer Antwort zur\u00fcck, aber das Echo eines seltsamen Tieres aus einer abgelegenen H\u00f6hle l\u00e4sst dich umdenken.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+                "collection": "<esn>/<est>        <exi>  <exn>a"
             },
             "back": {
                 "type": "location",
@@ -5784,7 +5873,8 @@
                     "square",
                     "slash",
                     "moon"
-                ]
+                ],
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "19",
             "project_number": "132",
@@ -5797,7 +5887,8 @@
                 "type": "story",
                 "victory": "",
                 "traits": "",
-                "text": "<i>\u201eWir haben uns bei dieser Verfolgung die Sohlen abgelaufen\u201c, murrt der Bootblack und starrt auf ein Loch in seinem Schuh. \u201eUnd doch hat der Schlarg seine eigenen Schuhe nicht abgenutzt. Er muss stattdessen klettern!\u201c Diese Vermutung erscheint dir nicht ganz richtig, aber du erkennst eine Bewegung an einer nahe gelegenen Klippe.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel."
+                "text": "<i>\u201eWir haben uns bei dieser Verfolgung die Sohlen abgelaufen\u201c, murrt der Bootblack und starrt auf ein Loch in seinem Schuh. \u201eUnd doch hat der Schlarg seine eigenen Schuhe nicht abgenutzt. Er muss stattdessen klettern!\u201c Diese Vermutung erscheint dir nicht ganz richtig, aber du erkennst eine Bewegung an einer nahe gelegenen Klippe.</i>\n<for> Wenn sich genau 3 Orte ohne Horror im Spiel befinden: Drehe diese Karte um und bringe sie ins Spiel.",
+                "collection": "<esn>/<est>        <exi>  <exn>a"
             },
             "back": {
                 "type": "location",
@@ -5818,7 +5909,8 @@
                     "moon"
                 ],
                 "flavor_text": "Die Route des Bootblacks f\u00fchrt dich zu einem kleinen Felsvorsprung an einer steilen Felswand.",
-                "illustration_pan_y": 30.0
+                "illustration_pan_y": 30.0,
+                "collection": "<esn>/<est>          <exi>     <exn>b"
             },
             "encounter_number": "20",
             "project_number": "133",
@@ -6321,7 +6413,8 @@
                 "text": "",
                 "flavor_text": "Umgest\u00fcrzte Baumst\u00e4mme und verhedderte Str\u00e4ucher bedecken die Senke des kleinen Tals. Das schreckt aber weder Karten noch Schachfiguren davon ab, von ihren H\u00fcgeln herab zu marschieren.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "6",
             "project_number": "153",
@@ -6360,7 +6453,8 @@
                 "text": "",
                 "flavor_text": "Dideldum steht auf diesem H\u00fcgel. <br>Mit verschr\u00e4nkten Armen blickt er w\u00fctend \u00fcber das Tal zu seinem Bruder.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "7",
             "project_number": "154",
@@ -6398,7 +6492,8 @@
                 "text": "",
                 "flavor_text": "Dideldei steht oben auf seinem H\u00fcgel. <br>Die Arme in die H\u00fcften gestemmt zeigt er seine Unzufriedenheit.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "8",
             "project_number": "155",
@@ -6434,7 +6529,8 @@
                 "text": "",
                 "flavor_text": "Der Weg auf der Nordseite von Dideldums H\u00fcgel ist voller Karten, die ins zentrale Tal dr\u00e4ngen. Du musst dir vielleicht einen anderen R\u00fcckweg suchen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "9",
             "project_number": "156",
@@ -6470,7 +6566,8 @@
                 "text": "",
                 "flavor_text": "Der Weg auf der Nordseite von Dideldums H\u00fcgel ist voller Karten, die ins zentrale Tal dr\u00e4ngen. Du musst dir vielleicht einen anderen R\u00fcckweg suchen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "10",
             "project_number": "157",
@@ -6506,7 +6603,8 @@
                 "text": "",
                 "flavor_text": "Die Nordseite von Dideldeis H\u00fcgel ist \u00fcberlaufen von Schachfiguren, die sich in die Schlacht st\u00fcrzen wollen. Du musst dir vielleicht einen anderen R\u00fcckweg suchen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "11",
             "project_number": "158",
@@ -6542,7 +6640,8 @@
                 "text": "",
                 "flavor_text": "Die Nordseite von Dideldeis H\u00fcgel ist \u00fcberlaufen von Schachfiguren, die sich in die Schlacht st\u00fcrzen wollen. Du musst dir vielleicht einen anderen R\u00fcckweg suchen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "12",
             "project_number": "159",
@@ -6578,7 +6677,8 @@
                 "text": "",
                 "flavor_text": "Der Weg auf der S\u00fcdseite von Dideldums H\u00fcgel ist \u00fcbers\u00e4t mit Karten, die ins Tal hinunterst\u00fcrzen. Du musst dir vielleicht einen anderen R\u00fcckweg suchen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "13",
             "project_number": "160",
@@ -6619,7 +6719,8 @@
                     "square",
                     "t",
                     "slash"
-                ]
+                ],
+                "collection": "<exi>            "
             },
             "encounter_number": "14",
             "project_number": "161",
@@ -6655,7 +6756,9 @@
                 "text": "",
                 "flavor_text": "Der Weg auf der S\u00fcdseite von Dideldeis H\u00fcgel ist buchst\u00e4blich \u00fcbers\u00e4t mit Schachfiguren, die alle drauf aus sind, zu k\u00e4mpfen.  Du musst dir vielleicht einen anderen R\u00fcckweg suchen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            ",
+                "copyright": "<copyright>"
             },
             "encounter_number": "15",
             "project_number": "162",
@@ -6695,7 +6798,8 @@
                     "triangle",
                     "cross",
                     "double_slash"
-                ]
+                ],
+                "collection": "<exi>            "
             },
             "encounter_number": "16",
             "project_number": "163",
@@ -6748,7 +6852,8 @@
                 "illustration_pan_x": -717.0,
                 "illustration_pan_y": -52.0,
                 "illustration_scale": 2.28,
-                "sanity": "<dash>"
+                "sanity": "<dash>",
+                "collection": "<esn>/<est>        <exi><exn>a"
             },
             "back": {
                 "type": "asset",
@@ -6769,7 +6874,8 @@
                 "illustration_scale": 2.28,
                 "illustration_pan_x": -717.0,
                 "illustration_pan_y": -52.0,
-                "level": "None"
+                "level": "None",
+                "collection": "<esn>/<est>        <exi><exn>b"
             },
             "encounter_number": "17",
             "project_number": "164",
@@ -6798,7 +6904,8 @@
                 "name": "<unique><name>",
                 "illustration_pan_y": 0.0,
                 "illustration_pan_x": 70.0,
-                "sanity": "<dash>"
+                "sanity": "<dash>",
+                "collection": "<esn>/<est>        <exi><exn>a"
             },
             "back": {
                 "type": "asset",
@@ -6819,7 +6926,8 @@
                 "illustration_scale": 2.28,
                 "illustration_pan_x": 70.0,
                 "illustration_pan_y": 0.0,
-                "level": "None"
+                "level": "None",
+                "collection": "<esn>/<est>        <exi><exn>b"
             },
             "encounter_number": "18",
             "project_number": "165",
@@ -7135,7 +7243,8 @@
                 "subtitle": "",
                 "flavor_text": "Die meisten wei\u00dfen Schachfiguren stehen gedr\u00e4ngt in der wei\u00dfen Burg, z\u00f6gernd, aber sichtlich besorgt, w\u00e4hrend sie auf die schattige andere Seite des Bretts blicken.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "7",
             "project_number": "179",
@@ -7172,7 +7281,8 @@
                 "text": "",
                 "flavor_text": "Die Befestigungen der wei\u00dfen Schachfiguren enden auf diesem Feld. Dahinter liegt ein offenes Schlachtfeld.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "8",
             "project_number": "180",
@@ -7211,7 +7321,8 @@
                 "subtitle": "",
                 "flavor_text": "Die weiten Felder sind perfekt quadratisch, doch dichte Heckenreihen versperren dir den Weg zu jeder anderen Spalte dieses Schachbretts.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "9",
             "project_number": "181",
@@ -7249,7 +7360,8 @@
                 "subtitle": "",
                 "flavor_text": "Die Sonne scheint in verstreuten Strahlen, w\u00e4hrend die Dunkelheit von der anderen H\u00e4lfte des Bretts her\u00fcberzieht.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "10",
             "project_number": "182",
@@ -7288,7 +7400,8 @@
                 "text": "Als zus\u00e4tzliche Kosten, um die f\u00fcnfte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
                 "flavor_text": "Eine Spalte im Feld trennt die vierte von der f\u00fcnften Reihe. Am Grund wirbeln Schatten, die ihre Tiefe verschleiern.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "11",
             "project_number": "183",
@@ -7327,7 +7440,8 @@
                 "text": "Als zus\u00e4tzliche Kosten, um die sechste Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
                 "flavor_text": "Das Gel\u00e4nde wird unwegsamer mit jedem Schritt, den du in feindliches Gebiet vorr\u00fcckst.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "12",
             "project_number": "184",
@@ -7365,7 +7479,8 @@
                 "text": "Als zus\u00e4tzliche Kosten, um die siebte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
                 "flavor_text": "Die \u00e4u\u00dferen Befestigungen der roten Burg liegen in Tr\u00fcmmern, aber viele korrumpierte Figuren lauern immer noch in ihnen.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "13",
             "project_number": "185",
@@ -7406,7 +7521,8 @@
                 "text": "Als zus\u00e4tzliche Kosten, um die achte Reihe zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
                 "flavor_text": "Eine wirbelnde Decke aus Dunkelheit verh\u00fcllt das letzte Feld fast vollst\u00e4ndig.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "14",
             "project_number": "186",
@@ -7444,7 +7560,8 @@
                 "text": "Du kannst das ferne Feld nicht betreten.\n<action> Gib 1<per_large> Hinweise als Gruppe aus: Enth\u00fclle das ferne Feld. Jeder Ermittler darf diese F\u00e4higkeit von einem beliebigen Ort aktivieren.",
                 "flavor_text": "Aus dem Augenwinkel kannst du sehen, wie sich Schachfiguren auf dieses Feld bewegen, aber es scheint meilenweit entfernt zu sein.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "collection": "<exi>            "
             },
             "encounter_number": "15",
             "project_number": "187",
@@ -8871,7 +8988,8 @@
                 "subtitle": "Wahnsinniger Wegweiser",
                 "classes": [
                     "story"
-                ]
+                ],
+                "collection": "<esn>/<est>        <exi><exn>a"
             },
             "back": {
                 "type": "asset",
@@ -8889,7 +9007,8 @@
                 "slot": "None",
                 "level": "None",
                 "name": "<unique><name>",
-                "flavor_text": "\u201eWenn du nicht wei\u00dft, wohin du gehen willst,<br>dann spielt es keine Rolle, welchen Weg du einschl\u00e4gst.\u201c"
+                "flavor_text": "\u201eWenn du nicht wei\u00dft, wohin du gehen willst,<br>dann spielt es keine Rolle, welchen Weg du einschl\u00e4gst.\u201c",
+                "collection": "<esn>/<est>        <exi><exn>b"
             },
             "encounter_number": "1",
             "project_number": "263",
@@ -9976,7 +10095,8 @@
                 "illustrator": "Illus. Daria Chu",
                 "traits": "Wunderland. Tulger Wald.",
                 "illustration_scale": 1.48,
-                "illustration_pan_y": 0
+                "illustration_pan_y": 0,
+                "collection": "<exi>            "
             },
             "encounter_set": "0cf1e22b-5f33-45cf-a5ff-185d29a54fe6",
             "name": "Geweech",
@@ -10091,7 +10211,8 @@
                 "name": "<name>",
                 "traits": "Arkham.",
                 "victory": "",
-                "flavor_text": "Der Teil Arkhams, in der der ganze \u00c4rger seinen Anfang nahm. \u00dcberraschenderweise ist die Innenstadt gr\u00f6\u00dftenteils wieder zum Normalzustand zur\u00fcckgekehrt."
+                "flavor_text": "Der Teil Arkhams, in der der ganze \u00c4rger seinen Anfang nahm. \u00dcberraschenderweise ist die Innenstadt gr\u00f6\u00dftenteils wieder zum Normalzustand zur\u00fcckgekehrt.",
+                "collection": "<exi>              "
             },
             "encounter_number": "13",
             "project_number": "211",
