@@ -596,7 +596,8 @@
                 "illustrator": "Illus. Masateru Ikeda",
                 "illustration_pan_x": 800.0,
                 "clues": "<dash>",
-                "flavor_text": "Obwohl die Leere die Schatten und letzten Spuren von Alices Traum an sich zieht, widersetzt sich Gurathnaka ihrem Sog, und sein unaufh\u00f6rliches Heulen hallt in deinen Knochen wider. Seine unbeschreibliche Stimme spricht eine urzeitliche Angst in dir an, doch der einzige Weg, diesen Albtraum zu \u00fcberleben, besteht darin, den Traumfresser zu verbannen."
+                "flavor_text": "Obwohl die Leere die Schatten und letzten Spuren von Alices Traum an sich zieht, widersetzt sich Gurathnaka ihrem Sog, und sein unaufh\u00f6rliches Heulen hallt in deinen Knochen wider. Seine unbeschreibliche Stimme spricht eine urzeitliche Angst in dir an, doch der einzige Weg, diesen Albtraum zu \u00fcberleben, besteht darin, den Traumfresser zu verbannen.",
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -621,7 +622,8 @@
                 "index": "1a",
                 "illustrator": "Illus. Yoojin Rhee",
                 "illustration_pan_x": -887.0,
-                "illustration_pan_y": 0.0
+                "illustration_pan_y": 0.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -646,7 +648,8 @@
                 "doom": "7",
                 "index": "2a",
                 "illustrator": "Illus. Yoojin Rhee",
-                "illustration_pan_x": -887.0
+                "illustration_pan_x": -887.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -670,7 +673,8 @@
                 "index": "3a",
                 "illustrator": "Illus. Yoojin Rhee",
                 "illustration_pan_x": -887.0,
-                "flavor_text": "Das schwindende Licht der D\u00e4mmerung und die wenigen verbliebenen Stra\u00dfenlaternen von Arkham erhellen deinen Weg, w\u00e4hrend du dich beeilst wie nie zuvor. Wenn die Dunkelheit die Stadt \u00fcberzieht, wird dies nicht nur f\u00fcr dich, sondern f\u00fcr alles Leben auf der Erde das Ende bedeuten."
+                "flavor_text": "Das schwindende Licht der D\u00e4mmerung und die wenigen verbliebenen Stra\u00dfenlaternen von Arkham erhellen deinen Weg, w\u00e4hrend du dich beeilst wie nie zuvor. Wenn die Dunkelheit die Stadt \u00fcberzieht, wird dies nicht nur f\u00fcr dich, sondern f\u00fcr alles Leben auf der Erde das Ende bedeuten.",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -686,7 +690,7 @@
             "id": "6c5ef2b9-f3a2-4c2b-a14b-c246c74dc9ca"
         },
         {
-            "name": "Klarer Albtraum",
+            "name": "<dbl>Klarer Albtraum</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -1617,7 +1621,8 @@
                 "clues": "2<per>",
                 "index": "1a",
                 "illustrator": "Illus. Nyctoinc",
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -1639,7 +1644,8 @@
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "2a",
                 "illustrator": "Illus. Nyctoinc",
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -1665,7 +1671,8 @@
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Nyctoinc",
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -1689,7 +1696,8 @@
                 "illustration": "./images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Nyctoinc",
-                "illustration_scale": 1.0
+                "illustration_scale": 1.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -1713,7 +1721,8 @@
                 "doom": "3",
                 "index": "1a",
                 "illustrator": "Illus. Erik Johansson",
-                "illustration_pan_x": -480.0
+                "illustration_pan_x": -480.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -1728,7 +1737,7 @@
             "id": "92b331aa-dab5-4502-9071-f39ad473a555"
         },
         {
-            "name": "Arkham im Wunderland",
+            "name": "<dbl>Arkham im Wunderland</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -2291,7 +2300,8 @@
                 "clues": "4<per>",
                 "index": "2a",
                 "illustrator": "Illus. Aernout van Pallandt",
-                "illustration_pan_x": 400.0
+                "illustration_pan_x": 400.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -2314,7 +2324,8 @@
                 "illustration": "./images/Environment - Aernout van Pallandt 1.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Aernout van Pallandt",
-                "illustration_pan_x": 400.0
+                "illustration_pan_x": 400.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -2339,7 +2350,8 @@
                 "doom": "5",
                 "index": "1a",
                 "illustrator": "Illus. Zdzis\u0142aw Beksi\u0144ski",
-                "illustration_pan_x": -200.0
+                "illustration_pan_x": -200.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2365,7 +2377,8 @@
                 "index": "2a",
                 "illustrator": "Illus. Zdzis\u0142aw Beksi\u0144ski",
                 "doom": "<dash>",
-                "illustration_pan_x": -200.0
+                "illustration_pan_x": -200.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -2381,7 +2394,7 @@
             "id": "34305ebf-f88c-4ee7-b110-66ff2f23a277"
         },
         {
-            "name": "Ein Meer an Plagen",
+            "name": "<dbl>Ein Meer an Plagen</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -2615,7 +2628,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<reaction> Nachdem du an diesem Ort einen Gegner besiegt hast: Lege X Austern auf diesen Ort, wobei X die Ausdauer des Gegners minus 1 ist (Minimum 1).",
+                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<reaction> Nachdem du an diesem Ort einen Gegner besiegt hast: Lege X Austern auf diesen Ort, wobei X die Ausdauer des Gegners minus 1 ist (Minimum 1).\n\n",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Environment - Alex van der Linde 13.jpg",
@@ -2903,7 +2916,7 @@
                 "attack": "3",
                 "damage": 1,
                 "horror": 0,
-                "flavor_text": "\u201eUnd kleine Fische schwimmen ein.\nIns gro\u00dfe L\u00e4chelmaul!\u201c",
+                "flavor_text": "\u201eUnd kleine Fische schwimmen ein.<br>Ins gro\u00dfe L\u00e4chelmaul!\u201c",
                 "victory": "",
                 "illustration": "./images/Crocodile - Pam Gutti.jpg",
                 "illustrator": "Illus. Pam Gutti",
@@ -3058,7 +3071,8 @@
                 "illustrator": "Illus. LCQ92",
                 "illustration_scale": 0.52,
                 "illustration_pan_x": 790.0,
-                "illustration_pan_y": -170.0
+                "illustration_pan_y": -170.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -3083,7 +3097,8 @@
                 "illustrator": "Illus. LCQ92",
                 "illustration_pan_y": -170.0,
                 "illustration_pan_x": 790.0,
-                "illustration_scale": 0.52
+                "illustration_scale": 0.52,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -3107,7 +3122,8 @@
                 "doom": "6",
                 "index": "1a",
                 "illustrator": "Illus. Unknown",
-                "illustration_pan_x": -80.0
+                "illustration_pan_x": -80.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3132,7 +3148,8 @@
                 "doom": "6",
                 "index": "2a",
                 "illustrator": "Illus. Unknown",
-                "illustration_pan_x": -80.0
+                "illustration_pan_x": -80.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3157,7 +3174,8 @@
                 "index": "3a",
                 "illustrator": "Illus. Unknown",
                 "illustration_pan_y": 0.0,
-                "illustration_pan_x": -80.0
+                "illustration_pan_x": -80.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3182,7 +3200,8 @@
                 "illustrator": "Illus. Gregory Hildebrandt",
                 "doom": "<dash>",
                 "illustration_scale": 1.1,
-                "illustration_pan_x": -60.0
+                "illustration_pan_x": -60.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3207,7 +3226,8 @@
                 "index": "2c",
                 "illustrator": "Illus. Gregory Hildebrandt",
                 "illustration_pan_x": -60.0,
-                "illustration_scale": 1.1
+                "illustration_scale": 1.1,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3233,7 +3253,8 @@
                 "doom": "<dash>",
                 "illustration_pan_y": 0.0,
                 "illustration_scale": 1.1,
-                "illustration_pan_x": -60.0
+                "illustration_pan_x": -60.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -3258,7 +3279,8 @@
                 "index": "3c",
                 "illustrator": "Illus. Gregory Hildebrandt",
                 "illustration_scale": 1.1,
-                "illustration_pan_x": -60.0
+                "illustration_pan_x": -60.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_agenda_full_back",
@@ -3276,7 +3298,7 @@
             "amount": 1
         },
         {
-            "name": "Sturm im Teeglas",
+            "name": "<dbl>Sturm im Teeglas</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -4022,7 +4044,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Stuhl.",
-                "text": "<for> Nachdem du den <name> betreten hast: Lege Hinweise auf diesen Ort, bis X Hinweise darauf liegen. X entspricht der h\u00f6chsten Zahl an Munition, Vorr\u00e4ten, Ladungen oder Geheimnissen auf einem Vorteil, den du <br>kontrollierst.",
+                "text": "<for> Nachdem du den <name> betreten hast: Lege Hinweise auf diesen Ort, bis X Hinweise darauf liegen. X entspricht der h\u00f6chsten Zahl an Munition, Vorr\u00e4ten, Ladungen oder Ge-<br>heimnissen auf einem Vorteil, den du kontrollierst.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Chair - Stool.jpg",
@@ -4247,7 +4269,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nDu kannst nicht verhandeln.\n<free> Lege <name> ab. Falls du \u201eschreckliche Tischmanieren hast\u201c, nimm 2 Horror. Ansonsten merke dir, dass du \u201eschreckliche Tischmanieren<br> hast\u201c.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nDu kannst nicht verhandeln.\n<free> Lege <name> ab. Falls du \u201eschreck-<br>liche Tischmanieren hast\u201c, nimm 2 Horror. Ansonsten merke dir, dass du \u201eschreckliche Tischmanieren hast\u201c.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Mad Hatter - Snugglestab 1.jpg",
@@ -4390,7 +4412,8 @@
                 "illustrator": "Illus. Scott Gustafson",
                 "illustration_pan_x": 945.0,
                 "illustration_pan_y": 91.0,
-                "illustration_scale": 2.1
+                "illustration_scale": 2.1,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -4416,7 +4439,8 @@
                 "illustrator": "Illus. Scott Gustafson",
                 "illustration_scale": 2.1,
                 "illustration_pan_x": 945.0,
-                "illustration_pan_y": 91.0
+                "illustration_pan_y": 91.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -4441,7 +4465,8 @@
                 "illustrator": "Illus. Scott Gustafson",
                 "illustration_pan_y": 91.0,
                 "illustration_pan_x": 945.0,
-                "illustration_scale": 2.1
+                "illustration_scale": 2.1,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -4464,7 +4489,8 @@
                 "illustration": "./images/Miscellaneous - Marylou Deserson.jpg",
                 "doom": "7",
                 "index": "1a",
-                "illustrator": "Illus. Marylou Deserson"
+                "illustrator": "Illus. Marylou Deserson",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -4487,7 +4513,8 @@
                 "illustration": "./images/Miscellaneous - Marylou Deserson.jpg",
                 "doom": "7",
                 "index": "2a",
-                "illustrator": "Illus. Marylou Deserson"
+                "illustrator": "Illus. Marylou Deserson",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -4510,7 +4537,8 @@
                 "illustration": "./images/Miscellaneous - Marylou Deserson.jpg",
                 "doom": "6",
                 "index": "3a",
-                "illustrator": "Illus. Marylou Deserson"
+                "illustrator": "Illus. Marylou Deserson",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -4525,7 +4553,7 @@
             "id": "dfb6018d-e17b-4352-b6f1-ace36004cc53"
         },
         {
-            "name": "Blutende Herzen",
+            "name": "<dbl>Blutende Herzen</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -5240,7 +5268,8 @@
                 "illustrator": "Illus. Jeffrey Fisher",
                 "illustration_scale": 2.26,
                 "illustration_pan_x": -218.0,
-                "illustration_pan_y": -210.0
+                "illustration_pan_y": -210.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -5265,7 +5294,8 @@
                 "illustrator": "Illus. Jeffrey Fisher",
                 "illustration_pan_x": -218.0,
                 "illustration_pan_y": -210.0,
-                "illustration_scale": 2.26
+                "illustration_scale": 2.26,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -5290,7 +5320,8 @@
                 "flavor_text": "\u201eDas ist unsere Chance!\u201c, br\u00fcllt der B\u00fcttel. \u201eSucht es mit Fingerh\u00fcten, sucht es mit Sorgfalt! Verfolgt es mit Gabeln und Hoffnung! Bedroht sein Leben mit einer Eisenbahn-Aktie! Bezaubert es mit L\u00e4cheln und Seife! Variiert nur eure Methoden, sonst k\u00f6nnte der Schlarg misstrauisch werden!\u201c",
                 "illustration_scale": 2.26,
                 "illustration_pan_x": -218.0,
-                "illustration_pan_y": -210.0
+                "illustration_pan_y": -210.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -5313,7 +5344,8 @@
                 "illustration": "./images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
                 "doom": "3",
                 "index": "1a",
-                "illustrator": "Illus. Antonio Jos\u00e9 Manzanedo"
+                "illustrator": "Illus. Antonio Jos\u00e9 Manzanedo",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -5336,7 +5368,8 @@
                 "illustration": "./images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
                 "doom": "5",
                 "index": "2a",
-                "illustrator": "Illus. Antonio Jos\u00e9 Manzanedo"
+                "illustrator": "Illus. Antonio Jos\u00e9 Manzanedo",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -5360,7 +5393,8 @@
                 "illustration": "./images/Jabberwock - Antonio Jos\u00e9 Manzanedo.jpg",
                 "doom": "8",
                 "index": "3a",
-                "illustrator": "Illus. Antonio Jos\u00e9 Manzanedo"
+                "illustrator": "Illus. Antonio Jos\u00e9 Manzanedo",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -5375,7 +5409,7 @@
             "id": "9835ddb3-3523-41ea-9501-07003e930a8c"
         },
         {
-            "name": "Eine wilde Schlarg-Jagd",
+            "name": "<dbl>Eine wilde Schlarg-Jagd</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -6233,7 +6267,8 @@
                 "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez",
                 "illustration_scale": 2.42,
                 "illustration_pan_x": -1288.0,
-                "illustration_pan_y": -29.0
+                "illustration_pan_y": -29.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -6259,7 +6294,8 @@
                 "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez",
                 "illustration_scale": 2.42,
                 "illustration_pan_x": -1288.0,
-                "illustration_pan_y": -29.0
+                "illustration_pan_y": -29.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -6284,7 +6320,8 @@
                 "illustrator": "Illus. Jes\u00fas Campos Jim\u00e9nez",
                 "illustration_scale": 2.42,
                 "illustration_pan_x": -1288.0,
-                "illustration_pan_y": -29.0
+                "illustration_pan_y": -29.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -6311,7 +6348,8 @@
                 "illustrator": "Illus. Darek Zabrocki",
                 "illustration_pan_x": -1245.0,
                 "illustration_pan_y": 0.0,
-                "illustration_scale": 2.9
+                "illustration_scale": 2.9,
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -6327,7 +6365,7 @@
             "id": "96529f78-cb92-4880-9deb-0b55ede55564"
         },
         {
-            "name": "Geschwisterrivalit\u00e4t",
+            "name": "<dbl>Geschwisterrivalit\u00e4t</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -7049,7 +7087,8 @@
                 "flavor_text": "Du kannst die Silhouette des Schlosses des Roten K\u00f6nigs kaum zwischen den dunklen Wolken vor dir erkennen. Es d\u00fcrfte eine ziemliche Tortur werden, die zerst\u00f6rte H\u00e4lfte des Schachbrettfeldes zu \u00fcberqueren.",
                 "illustration": "./images/Chess - WasteofRAM.png",
                 "index": "1a",
-                "illustrator": "Illus. WasteofRAM"
+                "illustrator": "Illus. WasteofRAM",
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -7071,7 +7110,8 @@
                 "flavor_text": "Der Rote K\u00f6nig gibt keine Befehle und schreit auch nicht Alarm, aber seine Schergen verfolgen dich bis ins Schloss, w\u00e4hrend die Schatten versuchen, das Licht hinter dir zu ersticken. Dein einziger Ausweg ist der Sieg, hier und jetzt.",
                 "illustration": "./images/Chess - WasteofRAM.png",
                 "index": "2a",
-                "illustrator": "Illus. WasteofRAM"
+                "illustrator": "Illus. WasteofRAM",
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -7094,7 +7134,8 @@
                 "illustration": "./images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "4",
                 "index": "1a",
-                "illustrator": "Illus. Mihai-Ovidiu Juganaru"
+                "illustrator": "Illus. Mihai-Ovidiu Juganaru",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -7118,7 +7159,8 @@
                 "doom": "4",
                 "index": "2a",
                 "illustrator": "Illus. Mihai-Ovidiu Juganaru",
-                "flavor_text": "Die Schlacht auf den Schachbrettfeldern geht mit zunehmender Heftigkeit weiter. Rote Figuren str\u00f6men mit enormem Tempo aus der dunklen H\u00e4lfte des Bretts hervor, um deinen Angriff abzuwehren."
+                "flavor_text": "Die Schlacht auf den Schachbrettfeldern geht mit zunehmender Heftigkeit weiter. Rote Figuren str\u00f6men mit enormem Tempo aus der dunklen H\u00e4lfte des Bretts hervor, um deinen Angriff abzuwehren.",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -7141,7 +7183,8 @@
                 "doom": "8",
                 "index": "3a",
                 "illustrator": "Illus. Mihai-Ovidiu Juganaru",
-                "flavor_text": "W\u00e4hrend die Rote K\u00f6nigin auf dich zukommt, breiten sich die Schatten mit der Geschwindigkeit eines Lauffeuer in Richtung der wei\u00dfen Burg aus. Die Dunkelheit beginnt, den Himmel zu verschlingen, und jedes St\u00fcck der Landschaft erscheint wie eine verdunkelte Kopie seiner selbst."
+                "flavor_text": "W\u00e4hrend die Rote K\u00f6nigin auf dich zukommt, breiten sich die Schatten mit der Geschwindigkeit eines Lauffeuer in Richtung der wei\u00dfen Burg aus. Die Dunkelheit beginnt, den Himmel zu verschlingen, und jedes St\u00fcck der Landschaft erscheint wie eine verdunkelte Kopie seiner selbst.",
+                "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
@@ -7157,7 +7200,7 @@
             "id": "5fc07e9c-5267-4663-ab56-75802cbdf675"
         },
         {
-            "name": "Narrenmatt",
+            "name": "<dbl>Narrenmatt</dbl>",
             "front": {
                 "type": "chaos",
                 "entries": [
@@ -9996,7 +10039,8 @@
                 "illustration": "./images/Environment - Aernout van Pallandt 1.jpg",
                 "index": "1a",
                 "illustrator": "Illus. Aernout van Pallandt",
-                "illustration_pan_x": 400.0
+                "illustration_pan_x": 400.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -10021,7 +10065,8 @@
                 "illustrator": "Illus. LCQ92",
                 "illustration_pan_x": 790.0,
                 "illustration_scale": 0.52,
-                "illustration_pan_y": -170.0
+                "illustration_pan_y": -170.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
@@ -10172,7 +10217,8 @@
                 "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand. Alice spielt diese Karte. Die Ermittler d\u00fcrfen Alice an einen verbundenen Ort bewegen.\n<reaction> Nachdem du Gurathnaka erfolgreich angegriffen hast: Entdecke 1 Hinweis an deinem Ort.\n<obj> Sobald sich kein <t>Wunderland</t>-Ort im Spiel befindet, r\u00fccke sofort vor.",
                 "illustrator": "Illus. Masateru Ikeda",
                 "illustration": "./images/Rabbit Hole - Masateru Ikeda.jpg",
-                "illustration_pan_x": 800.0
+                "illustration_pan_x": 800.0,
+                "name": "<name>"
             },
             "back": {
                 "type": "act_back",
