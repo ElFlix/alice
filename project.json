@@ -2109,7 +2109,6 @@
                 "subtitle": "Paradoxes Portal",
                 "traits": "Wunderland. Gegenstand. Relikt.",
                 "text": "<reaction> Nachdem du erfolgreich am verlassenen Haus ermittelt hast: Statt Hinweise zu entdecken, darfst du einen deiner Hinweise auf dem Spiegel platzieren.\n<act> Entferne 3 Hinweise vom Spiegel: <b>Aufgeben.</b> Du trittst durch den Spiegel.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -2138,7 +2137,6 @@
                 "subtitle": "Chronophobes Karnickel",
                 "traits": "Wunderland. Kreatur. Wanderer.",
                 "text": "<for> Am Ende der Runde: Bewege das Kaninchen zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.\n<reaction> Wenn du den Ort betrittst, an dem sich das Kaninchen befindet: Lege eine <int>- oder <agi>-Probe (4) ab. Du darfst eine beliebige Anzahl an Hinweisen ausgeben, um f\u00fcr jeden so ausgegebenen Hinweis +2 auf deinen Fertigkeitswert f\u00fcr diese Probe zu erhalten. Falls die Probe gelingt, platziere 1 Hinweis aus dem Vorrat auf der aktuellen Szene. Bewege in jedem Fall das Kaninchen zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -2712,7 +2710,6 @@
                 "subtitle": "Pechvogel",
                 "traits": "Wunderland. Kreatur. Verb\u00fcndeter.",
                 "text": "<free> Ersch\u00f6pfe <name>: Bewege Bill an einen verbundenen Ort. Du darfst beliebig viele Austern mit Bill bewegen <i>(solange sie das Limit von 6 Austern an einem Ort nicht \u00fcberschreiten)</i>.",
-                "cost": "<dash>",
                 "health": "1",
                 "sanity": "1",
                 "flavor_text": "\u201eDa fliegt Bill!\u201c",
@@ -2745,7 +2742,6 @@
                 "subtitle": "Schlaues Schalentier",
                 "traits": "Wunderland. Kreatur. Verb\u00fcndeter.",
                 "text": "<reaction> Ersch\u00f6pfe w\u00e4hrend einer Fertigkeitsprobe Die \u00c4lteste Auster: Du bekommst +X auf den Fertigkeits-<br>wert dieser Probe. X ist die Anzahl an Austern an deinem Ort. Jeder Ermittler am Ort von <name> darf diese F\u00e4higkeit aktivieren.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -4938,7 +4934,6 @@
                 "subtitle": "Majest\u00e4tischer Magistrat",
                 "traits": "Wunderland. Karte. Adlig.",
                 "text": "<action>: <b>Verhandlung.</b> Bewege bis zu 3 Anschuldigungen von deiner Kopie von K\u00f6niglicher Verdacht auf eine andere Kopie von K\u00f6niglicher Verdacht.\n<action>: Gib eine beliebige Anzahl Ressourcen aus: <b>Verhandlung.</b> F\u00fcr je drei ausgegebene Ressourcen darfst du 1 Anschuldigung von deiner Kopie von K\u00f6niglicher Verdacht entfernen.",
-                "cost": "<dash>",
                 "flavor_text": "Seiner \"Verurteilung\" folgt meist auch eine \"Teilung\".",
                 "victory": "",
                 "classes": [
@@ -6876,7 +6871,6 @@
                 "subtitle": "Zankhafter Zwilling",
                 "traits": "Wunderland. Humanoid.",
                 "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1<per_large> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Siegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <br><b>(<resolution>A2).</b>",
-                "cost": "<dash>",
                 "health": "3",
                 "flavor_text": "",
                 "victory": "Sieg 0.",
@@ -6904,7 +6898,6 @@
                 "flavor_text": "Die Riesenkr\u00e4he flog herzu, <br>So schwarz wie Pech im Fasse;<br> Das Heldenpaar gab sogleich Ruh,<br>Entsagend allem Hasse.",
                 "victory": "Sieg 2.",
                 "title": "<unique> <name>",
-                "cost": "<dash>",
                 "classes": [
                     "story"
                 ],
@@ -6928,7 +6921,6 @@
                 "subtitle": "Zankhafter Zwilling",
                 "traits": "Wunderland. Humanoid.",
                 "text": "<action>: F\u00fcge <name> 3 Schaden zu. Jeder Ermittler am Ort von <name> darf diese Aktion ausl\u00f6sen. Diese Aktion provoziert keine Gelegenheitsangriffe.\n<for> Wenn sich 1<per_large> Horror auf <name> befinden: Drehe <name> um und f\u00fcge ihn dem Siegpunktestapel hinzu.\n<for> Wenn <name> durch Schaden besiegt wird: <br><b>(<resolution>A2).</b>",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "Sieg 0.",
                 "illustration": "./images/Tweedledum Tweedledee - Lisa Falkenstern.jpg",
@@ -6956,7 +6948,6 @@
                 "flavor_text": "Die Riesenkr\u00e4he flog herzu, <br>So schwarz wie Pech im Fasse;<br> Das Heldenpaar gab sogleich Ruh,<br>Entsagend allem Hasse.",
                 "victory": "Sieg 2.",
                 "title": "<unique> <name>",
-                "cost": "<dash>",
                 "classes": [
                     "story"
                 ],
@@ -7867,7 +7858,6 @@
                 "subtitle": "Kurioser Kavalier",
                 "traits": "Wunderland. Schach. Soldat. Verr\u00fcckt.",
                 "text": "Ermittler am Ort des Wei\u00dfen Springers bekommen +1 auf jeden Fertigkeitswert w\u00e4hrend Fertigkeitsproben auf oder gegen <i>Schach</i>-<br>Karten.\n<action>: <b>Verhandlung.</b> Bewege den Wei\u00dfen Springer an einen verbundenen Ort.\n<for> Am Ende der Ermittlungsphase, falls der wei\u00dfe Springer spielbereit ist und sich am fernen Feld befindet: Bewege ihn an einen Ort mit Ermittler.",
-                "cost": "<dash>",
                 "health": "1",
                 "sanity": "4",
                 "flavor_text": "",
@@ -7927,7 +7917,7 @@
                 "text": "<reaction> Sobald ein Ermittler am Ort von Alice eine beliebige Fertigkeits-<br>probe ablegt: Der Ermittler legt die Probe stattdessen mit dem Grund-<intellect>-Fertigkeitswert von Alice ab. (Nur ein Mal pro Runde pro <br>Ermittler)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-<br>Effekts abhandeln.",
                 "health": "6",
                 "sanity": "8",
-                "illustration": "./images/Alice - Aucher-fargue Nicolas.png",
+                "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Alice - Aucher-fargue Nicolas.png",
                 "illustrator": "Illus. Aucher-fargue Nicolas",
                 "classes": [
                     "story"
@@ -9021,7 +9011,6 @@
                 "title": "<unique> <name>",
                 "traits": "Verb\u00fcndeter? Kreatur. Wunderland.",
                 "text": "Permanent.\n<reaction> Wenn dir eine Fertigkeitsprobe genau um 1 misslingen w\u00fcrde: Die Probe gelingt automatisch. Drehe die Grinsekatze um.\n<for> Wenn der Ermittler, der die Grinsekatze kontrolliert, besiegt wird oder aufgibt: W\u00e4hle einen anderen Spieler, der die Kontrolle \u00fcber die Grinsekatze \u00fcbernimmt.",
-                "cost": "<dash>",
                 "flavor_text": "\u201eDu musst es sein\u201c, sprach die Katze, \u201esonst w\u00e4rst du nicht hier.\u201c",
                 "victory": "",
                 "illustration": "./images/Cheshire Cat - Cynthia Leman.jpg",
@@ -9043,7 +9032,6 @@
                 "text": "Permanent.\n<for> Wenn dir eine Fertigkeitsprobe genau um 1 gelingen w\u00fcrde: Die Probe misslingt automatisch. Drehe die Grinsekatze um.\n<for> Wenn der Ermittler, der die Grinsekatze kontrolliert, besiegt wird oder aufgibt: W\u00e4hle einen anderen Spieler, der die Kontrolle \u00fcber die Grinsekatze \u00fcbernimmt.",
                 "victory": "",
                 "title": "<unique> <name>",
-                "cost": "<dash>",
                 "classes": [
                     "story"
                 ],
@@ -9066,7 +9054,6 @@
                 "title": "<unique> <name>",
                 "traits": "Paradox.",
                 "text": "Nachr\u00fcsten.\n<rev> Drehe Die Grinsekatze um.",
-                "cost": "<dash>",
                 "flavor_text": "\"Ich m\u00f6chte lieber nicht,\" bemerkte die Katze.",
                 "victory": "",
                 "classes": [
@@ -9696,7 +9683,6 @@
                 "subtitle": "Souver\u00e4n und Stolz",
                 "traits": "Wunderland. Gelehrter.",
                 "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9724,7 +9710,6 @@
                 "subtitle": "Gescheiter Gelehrter",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
                 "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem der letzte Hinweis von einem Ort entdeckt worden ist: Jeder Ermittler darf 1 Karte ziehen. Lege das Raupentier ab.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9752,7 +9737,6 @@
                 "subtitle": "Kluges K\u00f6pfchen",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
                 "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege Den Dodo ab.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9781,7 +9765,6 @@
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Humanoid. Adlig.",
                 "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9812,7 +9795,6 @@
                 "subtitle": "Legend\u00e4re Lakaien",
                 "traits": "Wunderland. Kreatur.",
                 "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem ein Gegner einen Gelegenheitsangriff durchgef\u00fchrt hat: Hebe diesen Angriff auf. Lege <name> ab.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9842,7 +9824,6 @@
                 "subtitle": "Gekr\u00f6nte Gegenspieler",
                 "traits": "Wunderland. Kreatur. Adlig.",
                 "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem ein Gegner besiegt oder abgelegt worden ist: Jeder Ermittler darf 1 Schaden oder 1 Horror heilen. Lege <name> ab.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9869,7 +9850,6 @@
                 "subtitle": "Sibyllinischer Souver\u00e4n",
                 "traits": "Wunderland. Schach. Adlig.",
                 "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege <name> ab.",
-                "cost": "<dash>",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
