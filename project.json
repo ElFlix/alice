@@ -7994,9 +7994,6 @@
                 "sanity": "8",
                 "illustration": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Alice - Aucher-fargue Nicolas.png",
                 "illustrator": "Illus. Aucher-fargue Nicolas",
-                "classes": [
-                    "story"
-                ],
                 "flavor_text": "\u201eMerk- und merkerw\u00fcrdiger!\u201c",
                 "willpower": "4",
                 "intellect": "4",
@@ -8004,7 +8001,10 @@
                 "agility": "2",
                 "illustration_pan_x": -465.0,
                 "illustration_pan_y": -45.0,
-                "illustration_scale": 1.74
+                "illustration_scale": 1.74,
+                "classes": [
+                    "story"
+                ]
             },
             "back": {
                 "type": "investigator_back",
@@ -8039,9 +8039,9 @@
                 "classes": [
                     "story"
                 ],
-                "illustration_scale": 1.6,
-                "illustration_pan_x": -524.0,
-                "illustration_pan_y": -179.0
+                "illustration_pan_x": -637.0,
+                "illustration_pan_y": -343.0,
+                "illustration_scale": 1.58
             },
             "encounter_number": "1",
             "project_number": "229",
