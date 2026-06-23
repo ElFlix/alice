@@ -4967,7 +4967,8 @@
                 "flavor_text": "Die Kartenwachen der K\u00f6nigin kreuzen ihre Speere, als du dich n\u00e4herst, misstrauisch gegen\u00fcber jedem, den sie des Diebstahls bezichtigt hat.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "collection": "<exi>            "
+                "collection": "<exi>            ",
+                "illustration_scale": 2.3
             },
             "encounter_number": "15",
             "project_number": "101",
