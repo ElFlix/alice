@@ -1855,7 +1855,7 @@
             },
             "back": {
                 "type": "location",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/alice/images/expanded_images/Independence Square - Unknown and Nexumorphic.jpg",
+                "illustration": "./images/expanded_images/Independence Square - Unknown and Nexumorphic.jpg",
                 "illustrator": "Illus. Unknown & Nexumorphic",
                 "name": "Independence Square",
                 "subtitle": "Beginn einer langen Nacht",
@@ -5101,7 +5101,7 @@
                 "horror": 1,
                 "flavor_text": "",
                 "victory": "",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/alice/images/expanded_images/Queen of Hearts - Frank Adams.jpg",
+                "illustration": "./images/expanded_images/Queen of Hearts - Frank Adams.jpg",
                 "illustrator": "Illus. Frank Adams",
                 "illustration_pan_x": -19.0,
                 "illustration_pan_y": 431.0,
