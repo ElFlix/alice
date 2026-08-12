@@ -9650,7 +9650,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox. Makel.",
-                "text": "<rev> Falls du keine Hinweise kontrollierst,<br> erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten lege eine <int>-Probe (2) ab. Die Schwierigkeit dieser Probe ist um 1 erh\u00f6ht f\u00fcr jeden Hinweis, den du kontrollierst (maximal +3). Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinem Ort. Falls die Probe um 2 oder mehr misslingt, verlierst du 1 Aktion.",
+                "text": "<rev> Falls du keine Hinweise hast, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten lege eine <int>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr jeden Hinweis, den du hast (maximal +3). Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinem Ort. Falls die Probe um 2 oder mehr misslingt, verlierst du 1 Aktion.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Edward Honaker.jpg",
@@ -9694,7 +9694,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Lege Karten von deiner Hand oder aus dem Spiel ab, deren gesamte Kosten gleich oder gr\u00f6\u00dfer dem Schleierwert deines Ortes sind. Falls du das nicht kannst, nimm <br>1 Schaden und 1 Horror.",
+                "text": "<rev> Lege Karten von deiner Hand oder aus dem Spiel ab, deren gesamte Kosten gleich oder gr\u00f6\u00dfer dem Schleierwert deines Ortes sind. Falls du das nicht kannst, nimm 1 Schaden und 1 Horror.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Wendy Townrow.jpg",
@@ -9717,7 +9717,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen: Lege eine <agi>-<br>Probe (X) ab, wobei X die Anzahl der Orte ist, die mit diesem Ort verbunden sind. Falls die Probe misslingt, hebe die Effekte der Bewegung auf.\n<act><act>: Lege <name> ab.",
+                "text": "<rev> H\u00e4nge <name> an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen: Lege eine <agi>-<br>Probe (X) ab, wobei X die Anzahl der Orte ist, die mit diesem Ort verbunden sind. Falls die Probe misslingt, hebe die Effekte der Bewegung auf.\n<act><act>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Evenvita.jpg",
