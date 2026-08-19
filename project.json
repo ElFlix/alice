@@ -1678,7 +1678,7 @@
             "front": {
                 "type": "act",
                 "text": "<obj> Sobald ein Ermittler das Verlassene Haus betritt, r\u00fccke vor.",
-                "flavor_text": "Mitten in den chaotischen \u00dcberschnei-<br>dungen dieser Anderswelt ist in der Nach-<br>barschaft s\u00fcdlich von dir ein englisches Landhaus aufgetaucht. Wenn es stimmt, was die Katze andeutet, dann liegt der Schl\u00fcssel, um die Verschmelzung der Welten zu verhindern, im Inneren.",
+                "flavor_text": "Mitten in den chaotischen \u00dcberschnei-<br>dungen dieser Anderswelt ist in der Nach-<br>barschaft s\u00fcdlich von dir ein englisches Landhaus aufgetaucht. Wenn es stimmt, was die Katze andeutet, dann liegt der Schl\u00fcssel, um die Verschmelzung der <br>Welten zu verhindern, im Inneren.",
                 "illustration": "./images/expanded_images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "2a",
                 "illustrator": "Illus. Nyctoinc",
@@ -1694,7 +1694,7 @@
                 "text": "Die Ermittler m\u00fcssen w\u00e4hlen (w\u00e4hlt eins):\n<bullet> <i>Wir m\u00fcssen herausfinden, was das Kaninchen vorhat.</i> Bringe die beiseitegelegte Vorteilskarte Das Wei\u00dfe Kaninchen am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a -- Folge dem Wei\u00dfen Kaninchen vor.\n<bullet> <i>Wir m\u00fcssen herausfinden, wie wir in diesen Spiegel kommen.</i> Bringe die beiseitegelegte Vorteilskarte Der Spiegel am Verlassenen Haus ins Spiel. R\u00fccke zu Szene 3a -- Hinter den Spiegeln vor.",
                 "level": "1",
                 "index": "2b",
-                "flavor_text": "Du \u00f6ffnest die T\u00fcr zu dem idyllischen Haus und betrittst es z\u00f6gernd. Die R\u00e4ume sind gr\u00f6\u00dftenteils kahl, und die wenigen M\u00f6bel sind mit staubigen wei\u00dfen Laken bedeckt. Die Suche scheint immer aussichtsloser zu werden, bis du einen Raum betrittst, dessen einzige Einrichtung ein gro\u00dfer Spiegel auf dem Kaminsims ist. Merkw\u00fcrdigerweise kr\u00e4uselt sich die Oberfl\u00e4che des Spiegels von Zeit zu Zeit, und man kann durch ihn einen ganz anderen Raum sehen. Als du dich ihm n\u00e4herst, lenkt das Kratzen von Pfoten auf dem alten Holzboden deine Aufmerksamkeit wieder auf den Flur hinter dir. Ein wei\u00dfes Kaninchen in alter viktori-<br>anischer Kleidung flitzt davon, umklammert eine Taschenuhr und murmelt vor sich hin. Du wirst keine Gelegenheit haben, beides zu untersuchen, bevor sich Arkham komplett aufl\u00f6st."
+                "flavor_text": "Du \u00f6ffnest die T\u00fcr zu dem idyllischen Haus und betrittst es z\u00f6gernd. Die R\u00e4ume sind gr\u00f6\u00dftenteils kahl, und die wenigen M\u00f6bel sind mit staubigen wei\u00dfen Laken bedeckt. Die Suche scheint immer aussichts-<br>loser zu werden, bis du einen Raum betrittst, dessen einzige Einrichtung ein gro\u00dfer Spiegel auf dem Kaminsims ist. Merkw\u00fcrdigerweise kr\u00e4uselt sich die Oberfl\u00e4che des Spiegels von Zeit zu Zeit, und man kann durch ihn einen ganz anderen Raum sehen. Als du dich ihm n\u00e4herst, lenkt das Kratzen von Pfoten auf dem alten Holzboden deine Aufmerksamkeit wieder auf den Flur hinter dir. Ein wei\u00dfes Kaninchen in alter viktori-<br>anischer Kleidung flitzt davon, umklammert eine Taschenuhr und <br>murmelt vor sich hin. Du wirst keine Gelegenheit haben, beides zu untersuchen, bevor sich Arkham komplett aufl\u00f6st."
             },
             "encounter_number": "4",
             "project_number": "4",
@@ -1707,7 +1707,7 @@
             "front": {
                 "type": "act",
                 "text": "<obj> Falls sich mindestens 3<per_large> Hinweise auf dieser Szene befinden, r\u00fccke vor.",
-                "flavor_text": "Das Wei\u00dfe Kaninchen scheint das zu haben, wonach du in der sich st\u00e4ndig drehenden Landschaft suchst: Ein Ziel. Wenn dieser Wahnsinn einen Ursprung hat, dann findest du ihn dort, wohin auch immer das Kaninchen unterwegs ist.",
+                "flavor_text": "Das Wei\u00dfe Kaninchen scheint das zu <br>haben, wonach du in der sich st\u00e4ndig <br>drehenden Landschaft suchst: Ein Ziel. Wenn dieser Wahnsinn einen Ursprung hat, dann findest du ihn dort, wohin auch immer das Kaninchen unterwegs ist.",
                 "illustration": "./images/expanded_images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Nyctoinc",
@@ -1722,7 +1722,7 @@
                 "victory": "",
                 "text": "(<resolution><b>A1</b>)",
                 "index": "3b",
-                "flavor_text": "Dem Kaninchen zu folgen ist keine leichte Aufgabe. Es bewegt sich schnell durch das unbest\u00e4ndige Gel\u00e4nde, ohne einen Augenblick auf dich zu achten. In einem dichten Geb\u00fcsch verlierst du es fast aus den Augen, aber schlie\u00dflich siehst du das Kaninchen in ein Loch springen. Ersch\u00f6pft gehst du auf das Kaninchenloch zu und fragst dich, wie du weiter vorgehen sollst, aber als du dort stehst, weitet sich die H\u00f6hle langsam zu einem viel gr\u00f6\u00dferen und scheinbar bodenlosen Loch. Du blickst dich ratsuchend nach der Katze um, aber sie grinst nur und wartet darauf, dass du handelst. So t\u00f6richt es auch scheint, du beh\u00e4ltst die Nerven und springst in die Grube."
+                "flavor_text": "Dem Kaninchen zu folgen ist keine leichte Aufgabe. Es bewegt sich schnell durch das unbest\u00e4ndige Gel\u00e4nde, ohne einen<br> Augenblick auf dich zu achten. In einem dichten Geb\u00fcsch verlierst du es fast aus den Augen, aber schlie\u00dflich siehst du das  <br>Kaninchen in ein Loch springen. Ersch\u00f6pft gehst du auf das <br>Kaninchenloch zu und fragst dich, wie du weiter vorgehen sollst, aber als du dort stehst, weitet sich die H\u00f6hle langsam zu einem viel gr\u00f6\u00dferen und scheinbar bodenlosen Loch. Du blickst dich ratsuchend nach der Katze um, aber sie grinst nur und wartet darauf, dass du handelst. So t\u00f6richt es auch scheint, du beh\u00e4ltst die Nerven und springst in die Grube."
             },
             "encounter_number": "5",
             "project_number": "5",
@@ -1733,8 +1733,8 @@
             "name": "Hinter den Spiegeln",
             "front": {
                 "type": "act",
-                "text": "<for> Am Ende der Runde: Wenn sich auf keinem Ort Hinweise befinden: Platziere 1<per_large> Hinweis aus dem Vorrat auf dem Verlassenen Haus.\n<obj> Falls jeder unbesiegte Ermittler aufgegeben hat, r\u00fccke vor.",
-                "flavor_text": "Wenn es etwas gibt, das \u00fcber die Lage in Arkham sicher ist, dann dass das Wunderland die Quelle des Chaos ist. Wenn du eine echte Chance haben willst, das Chaos zu stoppen, musst du durch den Spiegel in diese Welt gelangen.",
+                "text": "<for> Am Ende der Runde: Wenn sich auf keinem Ort Hinweise<br> befinden: Platziere 1<per_large> Hinweise aus dem Vorrat auf dem Verlassenen Haus.\n<obj> Falls jeder un-<br>besiegte Ermittler aufgegeben hat, r\u00fccke vor.",
+                "flavor_text": "Wenn es etwas gibt, das \u00fcber die Lage in Arkham sicher ist, dann dass das Wunderland die Quelle des Chaos ist. Wenn du eine echte Chance haben willst, das Chaos zu stoppen, musst du durch den Spiegel <br>in diese Welt gelangen.",
                 "illustration": "./images/expanded_images/Cheshire Cat - Nyctoinc.jpg",
                 "index": "3a",
                 "illustrator": "Illus. Nyctoinc",
@@ -1760,7 +1760,7 @@
             "front": {
                 "type": "agenda",
                 "text": "",
-                "flavor_text": "Seltsame Wellen der Verzerrung schwappen \u00fcber Arkham und st\u00fcrzen es ins heillose Chaos. Die Stadt wird rasch verzerrt und verschmilzt mit dem Wunderland aus Alices Tr\u00e4umen. Geb\u00e4ude und Wahr-<br>zeichen verzerren sich zu ungewohnten Formen, w\u00e4hrend die Menschen, die das Pech haben, von diesen Wellen erfasst zu werden, ebenfalls verzerrt werden. Du hoffst, dass du einen Weg findest, diese Ver\u00e4nderungen aufzuhalten oder um-<br>zukehren, bevor du selbst von den Geschehnissen verwandelt wirst.",
+                "flavor_text": "Seltsame Wellen der Verzerrung schwappen \u00fcber Arkham und st\u00fcrzen es ins heil-<br>lose Chaos. Die Stadt wird rasch verzerrt und verschmilzt mit dem Wunderland aus Alices Tr\u00e4umen. Geb\u00e4ude und Wahr-<br>zeichen verzerren sich zu ungewohnten Formen, w\u00e4hrend die Menschen, die das Pech haben, von diesen Wellen erfasst zu werden, ebenfalls verzerrt werden. Du hoffst, dass du einen Weg findest, diese Ver\u00e4nderungen aufzuhalten oder um-<br>zukehren, bevor du selbst von den Geschehnissen verwandelt wirst.",
                 "illustration": "./images/expanded_images/Miscellaneous - Erik Johansson 1.jpg",
                 "doom": "3",
                 "index": "1a",
@@ -1771,7 +1771,7 @@
             "back": {
                 "type": "agenda_back",
                 "victory": "",
-                "text": "<blockquote>Die Stadt platzt aus allen N\u00e4hten, w\u00e4hrend schattenhafte Kreaturen sie weiter aufl\u00f6sen, indem sie alles verzehren, was sie zerrei\u00dfen k\u00f6nnen. Geb\u00e4ude st\u00fcrzen ein, w\u00e4hrend sich ihre Ziegel in elfenbeinfarbene Dominosteine verwandeln, Stra\u00dfenlaternen sprie\u00dfen und erbl\u00fchen wie G\u00e4nsebl\u00fcmchen, und der Boden selbst verschiebt sich wie ein Teppich auf poliertem Boden. Je st\u00e4rker die Verzerrungen werden, desto mehr fragt man sich, ob die Ver\u00e4nderungen \u00fcberhaupt noch r\u00fcckg\u00e4ngig gemacht werden k\u00f6nnen.</blockquote>\nDrehe den zum Arkham Sanatorium n\u00e4chstgelegenen Ort, der nicht das Merkmal <t>Wunderland</t> besitzt, um und platziere 1<per_large> Hinweis darauf (<i>beginne mit dem Arkham Sanatorium</i>). Jeder Ermittler an diesem Ort nimmt 1 Schaden und 1 Horror.\nFalls jeder Ort, der sich im Spiel befindet, das Merkmal <t>Wunderland</t> besitzt, ist jeder Ermittler, der nicht aufgegeben hat, besiegt und erleidet 1 k\u00f6rperliches oder 1 seelisches<br> Trauma.\nAnsonsten drehe diese Karte wieder um.",
+                "text": "<size 62><blockquote>Die Stadt platzt aus allen N\u00e4hten, w\u00e4hrend schattenhafte <br>Kreaturen sie weiter aufl\u00f6sen, indem sie alles verzehren, was sie zerrei\u00dfen k\u00f6nnen. Geb\u00e4ude st\u00fcrzen ein, w\u00e4hrend sich ihre Ziegel in elfenbeinfarbene Dominosteine verwandeln, Stra\u00dfenlaternen sprie\u00dfen und erbl\u00fchen wie G\u00e4nsebl\u00fcmchen, und der Boden selbst verschiebt sich wie ein Teppich auf poliertem Boden. <br>Je st\u00e4rker die Verzerrungen werden, desto mehr fragt man sich, ob die Ver\u00e4nderungen \u00fcberhaupt noch r\u00fcckg\u00e4ngig gemacht<br> werden k\u00f6nnen.</blockquote>\nDrehe den zum Arkham Sanatorium n\u00e4chstgelegenen Ort, der nicht das Merkmal <t>Wunderland</t> besitzt, um und platziere 1<per_large> Hinweise darauf (<i>beginne mit dem Arkham Sanatorium</i>). Jeder Ermittler an diesem Ort nimmt 1 Schaden und 1 Horror.\nFalls jeder Ort, der sich im Spiel befindet, das Merkmal <t>Wunderland</t> besitzt, ist jeder Ermittler, der nicht aufgegeben hat, besiegt und erleidet 1 k\u00f6rperliches oder 1 seelisches Trauma.\nAnsonsten drehe diese Karte wieder um.",
                 "name": "Tr\u00e4ume vom Wunderland",
                 "index": "1b"
             },
@@ -1789,13 +1789,13 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "--X. X ist die Anzahl der <t>Wunderland</t>-Orte im Spiel (maximal 5)."
+                        "text": "--X. X ist die Anzahl der <br><t>Wunderland</t>-Orte im Spiel (maximal 5)."
                     },
                     {
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "--2. Falls du dich an einem <t>Wunderland</t>-Ort befindest: Lege eine zuf\u00e4llige Karte von deiner Hand ab."
+                        "text": "--2. Falls du dich an einem <t>Wunderland</t>-Ort befindest: <br>Lege eine zuf\u00e4llige Karte von deiner Hand ab."
                     }
                 ],
                 "difficulty": "EINFACH/NORMAL",
@@ -1808,13 +1808,13 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "--X. X ist die Anzahl der <t>Wunderland</t>-Orte im Spiel plus 1."
+                        "text": "--X. X ist die Anzahl der <br><t>Wunderland</t>-Orte im Spiel plus 1."
                     },
                     {
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "--3. Falls du dich an einem <t>Wunderland</t>-Ort befindest: Lege eine zuf\u00e4llige Karte von deiner Hand ab."
+                        "text": "--3. Falls du dich an einem <t>Wunderland</t>-Ort befindest: <br>Lege eine zuf\u00e4llige Karte von deiner Hand ab."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -1851,7 +1851,7 @@
                 "illustrator": "Illus. Mark Molnar & Oliver Vernon",
                 "subtitle": "Vollkommen verr\u00fcckt",
                 "traits": "Arkham. Innenstadt. Wunderland.",
-                "text": "<for> Am Ende der Runde: F\u00fcge jedem Ermittler an diesem Ort 1 Horror zu.",
+                "text": "<for> Am Ende der Runde: F\u00fcge <br>jedem Ermittler an diesem Ort 1 Horror zu.",
                 "flavor_text": "Farbkleckse und bizarre Strukturen winden sich um das gotische Geb\u00e4ude, dr\u00e4ngen sich von allen Seiten heran und f\u00fcgen sich willk\u00fcrlich zusammen. Du kannst nicht einmal erahnen, was sie darstellen k\u00f6nnten.",
                 "victory": "Sieg 2.",
                 "shroud": "3",
@@ -1874,7 +1874,7 @@
                 "subtitle": "Vergn\u00fcgen im Sonnenschein",
                 "traits": "Arkham. Innenstadt.",
                 "text": "Ermittler am <name> erhalten +2 auf ihren Fertigkeitswert bei Proben auf Karten mit dem Merkmal <t>Schatten</t>.",
-                "flavor_text": "Der weitl\u00e4ufige Platz hat aufgrund seiner Beliebtheit als Treffpunkt nur wenige Bauwerke und ist am fr\u00fchen Abend weitgehend menschenleer.",
+                "flavor_text": "Der weitl\u00e4ufige Platz hat aufgrund seiner Beliebtheit<br> als Treffpunkt nur wenige Bauwerke und ist am fr\u00fchen Abend weitgehend menschenleer.",
                 "victory": "Sieg 2.",
                 "illustration": "./images/expanded_images/Independence Square - Unknown.jpg",
                 "clues": "1<per>",
@@ -1895,7 +1895,7 @@
                 "subtitle": "Beginn einer langen Nacht",
                 "traits": "Arkham. Innenstadt. Wunderland.",
                 "text": "Ermittler am <name> erhalten --2 auf ihren Fertigkeitswert bei Proben auf Karten mit dem Merkmal <t>Schatten</t>.",
-                "flavor_text": "Dunkle B\u00e4ume winden sich aus dem Boden und verwandeln den offenen Park in ein dichtes Waldgewirr. Ihre \u00c4ste wachsen ineinander und verdunkeln das Licht des Sonnenuntergangs.",
+                "flavor_text": "<size 61>Dunkle B\u00e4ume winden sich aus dem Boden und verwandeln den offenen Park in ein dichtes Waldgewirr. Ihre \u00c4ste wachsen ineinander und verdunkeln das Licht des Sonnenuntergangs.",
                 "victory": "Sieg 2.",
                 "shroud": "4",
                 "clues": "0",
@@ -1916,7 +1916,7 @@
                 "type": "location",
                 "subtitle": "Kapitales Gedr\u00e4nge",
                 "traits": "Arkham. Innenstadt.",
-                "text": "<reaction>: Sobald du eine Ressource-Aktion nimmst: Erhalte 1 zus\u00e4tzliche Ressource. (Nur ein Mal pro Zug). ",
+                "text": "<reaction> Sobald du eine Ressource-Aktion nimmst: Erhalte 1 zus\u00e4tzliche Ressource. (Nur ein Mal pro Zug.)",
                 "flavor_text": "Die Bank n\u00e4hert sich ihrem Gesch\u00e4ftsschluss. Kunden und Schalterbeamte hoffen, dass sie ihre Gesch\u00e4fte schnell abwickeln k\u00f6nnen, trotz des Durcheinanders, <br>das um das Geb\u00e4ude herum entstanden ist.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Downtown - Cristi Balanescu.jpg",
@@ -1942,8 +1942,8 @@
                 "name": "Bank von Arkham",
                 "subtitle": "Instabiler Markt",
                 "traits": "Arkham. Innenstadt. Wunderland.",
-                "text": "Ermittler in der Bank von Arkham k\u00f6nnen keine Ressourcen erhalten.",
-                "flavor_text": "Die Stra\u00dfen rund um das Bankgeb\u00e4ude erheben sich zerkl\u00fcftet, schneiden in das Mauerwerk und breiten sich wie ein Waldbrand aus. Die Formen wirken unnat\u00fcrlich, sie verzweigen sich, als w\u00e4ren sie lebendig und wachsend.",
+                "text": "Ermittler in der Bank von Arkham k\u00f6nnen <br>keine Ressourcen erhalten.",
+                "flavor_text": "<size 66>Die Stra\u00dfen rund um das Bankgeb\u00e4ude erheben sich <br>zerkl\u00fcftet, schneiden in das Mauerwerk und breiten sich wie ein Waldbrand aus. Die Formen wirken unnat\u00fcrlich, sie verzweigen sich, als w\u00e4ren sie lebendig und wachsend.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "0",
@@ -1970,8 +1970,8 @@
                 "type": "location",
                 "subtitle": "Sonderausgabe im Druck",
                 "traits": "Arkham. Nordstadt.",
-                "text": "<reaction>: Sobald du eine Ziehen-Aktion nimmst: Ziehe 1 zus\u00e4tzliche Karte. (Nur ein Mal pro Zug).",
-                "flavor_text": "Die Redaktion des Arkham Advertiser arbeitet fieberhaft daran, die seltsamen Ereignisse zu katalogisieren, die \u00fcber Arkham hereinbrechen. Nur wenige ihrer <br>Reporter sind mit Informationen zur\u00fcckgekehrt.",
+                "text": "<reaction>: Sobald du eine Ziehen-Aktion nimmst: Ziehe 1 zus\u00e4tzliche Karte. (Nur ein Mal pro Zug.)",
+                "flavor_text": "Die Redaktion des Arkham Advertiser arbeitet fieberhaft daran, die seltsamen Ereignisse zu katalogisieren, <br>die \u00fcber Arkham hereinbrechen. Nur wenige ihrer <br>Reporter sind mit Informationen zur\u00fcckgekehrt.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Newspaper - Rowena Wang.jpg",
                 "clues": "1<per>",
@@ -1995,7 +1995,7 @@
                 "subtitle": "<size 60>Unregelm\u00e4\u00dfige \u00d6ffnungszeiten",
                 "traits": "Arkham. Nordstadt. Wunderland.",
                 "text": "Ermittler im <name> k\u00f6nnen keine Karten ziehen.",
-                "flavor_text": "Der schachbrettartige Boden des Zeitungsb\u00fcros biegt und windet sich um dich herum, w\u00e4hrend drehende Schachfiguren in chaotischen, aber gezielten Bewegungen hin und her gleiten.",
+                "flavor_text": "Der schachbrettartige Boden des Zeitungsb\u00fcros biegt und windet sich um dich herum, w\u00e4hrend drehende Schachfiguren in chaotischen, aber gezielten <br>Bewegungen hin und her gleiten.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "0",
@@ -2021,8 +2021,8 @@
                 "type": "location",
                 "subtitle": "Skurriles zu Schn\u00e4ppchenpreisen",
                 "traits": "Arkham. Nordstadt.",
-                "text": "<act> Gib 1 Ressource aus: Durchsuche die<br>obersten 6 Karten deines Decks nach einer <t>Gegenstand-</t> oder <t>Zauber-</t>Karte und ziehe sie. Mische dein Deck.",
-                "flavor_text": "Der Laden f\u00fcr gew\u00f6hnliche Kuriosit\u00e4ten wirkt fast wie ein Teil der verr\u00fcckten Verwandlungen drau\u00dfen. Im Laden ist es still, bis auf das ged\u00e4mpfte Ticken einer Uhr auf Oliver Thomas' Schreibtisch.",
+                "text": "<act> Gib 1 Ressource aus: Durchsuche die obersten 6 Karten deines Decks nach einer <t>Gegenstand-</t> oder <t>Zauber-</t>Karte und ziehe sie. <br>Mische dein Deck.",
+                "flavor_text": "<size 57>Der Laden f\u00fcr gew\u00f6hnliche Kuriosit\u00e4ten wirkt fast wie ein Teil der verr\u00fcckten Verwandlungen drau\u00dfen. Im Laden ist es still, bis auf das ged\u00e4mpfte Ticken einer Uhr auf Oliver Thomas' Schreibtisch.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Curiositie Shoppe - Anthony Devine.jpg",
                 "clues": "1<per>",
@@ -2041,8 +2041,8 @@
                 "illustrator": "Illus. Anthony Devine & Pavel Goloviy",
                 "subtitle": "Zeit ist Geld",
                 "traits": "Arkham. Nordstadt. Wunderland.",
-                "text": "<for> Am Ende der Runde: Jeder Ermittler im Rarit\u00e4tenladen legt die oberste Karte seines Decks ab. Falls jene Karte eine Schw\u00e4che ist, ziehe sie.",
-                "flavor_text": "Das einst leise Ticken wird immer lauter, als Ziffernbl\u00e4tter und ratternde Zahnr\u00e4der durch die verschiedenen <br>Vitrinen des Ladens zu dr\u00f6hnen beginnen.",
+                "text": "<for> Am Ende der Runde: Jeder <br>Ermittler im Rarit\u00e4tenladen legt die oberste Karte seines Decks ab. Falls jene Karte eine <br>Schw\u00e4che ist, ziehe sie.",
+                "flavor_text": "<size 65>Das einst leise Ticken wird immer lauter, als Ziffernbl\u00e4tter und ratternde Zahnr\u00e4der durch die verschiedenen <br>Vitrinen des Ladens zu dr\u00f6hnen beginnen.",
                 "victory": "Sieg 1.",
                 "shroud": "4",
                 "clues": "0",
@@ -2065,7 +2065,7 @@
                 "type": "location",
                 "subtitle": "Strikt nach Plan",
                 "traits": "Arkham. Nordstadt.",
-                "text": "<reaction> Sobald du eine Vorteilskarte spielst: Senke die Kosten jener Vorteilskarte um 1 (bis zu einem Minimum von 1). (Nur ein Mal pro Zug.)",
+                "text": "<reaction> Sobald du eine Vorteilskarte spielst: Senke die Kosten jener Vorteilskarte um 1 (bis zu <br>einem Minimum von 1). (Nur ein Mal pro Zug.)",
                 "flavor_text": "Der Bahnhof in der Nordstadt brummt vor Gesch\u00e4ftigkeit und Unruhe, w\u00e4hrend die Sonne immer tiefer sinkt. Obwohl Alices Vorf\u00e4lle dort zuerst auftraten, ist er derzeit am weitesten von ihrem Ausgangspunkt entfernt.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Northside - Mark Molnar.jpg",
@@ -2086,7 +2086,7 @@
                 "illustrator": "Illus. Mark Molnar & Maksym Harahulin",
                 "subtitle": "V\u00f6llig entgleist",
                 "traits": "Arkham. Nordstadt. Wunderland.",
-                "text": "<for> Sobald du eine Vorteilskarte spielst: Erh\u00f6he die Kosten jener Vorteilskarte um 1.",
+                "text": "<for> Sobald du eine Vorteilskarte spielst: Erh\u00f6he die Kosten jener Vorteils-<br>karte um 1.",
                 "flavor_text": "Wie die Stadt sich um dich dreht, so dreht sich auch das Netz der Eisenbahnschienen, die in und um den Bahnhof verlaufen. Waggons und Lokomotiven erheben sich und beginnen, sich auf dieser Achterbahn fortzubewegen.",
                 "victory": "",
                 "shroud": "2",
@@ -2110,7 +2110,7 @@
             "front": {
                 "type": "location",
                 "traits": "Arkham. Wunderland.",
-                "flavor_text": "<valign>Das Haus ist fast vollkommen leer. Es ist eigenartig ruhig inmitten des Chaos drau\u00dfen.",
+                "flavor_text": "<valign>Das Haus ist fast vollkommen leer. Es ist <br>eigenartig ruhig inmitten des Chaos drau\u00dfen.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Abandoned House - Unknown.jpg",
                 "clues": "0",
@@ -2129,7 +2129,7 @@
                 "illustrator": "Illus. Unknown",
                 "name": "<name>",
                 "traits": "Arkham. Wunderland.",
-                "text": "Du kannst diesen Ort nicht betreten, solange sich Hinweise auf verbundenen Orten befinden.",
+                "text": "Du kannst diesen Ort nicht betreten, <br>solange sich Hinweise auf verbundenen Orten befinden.",
                 "flavor_text": "Du kannst dich nicht daran erinnern, an dieser Stelle schon einmal ein Haus gesehen zu haben, oder \u00fcberhaupt irgendwo in Arkham ein Haus wie dieses.",
                 "victory": "",
                 "connection": "<copy>",
@@ -2182,7 +2182,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Chronophobes Karnickel",
                 "traits": "Wunderland. Kreatur. Wanderer.",
-                "text": "<for> Am Ende der Runde: Bewege <name> zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.\n<reaction> Wenn du den Ort betrittst, an dem sich das Kaninchen befindet: Lege eine <int>- oder <agi>-Probe (4) ab. Du darfst eine beliebige Anzahl an Hinweisen ausgeben, um f\u00fcr jeden so ausgegebenen Hinweis +2 auf deinen Fertigkeitswert f\u00fcr diese Probe zu erhalten. Falls die Probe gelingt, platziere 1 Hinweis aus dem Vorrat auf der aktuellen Szene. Bewege in jedem Fall das Wei\u00dfe Kaninchen zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.",
+                "text": "<for> Am Ende der Runde: Bewege <name> zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.\n<reaction> Wenn du den Ort betrittst, an dem sich das Kaninchen befindet: <br>Lege eine <int>- oder <agi>-Probe (4) ab. Du darfst eine beliebige Anzahl an Hinweisen ausgeben, um f\u00fcr jeden so ausgegebenen Hinweis +2 auf <br>deinen Fertigkeitswert f\u00fcr diese Probe zu erhalten. Falls die Probe <br>gelingt, platziere 1 Hinweis aus dem Vorrat auf der aktuellen Szene. <br>Bewege in jedem Fall das Wei\u00dfe Kaninchen zum n\u00e4chstgelegenen Ort, an dem sich kein Ermittler befindet.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -2208,7 +2208,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Wahnsinn. Schrecken.",
-                "text": "<rev> Lege eine <willpower>-Probe (3) ab. Falls die Probe misslingt, h\u00e4nge <name> an deinen Ort an und platziere 1 Verderben darauf.\n<for> Wenn sich auf <name> kein Verderben befindet, lege diese Karte ab.\n<action> Nimm 1 Horror: Entferne 1 Verderben von <name>.",
+                "text": "<rev> Lege eine <willpower>-Probe (3) ab. Falls die Probe misslingt, h\u00e4nge <name> an deinen Ort an und platziere 1 Verderben darauf.\n<for> Wenn sich auf <name> kein Verderben befindet, lege diese Karte ab.\n<action> Nimm 1 Horror: Entferne 1 Verderben<br> von <name>.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Erik Johansson 2.jpg",
@@ -2228,7 +2228,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Falls keine Kopie von <name> an deinen Ort angeh\u00e4ngt ist, h\u00e4nge Ver-<br>zerrender Einfluss an deinen Ort an. Ansonsten erh\u00e4lt diese Karte Nachr\u00fcsten.\nErmittler an dem Ort, an den diese Karte angeh\u00e4ngt ist, tauschen den Grundwert ihrer <willpower> und <int>, und den Grundwert ihrer <com> und <agi>.\n<action> Nimm 1 Schaden: Lege <name> ab.",
+                "text": "<rev> Falls keine Kopie von <name> an deinen Ort angeh\u00e4ngt ist, h\u00e4nge Verzerrender Einfluss an deinen Ort an. Ansonsten erh\u00e4lt diese Karte Nachr\u00fcsten.\nErmittler an dem Ort, an den diese Karte angeh\u00e4ngt ist, tauschen den Grundwert ihrer <willpower> und <int>, und den Grundwert ihrer <com> und <agi>.\n<action> Nimm 1 Schaden: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Shannon Tucker.jpg",
@@ -2251,7 +2251,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Humanoid. Elite.",
-                "text": "Gewaltig. Alarmiert.\n<for> Sobald 1 oder mehr Hinweise auf dem Ort von <name> platziert werden oder durch Ermittler am Ort von <name> ausgegeben werden: Platziere 1 Verderben auf <name>.\n<action> Gib 1 Hinweis aus: <b>Verhandlung.</b> F\u00fcge <name> 2 Schaden zu.",
+                "text": "Gewaltig. Alarmiert.\n<for> Sobald 1 oder mehr Hinweise auf dem Ort von <name> platziert werden oder durch Ermittler am Ort von <name> ausgegeben werden: Platziere 1 Verderben auf <name>.\n<action> Gib 1 Hinweis aus: <b>Verhandlung.</b> F\u00fcge <br><name> 2 Schaden zu.",
                 "health": "6",
                 "evade": "2",
                 "attack": "4",
@@ -2281,7 +2281,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Gespiegelte Gedichte",
                 "traits": "Wunderland. Gegenstand. Buch.",
-                "text": "Anwendungen (4 Gedichte). Falls <name> keine Gedichte hat, lege diese Karte ab.\n<free> Ersch\u00f6pfe <name> und gib 1 Gedicht aus: Du bekommst f\u00fcr diese Fertigkeitsprobe +2 <willpower> oder <br>+2 <int>.",
+                "text": "Anwendungen (4 Gedichte). Falls <name> keine Gedichte hat, lege diese Karte ab.\n<free> Ersch\u00f6pfe <name> und gib <br>1 Gedicht aus: Du bekommst f\u00fcr diese Fertigkeitsprobe <br>+2 <willpower> oder +2 <int>.",
                 "flavor_text": "Das Heft enth\u00e4lt einige seltsame, aber aufschlussreiche <br>Gedichte, die alle komplett r\u00fcckw\u00e4rts geschrieben sind.",
                 "victory": "",
                 "classes": [
@@ -2321,7 +2321,7 @@
                 "illustration": "./images/expanded_images/Drink Me Eat Me - Pamela Gomes.jpg",
                 "illustrator": "Illus. Pamela Gomes",
                 "level": "None",
-                "text": "Anwendungen (4 Portionen). Falls <name> keine Portionen hat, lege diese Karte ab.\n<free> Ersch\u00f6pfe <name> und gib 1 Portion aus: Du bekommst f\u00fcr diese Fertigkeitsprobe +2 <com> oder <br>+2 <agi>.",
+                "text": "Anwendungen (4 Portionen). Falls Seltsame <br>Erfrischungen keine Portionen hat, lege diese Karte ab.\n<free> Ersch\u00f6pfe <name> und gib <br>1 Portion aus: Du bekommst f\u00fcr diese Fertigkeitsprobe<br> +2 <com> oder +2 <agi>.",
                 "illustration_pan_x": 42.0,
                 "illustration_pan_y": -542.0
             },
@@ -2339,7 +2339,7 @@
             "front": {
                 "type": "act",
                 "text": "<obj> Am Ende der Runde d\u00fcrfen Ermittler am Felsigen Ausl\u00e4ufer als Gruppe die ben\u00f6tigten Hinweise ausgeben, um vorzur\u00fccken.",
-                "flavor_text": "Die Auster verlangt, dass du sie mitnimmst. \u201eDie Schatten sind hungrig, wie ihr Herr. Und was hungrig ist, kann gek\u00f6dert werden. Sie gieren nach Dingen aus eurer Welt, von denen einige aus dem Meer der Tr\u00e4nen her\u00fcbergeschwemmt wurden.\u201c Du verstehst und beginnst, alles zu sammeln, was du aus Arkham finden kannst.",
+                "flavor_text": "<size 66>Die Auster verlangt, dass du sie mitnimmst. \u201eDie Schatten sind hungrig, wie ihr Herr. Und was hungrig ist, kann gek\u00f6dert werden. Sie gieren nach Dingen aus eurer Welt, von denen einige aus dem Meer der Tr\u00e4nen <br>her\u00fcbergeschwemmt wurden.\u201c Du verstehst und beginnst, alles zu sammeln, was du aus Arkham finden kannst.",
                 "illustration": "./images/expanded_images/Environment - Aernout van Pallandt 1.jpg",
                 "clues": "4<per>",
                 "index": "2a",
@@ -2351,7 +2351,7 @@
                 "type": "act_back",
                 "name": "Fang des Tages",
                 "victory": "",
-                "text": "<blockquote>Unter der Anleitung der weisen Auster sammelst du auf einem kleinen Felsvorsprung mit Blick auf das Meer der Tr\u00e4nen einen Haufen Treibgut. \u201eAuch diese Gegenst\u00e4nde stammen nicht aus dem Wunderland\u201d, erkl\u00e4rt die Auster, \u201esie m\u00fcssen also von dort stammen, wo du herkommst. Die Schatten sehnen sich nach Dingen aus deiner Heimat, und mit so vielen hast du sicher genug, um einen K\u00f6der auszuwerfen.\u201d Du bindest die Tr\u00fcmmer zusammen und wirfst sie an einer Leine ins Wasser. Kaum ist das B\u00fcndel im Wasser, taucht eine riesige Schattengestalt aus dem Meer auf und verschlingt die Gegenst\u00e4nde mit einem einzigen Biss. Bill, die Eidechse, st\u00f6\u00dft beim blo\u00dfen Anblick des Ungeheuers einen erschrockenen Schrei aus, und du tust dein Bestes, um ihn an der Flucht zu hindern, als das Monster auftaucht.</blockquote>\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler den Kaninchenbau hinab stiegen,</i> bringe den beiseitegelegten Tiefen Verfolger <i>(Riesiges Raubtier)</i> am Felsigen Ausl\u00e4ufer ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Tiefen Verfolger <i>(M\u00e4chtiger M\u00f6rder)</i> am Felsigen Ausl\u00e4ufer ins Spiel.",
+                "text": "<blockquote>Unter der Anleitung der weisen Auster sammelst du auf einem kleinen Felsvorsprung mit Blick auf das Meer der Tr\u00e4nen einen Haufen Treibgut. \u201eAuch diese Gegenst\u00e4nde stammen nicht aus dem Wunderland\u201d, erkl\u00e4rt die Auster, \u201esie m\u00fcssen also von dort stammen, wo du herkommst. Die Schatten sehnen sich nach <br>Dingen aus deiner Heimat, und mit so vielen hast du sicher genug, um einen K\u00f6der auszuwerfen.\u201d Du bindest die Tr\u00fcmmer zusammen und wirfst sie an einer Leine ins Wasser. Kaum ist das B\u00fcndel im Wasser, taucht eine riesige Schattengestalt aus dem Meer auf und verschlingt die Gegenst\u00e4nde mit einem einzigen Biss. Bill, die Eidechse, st\u00f6\u00dft beim blo\u00dfen Anblick des Ungeheuers einen <br>erschrockenen Schrei aus, und du tust dein Bestes, um ihn <br>an der Flucht zu hindern, als das Monster auftaucht.</blockquote>\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler den Kaninchenbau hinab stiegen,</i> bringe den beiseitegelegten Tiefen Verfolger <i>(Riesiges Raubtier)</i>             am Felsigen Ausl\u00e4ufer ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Tiefen Verfolger <i>(M\u00e4chtiger M\u00f6rder)</i> am Felsigen Ausl\u00e4ufer ins Spiel.",
                 "index": "2b"
             },
             "encounter_number": "5",
@@ -2363,7 +2363,7 @@
             "name": "R\u00e4uber der Tiefsee",
             "front": {
                 "type": "act",
-                "text": "<action> Gib 1 Hinweis aus: <b>Kampf</b> (<int>). F\u00fchre diesen Angriff gegen den Tiefen Verfolger aus und nur, wenn du dich an seinem Ort befindest. Falls sich 4 oder mehr Austern an deinem Ort befinden, f\u00fcgt dieser Angriff +1 Schaden zu.\n<obj> Falls der Tiefe Verfolger besiegt worden ist, r\u00fccke vor.",
+                "text": "<action> Gib 1 Hinweis aus: <b>Kampf</b> (<int>). F\u00fchre diesen Angriff gegen den Tiefen Verfolger aus und nur, wenn du dich an seinem Ort <br>befindest. Falls sich 4 oder mehr Austern an deinem Ort befinden, f\u00fcgt dieser Angriff +1 Schaden zu.\n<obj> Falls der Tiefe <br>Verfolger besiegt worden ist, r\u00fccke vor.",
                 "flavor_text": "Das schattenhafte Monster starrt dich hungrig an und beginnt, die Felswand hinaufzuklettern,<br> um dich zu erreichen. Das ist deine Chance, zu sehen, welche Schw\u00e4chen diese m\u00e4chtigen Schatten haben.",
                 "illustration": "./images/expanded_images/Environment - Aernout van Pallandt 1.jpg",
                 "index": "3a",
@@ -2377,7 +2377,7 @@
                 "victory": "",
                 "text": "(<b><resolution>A2</b>)",
                 "index": "3b",
-                "flavor_text": "Du wirfst alles, was du hast, auf das wilde Monster, um es zur\u00fcck zu schlagen. Nach grauenvollen Minuten wird die schattenhafte Kreatur instabil und l\u00f6st sich mit einem hohlen Schrei auf. Bill, die Eidechse, verl\u00e4sst der Mut. Mit einem panischen Jaulen flieht er vor dem schrecklichen Todesr\u00f6cheln des Schattens und l\u00e4sst dich mit der verblassenden Gestalt alleine."
+                "flavor_text": "Du wirfst alles, was du hast, auf das wilde Monster, um es <br>zur\u00fcck zu schlagen. Nach grauenvollen Minuten wird die schattenhafte Kreatur instabil und l\u00f6st sich mit einem hohlen Schrei auf. Bill, die Eidechse, verl\u00e4sst der Mut. Mit einem anischen Jaulen flieht er vor dem schrecklichen Todesr\u00f6cheln des Schattens und l\u00e4sst dich mit der verblassenden Gestalt alleine."
             },
             "encounter_number": "6",
             "project_number": "27",
@@ -2390,7 +2390,7 @@
             "front": {
                 "type": "agenda",
                 "text": "",
-                "flavor_text": "Das leise Rauschen der Wellen am Strand tr\u00e4gt wenig dazu bei, dein Gef\u00fchl der Vor-<br>ahnung zu beruhigen. Schatten wabern in jeder Welle und lassen dich z\u00f6gern, auf der Suche nach der Wahrheit in die Bran-<br>dung zu gehen.",
+                "flavor_text": "Das leise Rauschen der Wellen am Strand tr\u00e4gt wenig dazu bei, dein Gef\u00fchl der Vorahnung zu beruhigen. Schatten wabern in jeder Welle und lassen dich z\u00f6gern, auf der Suche nach der Wahrheit in die Brandung zu gehen.",
                 "illustration": "./images/expanded_images/Sea of Tears - Zdzis\u0142aw Beksi\u0144ski.jpg",
                 "doom": "5",
                 "index": "1a",
@@ -2403,7 +2403,7 @@
                 "name": "Das Walross und der Zimmermann",
                 "victory": "",
                 "text": "Bringe den beiseitegelegten Gegner Das Walross am Gezeiten-<br>t\u00fcmpel ins Spiel.\nBringe den beiseitegelegten Gegner Der Zimmermann am Haus des Wei\u00dfen Kaninchens ins Spiel.\nDer Rest des beiseitegelegten Begegnungssets <i>Walross und Zimmermann</i> wird zusammen mit dem Begegnungs-Ablagestapel ins Begegnungsdeck gemischt.",
-                "flavor_text": "\u201eProbleme mit dem alten Landhaus?\u201d Ein uninteressierter Zimmer-<br>mann n\u00e4hert sich dem Wei\u00dfen Kaninchen und seinem teilweise zerst\u00f6rten Haus und wirft beiden nur einen kurzen Blick zu.\n\u201eJa, ja, beeilen Sie sich!\u201d, fleht das Kaninchen und tippt mit dem Fu\u00df.\n\u201eImmer mit der Ruhe, Boss\u201c, erwidert der Zimmermann und reibt sich den Bauch, \u201eder Job ist so gut wie erledigt, aber ich bin ein bisschen hungrig. Ich komme wieder, sobald ich einen Happen gegessen habe.\u201c\nWeiter unten an der felsigen K\u00fcste erhebt sich ein riesiges Walross aus der Brandung. Sein Magen knurrt wie ein Erdbeben, w\u00e4hrend es \u00fcber das Meer der Tr\u00e4nen blickt. \u201eLebensmittel gibt es in H\u00fclle und F\u00fclle. Ein Austernessen scheint die einzige L\u00f6sung zu sein\u201d, grummelt es vor sich hin.",
+                "flavor_text": "\u201eProbleme mit dem alten Landhaus?\u201d Ein uninteressierter Zimmer-<br>mann n\u00e4hert sich dem Wei\u00dfen Kaninchen und seinem teilweise <br>zerst\u00f6rten Haus und wirft beiden nur einen kurzen Blick zu.\n\u201eJa, ja, beeilen Sie sich!\u201d, fleht das Kaninchen und tippt mit dem Fu\u00df.\n\u201eImmer mit der Ruhe, Boss\u201c, erwidert der Zimmermann und reibt sich den Bauch, \u201eder Job ist so gut wie erledigt, aber ich bin ein bisschen hungrig. Ich komme wieder, sobald ich einen Happen gegessen habe.\u201c\nWeiter unten an der felsigen K\u00fcste erhebt sich ein riesiges Walross aus der Brandung. Sein Magen knurrt wie ein Erdbeben, w\u00e4hrend es \u00fcber das Meer der Tr\u00e4nen blickt. \u201eLebensmittel gibt es in H\u00fclle und F\u00fclle. Ein Austernessen scheint die einzige L\u00f6sung zu sein\u201d, grummelt es vor sich hin.",
                 "index": "1b"
             },
             "encounter_number": "2",
@@ -2431,7 +2431,7 @@
                 "victory": "",
                 "text": "Jeder unbesiegte Ermittler, der nicht aufgegeben hat, erleidet 1 seelisches Trauma, da er Zeuge dieses schrecklichen Ereignisses wurde.\n<b>(<resolution>A1)</b>",
                 "index": "2b",
-                "flavor_text": "Das Walross und der Zimmermann verschlingen die Austern eine nach der anderen, ohne eine Pause einzulegen. Sie \u00fcberragen den Strand, w\u00e4hrend sie die Austern in immer gr\u00f6\u00dferen Mengen an sich rei\u00dfen. Als die beiden die letzte der armen Kreaturen verschlungen haben, explodieren Schatten aus ihnen heraus, zerfetzen ihre K\u00f6rper und zertr\u00fcmmern die K\u00fcste auf die gleiche Weise, wie das Haus des Wei\u00dfen Kaninchens zerst\u00f6rt worden war. Du fliehst landeinw\u00e4rts und entkommst nur knapp der sich ausbreitenden Dunkelheit."
+                "flavor_text": "Das Walross und der Zimmermann verschlingen die Austern eine nach der anderen, ohne eine Pause einzu-<br>legen. Sie \u00fcberragen den Strand, w\u00e4hrend sie die Austern in immer gr\u00f6\u00dferen Mengen an sich rei\u00dfen. Als die beiden die letzte der armen Kreaturen verschlungen haben, <br>explodieren Schatten aus ihnen heraus, zerfetzen ihre K\u00f6rper und zertr\u00fcmmern die K\u00fcste auf die gleiche Weise, wie das Haus des Wei\u00dfen Kaninchens zerst\u00f6rt worden war. Du fliehst landeinw\u00e4rts und entkommst nur knapp der sich ausbreitenden Dunkelheit."
             },
             "encounter_number": "3",
             "project_number": "24",
@@ -2503,7 +2503,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<for> Zu Beginn der Ermittlerphase: Lege Hinweise auf diesen Ort, bis sich 1<per_large> Hinweise hier befinden.\n<for> Falls sich hier keine Hinweise befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c: <i>Intuition.</i>\n<act>: <b>Aufgeben.</b> \u201eDas war kein Strandspaziergang!\u201d",
+                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<for> Zu Beginn der Ermittlerphase: Lege <br>Hinweise auf diesen Ort, bis sich 1<per_large> Hinweise hier befinden.\n<for> Falls sich hier keine Hinweise befinden: Notiere im Kampagnenlogbuch unter \u201eFragmente von Alice\u201c: <i>Intuition.</i>\n<act>: <b>Aufgeben.</b> \u201eDas war kein Strandspaziergang!\u201d",
                 "flavor_text": "Das Innere des Hauses erinnert auf bizarre Weise an etwas.",
                 "victory": "",
                 "illustration": "./images/expanded_images/White Rabbit House - Mike Paolilli.jpg",
@@ -2602,7 +2602,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<reaction> Nachdem du an diesem Ort erfolgreich um <br>1 oder mehr ermittelt hast: Platziere 1 Auster auf dem <name>.",
+                "text": "An diesem Ort k\u00f6nnen sich maximal <br>6 Austern befinden.\n<reaction> Nachdem du an diesem Ort erfolgreich um <br>1 oder mehr ermittelt hast: Platziere 1 Auster auf dem <name>.",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Environment - Logan Feliciano 1.jpg",
@@ -2628,7 +2628,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "<valign>Eine Reihe voneinander getrennter Becken steht knapp au\u00dferhalb der Reichweite der Flut. In ihnen <br>entstehen und gedeihen winzige \u00d6kosysteme.",
+                "flavor_text": "<valign>Eine Reihe voneinander getrennter Becken steht knapp au\u00dferhalb der Reichweite der Flut. In <br>ihnen entstehen und gedeihen winzige \u00d6kosysteme.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_scale": 3.0,
@@ -2648,7 +2648,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<act> W\u00e4hle bis zu 2 Karten von deiner Hand und lege sie ab: Platziere X Austern auf dem Felsigen Ausl\u00e4ufer, wobei X die Anzahl abgelegter Karten ist. (Nur ein Mal pro Zug.)",
+                "text": "An diesem Ort k\u00f6nnen sich maximal <br>6 Austern befinden.\n<act> W\u00e4hle bis zu 2 Karten von deiner Hand und <br>lege sie ab: Platziere X Austern auf dem Felsigen Ausl\u00e4ufer, wobei X die Anzahl abgelegter Karten ist. (Nur ein Mal pro Zug.)",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Alex van der Linde.jpg",
@@ -2685,7 +2685,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "<valign>An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<reaction> Nachdem du an den Gesch\u00fctzten Buchten einen Gegner besiegt hast: Platziere X Austern auf <name>, wobei X die Ausdauer des Gegners minus 1 ist (Minimum 1).\n",
+                "text": "<valign>An diesem Ort k\u00f6nnen sich maximal <br>6 Austern befinden.\n<reaction> Nachdem du an den Gesch\u00fctzten Buchten einen Gegner besiegt hast: Platziere X Austern auf <br><name>, wobei X die Ausdauer des Gegners minus 1 ist (Minimum 1).\n",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Environment - Alex van der Linde 13.jpg",
@@ -2711,7 +2711,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "<valign>Alle Arten von Fischen versammeln sich hier in kleinen Schulen, aber wo sind ihre Lehrer?",
+                "flavor_text": "<valign>Alle Arten von Fischen versammeln sich hier<br> in kleinen Schulen, aber wo sind ihre Lehrer?",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Environment - Alex van der Linde 13.jpg",
@@ -2730,7 +2730,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. K\u00fcste.",
-                "text": "An diesem Ort k\u00f6nnen sich maximal 6 Austern befinden.\n<act><act>: Platziere 2 Austern auf <name>.",
+                "text": "An diesem Ort k\u00f6nnen sich maximal <br>6 Austern befinden.\n<act><act>: Platziere 2 Austern auf <name>.",
                 "flavor_text": "",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Environment - Sandra Winther 1.jpg",
@@ -2755,7 +2755,7 @@
                 "text": "",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "<valign>Die Korallen in diesem Teil der K\u00fcste schl\u00e4ngeln sich in komplizierten Schleifen, die kaum m\u00f6glich <br>erscheinen, um sich selbst herum.",
+                "flavor_text": "<valign>Die Korallen in diesem Teil der K\u00fcste schl\u00e4ngeln sich in komplizierten Schleifen, die kaum <br>m\u00f6glich erscheinen, um sich selbst herum.",
                 "illustration": "./images/expanded_images/Environment - Sandra Winther 1.jpg",
                 "collection_icon": "<exi>",
                 "collection_number": ""
@@ -2772,7 +2772,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Pechvogel",
                 "traits": "Wunderland. Kreatur. Verb\u00fcndeter.",
-                "text": "<free> Ersch\u00f6pfe <name>: Bewege <name> an einen verbundenen Ort. Du darfst beliebig viele Austern mit Bill, der Eidechse bewegen <i>(solange dadurch das Limit von 6 Austern an einem Ort nicht \u00fcberschritten wird)</i>.",
+                "text": "<free> Ersch\u00f6pfe <name>: Bewege <name> an einen verbundenen Ort. Du darfst beliebig viele Austern mit Bill, der Eidechse be-<br>wegen <i>(solange dadurch das Limit von 6 Austern an einem Ort nicht \u00fcberschritten wird)</i>.",
                 "health": "1",
                 "sanity": "1",
                 "flavor_text": "\u201eDa fliegt Bill!\u201c",
@@ -2804,7 +2804,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Schlaues Schalentier",
                 "traits": "Wunderland. Kreatur. Verb\u00fcndeter.",
-                "text": "<reaction> Ersch\u00f6pfe w\u00e4hrend einer Fertigkeitsprobe Die \u00c4lteste Auster: Du bekommst +X auf den Fertigkeitswert dieser Probe. X ist die Anzahl an Austern an deinem Ort. Ein beliebiger Ermittler am Ort von <name> darf diese F\u00e4higkeit<br> aktivieren.",
+                "text": "<reaction> Ersch\u00f6pfe w\u00e4hrend einer Fertigkeitsprobe <br>Die \u00c4lteste Auster: Du bekommst +X auf den <br>Fertigkeitswert dieser Probe. X ist die Anzahl an Austern an deinem Ort. Ein beliebiger Ermittler am Ort von <name> darf diese F\u00e4higkeit<br> aktivieren.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -2833,7 +2833,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Riesiges Raubtier",
                 "traits": "Abscheulichkeit. Schatten. Elite.",
-                "text": "J\u00e4ger. Gewaltig.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: <name> erh\u00e4lt <br>+1 Kampf bis zum Ende der Runde.",
+                "text": "J\u00e4ger. Gewaltig.\n<for> Nachdem <name> <br>erfolgreich angegriffen worden ist: <name> <br>erh\u00e4lt +1 Kampf bis zum Ende der Runde.",
                 "health": "4<per>",
                 "evade": "3",
                 "attack": "1",
@@ -2863,7 +2863,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "M\u00e4chtiger M\u00f6rder",
                 "traits": "Abscheulichkeit. Schatten. Elite.",
-                "text": "J\u00e4ger. Gewaltig.\n<for> Nachdem <name> erfolgreich angegriffen worden ist: <name> erh\u00e4lt <br>+1 Kampf bis zum Ende der Runde.",
+                "text": "J\u00e4ger. Gewaltig.\n<for> Nachdem <name> <br>erfolgreich angegriffen worden ist: <name> <br>erh\u00e4lt +1 Kampf bis zum Ende der Runde.",
                 "health": "5<per>",
                 "evade": "4",
                 "attack": "2",
@@ -2914,7 +2914,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Patzer.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Wenn du eine <act>- oder <reaction>-<br>F\u00e4higkeit auf einem Ort aktivierst: Gib 2 Ressourcen aus oder nimm 1 Schaden. \n<act> Falls sich 3 oder mehr Austern auf deinem Ort befinden: Lege <name> ab.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Wenn du eine <act>- oder <reaction>-<br>F\u00e4higkeit auf einem Ort aktivierst: Gib 2 <br>Ressourcen aus oder nimm 1 Schaden. \n<act> Falls sich 3 oder mehr Austern auf deinem Ort befinden: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Apple - Ilse Hviid.jpg",
@@ -2939,7 +2939,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "<spawn> Beliebiger <t>K\u00fcste</t>-Ort. \nJ\u00e4ger.\nBill, die Eidechse kann nicht an den Ort von <name> bewegt werden.\n<for> Nachdem <name> einen Ort betreten hat: Falls Bill, die Eidechse an diesem Ort ist, bewege Bill, die Eidechse an den verbundenen Ort mit dem niedrigsten Schleierwert.",
+                "text": "<spawn> Beliebiger <t>K\u00fcste</t>-Ort. \nJ\u00e4ger.\nBill, die Eidechse kann nicht an den Ort von <br>Seem\u00e4nnischer Albtraum bewegt werden.\n<for> Nachdem <name> einen Ort betreten hat: Falls Bill, die Eidechse an diesem Ort ist, bewege Bill, die Eidechse an den verbundenen Ort mit dem niedrigsten Schleierwert.",
                 "health": "4",
                 "evade": "2",
                 "attack": "3",
@@ -3103,7 +3103,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Macht.",
-                "text": "<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Am Ende der Runde: Das Walross und der Zimmermann greifen in Spielerreihenfolge alle Ermittler an ihren Orten an. Lege <name> ab.",
+                "text": "<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Am Ende der Runde: Das Walross und der Zimmermann greifen in Spielerreihenfolge alle Ermittler an ihren Orten an. <br>Lege <name> ab.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Walrus - Josefine Maier.jpg",
                 "illustrator": "Illus. Josefine Maier",
@@ -4972,7 +4972,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schloss. Gesperrt.",
-                "text": "<reaction> Nachdem der letzte Hinweis in den <name> entdeckt worden ist: Entferne je 2 Anschuldigungen von jeder Kopie von K\u00f6niglicher Verdacht im Spiel (Nur ein Mal pro Spiel f\u00fcr die gesamte Gruppe).",
+                "text": "<reaction> Nachdem der letzte Hinweis in den <name> entdeckt worden ist: Entferne je 2 Anschuldigungen von jeder Kopie von K\u00f6niglicher Verdacht im Spiel. (Nur ein Mal pro Spiel f\u00fcr die gesamte Gruppe.)",
                 "flavor_text": "In den K\u00fcchen herrscht das reinste Chaos, als die Diener der <br>K\u00f6nigin die Torten vorbereiten. Da sie noch nicht aufger\u00e4umt haben, k\u00f6nnten noch Spuren von demjenigen zu finden sein, <br>der die erste Ladung gestohlen hat.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Kitchen - Maxime Gayral.jpg",
@@ -6235,7 +6235,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Wunderland. Kreatur. Gefahr.",
-                "text": "<rev> Lege eine <agility>-Probe (3) ab. Falls die Probe misslingt, bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Falls du durch eine Angriff mehr als 1 Schaden zuf\u00fcgen w\u00fcrdest: Senke jene Menge auf 1.\n<for> Falls du durch Ermitteln mehr als 1 Hinweis entdecken w\u00fcrdest: Senke jene Menge auf 1.\n<action> <action>: Lege <name> ab.",
+                "text": "<rev> Lege eine <agility>-Probe (3) ab. Falls die Probe misslingt, bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Sobald du durch einen Angriff mehr als 1 Schaden zuf\u00fcgen w\u00fcrdest: Senke jene Menge auf 1.\n<for> Sobald du durch Ermitteln mehr als 1 Hinweis entdecken w\u00fcrdest: Senke jene Menge auf 1.\n<action> <action>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Looking Glass Swarm - Adam Ferrando.jpg",
@@ -8104,7 +8104,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Das Wunderkind",
                 "traits": "Tr\u00e4umer.",
-                "text": "<reaction> Sobald ein Ermittler am Ort von Alice eine beliebige Fertigkeits-<br>probe ablegt: Der Ermittler legt die Probe stattdessen mit dem Grund-<intellect>-Fertigkeitswert von Alice ab. (Nur ein Mal pro Runde pro <br>Ermittler)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-<br>Effekts abhandeln.",
+                "text": "<reaction> Sobald ein Ermittler am Ort von Alice eine beliebige Fertigkeits-<br>probe ablegt: Der Ermittler legt die Probe stattdessen mit dem Grund-<intellect>-Fertigkeitswert von Alice ab. (Nur ein Mal pro Runde pro <br>Ermittler.)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-<br>Effekts abhandeln.",
                 "health": "6",
                 "sanity": "8",
                 "illustration": "./images/Alice - Aucher-fargue Nicolas.png",
@@ -8225,7 +8225,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Erkenntnis.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald sich ein Ermittler bewegt: Der Ermittler bekommt bis zum Ende seines Zuges +1 auf jede Fertigkeitsprobe. (Nur ein Mal pro Ermittler).\n<for> Am Ende der Runde: <br>Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald sich ein Ermittler bewegt: Der Ermittler bekommt bis zum Ende seines Zuges +1 auf jede Fertigkeitsprobe. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8742,7 +8742,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem eine Probe gegen einen Gegner misslingt: Platziere 1 Verderben auf jenen Gegner (nur ein Mal pro Ermittler).\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem eine Probe gegen einen Gegner misslingt: Platziere 1 Verderben auf jenen Gegner (nur ein Mal pro Ermittler.)\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -9010,7 +9010,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> W\u00e4hrend des Zuges eines Ermittlers: Jener Ermittler darf eine Vorteilskarte von seiner Hand spielen <i>(und ihre Kosten bezahlen)</i> (nur ein Mal pro Ermittler).\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> W\u00e4hrend des Zuges eines Ermittlers: Jener Ermittler darf eine Vorteilskarte von seiner Hand spielen <i>(und ihre Kosten bezahlen)</i> (nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "Tassen und Untertassen fliegen durch die Luft, geworfen auf die Schatten vom einzig verbliebenen Gast der Teegesellschaft.",
@@ -9198,7 +9198,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<size 67>Nachr\u00fcsten.\n<rev> Mische eine beliebige Anzahl an Karten von deiner Hand in dein Deck  und ziehe dieselbe Anzahl. F\u00fcr jede Karte, die du nicht in dein Deck gemischt hast, verlierst du 1 Ressource.",
+                "text": "<size 67>Nachr\u00fcsten.\n<rev> Mische eine beliebige Anzahl an Karten von deiner Hand in dein Deck  und ziehe dann dieselbe Anzahl Karten. F\u00fcr jede Karte, die du nicht in dein Deck gemischt hast, verlierst du 1 Ressource.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Cheshire Cat - Zoya Koinash.jpg",
@@ -9566,7 +9566,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Lege eine <int>-Probe (5) ab. \u00c4ndere auf enth\u00fcllten Chaosmarkern \u201e--\u201d-Modifkatoren  in \u201e+\u201d, und \u201e+\u201d in \u201e--\u201d. Fertigkeitssymbole, die zu dieser Probe beigetragen werden, werden stattdessen von deinem Fertigkeitswert abgezogen. Falls die Probe gelingt, verlierst du 1 Aktion. Falls die Probe um 2 oder mehr gelingt, nimmst du 1 Horror.",
+                "text": "<rev> Lege eine <int>-Probe (5) ab. \u00c4ndere auf jedem enth\u00fcllten Chaosmarker den Modifikator von \u201e--\u201d zu  \u201e+\u201d, und umgekehrt. Fertigkeitssymbole, die zu dieser Probe beigetragen werden, werden stattdessen von deinem Fertigkeitswert abgezogen. Falls die Probe gelingt, verlierst du 1 Aktion. Falls die Probe um 2 oder mehr gelingt, nimmst du 1 Horror.",
                 "flavor_text": "Woanders w\u00fcrde man sich den Erfolg w\u00fcnschen.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Jorgo.jpg",
@@ -9586,7 +9586,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott. Aufgabe.",
-                "text": "<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Falls Verderben auf einer beliebigen anderen Karte platziert wird <i>(auch der Agenda)</i>: Platziere 1 Verderben auf <name> (nur ein Mal pro Phase).\n<act>: Lege eine <int>-Probe (4) ab. Senke die Schwierigkeit dieser Probe um 1 f\u00fcr jedes Verderben auf <name>. Falls die Probe gelingt, lege <name> ab.",
+                "text": "<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Falls Verderben auf einer beliebigen anderen Karte platziert wird <i>(auch der Agenda)</i>: Platziere 1 Verderben auf <name>. (Nur ein Mal pro Phase.)\n<act>: Lege eine <int>-Probe (4) ab. Senke die Schwierigkeit dieser Probe um 1 f\u00fcr jedes Verderben auf <name>. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Puzzle - Luis Alfonso.jpg",
@@ -10130,7 +10130,7 @@
                     ],
                     [
                         "<b>Deckbau-Optionen</b>:",
-                        "Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf <br>andere Mystiker- und/oder \u00dcberlebenderkarten  <br>(<mystic> und/oder <survivor>) Stufe 0."
+                        "Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/oder <survivor>) Stufe 0."
                     ],
                     [
                         "<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
@@ -10141,7 +10141,7 @@
                         ""
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf <br>andere Mystiker- und/oder \u00dcberlebenderkarten  <br>(<mystic> und/oder <survivor>) Stufe 0.\n<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/oder <survivor>) Stufe 0.\n<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
                 "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu verschmelzen. Alice versuchte, dem sich ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft, so viele von Arkhams bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren.",
                 "classes": [
                     "seeker"
@@ -10216,7 +10216,7 @@
                 "damage": "1",
                 "horror": "1",
                 "traits": "Humanoid. Abscheulichkeit.",
-                "text": "<spawn> Ort mit den meisten Hinweisen. <prey> Ermittler mit den meisten Hinweisen.\nFalls sich keine Hinweise auf dem Ort von <name> befinden, erh\u00e4lt <name> J\u00e4ger.\n<for> Am Ende der Mythosphase, falls sich Hinweise auf dem Ort von <name> befinden: Platziere 1 Verderben auf  Verdrehter <br>B\u00fcrger.",
+                "text": "<size 65><spawn> Ort mit den meisten Hinweisen. <br><prey> Ermittler mit den meisten Hinweisen.\nFalls sich keine Hinweise auf dem Ort von <name> befinden, erh\u00e4lt <name> J\u00e4ger.\n<for> Am Ende der Mythosphase, falls sich Hinweise auf dem Ort von <name><br> befinden: Platziere 1 Verderben auf Verdrehter B\u00fcrger.",
                 "illustration": "./images/expanded_images/Twisted Citizen - Emma Chilicuisa.jpg",
                 "illustration_pan_y": 730.0,
                 "illustrator": "Illus. Emma Chilicuisa"
@@ -10235,7 +10235,7 @@
             "front": {
                 "type": "act",
                 "text": "<obj> Ihr d\u00fcrft w\u00e4hlen vorzur\u00fccken, falls sich mindestens 4<per_large> Austern auf Orten im Spiel befinden.<br>",
-                "flavor_text": "Du denkst \u00fcber die kryptischen Worte der Grinsekatze sorgf\u00e4ltig nach. Die Katze scheint nicht nur anzudeuten, dass das Monster, das das Haus des Wei\u00dfen Kaninchens zerst\u00f6rt hat, zu Gurathnaka geh\u00f6rt, sondern auch, dass die Austern in der N\u00e4he dabei helfen k\u00f6nnten, es zu finden und zu besiegen. Wenn ihr dieses Ungeheuer vernichten k\u00f6nnt, kann vielleicht auch Gurathnaka rechtzeitig vernichtet werden.",
+                "flavor_text": "Du denkst \u00fcber die kryptischen Worte der Grinsekatze sorgf\u00e4ltig nach. Die Katze scheint nicht nur anzudeuten, dass das <br>Monster, das das Haus des Wei\u00dfen <br>Kaninchens zerst\u00f6rt hat, zu Gurathnaka <br>geh\u00f6rt, sondern auch, dass die Austern in der N\u00e4he dabei helfen k\u00f6nnten, es zu finden und zu besiegen. Wenn ihr dieses Ungeheuer <br>vernichten k\u00f6nnt, kann vielleicht auch <br>Gurathnaka rechtzeitig vernichtet werden.",
                 "illustration": "./images/expanded_images/Environment - Aernout van Pallandt 1.jpg",
                 "index": "1a",
                 "illustrator": "Illus. Aernout van Pallandt",
@@ -10246,9 +10246,9 @@
                 "type": "act_back",
                 "name": "Bitte aufmachen!",
                 "victory": "",
-                "text": "W\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseitegelegte Karte Die \u00c4lteste Auster \u00fcbernimmt.\n",
+                "text": "W\u00e4hle einen Ermittler, der die Kontrolle \u00fcber die beiseite-<br>gelegte Karte Die \u00c4lteste Auster \u00fcbernimmt.\n",
                 "index": "1b",
-                "flavor_text": "Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalentiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam."
+                "flavor_text": "<size 63>Du arbeitest dich die K\u00fcste auf und ab, aber keines der Schalentiere scheint dich zu verstehen. Schlie\u00dflich betrachtet dich eine Auster noch misstrauischer als die anderen. \u201eDu geh\u00f6rst nicht zum Wunderland\u201c, sagt sie k\u00fchl, \u201eaber du geh\u00f6rst auch nicht zu den Schatten. Du musst eine andere Alice sein.\u201c Du tust dein <br>Bestes, um die Umst\u00e4nde zu erkl\u00e4ren, und sie nickt langsam."
             },
             "project_number": "25",
             "encounter_set": "6227882b-e173-45ff-bbe2-dc19fb67edba",
