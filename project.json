@@ -3079,8 +3079,8 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott. Paradox.",
-                "text": "<rev> Falls sich alle Austern im Spiel auf den Orten des Walrosses oder des Zimmermanns befinden, erh\u00e4lt diese Karte Nachr\u00fcsten. Ansonsten, lege eine <willpower>-Probe (3) ab. Falls die Probe misslingt, bewege f\u00fcr jeden Punkt, um den die Probe gescheitert ist, 1 Auster, die sich nicht am Ort des Walrosses oder des Zimmermanns befindet, 1 Ort in Richtung des Walrosses oder des Zimmermanns <i>(zum jeweils n\u00e4chstgelegenen)</i>.",
-                "flavor_text": "\u201eDie Zeit ist reif, zu sprechen nun\u201c, das Walross klang ganz hohl:",
+                "text": "<size 61><rev> Falls sich alle Austern im Spiel auf den Orten des Walrosses oder des Zimmermanns befinden, erh\u00e4lt diese Karte Nachr\u00fcsten. Ansonsten, lege eine <br><willpower>-Probe (3) ab. Falls die Probe misslingt, bewege f\u00fcr jeden Punkt, um den die Probe gescheitert ist, 1 Auster, die sich nicht am Ort des Walrosses oder des Zimmermanns befindet, 1 Ort in Richtung des Walrosses oder des Zimmermanns <i>(zum jeweils n\u00e4chstgelegenen)</i>.",
+                "flavor_text": "<size 54> \u201eDie Zeit ist reif, zu sprechen nun\u201c, das Walross klang ganz hohl:",
                 "victory": "",
                 "illustration": "./images/expanded_images/Walrus and Carpenter - Harry Rountree.jpg",
                 "illustrator": "Illus. Harry Rountree",
@@ -3124,7 +3124,7 @@
             "name": "Weckruf",
             "front": {
                 "type": "act",
-                "text": "Solange Die Haselmaus nicht von einem <br>Ermittler kontrolliert wird, erh\u00e4lt sie: \n\u201e<free> Gebt als Gruppe 2<per_large> Hinweise aus: <b>Verhandlung.</b> \u00dcbernimm die Kontrolle \u00fcber Die Haselmaus. F\u00fcr den Rest des Szenarios ben\u00f6tigt sie keinen Verb\u00fcndeten-Slot.\u201d\n<obj> Falls ein Ermittler Die <br>Haselmaus kontrolliert, r\u00fccke vor.",
+                "text": "Solange Die Haselmaus nicht von einem <br>Ermittler kontrolliert wird, erh\u00e4lt sie: \n\u201e<free> Gebt als Gruppe 2<per_large> Hinweise aus: <b>Verhandlung.</b> \u00dcbernimm die Kontrolle \u00fcber Die Haselmaus. F\u00fcr den Rest des Szenarios ben\u00f6tigt sie keinen Verb\u00fcndeten-Slot.\u201d\n<obj> Falls ein Ermittler <br>Die Haselmaus kontrolliert, r\u00fccke vor.",
                 "flavor_text": "Du hebst den Deckel an und versuchst, die Hasel-<br>maus wachzur\u00fctteln, aber sie schl\u00e4ft immer noch tief. Vielleicht k\u00f6nnte etwas auf dem Tisch hier sie aufwecken. Aber w\u00e4hle weise -- du ahnst nicht, was sich in den Kannen und Tassen befindet.",
                 "illustration": "./images/Teacups - LCQ92.png",
                 "index": "2a",
@@ -3139,7 +3139,7 @@
                 "name": "Tee und Sympathie",
                 "victory": "",
                 "index": "2b",
-                "flavor_text": "Du findest die eine Tasse Tee, die ein viel angenehmeres Aroma hat als die anderen, und h\u00e4ltst sie der Haselmaus vor die Nase. Zuerst regt sie sich leicht, dann erwacht sie pl\u00f6tzlich mit einem lauten Keuchen. Panik ergreift sie, bis sie sieht, dass du besorgt auf sie herabschaust. \u201eDu bist... du bist hier, um zu helfen...?\u201d, fragt sie dich mit einem Zittern in der Stimme. Du nickst, und sie nickt schnell zur\u00fcck. \u201eEndlich Hilfe... gut, gut. Die Dinger machen Jagd auf Tr\u00e4ume, sogar innerhalb eines Traums. Wenn du einschl\u00e4fst, bist du leichte Beute. Wir m\u00fcssen diese Schatten verjagen, indem wir den Tisch und die St\u00fchle wieder im Wunderland verankern.\u201d"
+                "flavor_text": "Du findest die eine Tasse Tee, die ein viel angenehmeres <br>Aroma hat als die anderen, und h\u00e4ltst sie der Haselmaus vor die Nase. Zuerst regt sie sich leicht, dann erwacht sie pl\u00f6tzlich mit einem lauten Keuchen. Panik ergreift sie, bis sie sieht, dass du besorgt auf sie herabschaust. \u201eDu bist... du bist hier, um zu helfen...?\u201d, fragt sie dich mit einem Zittern in der Stimme. Du nickst, und sie nickt schnell zur\u00fcck. \u201eEndlich Hilfe... gut, gut. <br>Die Dinger machen Jagd auf Tr\u00e4ume, sogar innerhalb eines Traums. Wenn du einschl\u00e4fst, bist du leichte Beute. Wir m\u00fcssen diese Schatten verjagen, indem wir den Tisch und die St\u00fchle <br>wieder im Wunderland verankern.\u201d"
             },
             "encounter_number": "10",
             "project_number": "56",
@@ -3164,8 +3164,9 @@
                 "type": "act_back",
                 "name": "In der Fantasie verwurzelt",
                 "victory": "",
-                "text": "<blockquote>Du versuchst, deine Erinnerungen an deine bisherigen Abenteuer im Wunderland in die St\u00fchle zu lenken. Jedes Bild, das du heraufbeschw\u00f6rst, und jedes Ereignis, das du wiederholst, scheint einen kleinen Fleck der Dunkelheit unter dem Sitz zu vertreiben. Du gehst um den Tisch herum, bis ein Ring aus Gras die Teegesellschaft umgibt. Wie durchtrennt ziehen sich die Schatten zur\u00fcck, und langsam kehrt der Garten des M\u00e4rzhasen zur\u00fcck.</blockquote>\nFalls die aktuelle c-Agenda \u201eDie verr\u00fcckte Teegesellschaft\u201d ist,<br></b>(<b><resolution>A2</b>).\nFalls die aktuelle c-Agenda \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d ist,<br>(<b><resolution>A3</b>).\nFalls die aktuelle c-Agenda \u201eDer Verr\u00fcckte Hutmacher\u201d ist,<br>(<b><resolution>A4</b>).\nFalls die aktuelle c-Agenda \u201eEine ausufernde Teegesellschaft\u201d ist,(<b><resolution>A5</b>).",
-                "index": "3b"
+                "text": "<bullet> Falls die aktuelle c-Agenda \u201eDie verr\u00fcckte Teegesellschaft\u201d ist, fahre mit </b>(<b><resolution>A2</b>) fort.\n<bullet> Falls die aktuelle c-Agenda \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d ist, fahre mit (<b><resolution>A3</b>) fort.\n<bullet> Falls die aktuelle c-Agenda \u201eDer Verr\u00fcckte Hutmacher\u201d ist, fahre mit (<b><resolution>A4</b>) fort.\n<bullet> Falls die aktuelle c-Agenda \u201eEine ausufernde Teegesellschaft\u201d ist, fahre mit (<b><resolution>A5</b>) fort.",
+                "index": "3b",
+                "flavor_text": "Du versuchst, deine Erinnerungen an deine bisherigen Abenteuer im Wunderland in die St\u00fchle zu lenken. Jedes Bild, das du heraufbeschw\u00f6rst, und jedes Ereignis, das du wiederholst, scheint einen kleinen Fleck der Dunkelheit unter dem Sitz zu vertreiben. Du gehst um den Tisch herum, bis ein Ring aus Gras die Teegesellschaft umgibt. Wie durchtrennt ziehen sich die Schatten zur\u00fcck, und langsam kehrt der Garten des M\u00e4rzhasen zur\u00fcck."
             },
             "encounter_number": "11",
             "project_number": "57",
@@ -3176,8 +3177,8 @@
             "name": "In Schatten getr\u00e4nkt",
             "front": {
                 "type": "agenda",
-                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Beliebiger leerer <t>Stuhl</t>-<br>Ort.\u201c",
-                "flavor_text": "Die wirbelnden Schatten umkreisen und isolieren dich vom Rest der Teegesellschaft. Um dich kreisen wacklige St\u00fchle, keiner l\u00e4dt zum Verweilen ein. Wenn du zur\u00fcck auf festen Boden willst, musst du dich beeilen.",
+                "text": "<size 62> Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten <br>\u201e<spawn> Beliebiger leerer <t>Stuhl</t>-Ort.\u201c",
+                "flavor_text": "<size 65>Die wirbelnden Schatten umkreisen und <br>isolieren dich vom Rest der Teegesellschaft. Um dich kreisen wacklige St\u00fchle, keiner l\u00e4dt zum Verweilen ein. Wenn du zur\u00fcck auf <br>festen Boden willst, musst du dich beeilen.",
                 "illustration": "./images/expanded_images/Teapot - Unknown.jpg",
                 "doom": "6",
                 "index": "1a",
@@ -3202,8 +3203,8 @@
             "name": "In die Dunkelheit treiben",
             "front": {
                 "type": "agenda",
-                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Beliebiger leerer <t>Stuhl</t>-<br>Ort.\u201c",
-                "flavor_text": "Jedes Mal, wenn St\u00fchle vom Tisch weg treiben, sinken sie tiefer und tiefer in die Schatten. Bald schon wirst du keinen Tritt mehr finden.",
+                "text": "<size 62> Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten <br>\u201e<spawn> Beliebiger leerer <t>Stuhl</t>-Ort.\u201c",
+                "flavor_text": "Jedes Mal, wenn St\u00fchle vom Tisch weg treiben, sinken sie tiefer und tiefer in die Schatten. Bald schon wirst du keinen <br>Tritt mehr finden.",
                 "illustration": "./images/expanded_images/Teapot - Unknown.jpg",
                 "doom": "6",
                 "index": "2a",
@@ -3217,7 +3218,7 @@
                 "victory": "",
                 "text": "Heile jeweils 2<per_large> Schaden vom M\u00e4rzhasen und vom Hutmacher.",
                 "index": "2b",
-                "flavor_text": "Die Teegesellschaft schl\u00fcrft gierig ihre Tassen leer und stopft sich mit allem voll, was greifbar ist, w\u00e4hrend ihr wirres Geplapper kein Ende nimmt. Dieser Wahnsinn wird euch alle umbringen, wenn ihr nicht bald zur Besinnung kommt."
+                "flavor_text": "Die Teegesellschaft schl\u00fcrft gierig ihre Tassen leer und stopft sich mit allem voll, was greifbar ist, w\u00e4hrend ihr wirres Geplapper kein Ende nimmt. Dieser Wahnsinn wird euch alle umbringen, wenn ihr nicht bald <br>zur Besinnung kommt."
             },
             "encounter_number": "3",
             "project_number": "49",
@@ -3228,8 +3229,8 @@
             "name": "F\u00fcnf vor Zw\u00f6lf",
             "front": {
                 "type": "agenda",
-                "text": "Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten \u201e<spawn> Beliebiger leerer <t>Stuhl</t>-<br>Ort.\u201c",
-                "flavor_text": "Das sp\u00e4rliche Licht, das den Teetisch beleuchtet, schwindet schnell. Wenn du keinen Ausweg findest, bevor die Dunkelheit dich umh\u00fcllt, ist es ungewiss, ob du jemals wieder Tageslicht sehen wirst.",
+                "text": "<size 62> Alle Gegner verlieren ihre Erscheinen-Anweisungen und erhalten <br>\u201e<spawn> Beliebiger leerer <t>Stuhl</t>-Ort.\u201c",
+                "flavor_text": "Das sp\u00e4rliche Licht, das den Teetisch<br> beleuchtet, schwindet schnell. Wenn du keinen Ausweg findest, bevor die Dunkelheit dich umh\u00fcllt, ist es ungewiss, ob du<br> jemals wieder Tageslicht sehen wirst.",
                 "illustration": "./images/expanded_images/Teapot - Unknown.jpg",
                 "doom": "6",
                 "index": "3a",
@@ -3254,8 +3255,8 @@
             "name": "Die verr\u00fcckte Teegesellschaft",
             "front": {
                 "type": "agenda",
-                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben.</b> Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der M\u00e4rzhase oder Der Hutmacher besiegt wird, r\u00fccke vor.",
-                "flavor_text": "Der Hase und der Hutmacher scheinen h\u00f6chst zufrieden damit, ihre Feierlichkeiten im tobenden Chaos fortzusetzen. Jede Verletzung der Etikette beantwortet das Duo aber mit heftiger Emp\u00f6rung. Von den Schatten scheinen sie nichts zu wissen und noch weniger lassen sie sich von ihnen st\u00f6ren. Welche Rolle sie bei der Aufrechterhaltung dieses seltsamen Teetreibens spielen, ist unklar. Du solltest ihnen mit Vorsicht begegnen.",
+                "text": "<size 56>Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben.</b> <br>Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der M\u00e4rzhase oder Der Hutmacher besiegt wird, r\u00fccke vor.",
+                "flavor_text": "<size 52>Der Hase und der Hutmacher scheinen h\u00f6chst zufrieden damit, ihre Feierlichkeiten im tobenden Chaos fortzusetzen. Jede Verletzung der Etikette beantwortet das Duo aber mit heftiger Emp\u00f6rung. Von den Schatten scheinen sie nichts zu wissen und noch weniger lassen sie sich von ihnen st\u00f6ren. Welche Rolle sie bei der Aufrechterhaltung dieses seltsamen Teetreibens spielen, ist <br>unklar. Du solltest ihnen mit Vorsicht begegnen.",
                 "illustration": "./images/expanded_images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "index": "1c",
                 "illustrator": "Illus. Gregory Hildebrandt",
@@ -3270,7 +3271,7 @@
                 "name": "Gegen die Etikette",
                 "victory": "",
                 "index": "1d",
-                "text": "<b>Falls Der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c -- \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor. <hr> \n<b>Falls Der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig ausser sich. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c -- \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
+                "text": "<b>Falls Der Hutmacher besiegt wurde:</b>\n<blockquote>Der Hutmacher gibt ein gequ\u00e4ltes R\u00f6cheln von sich und sackt in seinem Stuhl zusammen, als dein letzter Schlag ihn trifft. Sofort f\u00e4hrt der Hase w\u00fctend in die H\u00f6he und zeigt mit einem anklagenden Finger auf dich. \u201eWenn du dich pr\u00fcgeln willst, dann nicht am Tisch! Ich will nicht, dass du die anderen G\u00e4ste bel\u00e4stigst!\u201d</blockquote>\nDrehe den M\u00e4rzhasen um. Merke dir, dass der Ermittler, der den <br>Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c -- \u201eDer Verr\u00fcckte M\u00e4rzhase\u201d vor. <hr> \n<b>Falls Der M\u00e4rzhase besiegt wurde:</b>\n<blockquote>Der Hase bricht schlaff auf dem Tisch zusammen, als dein letzter Angriff seine Wirkung zeigt. Der Hutmacher schleudert eine halb gef\u00fcllte Teetasse nach dir, v\u00f6llig ausser sich. \u201eJetzt hast du es geschafft! Ein absolut anregendes Gespr\u00e4ch wird durch dein r\u00fcpelhaftes Verhalten ruiniert! Wenn du nicht h\u00f6flich sein kannst, dann solltest du gar nicht sprechen!\u201d</blockquote>\nDrehe den Hutmacher um. Merke dir, dass der Ermittler, der den M\u00e4rzhasen besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 2c -- \u201eDer Verr\u00fcckte Hutmacher\u201d vor."
             },
             "encounter_number": "5",
             "project_number": "51",
@@ -3281,8 +3282,8 @@
             "name": "Der Verr\u00fcckte M\u00e4rzhase",
             "front": {
                 "type": "agenda",
-                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben.</b> Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der M\u00e4rzhase besiegt wird, r\u00fccke vor.",
-                "flavor_text": "Die Wut des M\u00e4rzhasen \u00fcber den Verlust seines Freundes entfacht ein wildes Feuer in ihm. Kein Wort, keine Tat vermag ihn zu bes\u00e4nftigen. So bleibt dir nichts anderes \u00fcbrig, als deine Bem\u00fchungen, die zerr\u00fcttete Teegesellschaft zu beruhigen, dieses neuen Sturms zum Trotz fortzusetzen.",
+                "text": "<size 64>Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben.</b> <br>Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der M\u00e4rzhase besiegt wird, r\u00fccke vor.",
+                "flavor_text": "<size 59>Die Wut des M\u00e4rzhasen \u00fcber den Verlust seines Freundes entfacht ein wildes Feuer in ihm. Kein Wort, keine Tat vermag ihn zu bes\u00e4nftigen. So bleibt dir nichts anderes \u00fcbrig, als deine Bem\u00fchungen, die zerr\u00fcttete Teegesellschaft zu beruhigen, dieses neuen Sturms zum Trotz fortzusetzen.",
                 "illustration": "./images/expanded_images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "doom": "<dash>",
                 "index": "2c",
@@ -3309,7 +3310,7 @@
             "name": "Der Verr\u00fcckte Hutmacher",
             "front": {
                 "type": "agenda",
-                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben.</b> Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der Hutmacher besiegt wird, r\u00fccke vor.",
+                "text": "Auf dieser Agenda kann kein Verderben platziert werden.\n<act> Gib 1<per_large> Hinweise aus: <b>Aufgeben.</b> Du springst in die Schatten und vertraust deiner Intuition.\n<for> Falls Der Hut-<br>macher besiegt wird, r\u00fccke vor.",
                 "flavor_text": "Der Hutmacher ist so w\u00fctend \u00fcber den Tod seines Freundes, dass er kaum sprechen kann, und er starrt dich mit b\u00f6sem Blick an. Du musst deine Ermittlungen trotz seines Zorns fortsetzen.",
                 "illustration": "./images/expanded_images/Mad Tea Party - Gregory Hildebrandt.jpg",
                 "index": "2c",
@@ -3324,7 +3325,7 @@
                 "type": "agenda_back",
                 "name": "Den Hut an den Nagel h\u00e4ngen",
                 "victory": "",
-                "text": "Merke dir, dass der Ermittler, der den Hutmacher besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 3c -- \u201eEine ausufernde Tee-<br>gesellschaft\u201d vor.",
+                "text": "Merke dir, dass der Ermittler, der den Hutmacher <br>besiegt hat, \u201eschreckliche Tischmanieren hat\u201d.\nR\u00fccke zu Agenda 3c -- \u201eEine ausufernde Teegesellschaft\u201d vor.",
                 "index": "2d",
                 "flavor_text": "Der Hutmacher f\u00e4llt mit einem leisen Wimmern auf die Knie, bevor er in die wogenden Schatten hinabst\u00fcrzt. Mit seinem Verschwinden scheint die Dunkelheit auf dich zuzukommen, und der Tisch erbebt mit einem Knarren des Holzes."
             },
@@ -3357,7 +3358,8 @@
                 "index": "3d",
                 "illustration_pan_y": -100.0,
                 "collection_icon": "",
-                "collection_number": ""
+                "collection_number": "",
+                "collection_total": " "
             },
             "encounter_number": "8",
             "project_number": "54",
@@ -3387,7 +3389,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "--3. Falls du dich an einem<br> <t>Stuhl</t>-Ort befindest: Ziehe nach dieser Probe die oberste Karte des Stuhldecks und ersetze deinen Ort damit. Mische deinen alten Ort in das Stuhldeck."
+                        "text": "--3. Falls du dich an einem<br> <t>Stuhl</t>-Ort befindest: Ziehe nach dieser Probe die oberste Karte des Stuhldecks und <br>ersetze deinen Ort damit. <br>Mische deinen alten Ort in das Stuhldeck."
                     }
                 ],
                 "difficulty": "EINFACH/STANDARD"
@@ -3412,7 +3414,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "--4. Falls du dich an einem<br><t>Stuhl</t>-Ort befindest: Ziehe nach dieser Probe die oberste Karte des Stuhldecks und ersetze deinen Ort damit. Mische deinen alten Ort in das Stuhldeck."
+                        "text": "--4. Falls du dich an einem<br> <t>Stuhl</t>-Ort befindest: Ziehe nach dieser Probe die oberste Karte des Stuhldecks und <br>ersetze deinen Ort damit. <br>Mische deinen alten Ort in das Stuhldeck."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -3552,7 +3554,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Stuhl.",
-                "text": "<for> Nachdem du den <name> betreten hast: Platziere Hinweise auf diesen Ort, bis er Hinweise entsprechend seines Hinweiswertes hat. Falls du keine Vorteilskarte kontrollierst, die mindestens einen Handslot ben\u00f6tigt: Du verlierst <br>1 Aktion.",
+                "text": "<for> Nachdem du den <name> betreten hast: Platziere Hinweise auf diesen Ort, bis er Hinweise entsprechend seines Hinweiswertes hat. Falls du keine Vorteilskarte kontrollierst, die mindestens einen Handslot ben\u00f6tigt: Du verlierst 1 Aktion.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Chair - Armchair.jpg",
@@ -6528,7 +6530,20 @@
                         "text": "\u20132. Falls die Probe misslingt, platziere 1 Schaden und <br>1 Horror auf der Szenario-<br>\u00fcbersichtskarte."
                     }
                 ],
-                "difficulty": "EINFACH/STANDARD"
+                "difficulty": "EINFACH/STANDARD",
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1150,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 626,
+                    "width": 1170,
+                    "height": 940
+                },
+                "chaos_extra": "Schaden & Horror"
             },
             "back": {
                 "type": "chaos",
@@ -6553,7 +6568,20 @@
                         "text": "\u20133. Falls die Probe misslingt, platziere 1 Schaden und<br> 1 Horror auf der Szenario-<br>\u00fcbersichtskarte."
                     }
                 ],
-                "difficulty": "SCHWER/EXPERTE"
+                "difficulty": "SCHWER/EXPERTE",
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1150,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 626,
+                    "width": 1170,
+                    "height": 940
+                },
+                "chaos_extra": "Schaden & Horror"
             },
             "encounter_number": "1",
             "project_number": "148",
