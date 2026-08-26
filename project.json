@@ -527,7 +527,7 @@
         },
         {
             "name": "Alice in Arkham",
-            "icon": "./images/Alice in Arkham.png",
+            "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Alice in Arkham.png",
             "id": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "card_amount": 34,
             "order": 11,
@@ -542,7 +542,19 @@
             "card_amount": 4,
             "order": 12,
             "meta": {
-                "tts": {}
+                "tts": {},
+                "location_layouts": [
+                    {
+                        "id": "95fc5b5e-d799-4a84-bcd7-809e90c84a40",
+                        "name": "Layout 1",
+                        "show_arrows": true,
+                        "snap_enabled": false,
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {}
+                    }
+                ],
+                "location_active_layout": "95fc5b5e-d799-4a84-bcd7-809e90c84a40"
             }
         },
         {
@@ -2351,7 +2363,7 @@
                 "type": "act_back",
                 "name": "Fang des Tages",
                 "victory": "",
-                "text": "<blockquote>Unter der Anleitung der weisen Auster sammelst du auf einem kleinen Felsvorsprung mit Blick auf das Meer der Tr\u00e4nen einen Haufen Treibgut. \u201eAuch diese Gegenst\u00e4nde stammen nicht aus dem Wunderland\u201d, erkl\u00e4rt die Auster, \u201esie m\u00fcssen also von dort stammen, wo du herkommst. Die Schatten sehnen sich nach <br>Dingen aus deiner Heimat, und mit so vielen hast du sicher genug, um einen K\u00f6der auszuwerfen.\u201d Du bindest die Tr\u00fcmmer zusammen und wirfst sie an einer Leine ins Wasser. Kaum ist das B\u00fcndel im Wasser, taucht eine riesige Schattengestalt aus dem Meer auf und verschlingt die Gegenst\u00e4nde mit einem einzigen Biss. Bill, die Eidechse, st\u00f6\u00dft beim blo\u00dfen Anblick des Ungeheuers einen <br>erschrockenen Schrei aus, und du tust dein Bestes, um ihn <br>an der Flucht zu hindern, als das Monster auftaucht.</blockquote>\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler den Kaninchenbau hinab stiegen,</i> bringe den beiseitegelegten Tiefen Verfolger <i>(Riesiges Raubtier)</i>             am Felsigen Ausl\u00e4ufer ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Tiefen Verfolger <i>(M\u00e4chtiger M\u00f6rder)</i> am Felsigen Ausl\u00e4ufer ins Spiel.",
+                "text": "<blockquote>Unter der Anleitung der weisen Auster sammelst du auf einem kleinen Felsvorsprung mit Blick auf das Meer der Tr\u00e4nen einen Haufen Treibgut. \u201eAuch diese Gegenst\u00e4nde stammen nicht aus dem Wunderland\u201d, erkl\u00e4rt die Auster, \u201esie m\u00fcssen also von dort stammen, wo du herkommst. Die Schatten sehnen sich nach <br>Dingen aus deiner Heimat, und mit so vielen hast du sicher genug, um einen K\u00f6der auszuwerfen.\u201d Du bindest die Tr\u00fcmmer zusammen und wirfst sie an einer Leine ins Wasser. Kaum ist das B\u00fcndel im Wasser, taucht eine riesige Schattengestalt aus dem Meer auf und verschlingt die Gegenst\u00e4nde mit einem einzigen Biss. Bill, die Eidechse, st\u00f6\u00dft beim blo\u00dfen Anblick des Ungeheuers einen <br>erschrockenen Schrei aus, und du tust dein Bestes, um ihn <br>an der Flucht zu hindern, als das Monster auftaucht.</blockquote>\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler den Kaninchenbau hinab stiegen,</i> bringe den beiseitegelegten Tiefen Verfolger <i>(Riesiges Raubtier)</i><br>am Felsigen Ausl\u00e4ufer ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Tiefen Verfolger <i>(M\u00e4chtiger M\u00f6rder)</i> am Felsigen Ausl\u00e4ufer ins Spiel.",
                 "index": "2b"
             },
             "encounter_number": "5",
@@ -4270,7 +4282,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Gift.",
-                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Du schluckst das mysteri\u00f6se Getr\u00e4nk hinunter.            Lege eine <com>-Probe (3) ab. Falls die Probe misslingt, nimmst du 1 Schaden und verlierst 2 Ressourcen\n<bullet> Du weigerst dich, aus der Tasse vor dir zu trinken.    Falls du \u201eschreckliche Tischmanieren hast\u201c,             nimm 2 Horror. Ansonsten merke dir, dass du                \u201eschreckliche Tischmanieren hast\u201c.",
+                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Du schluckst das mysteri\u00f6se Getr\u00e4nk hinunter. <br>Lege eine <com>-Probe (3) ab. Falls die Probe misslingt, nimmst du 1 Schaden und verlierst 2 Ressourcen\n<bullet> Du weigerst dich, aus der Tasse vor dir zu trinken.    Falls du \u201eschreckliche Tischmanieren hast\u201c,             nimm 2 Horror. Ansonsten merke dir, dass du <br>\u201eschreckliche Tischmanieren hast\u201c.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/March Hare - Kadaric.jpg",
@@ -4313,7 +4325,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Bewege jeden Ermittler und Gegner an <t>Stuhl</t>-Orten            einmal im Uhrzeigersinn oder gegen den Uhrzeigersinn.            Die Bewegungen finden gleichzeitig statt und                           l\u00f6sen keine Gelegenheitsangriffe aus.\n<bullet> Du weigerst dich, deinen Platz zu verlassen. Falls du \u201eschreckliche Tischmanieren hast\u201c, nimm 2 Horror. Ansonsten merke dir, dass du \u201eschreckliche Tischmanieren hast\u201c.",
+                "text": "Wagnis.\n<rev> Du musst entweder (w\u00e4hle eins):\n<bullet> Bewege jeden Ermittler und Gegner an <t>Stuhl</t>-Orten <br>einmal im Uhrzeigersinn oder gegen den Uhrzeigersinn.<br> Die Bewegungen finden gleichzeitig statt und <br>l\u00f6sen keine Gelegenheitsangriffe aus.\n<bullet> Du weigerst dich, deinen Platz zu verlassen. Falls du \u201eschreckliche Tischmanieren hast\u201c, nimm 2 Horror. Ansonsten merke dir, dass du \u201eschreckliche Tischmanieren hast\u201c.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Mad Tea Party - Fabio Barboni.jpg",
@@ -5969,7 +5981,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Billard-Mark\u00f6rs",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls sich kein Horror auf dem rauen Hinter-<br>land befindet: Lege eine beliebige Fertigkeits-<br>probe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe <br>um 1<per_large> . Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
+                "text": "<action> Falls sich kein Horror auf dem rauen Hinter-<br>land befindet: Lege eine beliebige Fertigkeits-<br>probe (3) ab. Erh\u00f6he die Schwierigkeit dieser Probe <br>um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -6041,7 +6053,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bonnet-Machers",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls sich kein Horror auf dem rauen Hinter-<br>land befindet: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large> . Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
+                "text": "<action> Falls sich kein Horror auf dem rauen Hinter-<br>land befindet: Lege eine <willpower>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "flavor_text": "Der Weg des Hutmachers f\u00fchrt zum Eingang <br>einer tiefen und unheimlichen H\u00f6hle.",
                 "victory": "",
                 "shroud": "3",
@@ -6077,7 +6089,7 @@
                 "name": "Raues Hinterland",
                 "subtitle": "Die Spur des Bootblacks",
                 "traits": "Wunderland. Tulger Wald.",
-                "text": "<action> Falls sich kein Horror auf dem rauen Hinter-<br>land befindet: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large> . Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
+                "text": "<action> Falls sich kein Horror auf dem rauen Hinter-<br>land befindet: Lege eine <agility>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1<per_large>. Falls die Probe gelingt, platziere 1 Horror <i>(aus dem Markervorrat)</i> auf dem rauen Hinterland.",
                 "victory": "",
                 "shroud": "3",
                 "clues": "1<per>",
@@ -8111,7 +8123,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Schrecken.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald ein Ermittler einen Gegner in einen Kampf verwickelt: Der Ermittler muss 1  zuf\u00e4llige Karte von seiner Hand ablegen.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald ein Ermittler einen Gegner in einen Kampf verwickelt: Der Ermittler muss <br>1  zuf\u00e4llige Karte von seiner Hand ablegen.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8141,7 +8153,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Das Wunderkind",
                 "traits": "Tr\u00e4umer.",
-                "text": "<reaction> Sobald ein Ermittler am Ort von Alice eine beliebige Fertigkeits-<br>probe ablegt: Der Ermittler legt die Probe stattdessen mit dem Grund-<intellect>-Fertigkeitswert von Alice ab. (Nur ein Mal pro Runde pro <br>Ermittler.)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <elder_sign>-<br>Effekts abhandeln.",
+                "text": "<reaction> Sobald ein Ermittler am Ort von Alice eine beliebige Fertigkeits-<br>probe ablegt: Der Ermittler legt die Probe stattdessen mit dem Grund-<intellect>-Fertigkeitswert von Alice ab. (Nur ein Mal pro Runde pro <br>Ermittler.)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler am Ort von Alice darf diesen Effekt anstelle seines <br><elder_sign>-Effekts abhandeln.",
                 "health": "6",
                 "sanity": "8",
                 "illustration": "./images/Alice - Aucher-fargue Nicolas.png",
@@ -8184,16 +8196,17 @@
                     ],
                     [
                         "<b>Zus\u00e4tzliche Voraussetzungen</b>:",
-                        "Alice kann nur im Szenario Klarer Albtraum gespielt werden."
+                        "Alice kann                                                     nur im Szenario Klarer Albtraum gespielt werden."
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe</b>: 24\n<b>Deckbau-Voraussetzungen</b>: Konsultiere den Abschnitt Alices Unterst\u00fctzung im Kampagnenleitfaden, um Alices Deck zu erstellen. Alle Karten werden durch vergangene Entscheidungen der Ermittler im Laufe der Kampagne bestimmt.\n<b>Zus\u00e4tzliche Voraussetzungen</b>: Alice kann nur im Szenario Klarer Albtraum gespielt werden.",
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 24\n<b>Deckbau-Voraussetzungen</b>: Konsultiere den Abschnitt Alices Unterst\u00fctzung im Kampagnenleitfaden, um Alices Deck zu erstellen. Alle Karten werden durch vergangene Entscheidungen der Ermittler im Laufe der Kampagne bestimmt.\n<b>Zus\u00e4tzliche Voraussetzungen</b>: Alice kann                                                     nur im Szenario Klarer Albtraum gespielt werden.",
                 "classes": [
                     "neutral"
                 ],
                 "illustration_pan_x": -637.0,
                 "illustration_pan_y": -343.0,
-                "illustration_scale": 1.58
+                "illustration_scale": 1.58,
+                "flavor_text": "Auf eurer Reise durch das Wunderland konnte Alice euch nicht begleiten, <br>nur in ihren Tr\u00e4umen den Weg weisen. Jetzt, im finalen Kampf gegen <br>Gurathnaka, steht sie euch zur Seite. Doch welche Spuren haben Gurathnaka und eure Taten im Wunderland an Alices Psyche hinterlassen?"
             },
             "encounter_number": "1",
             "project_number": "229",
@@ -8234,7 +8247,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler einen Gegner in einen Kampf verwickelt: Der Ermittler darf 1 Karte ziehen.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler einen Gegner in einen Kampf verwickelt: Der Ermittler darf <br>1 Karte ziehen.\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8262,7 +8275,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Erkenntnis.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald sich ein Ermittler bewegt: Der Ermittler bekommt bis zum Ende seines Zuges +1 auf jede Fertigkeitsprobe. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald sich ein Ermittler bewegt: <br>Der Ermittler bekommt bis zum Ende seines Zuges +1 auf jede Fertigkeitsprobe. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8291,7 +8304,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Erkenntnis.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Ereigniskarte spielt: Jene Ereigniskarte erh\u00e4lt das Schl\u00fcsselwort Schnell. (Nur ein Mal pro Er-<br>mittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
+                "text": "<size 69>Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Ereigniskarte spielt: Jene Ereigniskarte erh\u00e4lt das Schl\u00fcsselwort Schnell. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -8319,7 +8332,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Nachdem ein Ermittler eine Fertigkeitsprobe abgehandelt hat, falls er 1 Fertigkeitskarte beigetragen hat: Der Ermittler darf 1 Karte ziehen.\n<for> Am Ende der Runde: <br>Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Nachdem ein Ermittler eine Fertigkeitsprobe abgehandelt hat, falls er 1 Fertigkeitskarte beigetragen hat: Der Ermittler darf <br>1 Karte ziehen.\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8348,7 +8361,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Erkenntnis.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Fertigkeitsprobe durchf\u00fchrt: Der Ermittler bekommt +X auf seinen Fertigkeitswert f\u00fcr diese Probe. X ist die Anzahl an Hinweisen, die der Ermittler kontrolliert (bis zu einem Maximum von 4). (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler eine Fertigkeitsprobe durchf\u00fchrt: Der Ermittler bekommt +X auf seinen Fertigkeitswert f\u00fcr diese Probe. X ist die Anzahl an Hin-<br>weisen, die der Ermittler kontrolliert (bis zu einem Maximum von 4). (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8376,7 +8389,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald ein Gegner den Siegpunktestapel oder den Begegnungs-Ablagestapel betreten w\u00fcrde: Platziere jenen Gegner stattdessen oben auf das Begegnungsdeck.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald ein Gegner den Siegpunktestapel oder den Begegnungs-Ablagestapel betreten w\u00fcrde: Platziere <br>jenen Gegner stattdessen oben auf das Begegnungsdeck.\n<for> Am Ende der Runde: Lege Sie zerbrach <br>ihre Krone ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -8385,7 +8398,7 @@
                 ],
                 "illustration": "./images/expanded_images/Heart - Mediphysical.jpg",
                 "illustrator": "Illus. Mediphysical",
-                "flavor_text": "Du st\u00f6\u00dft auf eine riesige Blutlache, in der die Krone der Herz-K\u00f6nigin halb versunken ist.",
+                "flavor_text": "Du st\u00f6\u00dft auf eine riesige Blutlache, in der die <br>Krone der Herz-K\u00f6nigin halb versunken ist.",
                 "illustration_scale": 1.46
             },
             "back": {
@@ -8403,10 +8416,10 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald eine Karte den Ablagestapel eines Ermittlers betreten w\u00fcrde: Der Ermittler darf sie stattdessen auf sein Deck legen. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald eine Karte den Ablagestapel eines Ermittlers betreten w\u00fcrde: Der Ermittler darf sie stattdessen auf sein Deck legen. (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "Dideldum und Dideldei stehen Schulter an Schulter, <br>bereit dich auf ihre eigene, d\u00fcrftige Weise <br>zu unterst\u00fctzen.",
+                "flavor_text": "<size 54>Dideldum und Dideldei stehen Schulter an Schulter,  bereit dich auf ihre eigene, d\u00fcrftige Weise zu unterst\u00fctzen.",
                 "victory": "",
                 "classes": [
                     "neutral"
@@ -8428,7 +8441,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Am Ende der Runde: Jeder Ermittler muss entweder 1 Vorteilskarte, die er kontrolliert, ablegen oder 2 Vorteilskarten von seiner Hand abwerfen (w\u00e4hle eins). Lege dann <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Am Ende der Runde: Jeder Ermittler muss entweder 1 Vorteilskarte, die er kontrolliert, <br>ablegen oder 2 Vorteilskarten von seiner Hand <br>abwerfen (w\u00e4hle eins). Lege dann <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -8453,7 +8466,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nErmittler k\u00f6nnen keine F\u00e4higkeiten mit freiem Ausl\u00f6ser <br>(<free>) oder Reaktionsausl\u00f6ser (<reaction>) ausl\u00f6sen.\nErmittler k\u00f6nnen keine Ereigniskarten mit dem Schl\u00fcsselwort Schnell spielen.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nErmittler k\u00f6nnen keine F\u00e4higkeiten mit freiem Ausl\u00f6ser <br>(<free>) oder Reaktionsausl\u00f6ser (<reaction>) ausl\u00f6sen.\nErmittler k\u00f6nnen keine Ereigniskarten mit <br>dem Schl\u00fcsselwort Schnell spielen.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "Die Situation l\u00e4sst kaum Raum zum Handeln.",
@@ -8478,7 +8491,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gl\u00fccksfall. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler Schaden oder Horror nehmen w\u00fcrde: Senke jene Menge um 1.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<reaction> Sobald ein Ermittler Schaden oder <br>Horror nehmen w\u00fcrde: Senke jene Menge um 1.\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "\u201e\u201a Fantabler Tag! Ich juch! Ich jach\u2018 <br>Gluckst' der in seiner Lust.\u201c",
@@ -8488,8 +8501,8 @@
                 ],
                 "illustration": "./images/expanded_images/Jabberwock - Chris Voy.jpg",
                 "illustrator": "Illus. Chris Voy",
-                "illustration_pan_x": -200.0,
-                "illustration_pan_y": -114.0,
+                "illustration_pan_x": -212.0,
+                "illustration_pan_y": -102.0,
                 "illustration_scale": 0.9
             },
             "back": {
@@ -8506,10 +8519,10 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nSenke die Kosten von F\u00e4higkeiten auf Schw\u00e4che- oder Verratskarten um 1 Aktion. <i>(Falls eine F\u00e4higkeit auf einer Schw\u00e4che- oder Verratskarte nur 1 Aktion kosten w\u00fcrde, kann sie nun als freier Ausl\u00f6ser (<free>) ausgel\u00f6st werden.)</i>\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nSenke die Kosten von F\u00e4higkeiten auf Schw\u00e4che- oder <br>Verratskarten um 1 Aktion. <i>(Falls eine F\u00e4higkeit auf einer Schw\u00e4che- oder Verratskarte nur 1 Aktion kosten w\u00fcrde, kann sie nun als freier Ausl\u00f6ser (<free>) ausgel\u00f6st werden.)</i>\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "Mit siegreichem Jubel gallopiert der Wei\u00dfe Springer auf <br>das Feld der Schlacht, wobei er sich gerade noch <br>im Sattel h\u00e4lt.",
+                "flavor_text": "<size 49>Mit siegreichem Jubel gallopiert der Wei\u00dfe Springer auf das Feld der Schlacht, wobei er sich gerade noch im Sattel h\u00e4lt.",
                 "victory": "",
                 "classes": [
                     "neutral"
@@ -8531,7 +8544,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefahr.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald ein Ermittler Schaden und/oder Horror nehmen w\u00fcrde: Er nimmt 1 zus\u00e4tzlichen Schaden oder Horror (w\u00e4hle eins).\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald ein Ermittler Schaden und/<br>oder Horror nehmen w\u00fcrde: Er nimmt 1 zus\u00e4tz-<br>lichen Schaden oder Horror (w\u00e4hle eins).\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "\u201eH\u00fct' dich, mein Sohn, vorm Schebberoch,<br>Des Maules Biss, der Klauen Krall!\u201c",
@@ -8586,7 +8599,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wahnsinn.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald sich ein Ermittler bewegt: Der Ermittler bekommt bis zum Ende seines Zuges --1 auf jede Fertigkeitsprobe.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Sobald sich ein Ermittler <br>bewegt: Der Ermittler bekommt bis zum <br>Ende seines Zuges --1 auf jede Fertigkeitsprobe.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "",
@@ -8711,7 +8724,7 @@
                 "classes": [
                     "weakness"
                 ],
-                "flavor_text": "Zerbrochene T\u00f6pfe, verbeulte Waschzuber und zerfetzte Kissen liegen in einem Haufen, jedes St\u00fcck mit Blutflecken \u00fcbers\u00e4t."
+                "flavor_text": "Zerbrochene T\u00f6pfe, verbeulte Waschzuber<br> und zerfetzte Kissen liegen in einem Haufen, <br>jedes St\u00fcck mit Blutflecken \u00fcbers\u00e4t."
             },
             "back": {
                 "type": "alice_deck.json"
@@ -8736,7 +8749,7 @@
                 ],
                 "illustration": "./images/expanded_images/White King - Csaba Baity.jpg",
                 "illustrator": "Illus. Csaba Baity",
-                "flavor_text": "Der wei\u00dfe K\u00f6nig erscheint und befehligt eine Armee von Schachfiguren, die ihm auf Schritt und Tritt gehorchen."
+                "flavor_text": "<size 55>Der wei\u00dfe K\u00f6nig erscheint und befehligt eine Armee von Schachfiguren, die ihm auf Schritt und Tritt gehorchen."
             },
             "back": {
                 "type": "alice_deck.json"
@@ -8761,7 +8774,7 @@
                 ],
                 "illustration": "./images/expanded_images/Snark - Astridv.jpg",
                 "illustrator": "Illus. Astridv",
-                "flavor_text": "Erstaunlicherweise steht der Schlarg wieder vor dir, bereit, dir mit seinen vielen Talenten zur Seite zu stehen.",
+                "flavor_text": "Erstaunlicherweise steht der Schlarg wieder vor dir, <br>bereit, dir mit seinen vielen Talenten zur Seite zu stehen.",
                 "illustration_scale": 2.4,
                 "illustration_pan_y": -50.0,
                 "illustration_pan_x": -150.0
@@ -8859,7 +8872,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Patzer. Komplott. Paradox.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem einer <t>Verb\u00fcndeter</t>-Vorteilskarte Schaden oder Horror zugewiesen wurde: Jene  <t>Verb\u00fcndeter</t>-<br>Vorteilskarte ist besiegt.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Nachdem einer <t>Verb\u00fcndeter</t>-Vorteilskarte <br>Schaden oder Horror zugewiesen wurde: Jene  <t>Verb\u00fcndeter</t>-<br>Vorteilskarte ist besiegt.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "\u201eDoch wei\u00df ich nun eben: K\u00e4me jemals im Leben ein Buhmalm mir einst zu Gesicht, w\u00e4r' ich binnen Sekunden und lautlos verschwunden! Dieses Wissen ertrage ich nicht!\u201c",
@@ -8896,7 +8909,7 @@
                 ],
                 "illustration": "./images/expanded_images/Tweedledum Tweedledee - John Tenniel.jpg",
                 "illustrator": "Illus. John Tenniel",
-                "flavor_text": "Der noch lebende Bruder richtet seine Trauer und seinen Zorn gegen die Schatten, die indirekt zum Tod seines Zwillingsbruders gef\u00fchrt haben.",
+                "flavor_text": "Der noch lebende Bruder richtet seine Trauer und <br>seinen Zorn gegen die Schatten, die indirekt zum Tod seines Zwillingsbruders gef\u00fchrt haben.",
                 "illustration_scale": 1.78,
                 "illustration_pan_x": -198.0,
                 "illustration_pan_y": -169.0
@@ -8915,7 +8928,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nBewege alles Verderben von Gegnern und Verratskarten im Spiel auf <name>.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nBewege alles Verderben von Gegnern und Verrats-<br>karten im Spiel auf <name>.\n<for> Am Ende der Runde: Lege Sie tickt <br>immer noch ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -8950,7 +8963,7 @@
                 ],
                 "illustration": "./images/expanded_images/Walrus and Carpenter - Ron Embleton.jpg",
                 "illustrator": "Illus. Ron Embleton",
-                "flavor_text": "Pl\u00f6tzlich gehen das Walross und der Zimmermann neben dir her und teilen mit dir ihre Erkenntnisse, die seltsamerweise sehr n\u00fctzlich sind.",
+                "flavor_text": "Pl\u00f6tzlich gehen das Walross und der Zimmermann <br>neben dir her und teilen mit dir ihre Erkenntnisse, <br>die seltsamerweise sehr n\u00fctzlich sind.",
                 "illustration_pan_y": -200.0,
                 "illustration_scale": 1.0,
                 "illustration_pan_x": -200.0
@@ -8969,7 +8982,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Gefallen. Geist.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> W\u00e4hrend des Zuges eines Ermittlers: Jener Ermittler darf eine Vorteilskarte von seiner Hand spielen. Senke die Kosten der Vorteilskarte auf die H\u00e4lfte (aufgerundet). (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> W\u00e4hrend des Zuges eines Ermittlers: Jener Ermittler darf eine Vorteilskarte von seiner Hand spielen. Senke die <br>Kosten der Vorteilskarte auf die H\u00e4lfte (aufgerundet). (Nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: <br>Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -8978,7 +8991,7 @@
                 ],
                 "illustration": "./images/expanded_images/Mad Tea Party - Scott Gustafson.jpg",
                 "illustrator": "Illus. Scott Gustafson",
-                "flavor_text": "\u201eNoch etwas Tee?\u201c Der Hutmacher und der M\u00e4rzhase <br>strecken sich von oben und unten nach dir aus und bieten dir Erfrischungen an.",
+                "flavor_text": "\u201eNoch etwas Tee?\u201c Der Hutmacher und der <br>M\u00e4rzhase strecken sich von oben und unten <br>nach dir aus und bieten dir Erfrischungen an.",
                 "illustration_pan_y": -100.0
             },
             "back": {
@@ -9021,7 +9034,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Adlig. Gefallen.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Am Ende der Ermittlungsphase: F\u00fcge jedem Gegner im Spiel 1 Schaden zu. F\u00fcr jeden Gegner, der durch diesen Effekt besiegt wird, d\u00fcrfen alle Ermittler au\u00dfer Alice 1 Ressource erhalten.\nAm Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\n<for> Am Ende der Ermittlungsphase: F\u00fcge jedem Gegner im Spiel 1 Schaden zu. F\u00fcr jeden Gegner, der durch diesen Effekt besiegt wird, d\u00fcrfen alle Ermittler au\u00dfer Alice <br>1 Ressource erhalten.\nAm Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "victory": "",
@@ -9031,7 +9044,7 @@
                 "illustration": "./images/expanded_images/Queen of Hearts - Meggy M.jpg",
                 "illustrator": "Illus. Meggy M",
                 "illustration_pan_y": -100.0,
-                "flavor_text": "Pl\u00f6tzlich steht die Herz-K\u00f6nigin neben dir, umgeben von Dutzenden von Kartenw\u00e4chtern und immer noch voller Groll gegen die Schatten."
+                "flavor_text": "Pl\u00f6tzlich steht die Herz-K\u00f6nigin neben dir, <br>umgeben von Dutzenden von Kartenw\u00e4chtern und immer noch voller Groll gegen die Schatten."
             },
             "back": {
                 "type": "alice_deck.json"
@@ -9050,7 +9063,7 @@
                 "text": "Bringe diese Karte neben Alice ins Spiel.\n<free> W\u00e4hrend des Zuges eines Ermittlers: Jener Ermittler darf eine Vorteilskarte von seiner Hand spielen <i>(und ihre Kosten bezahlen)</i> (nur ein Mal pro Ermittler.)\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
-                "flavor_text": "Tassen und Untertassen fliegen durch die Luft, geworfen auf die Schatten vom einzig verbliebenen Gast der Teegesellschaft.",
+                "flavor_text": "Tassen und Untertassen fliegen durch die Luft, <br>geworfen auf die Schatten vom einzig <br>verbliebenen Gast der Teegesellschaft.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Teacups - Riccardo Maniero.jpg",
                 "illustrator": "Illus. Riccardo Maniero",
@@ -9192,7 +9205,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "<rev> Lege eine <agility>-Probe (1) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr je 2 <br><t>Karte</t>-Gegner im Begegnungsablagestapel. Falls die Probe misslingt, lege 2 zuf\u00e4llige Karten von deiner Hand ab. Falls du dann 2 oder weniger Karten auf deiner Hand hast, nimm 1 Schaden.",
+                "text": "<rev> Lege eine <agility>-Probe (1) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr je <br>2 <t>Karte</t>-Gegner im Begegnungsablagestapel. Falls die Probe misslingt, lege 2 zuf\u00e4llige Karten von deiner Hand ab. Falls du dann 2 oder <br>weniger Karten auf deiner Hand hast, nimm 1 Schaden.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Cards - John Lobster.jpg",
@@ -9258,7 +9271,7 @@
                 "type": "asset",
                 "title": "<unique> <name>",
                 "traits": "Verb\u00fcndeter? Kreatur. Wunderland.",
-                "text": "Dauerhaft.\n<reaction> Sobald dir eine Fertigkeitsprobe um genau 1 misslingen w\u00fcrde: Die Probe gelingt stattdessen automatisch. Drehe die Grinsekatze um.\n<for> Sobald der Ermittler, der die Grinsekatze kontrolliert, besiegt wird oder aufgibt: W\u00e4hle einen anderen Spieler, der die Kontrolle \u00fcber die Grinsekatze \u00fcbernimmt.",
+                "text": "Dauerhaft.\n<reaction> Sobald dir eine Fertigkeitsprobe um genau 1 misslingen w\u00fcrde: Die Probe gelingt stattdessen automatisch. Drehe die Grinsekatze um.\n<for> Sobald der Ermittler, der die Grinsekatze kontrolliert, besiegt wird oder aufgibt: W\u00e4hle einen anderen Spieler, der die <br>Kontrolle \u00fcber die Grinsekatze \u00fcbernimmt.",
                 "flavor_text": "\u201eDu musst es sein\u201c, sprach die Katze, \u201esonst w\u00e4rst du nicht hier.\u201c",
                 "victory": "",
                 "illustration": "./images/expanded_images/Cheshire Cat - Cynthia Leman.jpg",
@@ -9326,7 +9339,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "Nachr\u00fcsten. Wagnis.\n<rev> W\u00e4hle einen Spieler, der die Grinsekatze nicht kontrolliert. Jener Spieler \u00fcbernimmt die Kontrolle \u00fcber die Grinsekatze.",
+                "text": "Nachr\u00fcsten. Wagnis.\n<rev> W\u00e4hle einen Spieler, der die <br>Grinsekatze nicht kontrolliert. Jener Spieler <br>\u00fcbernimmt die Kontrolle \u00fcber die Grinsekatze.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Cheshire Cat - Nightgrowler.jpg",
@@ -9348,7 +9361,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott.",
-                "text": "<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Nachdem ein Ermittler einen <t>Schach</t>-Gegner besiegt oder abgelegt hat: Jener Ermittler nimmt 1 Schaden oder verliert 2 Ressourcen. Lege dann <name> ab.",
+                "text": "<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Nachdem ein Ermittler einen <t>Schach</t>-Gegner besiegt oder abgelegt hat: <br>Jener Ermittler nimmt 1 Schaden oder verliert <br>2 Ressourcen. Lege dann <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Chess - Guido Strambio.jpg",
@@ -9370,7 +9383,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Schach. Soldat.",
-                "text": "J\u00e4ger.\n<for> Nachdem dich <name> angegriffen hat: Du verlierst 1 Ressource (stattdessen 2 Ressourcen, falls er sich in derselben Phase durch sein Schl\u00fcsselwort J\u00e4ger bewegt hat).",
+                "text": "J\u00e4ger.\n<for> Nachdem dich <name> <br>angegriffen hat: Du verlierst 1 Ressource (stattdessen <br>2 Ressourcen, falls er sich in derselben Phase durch sein Schl\u00fcsselwort J\u00e4ger bewegt hat).",
                 "health": "2",
                 "evade": "4",
                 "attack": "3",
@@ -9400,7 +9413,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Wunderland. Humanoid. Schach. Soldat.",
-                "text": "Falls dies die erste in dieser Phase gezogene Kopie von <name> ist, erh\u00e4lt Roter Bauer <br>Nachr\u00fcsten.",
+                "text": "Falls dies die erste in dieser Phase <br>gezogene Kopie von <name> ist, erh\u00e4lt <br>Roter Bauer Nachr\u00fcsten.",
                 "health": "1",
                 "evade": "2",
                 "attack": "2",
@@ -9480,7 +9493,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nSolange sich ein <t>Schach</t>-Gegner an deinem Ort befindet, bekommst du \u20132 auf alle Fertigkeiten, au\u00dfer w\u00e4hrend Kampf- und Entkommen-<br>Versuchen.\n<action> <action>: Lege <name> ab.",
+                "text": "<rev> Bringe <name> in <br>deiner Bedrohungszone ins Spiel.\nSolange sich ein <t>Schach</t>-Gegner an deinem Ort befindet, bekommst du \u20132 auf alle Fertigkeiten, au\u00dfer w\u00e4hrend Kampf- und Entkommen-<br>Versuchen.\n<action><action>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Chess - Ruslan Grechka.jpg",
@@ -9503,7 +9516,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "X ist der <com>-Basiswert des Ermittlers, der mit <name> in einen Kampf verwickelt ist.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren oder von anderen Ermittlern in einen Kampf verwickelt werden.\n<for> Nachdem Lebe<name> entkommen worden ist: Er wird besiegt. Falls der Ermittler, der mit diesem Gegner in einen Kampf verwickelt ist, besiegt wird oder aufgibt, lege <name> ab.",
+                "text": "X ist der <com>-Basiswert des Ermittlers, der mit <br><name> in einen Kampf verwickelt ist.\n<name> kann keine Gelegenheitsangriffe durch-<br>f\u00fchren oder von anderen Ermittlern in einen Kampf verwickelt werden.\n<for> Nachdem Lebe<name> entkommen worden ist: Er wird besiegt. Falls der Ermittler, der mit diesem Gegner in einen Kampf verwickelt ist, besiegt wird oder aufgibt, lege <name> ab.",
                 "health": "1",
                 "evade": "3",
                 "attack": "X",
@@ -9531,7 +9544,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Macht. Schatten.",
-                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\nDer Ort mit dieser Verst\u00e4rkung bekommt +1 Schleier. <t>Schatten</t>-Gegner an diesem Ort bekommen +1 Kampf und +1 Horror.\n<act><act>: Lege <name> ab.",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\nDer Ort mit dieser Verst\u00e4rkung bekommt <br>+1 Schleier. <t>Schatten</t>-Gegner an diesem Ort <br>bekommen +1 Kampf und +1 Horror.\n<act><act>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Shadows - Jethro Lentle.jpg",
@@ -9552,7 +9565,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Wahnsinn. Schatten.",
-                "text": "<rev> Lege eine <willpower>-Probe (X) ab. X ist der Schleierwert deines Ortes. Falls die Probe misslingt, durchsuche das Begegnungsdeck und den Ablagestapel nach einem <t>Schatten</t>-Gegner, der mit dir in einen Kampf verwickelt erscheint, und mische das Begegnungsdeck. Nimm dann 1 Horror f\u00fcr jeden <t>Schatten</t>-Gegner an deinem Ort.",
+                "text": "<rev> Lege eine <willpower>-Probe (X) ab. X ist der Schleierwert deines Ortes. Falls die Probe misslingt, durchsuche das Begegnungsdeck und den Ablagestapel nach einem <t>Schatten</t>-Gegner, der mit dir in einen Kampf verwickelt erscheint, und mische das Begegnungsdeck. Nimm dann <br>1 Horror f\u00fcr jeden <t>Schatten</t>-Gegner <br>an deinem Ort.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Shadows - David Largeteau.jpg",
@@ -9576,7 +9589,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "J\u00e4ger. Zur\u00fcckhaltend.\nDer Ort von <name> erh\u00e4lt +2 Schleier. Falls sich keine Hinweise auf dem Ort dieses Gegners befinden, verliert <name> Zur\u00fcckhaltend und erh\u00e4lt +1 Kampf und +1 Schaden.",
+                "text": "J\u00e4ger. Zur\u00fcckhaltend.\nDer Ort von <name> erh\u00e4lt <br>+2 Schleier. Falls sich keine Hinweise auf dem Ort <br>dieses Gegners befinden, verliert Gespenstischer <br>Schatten Zur\u00fcckhaltend und erh\u00e4lt +1 Kampf und +1 Schaden.",
                 "health": "2",
                 "evade": "3",
                 "attack": "2",
@@ -9603,7 +9616,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Lege eine <int>-Probe (5) ab. \u00c4ndere auf jedem enth\u00fcllten Chaosmarker den Modifikator von \u201e--\u201d zu  \u201e+\u201d, und umgekehrt. Fertigkeitssymbole, die zu dieser Probe beigetragen werden, werden stattdessen von deinem Fertigkeitswert abgezogen. Falls die Probe gelingt, verlierst du 1 Aktion. Falls die Probe um 2 oder mehr gelingt, nimmst du 1 Horror.",
+                "text": "<rev> Lege eine <int>-Probe (5) ab. \u00c4ndere auf jedem enth\u00fcllten Chaosmarker den Modifikator von \u201e--\u201d zu  \u201e+\u201d, und umgekehrt. Fertigkeitssymbole, die zu dieser Probe beigetragen werden, werden statt-<br>dessen von deinem Fertigkeitswert abgezogen. Falls die Probe gelingt, verlierst du 1 Aktion. Falls die <br>Probe um 2 oder mehr gelingt, nimmst du 1 Horror.",
                 "flavor_text": "Woanders w\u00fcrde man sich den Erfolg w\u00fcnschen.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Jorgo.jpg",
@@ -9623,7 +9636,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott. Aufgabe.",
-                "text": "<rev> Bringe <name> neben dem Agendadeck ins Spiel.\n<for> Falls Verderben auf einer beliebigen anderen Karte platziert wird <i>(auch der Agenda)</i>: Platziere 1 Verderben auf <name>. (Nur ein Mal pro Phase.)\n<act>: Lege eine <int>-Probe (4) ab. Senke die Schwierigkeit dieser Probe um 1 f\u00fcr jedes Verderben auf <name>. Falls die Probe gelingt, lege <name> ab.",
+                "text": "<rev> Bringe <name> neben dem <br>Agendadeck ins Spiel.\n<for> Falls Verderben auf einer beliebigen <br>anderen Karte platziert wird <i>(auch der Agenda)</i>: <br>Platziere 1 Verderben auf <name>. <br>(Nur ein Mal pro Phase.)\n<act>: Lege eine <int>-Probe (4) ab. Senke die Schwierigkeit dieser Probe um 1 f\u00fcr jedes Verderben auf Knobel-<br>aufgabe. Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Puzzle - Luis Alfonso.jpg",
@@ -9663,7 +9676,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott. Aufgabe.",
-                "text": "<rev> Lege eine beliebige Fertigkeitsprobe (4) ab. Falls die Probe misslingt, nimm 2 Schaden und bringe <name> in deiner Bedrohungszone ins Spiel.\nDein Grundwert der zuvor gew\u00e4hlten Fertigkeit wird auf 1 gesetzt.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "<size 60><rev> Lege eine beliebige Fertigkeitsprobe (4) ab. Falls die Probe misslingt, nimm 2 Schaden und <br>bringe <name> in deiner <br>Bedrohungszone ins Spiel.\nDein Grundwert der zuvor gew\u00e4hlten Fertigkeit wird auf 1 gesetzt.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Croquet - Scott Gustafson.jpg",
@@ -9686,7 +9699,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox. Makel.",
-                "text": "<rev> Falls du keine Hinweise hast, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten lege eine <int>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr jeden Hinweis, den du hast (maximal +3). Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinem Ort. Falls die Probe um 2 oder mehr misslingt, verlierst du 1 Aktion.",
+                "text": "<rev> Falls du keine Hinweise hast, <br>erh\u00e4lt <name> Nachr\u00fcsten. <br>Ansonsten lege eine <int>-Probe (2) ab. Erh\u00f6he die Schwierigkeit dieser Probe um 1 f\u00fcr jeden <br>Hinweis, den du hast (maximal +3). Falls die Probe misslingt, platziere 1 deiner Hinweise auf deinem Ort. Falls die Probe um 2 oder mehr misslingt, verlierst du 1 Aktion.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/Miscellaneous - Edward Honaker.jpg",
@@ -9709,7 +9722,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Solange sich an einem anderen Ort mehr Hinweise befinden als an deinem Ort: Als zus\u00e4tzliche Kosten, um zu ermitteln, nimm 1 Horror.\n<act>: Lege eine <willpower>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.",
+                "text": "<size 63><rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Solange sich an einem anderen Ort mehr Hinweise befinden als an deinem Ort: Als <br>zus\u00e4tzliche Kosten, um zu ermitteln, nimm 1 Horror.\n<act>: Lege eine <willpower>-Probe (3) ab. Falls die Probe <br>gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Dinmoney.jpg",
@@ -9753,7 +9766,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> H\u00e4nge <name> an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen: Lege eine <agi>-<br>Probe (X) ab, wobei X die Anzahl der Orte ist, die mit diesem Ort verbunden sind. Falls die Probe misslingt, hebe die Effekte der Bewegung auf.\n<act><act>: Lege <name> ab.",
+                "text": "<rev> H\u00e4nge <name> an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen: Lege eine <br><agi>-Probe (X) ab, wobei X die Anzahl der Orte ist, die mit diesem Ort verbunden sind. Falls die Probe misslingt, hebe die Effekte der Bewegung auf.\n<act><act>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Evenvita.jpg",
@@ -9777,7 +9790,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Heimt\u00fcckischer Hellseher",
                 "traits": "Wunderland. Kreatur. Abscheulichkeit.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<for> Nachdem der letzte Hinweis an einem beliebigen Ort entdeckt worden ist: Jeder Ermittler legt 1 zuf\u00e4llige Karte von seiner Hand ab. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<for> Nachdem der letzte Hinweis an einem beliebigen Ort entdeckt worden ist: Jeder Ermittler legt 1 zuf\u00e4llige Karte von seiner Hand ab. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9801,7 +9814,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Mausetot",
                 "traits": "Wunderland. Kreatur. Leiche.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<for> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9828,7 +9841,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "R\u00e4nkeschmiedende Royalistin",
                 "traits": "Wunderland. Humanoid. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<for> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <cultist>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9854,7 +9867,7 @@
                 "type": "enemy",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Leiche.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<for> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <tablet>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9880,7 +9893,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Wahnsinnige Kryptiden",
                 "traits": "Wunderland. Kreatur.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<for> Nachdem ein Gegner einen Gelegenheitsangriff durchgef\u00fchrt hat: Der Gegner greift den Ermittler ein zweites Mal an. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<for> Nachdem ein Gegner einen Gelegenheitsangriff durchgef\u00fchrt hat: Der Gegner greift den <br>Ermittler ein zweites Mal an. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9907,7 +9920,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Ruin\u00f6se Regentin",
                 "traits": "Wunderland. Humanoid. Schach. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<for> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<for> Sobald ein Ermittler einen <elder_thing>-Marker enth\u00fcllt: Hebe jenen Marker auf und behandle ihn stattdessen als <auto_fail>-Marker. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -9960,7 +9973,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Gescheiter Gelehrter",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Nachdem der letzte Hinweis an einem beliebigen Ort entdeckt worden ist: Jeder Ermittler darf <br>1 Karte ziehen. Lege Das Raupentier ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<reaction> Nachdem der letzte Hinweis an einem <br>beliebigen Ort entdeckt worden ist: Jeder Ermittler darf 1 Karte ziehen. Lege Das Raupentier ab.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -9988,7 +10001,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Kluges K\u00f6pfchen",
                 "traits": "Wunderland. Kreatur. Gelehrter.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege Der Dodo ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<reaction> Sobald ein Ermittler einen <skull>-Marker enth\u00fcllt: Hebe jenen Marker auf. Enth\u00fclle keinen weiteren Marker. Lege Der Dodo ab.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -10078,7 +10091,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Gekr\u00f6nte Gegenspieler",
                 "traits": "Wunderland. Kreatur. Adlig.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<reaction> Nachdem ein Gegner besiegt oder abgelegt worden ist: Jeder Ermittler darf 1 Schaden oder 1 Horror heilen. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<reaction> Nachdem ein Gegner besiegt oder abgelegt <br>worden ist: Jeder Ermittler darf 1 Schaden oder <br>1 Horror heilen. Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -10430,7 +10443,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Geschlagen und gebrochen",
                 "traits": "Wunderland. Kreatur. Wahnsinniger.",
-                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem Agenda-<br>deck ins Spiel.\n<for> Nachdem ein Gegner besiegt oder abgelegt worden ist: Jeder Ermittler nimmt 1 Schaden oder 1 Horror. Lege <name> ab.",
+                "text": "Nachr\u00fcsten.\n<rev> Bringe diese Karte neben dem <br>Agendadeck ins Spiel.\n<for> Nachdem ein Gegner besiegt oder <br>abgelegt worden ist: Jeder Ermittler nimmt 1 Schaden oder 1 Horror. Lege <name> ab.",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "",
@@ -10701,7 +10714,7 @@
                     "id": "c601af84",
                     "type": "interlude",
                     "name": "Credits",
-                    "markdown": "# Begegnungssetsymbole\n<table style=\"width:100%; table-layout:fixed; border-collapse:collapse;\">\n<tbody>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:815adf7b-9e62-4ad3-b4c8-59e036be1bb6:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Arkham im<br>Wunderland</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; border-color:#000000; padding:2px 0.3cm;\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:6227882b-e173-45ff-bbe2-dc19fb67edba:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Ein Meer an Plagen</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:51e2559a-1480-4b6b-9cb6-a8c86f193b27:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px; font-size:0.9em;\"><b><i>Das Walross und<br>der Zimmermann</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:faeb8f82-4cd5-4ce1-ad64-7944963655ba:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Sturm im Teeglas</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:27c614e3-a295-4cd2-aae0-8b1ab0d8114c:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Blutende Herzen</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:0cf1e22b-5f33-45cf-a5ff-185d29a54fe6:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Eine wilde<br>Schlarg-Jagd</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:fd8f93f3-7024-4101-89bf-0b0ce16e4c3d:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Schebberoch</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:d18ba6d9-cfc6-43b1-811c-31086ab85b7e:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Geschwister-<br>rivalit\u00e4t</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:c8fe6457-c170-4d5a-ab30-5744cf6e5345:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Narrenmatt</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:609e4283-cd05-4bff-97b9-30e239af582c:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Klarer Albtraum</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:dbbbb81c-4f16-428c-985b-71b0d84267ea:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Alice in Arkham</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:501c1bc3-6c99-42f8-93da-efd313f3ea01:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Die Grinsekatze</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:57972c01-bce0-4512-9573-eabcc71a5ac1:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Kartenwachen</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:d175b267-1201-488c-8324-53645458b02c:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Schachfiguren</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:142deea6-8fa3-4d5b-9b4a-3552157dee73:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Gurathnakas<br>Schatten</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:aff37008-a4ad-4fab-96de-29f9febd1bab:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>R\u00e4tsel und Spiele</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:f65a386b-aa46-41cc-b5d7-5bebd924f2ee:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Verzerrte Realit\u00e4t</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:9af55e7a-588b-4c06-8378-d4463846d243:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Fluch des<br>Wunderlands</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"ff-inherit selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:15e52956-bfe6-4db2-8697-b13025782a0d:icon]</span>\n<span sty:inline-block; vertical-align:middle; margin-left:8px; font-size:0.9em;\"><b><i>Segen des<br>Wunderlands</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"break-after: column;\"></div>\n\n# Credits\n\n<b>Arkham Horror: The Card Game Design:</b> Nate French and Maxine Newman.  \n<b>Campaign Design:</b> Tyler Gotch  \n<b>Editing:</b> Tyler Gaffney, Spencer Wilkinson  \n<b>Art Assistance:</b> BlueHG  \n<b>Playtesters:</b> Spencer Wilkinson, Daniel Martinez, Tyler Gaffney, Adam Ultraberg, Zylo, Hikka, Roakana, Rynoseros, Jadiimjedi, TheRealBattlepope, Armies, 1armedbandit, MickeytheQ, Simon Dowrick, Kodab Games, TerranChef, Ggyppt, \"Delve Too Deep\", Walker, Axolotl, BlueHG, Humblejuggernaut, Serendipigans, TheBudiez, hunter5a, socraticmethod  \n## Deutsche \u00dcbersetzung: \n**\u00dcbersetzung der Karten:** ElFlix  \n**\u00dcbersetzung des Kampagnenleitfadens:** clep-clep, ElFlix, stormsx89  \n**Lektorat:** stormsx89, BadWolf, Yonder, gluraklv42, Founi  \n**Gestaltung des Kampagnenleitfadens:** ElFlix  \n**Gestaltung des Kampagnenlogbuchs:** Rinc\u00f3n Miskatonic (*rinconmiskatonic.org*), ElFlix  \nKarten und Kampagnenlogbuch dieser Kampagne wurden mit ***Shoggoth*** von **Tokeeto** erstellt. Diese \u00dcbersetzung ist mit Shoggoth gewachsen und w\u00e4re ohne Tokeetos unerm\u00fcdliches Abarbeiten neuer Feature-Requests und Beseitigung kleiner und gro\u00dfer Bugs nicht so umsetzbar gewesen. Vielen Dank an **Coldtoes** und **Hauke**, die  durch ihre Vorlagen das Erstellen von Fan-Kampagnen erm\u00f6glichen.  \nDanke an die **Mythos Buster**-Community und die **Kodex der Anderswelt**-Community, die bei kleinen und gro\u00dfen Fragen helfen konnten.  \nDanke, dass Du diese Kampagne spielst! \n\n<img src=\"{./guide/back.png}\" style=\"width: 100%; position: fixed; bottom: 0; right: 0; colspan: 2; z-index: -1;\">\n"
+                    "markdown": "# Begegnungssetsymbole\n<table style=\"width:100%; table-layout:fixed; border-collapse:collapse;\">\n<tbody>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:815adf7b-9e62-4ad3-b4c8-59e036be1bb6:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Arkham im<br>Wunderland</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; border-color:#000000; padding:2px 0.3cm;\">&nbsp;</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:6227882b-e173-45ff-bbe2-dc19fb67edba:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Ein Meer an Plagen</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:51e2559a-1480-4b6b-9cb6-a8c86f193b27:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px; font-size:0.9em;\"><b><i>Das Walross und<br>der Zimmermann</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:faeb8f82-4cd5-4ce1-ad64-7944963655ba:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Sturm im Teeglas</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:27c614e3-a295-4cd2-aae0-8b1ab0d8114c:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Blutende Herzen</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:0cf1e22b-5f33-45cf-a5ff-185d29a54fe6:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Eine wilde<br>Schlarg-Jagd</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:fd8f93f3-7024-4101-89bf-0b0ce16e4c3d:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Schebberoch</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:d18ba6d9-cfc6-43b1-811c-31086ab85b7e:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Geschwister-<br>rivalit\u00e4t</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:c8fe6457-c170-4d5a-ab30-5744cf6e5345:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Narrenmatt</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:609e4283-cd05-4bff-97b9-30e239af582c:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Klarer Albtraum</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:dbbbb81c-4f16-428c-985b-71b0d84267ea:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Alice in Arkham</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:501c1bc3-6c99-42f8-93da-efd313f3ea01:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Die Grinsekatze</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:57972c01-bce0-4512-9573-eabcc71a5ac1:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Kartenwachen</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:d175b267-1201-488c-8324-53645458b02c:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Schachfiguren</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:142deea6-8fa3-4d5b-9b4a-3552157dee73:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Gurathnakas<br>Schatten</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:aff37008-a4ad-4fab-96de-29f9febd1bab:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>R\u00e4tsel und Spiele</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:f65a386b-aa46-41cc-b5d7-5bebd924f2ee:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Verzerrte Realit\u00e4t</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td class=\"selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:9af55e7a-588b-4c06-8378-d4463846d243:icon]</span>\n<span style=\"display:inline-block; vertical-align:middle; margin-left:8px;\"><b><i>Fluch des<br>Wunderlands</i></b></span>\n</p>\n</div>\n</div>\n</td>\n<td class=\"ff-inherit selected\" style=\"width:50%; vertical-align:top; border-color:#000000; padding:2px 0.3cm;\">\n<div class=\"wrap\">\n<div contenteditable=\"false\">\n<p style=\"text-align:left; margin:4px 5px;\">\n<span style=\"display:inline-block; width:34px; text-align:center; vertical-align:middle;\">[encounter:15e52956-bfe6-4db2-8697-b13025782a0d:icon]</span>\n<span sty:inline-block; vertical-align:middle; margin-left:8px; font-size:0.9em;\"><b><i>Segen des<br>Wunderlands</i></b></span>\n</p>\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n\n<div style=\"break-after: column;\"></div>\n\n# Credits\n\n<b>Arkham Horror: The Card Game Design:</b> Nate French and Maxine Newman.  \n<b>Campaign Design:</b> Tyler Gotch  \n<b>Editing:</b> Tyler Gaffney, Spencer Wilkinson  \n<b>Art Assistance:</b> BlueHG  \n<b>Playtesters:</b> Spencer Wilkinson, Daniel Martinez, Tyler Gaffney, Adam Ultraberg, Zylo, Hikka, Roakana, Rynoseros, Jadiimjedi, TheRealBattlepope, Armies, 1armedbandit, MickeytheQ, Simon Dowrick, Kodab Games, TerranChef, Ggyppt, \"Delve Too Deep\", Walker, Axolotl, BlueHG, Humblejuggernaut, Serendipigans, TheBudiez, hunter5a, socraticmethod  \n## Deutsche \u00dcbersetzung: \n**\u00dcbersetzung der Karten:** ElFlix  \n**\u00dcbersetzung des Kampagnenleitfadens:** clep-clep, ElFlix, stormsx89  \n**Lektorat:** stormsx89, BadWolf, Yonder, gluraklv42, Founi  \n**Gestaltung des Kampagnenleitfadens:** ElFlix  \n**Gestaltung des Covers:** noclevernickname, Artwork: nyctoinc\n**Gestaltung des Kampagnenlogbuchs:** Rinc\u00f3n Miskatonic (*rinconmiskatonic.org*), ElFlix  \n**Artworks im Kampagnenleitfaden:** Die K\u00fcnstler sind auf den Karten mit gleichem Artwork vermerkt  \nKarten und Kampagnenlogbuch dieser Kampagne wurden mit ***Shoggoth*** von **Tokeeto** erstellt. Diese \u00dcbersetzung ist mit Shoggoth gewachsen und w\u00e4re ohne Tokeetos unerm\u00fcdliches Abarbeiten neuer Feature-Requests und Beseitigung kleiner und gro\u00dfer Bugs nicht so umsetzbar gewesen. Vielen Dank an **Coldtoes** und **Hauke**, die  durch ihre Vorlagen das Erstellen von Fan-Kampagnen erm\u00f6glichen.  \nDanke an die **Mythos Buster**-Community und die **Kodex der Anderswelt**-Community, die bei kleinen und gro\u00dfen Fragen helfen konnten.  \nDanke, dass Du diese Kampagne spielst! \n\n<img src=\"{./guide/back.png}\" style=\"width: 100%; position: fixed; bottom: 0; right: 0; colspan: 2; z-index: -1;\">\n"
                 }
             ],
             "front_page": "./guide/cover.png"
