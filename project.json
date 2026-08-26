@@ -622,13 +622,13 @@
             "name": "Am dunkelsten vor der Morgenr\u00f6te",
             "front": {
                 "type": "act",
-                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand und spielen sie als Gruppe. Dann d\u00fcrfen die Ermittler Alice an einen verbundenen Ort bewegen.\n<reaction> Sobald du 1 oder mehr Hinweise an deinem Ort entdecken w\u00fcrdest, selbst wenn sich auf deinem Ort keine Hinweise befinden: Platziere stattdessen genauso viele deiner Hinweise auf Gurathnaka.\n<obj> Falls die verbleibende Ausdauer von Gurathnaka niedriger als die Anzahl an Hinweisen auf Gurathnaka ist, r\u00fccke vor.",
+                "text": "<for> Zu Beginn der Ermittlungsphase: Die <br>Ermittler w\u00e4hlen 1 Karte von Alices Hand und spielen sie als Gruppe. Dann d\u00fcrfen die Ermittler Alice an einen verbundenen Ort bewegen.\n<reaction> Sobald du 1 oder mehr Hinweise an deinem Ort entdecken w\u00fcrdest, selbst wenn sich auf deinem Ort keine Hinweise befinden: Platziere stattdessen genauso viele deiner Hinweise auf Gurathnaka.\n<obj> Falls die verbleibende Ausdauer von Gurathnaka niedriger als die Anzahl an Hinweisen auf Gurathnaka ist, r\u00fccke vor.",
                 "illustration": "./images/expanded_images/Rabbit Hole - Masateru Ikeda.jpg",
                 "index": "2a",
                 "illustrator": "Illus. Masateru Ikeda",
                 "illustration_pan_x": 800.0,
                 "clues": "<dash>",
-                "flavor_text": "Obwohl die Leere die Schatten und letzten Spuren von <br>Alices Traum an sich zieht, widersetzt sich Gurathnaka <br>ihrem Sog, und sein unaufh\u00f6rliches Heulen hallt in deinen Knochen wider. Seine unbeschreibliche Stimme spricht eine urzeitliche Angst in dir an, doch der einzige Weg, diesen Albtraum zu \u00fcberleben, besteht darin, den Traumfresser zu verbannen.",
+                "flavor_text": "Obwohl die Leere die Schatten und letzten Spuren von <br>Alices Traum an sich zieht, widersetzt sich Gurathnaka <br>ihrem Sog, und sein unaufh\u00f6rliches Heulen hallt in deinen Knochen wider. Seine unbeschreibliche Stimme spricht eine urzeitliche Angst in dir an, doch der einzige Weg, diesen Albtraum zu \u00fcberleben, besteht darin, den Traumfresser<br> zu verbannen.",
                 "name": "<name>"
             },
             "back": {
@@ -636,7 +636,7 @@
                 "name": "F\u00fcr heute ist Feierabend",
                 "victory": "",
                 "text": "(<resolution><b>A5</b>)",
-                "flavor_text": "Inmitten des tosenden Vakuums der Dunkelheit, das durch den wabernden Spalt str\u00f6mt, krallt sich Gurathnaka gierig an Arkham fest. Jedes Mal, wenn du das Monster zur\u00fcckschl\u00e4gst, nutzt du deine j\u00fcngsten Erfahrungen, um seinen Halt durch die Dimensionen zu schw\u00e4chen. Alice konzentriert sich mit jeder Faser ihres Willens darauf, die Stabilit\u00e4t aufrechtzuerhalten, w\u00e4hrend du das Portal aufl\u00f6st und Gurathnakas Verbindung zu Arkham durchtrennst. M\u00fchsame Minuten vergehen, bis endlich der Durchbruch gelingt! Hungrig nach dir ausgestreckt st\u00fcrzt die schattenhafte Abscheulichkeit durch die endlose Leere. \u201eEs ist geschafft!\u201c, ruft Alice, doch du kommst nicht dazu, zu antworten, als sich die Spalte von selbst wieder verschlie\u00dft und eine letzte Welle aus ihr hervorbricht, die dich von den Beinen rei\u00dft."
+                "flavor_text": "Inmitten des tosenden Vakuums der Dunkelheit, das durch <br>den wabernden Spalt str\u00f6mt, krallt sich Gurathnaka gierig an Arkham fest. Jedes Mal, wenn du das Monster zur\u00fcckschl\u00e4gst, nutzt du deine j\u00fcngsten Erfahrungen, um seinen Halt durch die Dimensionen zu schw\u00e4chen. Alice konzentriert sich mit jeder Faser ihres Willens darauf, die Stabilit\u00e4t aufrechtzuerhalten, w\u00e4hrend du das Portal aufl\u00f6st und Gurathnakas Verbindung zu Arkham durchtrennst. \nM\u00fchsame Minuten vergehen, bis endlich der Durchbruch <br>gelingt! Hungrig nach dir ausgestreckt st\u00fcrzt die schattenhafte Abscheulichkeit durch die endlose Leere. \u201eEs ist geschafft!\u201c, ruft Alice, doch du kommst nicht dazu, zu antworten, als sich die Spalte von selbst wieder verschlie\u00dft und eine letzte Welle aus ihr hervorbricht, die dich von den Beinen rei\u00dft."
             },
             "encounter_number": "6",
             "project_number": "204",
@@ -647,8 +647,8 @@
             "name": "Wachsende Dunkelheit",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice Liddell nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
-                "flavor_text": "Die Stabilit\u00e4t Arkhams verschlechtert sich zunehmend, wie vor deinem ersten Betreten des Wunderlandes. Dunkelheit breitet sich vom Norden der Stadt her aus, und mit ihr Gurathnaka und seine Schergen. Gierig wie ein Waldbrand verzehren Schatten alles, was auf ihrem Weg liegt, und werden dabei st\u00e4rker und st\u00e4rker.",
+                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice Liddell nicht angreifen oder <br>in einen Kampf verwickeln. Bei der Abhandlung <br>des Schl\u00fcsselwortes J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
+                "flavor_text": "Die Stabilit\u00e4t Arkhams verschlechtert sich zunehmend, wie vor deinem ersten Betreten des Wunderlandes. <br>Dunkelheit breitet sich vom Norden der Stadt her aus, und mit ihr Gurathnaka und seine Schergen. Gierig wie ein Waldbrand verzehren Schatten alles, was auf ihrem Weg liegt, und werden dabei st\u00e4rker und st\u00e4rker.",
                 "illustration": "./images/expanded_images/Shadows - Yoojin Rhee.jpg",
                 "doom": "7",
                 "index": "1a",
@@ -661,9 +661,9 @@
                 "type": "agenda_back",
                 "name": "Psychologische Kriegsf\u00fchrung",
                 "victory": "",
-                "text": "Alice nimmt 1 Schaden oder 1 Horror. Falls Alice durch diesen Effekt besiegt wird: (<resolution><b>A2</b>).\n",
+                "text": "Alice nimmt 1 Schaden oder 1 Horror. <br>Falls Alice durch diesen Effekt besiegt wird: (<resolution><b>A2</b>).\n",
                 "index": "1b",
-                "flavor_text": "Alice lehnt an einem teilweise zerst\u00f6rten Geb\u00e4ude, als erneut ein gottloses Dr\u00f6hnen die Luft zerrei\u00dft. Ihre Bem\u00fchungen verlangsamen zwar das Vordringen der Schatten in Arkham, aber ihr K\u00f6rper und ihr Geist sind schnell am Rande ihrer Kr\u00e4fte."
+                "flavor_text": "Alice lehnt an einem teilweise zerst\u00f6rten Geb\u00e4ude, <br>als erneut ein gottloses Dr\u00f6hnen die Luft zerrei\u00dft. <br>Ihre Bem\u00fchungen verlangsamen zwar das Vordringen der Schatten in Arkham, aber ihr K\u00f6rper und ihr Geist sind schnell am Rande ihrer Kr\u00e4fte."
             },
             "encounter_number": "2",
             "project_number": "200",
@@ -674,8 +674,8 @@
             "name": "Massenkonsum",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurath-<br>naka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
-                "flavor_text": "Gurathnaka treibt seine Schatten an, alles zu verschlingen, was sie zerrei\u00dfen k\u00f6nnen \u2013 sei es tierischen, pflanzlichen oder mineralischen Ursprungs. Sie hinterlassen eine dunkle Leere, die noch leerer ist als die Leere des Weltraums.",
+                "text": "Alice Liddell kann nicht die Kontrolle <br>\u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder <br>in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
+                "flavor_text": "Gurathnaka treibt seine Schatten an, alles zu <br>verschlingen, was sie zerrei\u00dfen k\u00f6nnen \u2013 sei es <br>tierischen, pflanzlichen oder mineralischen <br>Ursprungs. Sie hinterlassen eine dunkle Leere, die noch leerer ist als die Leere des Weltraums.",
                 "illustration": "./images/expanded_images/Shadows - Yoojin Rhee.jpg",
                 "doom": "7",
                 "index": "2a",
@@ -687,8 +687,8 @@
                 "type": "agenda_back",
                 "name": "Der Verstand schreckt zur\u00fcck",
                 "victory": "",
-                "text": "Alice nimmt 2 Schaden und/oder Horror. Falls Alice durch diesen Effekt besiegt wird: (<resolution><b>A2</b>).",
-                "flavor_text": "Die Realit\u00e4t schwankt und wogt unbest\u00e4ndig und bringt dich in ihrem st\u00e4ndigen Wandel aus dem Gleichgewicht. Du stehst schnell wieder auf, doch Alice braucht noch einige Augenblicke, um sich wackelig wieder aufzurichten. Sollten die Schatten noch weiter an Kraft gewinnen, wird Alice die Belastung m\u00f6glicherweise nicht \u00fcberleben."
+                "text": "Alice nimmt 2 Schaden und/oder Horror. <br>Falls Alice durch diesen Effekt besiegt wird: (<resolution><b>A2</b>).",
+                "flavor_text": "Die Realit\u00e4t schwankt und wogt unbest\u00e4ndig und bringt dich in ihrem st\u00e4ndigen Wandel aus dem Gleichgewicht. Du stehst schnell wieder auf, doch Alice braucht noch <br>einige Augenblicke, um sich wackelig wieder auf-<br>zurichten. Sollten die Schatten noch weiter an Kraft <br>gewinnen, wird Alice die Belastung m\u00f6glicherweise <br>nicht \u00fcberleben."
             },
             "encounter_number": "3",
             "project_number": "201",
@@ -699,13 +699,13 @@
             "name": "Letzte Lichtstrahlen",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice Liddell nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice Liddell nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: Gurathnaka bewegt sich 1 Ort in Richtung des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice Liddell besiegt wird: (<resolution><b>A2</b>).",
+                "text": "Alice Liddell kann nicht die Kontrolle <br>\u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice Liddell nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice Liddell nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice Liddell besiegt wird: (<resolution><b>A2</b>).",
                 "illustration": "./images/expanded_images/Shadows - Yoojin Rhee.jpg",
                 "doom": "6",
                 "index": "3a",
                 "illustrator": "Illus. Yoojin Rhee",
                 "illustration_pan_x": -887.0,
-                "flavor_text": "Das schwindende Licht der D\u00e4mmerung und die wenigen verbliebenen Stra\u00dfenlaternen von Arkham erhellen deinen Weg, w\u00e4hrend du dich beeilst wie nie zuvor. Wenn die Dunkelheit die Stadt \u00fcberzieht, wird dies nicht nur f\u00fcr dich, sondern f\u00fcr alles Leben auf der Erde das Ende bedeuten.",
+                "flavor_text": "Das schwindende Licht der D\u00e4mmerung und die wenigen verbliebenen Stra\u00dfenlaternen von Arkham erhellen <br>deinen Weg, w\u00e4hrend du dich beeilst wie nie zuvor. Wenn die Dunkelheit die Stadt \u00fcberzieht, wird dies <br>nicht nur f\u00fcr dich, sondern f\u00fcr alles Leben auf der Erde <br>das Ende bedeuten.",
                 "name": "<name>"
             },
             "back": {
@@ -730,7 +730,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "\u20132 (\u20134 stattdessen, falls sich zusammen mehr Schaden/Horror auf Alice als auf deinem Ermittler befinden)."
+                        "text": "\u20132 (\u20134 stattdessen, falls sich <br>zusammen mehr Schaden/<br>Horror auf Alice als auf deinem Ermittler befinden)."
                     },
                     {
                         "token": [
@@ -742,7 +742,7 @@
                         "token": [
                             "tablet"
                         ],
-                        "text": "\u20132 (\u20134 stattdessen, falls sich 3 oder weniger <t>Wunderland</t>-Orte im Spiel befinden)."
+                        "text": "\u20132 (\u20134 stattdessen, falls sich <br>3 oder weniger <t>Wunderland</t>-<br>Orte im Spiel befinden)."
                     },
                     {
                         "token": [
@@ -760,7 +760,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "\u20133 (\u20135 stattdessen, falls sich zusammen mehr Schaden/Horror auf Alice als auf deinem Ermittler befinden)."
+                        "text": "\u20133 (\u20135 stattdessen, falls sich <br>zusammen mehr Schaden/<br>Horror auf Alice als auf <br>deinem Ermittler befinden)."
                     },
                     {
                         "token": [
@@ -772,7 +772,7 @@
                         "token": [
                             "tablet"
                         ],
-                        "text": "\u20133 (\u20135 stattdessen, falls sich 3 oder weniger <t>Wunderland</t>-Orte im Spiel befinden)."
+                        "text": "\u20133 (\u20135 stattdessen, falls sich <br>3 oder weniger <t>Wunderland</t>-<br>Orte im Spiel befinden)."
                     },
                     {
                         "token": [
@@ -794,7 +794,7 @@
                 "type": "location",
                 "subtitle": "Im Endspiel",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: <b>Ermitteln (<int>).</b> Sobald du diese F\u00e4higkeit initiierst, lege die oberste Karte deines Decks ab. Falls jene Karte eine Schw\u00e4che ist, ziehe sie. Ansonsten bekommst du +X <int> f\u00fcr diese Probe. X sind die Kosten der abgelegten Karte.\n<for> Falls sich keine Hinweise auf der <name> befinden: Drehe diese Karte um.",
+                "text": "<action>: <b>Ermitteln (<int>).</b> Sobald du diese F\u00e4higkeit initiierst, <br>lege die oberste Karte deines Decks ab. Falls jene Karte eine Schw\u00e4che ist, ziehe sie. Ansonsten bekommst du +X <int> f\u00fcr diese <br>Probe. X sind die Kosten der abgelegten Karte.\n<for> Falls sich keine Hinweise auf der Miskatonic <br>Universit\u00e4t befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miskatonic - Tomasz Jedruszek and Unknown.jpg",
                 "clues": "2<per>",
@@ -808,7 +808,7 @@
                     "quote"
                 ],
                 "illustrator": "Illus. Tomasz Jedruszek & Unknown",
-                "flavor_text": "Der Campus der Miskatonic Universit\u00e4t ist zerteilt und wechselt zwischen farbigen Abschnitten in einem Muster, das dich an das Schachbrettfeld des Wunderlands erinnert.",
+                "flavor_text": "Der Campus der Miskatonic Universit\u00e4t ist zerteilt und wechselt <br>zwischen farbigen Abschnitten in einem Muster, das dich an das <br>Schachbrettfeld des Wunderlands erinnert.",
                 "illustration_pan_x": -1495.0,
                 "illustration_pan_y": -959.0,
                 "illustration_scale": 3.0,
@@ -816,7 +816,7 @@
             },
             "back": {
                 "type": "location",
-                "illustration": "./images/expanded_images/Miskatonic - Tomasz Jedruszek and Unknown.jpg",
+                "illustration": "./images/expanded_images/Miskatonic - Tomasz Jedruszek.jpg",
                 "illustrator": "Illus. Tomasz Jedruszek",
                 "name": "<name>",
                 "subtitle": "Zur\u00fcck zum Stundenplan",
@@ -826,7 +826,7 @@
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "<valign>Die mit Efeu bewachsenen Geb\u00e4ude der Universit\u00e4t sind wieder da und wurden neu angeordnet, doch die bedr\u00fcckende Dunkelheit liegt immer noch \u00fcber dem Campusgel\u00e4nde.",
+                "flavor_text": "<valign>Die mit Efeu bewachsenen Geb\u00e4ude der <br>Universit\u00e4t sind wieder da und wurden neu <br>angeordnet, doch die bedr\u00fcckende Dunkelheit<br> liegt immer noch \u00fcber dem Campusgel\u00e4nde.",
                 "illustration_scale": 3.0,
                 "illustration_pan_x": -1495.0,
                 "illustration_pan_y": -959.0,
@@ -843,7 +843,7 @@
                 "type": "location",
                 "subtitle": "Doppelter Aufruhr",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: <b>Ermitteln (<intellect>).</b> Verdopple f\u00fcr diese Ermittlung den Schleier des Gesch\u00e4ftsviertels. Falls die Probe gelingt, entdeckst du 1 zus\u00e4tzlichen Hinweis an diesem Ort. Falls die Probe misslingt, lege 1 zuf\u00e4llige Karte von deiner Hand ab und verliere 1 Ressource. (Nur 1 Erfolg pro Runde.)\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
+                "text": "<action>: <b>Ermitteln (<intellect>).</b> Verdopple f\u00fcr diese Ermittlung den Schleier des Gesch\u00e4ftsviertels. Falls die Probe gelingt, <br>entdeckst du 1 zus\u00e4tzlichen Hinweis an diesem Ort. Falls die Probe misslingt, lege 1 zuf\u00e4llige Karte von deiner Hand ab und verliere <br>1 Ressource. (Nur 1 Erfolg pro Runde.)\n<for> Falls sich keine Hinweise auf dem <name> <br>befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Merchant District - Jokubas Uogintas and Roberto Maldonado.jpg",
                 "clues": "2<per>",
@@ -859,7 +859,7 @@
                 ],
                 "illustrator": "Illus. Jokubas Uogintas & Roberto Maldonado",
                 "illustration_pan_y": -400.0,
-                "flavor_text": "Die Stra\u00dfen des Gesch\u00e4ftsviertels f\u00fcgen sich harmonisch in die <br>Landschaft des steilen Tals ein, in dem sich Dideldei und Dideldum <br>bei ihrer Schlacht gegen\u00fcberstanden.",
+                "flavor_text": "<size 44>Die Stra\u00dfen des Gesch\u00e4ftsviertels f\u00fcgen sich harmonisch in die Landschaft des steilen Tals ein, in dem sich Dideldei und Dideldum bei ihrer Schlacht gegen\u00fcberstanden.",
                 "collection_number": "<exn>a"
             },
             "back": {
@@ -890,8 +890,8 @@
                 "type": "location",
                 "subtitle": "St\u00fcrmische See",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: Lege eine <agility>-Probe (3) ab. Falls die Probe gelingt, bekommt das Hafenviertel --3 Schleier bis zum Ende der Phase. Falls die Probe misslingt, nimm 1 Schaden. (Nur 1 Erfolg pro Runde f\u00fcr die gesamte Gruppe.)\n<for> Falls sich keine Hinweise auf dem <name> befinden: Drehe diese Karte um.",
-                "flavor_text": "Der Miskatonic verstr\u00f6mt eine salzige Brise, und die Wellen schwappen \u00fcber das Ufer, als w\u00e4re er das Meer der Tr\u00e4nen des Wunderlands.",
+                "text": "<action>: Lege eine <agility>-Probe (3) ab. Falls die Probe gelingt, bekommt das Hafenviertel --3 Schleier bis zum Ende der Phase. Falls die Probe misslingt, nimm 1 Schaden. <br>(Nur 1 Erfolg pro Runde f\u00fcr die gesamte Gruppe.)\n<for> Falls sich keine Hinweise auf dem <name> <br>befinden: Drehe diese Karte um.",
+                "flavor_text": "<size 53>Der Miskatonic verstr\u00f6mt eine salzige Brise, und die Wellen schwappen \u00fcber das Ufer, als w\u00e4re er das Meer der Tr\u00e4nen des Wunderlands.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Rivertown - Cristi Balanescu and Jeremy Paillotin.jpg",
                 "clues": "1<per>",
@@ -934,7 +934,7 @@
                 "type": "location",
                 "subtitle": "Das Herz des Problems",
                 "traits": "Arkham. Wunderland.",
-                "text": "Solange sich auf einem Gegner an diesem Ort oder auf einer an diesen Ort angeh\u00e4ngten Verratskarte Verderben befindet, bekommt das Franz\u00f6sische Viertel --3 Schleier.\n<free> Platziere 1 Verderben auf einem Gegner an diesem Ort oder einer Verratskarte, die an diesen Ort angeh\u00e4ngt ist.\n<for> Falls sich keine Hinweise auf dem Franz\u00f6sischen Viertel befinden: Drehe diese Karte um.",
+                "text": "Solange sich auf einem Gegner an diesem Ort oder auf einer <br>an diesen Ort angeh\u00e4ngten Verratskarte Verderben befindet, <br>bekommt das Franz\u00f6sische Viertel --3 Schleier.\n<free> Platziere 1 Verderben auf einem Gegner an diesem Ort oder <br>einer Verratskarte, die an diesen Ort angeh\u00e4ngt ist.\n<for> Falls sich keine Hinweise auf dem Franz\u00f6sischen <br>Viertel befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/expanded_images/French Hill - Cristi Balanescu and Clement Caubet.jpg",
                 "clues": "1<per>",
@@ -948,7 +948,7 @@
                     "quote"
                 ],
                 "illustrator": "Illus. Cristi Balanescu & Clement Caubet",
-                "flavor_text": "Die stattliche Architektur des Franz\u00f6sischen Viertels verschmilzt mit kunstvollem Mauerwerk, das du vom Schloss der Herz-K\u00f6nigin kennst.",
+                "flavor_text": "Die stattliche Architektur des Franz\u00f6sischen Viertels verschmilzt mit <br>kunstvollem Mauerwerk, das du vom Schloss der Herz-K\u00f6nigin kennst.",
                 "illustration_pan_y": 10.0,
                 "collection_number": "<exn>a"
             },
@@ -966,7 +966,7 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": 10.0,
-                "flavor_text": "<valign>Das Franz\u00f6sische Viertel erstrahlt wieder in seiner gewohnten Pracht, auch wenn seine Mansarden-<br>d\u00e4cher unter dem Grollen, das durch die ganze Stadt hallt, klappern.",
+                "flavor_text": "<valign>Das Franz\u00f6sische Viertel erstrahlt wieder in<br> seiner gewohnten Pracht, auch wenn seine <br>Mansardend\u00e4cher unter dem Grollen, <br>das durch die ganze Stadt hallt, klappern.",
                 "collection_number": "<exn>b"
             },
             "encounter_number": "10",
@@ -995,7 +995,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. Nele Diel & Alex van der Linde",
-                "flavor_text": "Die W\u00e4lder vor Arkham drehen und winden sich in seltsame Formen, die dich an den so viel seltsameren tulgen Wald erinnern.",
+                "flavor_text": "Die W\u00e4lder vor Arkham drehen und winden sich in seltsame<br> Formen, die dich an den so viel seltsameren tulgen Wald erinnern.",
                 "collection_number": "<exn>a"
             },
             "back": {
@@ -1009,7 +1009,7 @@
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "<valign>Die W\u00e4lder von Arkham entwirren sich wieder zu einer vertrauten, aber immer noch unheilvollen Form, was dir nur wenig Seelenfrieden gew\u00e4hrt.",
+                "flavor_text": "<size 67><valign>Die W\u00e4lder von Arkham entwirren sich wieder zu einer vertrauten, aber immer noch unheilvollen Form, was dir nur wenig Seelenfrieden gew\u00e4hrt.",
                 "collection_number": "<exn>b"
             },
             "encounter_number": "11",
@@ -1023,7 +1023,7 @@
                 "type": "location",
                 "subtitle": "Nicht nach deinem Geschmack",
                 "traits": "Arkham. Wunderland.",
-                "text": "<action>: Lege eine <willpower>-Probe (3) ab. Falls die Probe gelingt, bekommt das Hafenviertel --3 Schleier bis zum Ende der Phase. Falls die Probe misslingt, nimm 1 Horror. (Nur 1 Erfolg pro Runde f\u00fcr die gesamte Gruppe.)\n<for> Falls sich keine Hinweise auf der S\u00fcdstadt befinden: Drehe diese Karte um.",
+                "text": "<action>: Lege eine <willpower>-Probe (3) ab. Falls die Probe gelingt, bekommt das Hafenviertel --3 Schleier bis zum Ende der Phase. Falls die Probe misslingt, nimm 1 Horror. <br>(Nur 1 Erfolg pro Runde f\u00fcr die gesamte Gruppe.)\n<for> Falls sich keine Hinweise auf der S\u00fcdstadt <br>befinden: Drehe diese Karte um.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Southside - Jokubas Uogintas and Abigail Larson.jpg",
                 "clues": "1<per>",
@@ -1039,7 +1039,7 @@
                 ],
                 "illustrator": "Illus. Jokubas Uogintas & Abigail Larson",
                 "illustration_pan_y": -320.0,
-                "flavor_text": "Die ruhigen Stra\u00dfen der S\u00fcdstadt sind \u00fcbers\u00e4t mit Besteck, Geschirr und angebissenen Leckereien vom Tisch der Teegesellschaft.",
+                "flavor_text": "<size 54>Die ruhigen Stra\u00dfen der S\u00fcdstadt sind \u00fcbers\u00e4t mit Besteck, Geschirr und angebissenen Leckereien vom Tisch der Teegesellschaft.",
                 "collection_number": "<exn>a"
             },
             "back": {
@@ -1056,7 +1056,7 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration_pan_y": -320.0,
-                "flavor_text": "<valign>Die S\u00fcdstadt liegt wieder einmal in ruhiger Abgeschiedenheit, ganz im Gegensatz zum brodelnden Chaos, das sich n\u00f6rdlich davon abspielt.",
+                "flavor_text": "<valign>Die S\u00fcdstadt liegt wieder einmal in ruhiger <br>Abgeschiedenheit, ganz im Gegensatz zum <br>brodelnden Chaos, das sich n\u00f6rdlich davon abspielt.",
                 "collection_number": "<exn>b"
             },
             "encounter_number": "12",
@@ -1097,7 +1097,7 @@
                 "text": "",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "<valign>Die Oststadt galt aufgrund der starken Polizeipr\u00e4senz schon immer als einer der sichereren Stadtteile, doch unter den gegebenen Umst\u00e4nden ist sie genauso schutzlos wie alle anderen.",
+                "flavor_text": "<valign>Die Oststadt galt aufgrund der starken Polizeipr\u00e4senz schon immer als einer der sichereren Stadtteile, doch unter den gegebenen Umst\u00e4nden<br> ist sie genauso schutzlos wie alle anderen.",
                 "illustration": "./images/expanded_images/Easttown - Jokubas Uogintas.jpg",
                 "collection_icon": "<exi>",
                 "collection_number": ""
@@ -1113,7 +1113,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Arkham.",
-                "text": "Nachdem du eine Fertigkeitsprobe in der Nordstadt abgehandelt hast, falls 3 oder mehr Fertigkeitssymbole beigetragen wurden: Nimm 1 Schaden.",
+                "text": "Nachdem du eine Fertigkeitsprobe in der Nordstadt abgehandelt hast, falls 3 oder mehr Fertigkeitssymbole beigetragen wurden: <br>Nimm 1 Schaden.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Northside - Jokubas Uogintas.jpg",
                 "clues": "0",
@@ -1128,7 +1128,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. Jokubas Uogintas",
-                "flavor_text": "In der Nordstadt sind noch immer Spuren des fr\u00fcheren Chaos zu sp\u00fcren. Sie k\u00f6nnten der Schl\u00fcssel dazu sein, <br>die Verbindung zum Wunderland endg\u00fcltig <br>zu unterbrechen.",
+                "flavor_text": "In der Nordstadt sind noch immer Spuren des fr\u00fcheren Chaos zu sp\u00fcren. Sie k\u00f6nnten der Schl\u00fcssel dazu sein, die Verbindung zum Wunderland endg\u00fcltigzu unterbrechen.",
                 "illustration_pan_y": 0.0,
                 "collection_number": "<exn>"
             },
@@ -1140,7 +1140,7 @@
                 "traits": "Arkham.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "<valign>Als du die Nordstadt auf deiner Reise ins Wunderland hinter dir zur\u00fcckgelassen hast, warst du dir nicht sicher, ob du sie jemals wieder in einem wiedererkennbaren Zustand sehen w\u00fcrdest.",
+                "flavor_text": "<valign>Als du die Nordstadt auf deiner Reise ins <br>Wunderland hinter dir zur\u00fcckgelassen hast, warst du dir nicht sicher, ob du sie jemals wieder in <br>einem wiedererkennbaren Zustand sehen w\u00fcrdest.",
                 "illustration": "./images/expanded_images/Northside - Jokubas Uogintas.jpg",
                 "collection_icon": "<exi>",
                 "collection_number": ""
@@ -1397,7 +1397,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "J\u00e4ger. Alarmiert.\nDer Schadenswert von <name> entspricht dem Schadenswert von Gurathnaka minus 1.\nDer Horrorwert von <name> entspricht dem Horrorwert von Gurathnaka minus 1.",
+                "text": "J\u00e4ger. Alarmiert.\nDer Schadenswert von <name> <br>entspricht dem Schadenswert von Gurathnaka minus 1.\nDer Horrorwert von <name> entspricht dem Horrorwert von Gurathnaka minus 1.",
                 "health": "4",
                 "evade": "3",
                 "attack": "4",
@@ -1425,7 +1425,7 @@
                 "type": "location",
                 "subtitle": "Das Ende ist in Sicht",
                 "traits": "Arkham. Schatten.",
-                "text": "<reaction> Nachdem du erfolgreich an der inhalts-<br>losen Leere ermittelt hast: Entdecke 1 zus\u00e4tzlichen Hinweis an diesem Ort.",
+                "text": "<reaction> Nachdem du erfolgreich an der inhalts-<br>losen Leere ermittelt hast: Entdecke <br>1 zus\u00e4tzlichen Hinweis an diesem Ort.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Arkham - Tomasz Jedruszek and TheKayeman.jpg",
                 "clues": "0",
@@ -1453,7 +1453,7 @@
                 "text": "",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "flavor_text": "<valign>Hoch \u00fcber der Stadt schwebt ein breiter Riss in der Realit\u00e4t. Der Wind str\u00f6mt darauf zu, doch nur die eindringenden Schatten scheinen von seiner <br>Anziehungskraft erfasst zu werden.",
+                "flavor_text": "<valign>Hoch \u00fcber der Stadt schwebt ein breiter Riss in der Realit\u00e4t. Der Wind str\u00f6mt darauf zu, doch nur die eindringenden Schatten scheinen von <br>seiner Anziehungskraft erfasst zu werden.",
                 "illustration_pan_x": -470.0,
                 "illustration_pan_y": 200.0,
                 "illustrator": "Illus. Tomasz Jedruszek & TheKayeman",
@@ -1470,7 +1470,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Makel.",
-                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\nErmittler <i>(inklusive Alice)</i> k\u00f6nnen w\u00e4hrend der Unterhaltsphase keine Karten ziehen.\nAls zus\u00e4tzliche Kosten, um eine Ziehen-Aktion zu nehmen, nimm 1 Horror.\n<for> Am Ende der Runde: Lege 1 Kopie von <name> aus dem Spiel ab. (Max. 1 Mal pro Runde.)",
+                "text": "<rev> Bringe diese Karte neben dem Agendadeck ins Spiel.\nErmittler <i>(inklusive Alice)</i> k\u00f6nnen w\u00e4hrend der Unterhaltsphase keine Karten ziehen.\nAls zus\u00e4tzliche Kosten, um eine Ziehen-Aktion zu nehmen, nimm 1 Horror.\n<for> Am Ende der Runde: Lege 1 Kopie <br>von <name> aus dem Spiel ab. <br>(Max. 1 Mal pro Runde.)",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Rael Brian.jpg",
                 "illustrator": "Illus. Rael Brian",
@@ -1490,7 +1490,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Makel.",
-                "text": "<rev> Falls sich keine Schw\u00e4chen auf Alices Hand befinden, erh\u00e4lt <name> Nachr\u00fcsten.\nF\u00fcr jede Schw\u00e4che in Alices Hand nimmt Alice <br>1 Schaden oder 1 Horror.\nF\u00fcr jede Kopie von Belastende Schatten in ihrer Hand nimmt Alice 1 zus\u00e4tzlichen Horror.",
+                "text": "<rev> Falls sich keine Schw\u00e4chen auf <br>Alices Hand befinden, erh\u00e4lt <name> Nachr\u00fcsten.\nF\u00fcr jede Schw\u00e4che in Alices Hand nimmt Alice <br>1 Schaden oder 1 Horror.\nF\u00fcr jede Kopie von Belastende Schatten in ihrer Hand nimmt Alice 1 zus\u00e4tzlichen Horror.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - George Grie.jpg",
@@ -1513,7 +1513,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten. Elite.",
-                "text": "Gewaltig.\nDer Ort der lebenden Verfinsterung bekommt +2 Schleier. Jeder verbundene Ort erh\u00e4lt +1 Schleier.",
+                "text": "Gewaltig.\nDer Ort der lebenden Verfinsterung bekommt <br>+2 Schleier. Jeder verbundene Ort erh\u00e4lt +1 Schleier.",
                 "health": "4",
                 "evade": "4",
                 "attack": "5",
@@ -1539,7 +1539,7 @@
             "front": {
                 "type": "enemy",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "Zur\u00fcckhaltend. \n<spawn> Am weitesten von allen Ermittlern entfernter Ort.\n<for> Am Ende der Gegnerphase, falls Schattenhafter Schlund nicht in einen Kampf verwickelt ist: Platziere 1 Verderben auf <name>.",
+                "text": "<size 62>Zur\u00fcckhaltend. \n<spawn> Am weitesten von allen Ermittlern entfernter Ort.\n<for> Am Ende der Gegnerphase, falls Schattenhafter Schlund nicht in einen Kampf verwickelt ist: <br>Platziere 1 Verderben auf <name>.",
                 "flavor_text": "",
                 "illustration": "./images/expanded_images/Shadows - Toby Crow.jpg",
                 "illustrator": "Illus. Toby Crow",
@@ -1565,7 +1565,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> Lege eine <agility>-Probe (3) ab. Falls die Probe misslingt, musst du entweder (w\u00e4hle eins):\n<bullet> Bewege dich an einen verbundenen Ort und nimm 2 Schaden.\n<bullet> Bewege dich an einen Ort, der genau 2 Verbindungen von deinem Ort entfernt ist, und nimm 1 Schaden.\nFalls sich dann auf deinem neuen Ort mehr Hinweise befinden als auf deinem vorherigen Ort, nimm 1 Horror.\n",
+                "text": "<rev> Lege eine <agility>-Probe (3) ab. Falls die Probe misslingt, musst du entweder (w\u00e4hle eins):\n<bullet> Bewege dich an einen verbundenen Ort und nimm 2 Schaden.\n<bullet> Bewege dich an einen Ort, der genau 2 Verbindungen von deinem Ort entfernt ist, und nimm 1 Schaden.\nFalls sich dann auf deinem neuen Ort mehr Hinweise <br>befinden als auf deinem vorherigen Ort, nimm 1 Horror.\n",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Miscellaneous - Oliver Vernon 9.jpg",
@@ -1608,7 +1608,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Paradox.",
-                "text": "<rev> H\u00e4nge diese Karte an den Ort mit den meisten Hinweisen an.\n<for> Am Ende der Ermittlungsphase: Du musst entweder (w\u00e4hle eins):\n<bullet> F\u00fcge dem Ort mit dieser Verst\u00e4rkung 1 Hinweis aus dem Markervorrat hinzu (stattdessen 2 Hinweise, falls 3 oder 4 Ermittler im Spiel sind). Falls die Nummer der aktuellen Szene 2 ist, kannst du diese Option nicht w\u00e4hlen.\n<bullet> Lege 1 Verderben auf <name>.\n<action>: Lege eine <willpower>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.\n<for> Falls der Ort mit dieser Verst\u00e4rkung umgedreht wird, lege <name> ab.",
+                "text": "<rev> H\u00e4nge diese Karte an den Ort mit den meisten Hinweisen an.\n<for> Am Ende der Ermittlungsphase: Du musst entweder (w\u00e4hle eins):\n<bullet> F\u00fcge dem Ort mit dieser Verst\u00e4rkung 1 Hinweis aus dem Markervorrat hinzu (stattdessen 2 Hinweise, falls 3 oder 4 Ermittler im Spiel sind). Falls die Nummer der aktuellen Szene 2 ist, kannst du diese Option nicht w\u00e4hlen.\n<bullet> Lege 1 Verderben auf <name>.\n<action>: Lege eine <willpower>-Probe (3) ab. Falls die Probe gelingt, lege <name> ab.\n<for> Falls der Ort mit dieser Verst\u00e4rkung umgedreht wird, lege <br><name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Rabbit Hole - Misha Bean.jpg",
@@ -1629,7 +1629,7 @@
                 "type": "treachery",
                 "title": "<unique> <name>",
                 "traits": "Schrecken. Komplott. Schatten.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nDu kannst w\u00e4hrend der Unterhaltsphase keine Karten ziehen und keine Ressourcen erhalten.\n<action><action>: Lege <name> ab.",
+                "text": "<rev> Bringe <name> <br>in deiner Bedrohungszone ins Spiel.\nDu kannst w\u00e4hrend der Unterhaltsphase keine Karten ziehen und keine Ressourcen erhalten.\n<action><action>: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "classes": [
@@ -7213,7 +7213,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott.",
-                "text": "<rev> Falls sich mehr Schaden auf Dideldum als auf Dideldei befindet, platziere 1 Schaden auf der <br>Szenario\u00fcbersichtskarte und nimm 1 Schaden.\nFalls sich mehr Schaden auf Dideldei als auf Dideldum <br>befindet, platziere 1 Horror auf der Szenario\u00fcbersichtskarte und nimm 1 Horror.\nFalls sich auf Dideldum und Dideldei gleich viel Schaden befindet, platziere 1 Schaden und 1 Horror auf der Szenario\u00fcbersichtskarte und nimm 1 Schaden und 1 Horror.",
+                "text": "<rev> Falls sich mehr Schaden auf Dideldum<br> als auf Dideldei befindet, platziere 1 Schaden auf der <br>Szenario\u00fcbersichtskarte und nimm 1 Schaden.\nFalls sich mehr Schaden auf Dideldei als auf Dideldum <br>befindet, platziere 1 Horror auf der Szenario\u00fcbersichtskarte und nimm 1 Horror.\nFalls sich auf Dideldum und Dideldei gleich viel Schaden befindet, platziere 1 Schaden und 1 Horror auf der Szenario\u00fcbersichtskarte und nimm 1 Schaden und 1 Horror.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Tweedledum Tweedledee - Brian Partridge.jpg",
@@ -7276,8 +7276,8 @@
             "name": "\u00dcber das Brett",
             "front": {
                 "type": "act",
-                "text": "<action>: Bewege einen nicht in einen Kampf verwickelten <t>Schach</t>-Gegner wie unter Figurenbewegungen im Kampagnenleitfaden aufgelistet. \n<obj> Sobald ein Ermittler die Achte Reihe betritt, r\u00fccke vor.",
-                "flavor_text": "Du kannst die Silhouette des Schlosses des Roten K\u00f6nigs kaum zwischen den dunklen Wolken vor dir erkennen. Es d\u00fcrfte eine ziemliche Tortur werden, die zerst\u00f6rte H\u00e4lfte des Schachbrettfeldes zu \u00fcberqueren.",
+                "text": "<action>: Bewege einen nicht in einen Kampf verwickelten <t>Schach</t>-Gegner wie unter Figurenbewegungen im Kampagnenleitfaden aufgelistet. \n<obj> Sobald ein <br>Ermittler die Achte Reihe betritt, r\u00fccke vor.",
+                "flavor_text": "Du kannst die Silhouette des Schlosses <br>des Roten K\u00f6nigs kaum zwischen den <br>dunklen Wolken vor dir erkennen. <br>Es d\u00fcrfte eine ziemliche Tortur werden, die zerst\u00f6rte H\u00e4lfte des Schachbrettfeldes zu \u00fcberqueren.",
                 "illustration": "./images/Chess - WasteofRAM.png",
                 "index": "1a",
                 "illustrator": "Illus. WasteofRAM",
@@ -7288,7 +7288,7 @@
                 "name": "Rochade",
                 "victory": "",
                 "text": "\u00dcberpr\u00fcfe das Kampagnenlogbuch. \n<bullet> Falls <i>die Ermittler durch den Spiegel gegangen sind,</i> bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(Finsterer F\u00fcrst)</i> in der Achten Reihe ins Spiel.\n<bullet> Ansonsten bringe den beiseitegelegten Gegner Der Rote K\u00f6nig <i>(D\u00fcsterer Despot)</i> in der Achten Reihe ins Spiel.\nFalls sich die Rote K\u00f6nigin nicht im Spiel oder im Siegpunkte-<br>stapel befindet, erscheint sie in der Achten Reihe.",
-                "flavor_text": "Durch die wirbelnde Dunkelheit st\u00fcrmst du die Stufen des Roten Schlosses hinauf und st\u00fcrmst durch die imposanten Fl\u00fcgelt\u00fcren. Der Rote K\u00f6nig sitzt am anderen Ende eines gro\u00dfen Saals, tr\u00e4ge auf einem pr\u00e4chtigen, skelettartigen Thron. Er r\u00fchrt sich kein bisschen, als du eintrittst, und die Schatten, die aus seinem Mantel hervorquellen, werden immer dichter."
+                "flavor_text": "Durch die wirbelnde Dunkelheit st\u00fcrmst du die Stufen des <br>Roten Schlosses hinauf und st\u00fcrmst durch die imposanten <br>Fl\u00fcgelt\u00fcren. Der Rote K\u00f6nig sitzt am anderen Ende eines <br>gro\u00dfen Saals, tr\u00e4ge auf einem pr\u00e4chtigen, skelettartigen Thron. Er r\u00fchrt sich kein bisschen, als du eintrittst, und die Schatten, die aus seinem Mantel hervorquellen, werden immer dichter."
             },
             "encounter_number": "5",
             "project_number": "177",
@@ -7300,7 +7300,7 @@
             "front": {
                 "type": "act",
                 "text": "<action>: Bewege einen nicht in einen Kampf verwickelten <t>Schach</t>-Gegner wie unter Figurenbewegungen im Kampagnenleitfaden aufgelistet. \n<obj> Falls der Rote K\u00f6nig besiegt ist, r\u00fccke vor.",
-                "flavor_text": "Der Rote K\u00f6nig gibt keine Befehle und schl\u00e4gt auch nicht Alarm, aber seine Schergen verfolgen dich bis ins Schloss, w\u00e4hrend die Schatten versuchen, das Licht hinter dir zu ersticken. Dein einziger Ausweg ist der Sieg, hier und jetzt.",
+                "flavor_text": "Der Rote K\u00f6nig gibt keine Befehle und schl\u00e4gt auch nicht Alarm, aber seine Schergen verfolgen dich bis ins Schloss, w\u00e4hrend die Schatten versuchen, das Licht hinter dir zu ersticken. <br>Dein einziger Ausweg ist der Sieg, <br>hier und jetzt.",
                 "illustration": "./images/Chess - WasteofRAM.png",
                 "index": "2a",
                 "illustrator": "Illus. WasteofRAM",
@@ -7311,7 +7311,7 @@
                 "name": "Bauer schl\u00e4gt K\u00f6nig",
                 "victory": "",
                 "text": "<b>(<resolution>A2)</b>",
-                "flavor_text": "Du schl\u00e4gst mit allem Mut, den du aufbringen kannst, auf den Roten K\u00f6nig ein, und pl\u00f6tzlich erstarren die roten Figuren und der Vormarsch der Schatten kommt zum Stillstand. Die gesamte Umgebung scheint f\u00fcr einen Moment in der Zeit stehen zu bleiben, bevor der K\u00f6nig von seinem Thron rutscht und vor dir auf dem Boden liegt."
+                "flavor_text": "Du schl\u00e4gst mit allem Mut, den du aufbringen kannst, auf den Roten K\u00f6nig ein, und pl\u00f6tzlich erstarren die roten Figuren und der Vormarsch der Schatten kommt zum Stillstand. \nDie gesamte Umgebung scheint f\u00fcr einen Moment in der Zeit stehen zu bleiben, bevor der K\u00f6nig von seinem Thron rutscht und vor dir auf dem Boden liegt."
             },
             "encounter_number": "6",
             "project_number": "178",
@@ -7322,8 +7322,8 @@
             "name": "Er\u00f6ffnung",
             "front": {
                 "type": "agenda",
-                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c \n<for> Sobald ein <t>Schach</t>-<br>Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
-                "flavor_text": "Deine Ankunft an der Front bewirkt Bewegung auf der anderen Seite des Spielbretts. Falls bis jetzt noch Waffenruhe eingehalten wurde, ist sie nun um.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder <br>Achte Reihe.\u201c \n<for> Sobald ein <t>Schach</t>-<br>Gegner sein Schl\u00fcsselwort J\u00e4ger ab-<br>handeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
+                "flavor_text": "Deine Ankunft an der Front bewirkt <bR>Bewegung auf der anderen Seite des <br>Spielbretts. Falls bis jetzt noch Waffenruhe eingehalten wurde, ist sie nun um.",
                 "illustration": "./images/expanded_images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "4",
                 "index": "1a",
@@ -7336,7 +7336,7 @@
                 "victory": "",
                 "text": "Durchsuche das Begegnungsdeck und den Ablagestapel nach einer Kopie von Schatten des K\u00f6nigs, die am Ort des Ermittlungsleiter erscheint. Falls das Begegnungsdeck durchsucht wurde, mische es.",
                 "index": "1b",
-                "flavor_text": "Deine Vorbereitungen, das Zentrum zu \u00fcberqueren, wurden sorgf\u00e4ltig beobachtet. Die roten Figuren st\u00fcrmen aus der verdunkelten Burg hervor. Du hast bei den ersten Angreifern bemerkt, dass die Figuren immer noch irgendwie Regeln folgen, die du als normale Schachregeln betrachten w\u00fcrdest. F\u00fchrt der Rote K\u00f6nig immer noch ihre Bewegungen an? Oder sind sie so sehr Teil der Figuren, dass sie sich instinktiv bewegen?"
+                "flavor_text": "Deine Vorbereitungen, das Zentrum zu \u00fcberqueren, <br>wurden sorgf\u00e4ltig beobachtet. Die roten Figuren st\u00fcrmen aus der verdunkelten Burg hervor. Du hast bei den ersten Angreifern bemerkt, dass die Figuren immer noch irgendwie Regeln folgen, die du als normale Schachregeln <br>betrachten w\u00fcrdest. F\u00fchrt der Rote K\u00f6nig immer noch ihre Bewegungen an? Oder sind sie so sehr Teil der<br> Figuren, dass sie sich instinktiv bewegen?"
             },
             "encounter_number": "2",
             "project_number": "174",
@@ -7347,20 +7347,20 @@
             "name": "Gegengambit",
             "front": {
                 "type": "agenda",
-                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t>-<br>Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t>-Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich<br> der Gegner bewegt.",
                 "illustration": "./images/expanded_images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "4",
                 "index": "2a",
                 "illustrator": "Illus. Mihai-Ovidiu Juganaru",
-                "flavor_text": "Die Schlacht auf den Schachbrettfeldern geht mit zunehmender Heftigkeit weiter. Rote Figuren str\u00f6men mit enormem Tempo aus der dunklen H\u00e4lfte des Bretts hervor, um deinen Angriff abzuwehren.",
+                "flavor_text": "<size 64>Die Schlacht auf den Schachbrettfeldern<br> geht mit zunehmender Heftigkeit weiter. <br>Rote Figuren str\u00f6men mit enormem Tempo aus der dunklen H\u00e4lfte des Bretts hervor, <br>um deinen Angriff abzuwehren.",
                 "name": "<name>"
             },
             "back": {
                 "type": "agenda_back",
                 "name": "Gardez la Reine",
                 "victory": "",
-                "text": "Falls sich die Rote K\u00f6nigin nicht im Spiel oder im Siegpunktestapel befindet, erscheint sie in der Achten<br> Reihe.",
-                "flavor_text": "Die roten Figuren unterbrechen ihren Kampf, verneigen sich und knien nieder, als eine imposante Gestalt aus einem schattenhaften Schleier hervortritt. Die Rote K\u00f6nigin, deren Gesicht auf seltsame Weise gleichzeitig hart und weich wirkt, blickt dich voller Hass \u00fcber das Schlachtfeld hinweg an, w\u00e4hrend eine Macht in ihr w\u00e4chst. Schatten str\u00f6men aus ihren Roben, und sie beginnt sich weiter zu verwandeln. \u201eSchlagt die Eindringlinge nieder!\u201c, br\u00fcllt sie und st\u00fcrmt mit unglaublicher Geschwindigkeit auf dich zu."
+                "text": "Falls sich die Rote K\u00f6nigin nicht im Spiel oder <br>im Siegpunktestapel befindet, erscheint sie <br>in der Achten Reihe.",
+                "flavor_text": "Die roten Figuren unterbrechen ihren Kampf, verneigen sich und knien nieder, als eine imposante Gestalt aus <br>einem schattenhaften Schleier hervortritt. \nDie Rote K\u00f6nigin, deren Gesicht auf seltsame Weise gleichzeitig hart und weich wirkt, blickt dich voller Hass \u00fcber das Schlachtfeld hinweg an, w\u00e4hrend eine Macht in ihr w\u00e4chst. Schatten str\u00f6men aus ihren Roben, und sie beginnt sich weiter zu verwandeln. \n\u201eSchlagt die Eindringlinge nieder!\u201c, br\u00fcllt sie und st\u00fcrmt mit unglaublicher Geschwindigkeit auf dich zu."
             },
             "encounter_number": "3",
             "project_number": "175",
@@ -7371,12 +7371,12 @@
             "name": "Besetzte Linien",
             "front": {
                 "type": "agenda",
-                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder Achte <br>Reihe.\u201c\n<for> Sobald ein <t>Schach</t>-Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: Ziehe den Kampagnenleitfaden zurate, um zu bestimmen, wie sich der Gegner bewegt.",
+                "text": "<t>Schach</t>-Gegner erhalten J\u00e4ger und <br>\u201e<spawn> Siebte Reihe oder <br>Achte Reihe.\u201c\n<for> Sobald ein <t>Schach</t>-Gegner sein Schl\u00fcsselwort J\u00e4ger abhandeln w\u00fcrde: <br>Ziehe den Kampagnenleitfaden zurate, um zu<br>bestimmen, wie sich der Gegner bewegt.",
                 "illustration": "./images/expanded_images/Chess - Mihai-Ovidiu Juganaru.jpg",
                 "doom": "8",
                 "index": "3a",
                 "illustrator": "Illus. Mihai-Ovidiu Juganaru",
-                "flavor_text": "W\u00e4hrend die Rote K\u00f6nigin auf dich zukommt, breiten sich die Schatten mit der Geschwindigkeit eines Lauffeuers in Richtung der wei\u00dfen Burg aus. Die Dunkelheit beginnt, den Himmel zu verschlingen, und jedes St\u00fcck der Landschaft erscheint wie eine verdunkelte Kopie seiner selbst.",
+                "flavor_text": "W\u00e4hrend die Rote K\u00f6nigin auf dich zukommt, breiten sich die Schatten mit der Geschwindigkeit eines Lauffeuers in Richtung der wei\u00dfen Burg aus. Die Dunkelheit beginnt, den Himmel zu <br>verschlingen, und jedes St\u00fcck der Landschaft <br>erscheint wie eine verdunkelte Kopie seiner selbst.",
                 "name": "<name>"
             },
             "back": {
@@ -7385,7 +7385,7 @@
                 "victory": "",
                 "text": "Jeder unbesiegte Ermittler, der nicht aufgegeben hat, erleidet 1 k\u00f6rperliches Trauma vom Kampf gegen die rote Armee.\n<b>(<resolution>A1)</b>",
                 "index": "3b",
-                "flavor_text": "Die rote Armee dr\u00e4ngt deinen Angriff in einem scheinbar endlosen Strom von Soldaten unerbittlich zur\u00fcck. W\u00e4hrend du zur\u00fcckgedr\u00e4ngt wirst, fegen die versammelten Schatten an dir vorbei in Richtung der Burg der wei\u00dfen Schachfiguren und brechen wie eine Flutwelle \u00fcber sie herein. Dein Kampf um die Eroberung wandelt sich zu einem Kampf ums \u00dcberleben, w\u00e4hrend du vom Schlachtfeld fliehst."
+                "flavor_text": "Die rote Armee dr\u00e4ngt deinen Angriff in einem schein-<br>bar endlosen Strom von Soldaten unerbittlich zur\u00fcck. <br>W\u00e4hrend du zur\u00fcckgedr\u00e4ngt wirst, fegen die ver-<br>sammelten Schatten an dir vorbei in Richtung der Burg der wei\u00dfen Schachfiguren und brechen wie eine Flutwelle \u00fcber sie herein. Dein Kampf um die Eroberung wandelt sich zu einem Kampf ums \u00dcberleben, w\u00e4hrend du vom Schlachtfeld fliehst."
             },
             "encounter_number": "4",
             "project_number": "176",
@@ -7414,7 +7414,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20131 (stattdessen --3, falls du dich an einem <t>Schatten</t>-Ort <br>befindest)."
+                        "text": "\u20131 (stattdessen --3, falls du<br> dich an einem <t>Schatten</t>-Ort <br>befindest)."
                     }
                 ],
                 "difficulty": "EINFACH/NORMAL"
@@ -7426,7 +7426,7 @@
                         "token": [
                             "skull"
                         ],
-                        "text": "\u2013X. X ist die Anzahl an <t>Schach</t>-<br>Gegnern im Spiel."
+                        "text": "\u2013X. X ist die Anzahl an <br><t>Schach</t>-Gegnern im Spiel."
                     },
                     {
                         "token": [
@@ -7439,7 +7439,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20132 (stattdessen --4, falls du dich an einem <t>Schatten</t>-Ort <br>befindest)."
+                        "text": "\u20132 (stattdessen --4, falls du <br>dich an einem <t>Schatten</t>-Ort <br>befindest)."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -7456,7 +7456,7 @@
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe.",
                 "text": "<action>: <b>Aufgeben.</b> \u201eDie Partie ist verloren.\u201c\n<action>: Heile 1 Schaden und 1 Horror. (Nur ein Mal pro Spiel.)",
-                "flavor_text": "Der Wei\u00dfe K\u00f6nig tut sein Bestes, um seine Figuren <br>zum Handeln zu bewegen, aber sie ignorieren ihn <br>weitgehend.",
+                "flavor_text": "<size 67>Der Wei\u00dfe K\u00f6nig tut sein Bestes, um seine Figuren zum Handeln zu bewegen, aber sie ignorieren ihn weitgehend.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Castle - Jukeboix.jpg",
                 "clues": "1<per>",
@@ -7477,7 +7477,7 @@
                 "illustrator": "Illus. Jukeboix",
                 "name": "<name>",
                 "subtitle": "",
-                "flavor_text": "<valign>Die meisten wei\u00dfen Schachfiguren stehen gedr\u00e4ngt in der wei\u00dfen Burg, z\u00f6gernd, aber sichtlich <br>besorgt, w\u00e4hrend sie auf die schattige andere Seite des Bretts blicken.",
+                "flavor_text": "<valign>Die meisten wei\u00dfen Schachfiguren stehen <br>gedr\u00e4ngt in der wei\u00dfen Burg, z\u00f6gernd, aber <br>sichtlich besorgt, w\u00e4hrend sie auf die schattige<br> andere Seite des Bretts blicken.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Castle - Jukeboix.jpg",
@@ -7496,7 +7496,7 @@
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe.",
                 "text": "<reaction> Nachdem du einem Gegner entkommen bist, lege 1 Karte von deiner Hand ab: Bewege den Gegner, dem du gerade entkommen bist, in die Dritte Reihe oder in die Vierte Reihe.",
-                "flavor_text": "Die Au\u00dfenw\u00e4nde der wei\u00dfen Burg bieten einen gewissen Schutz vor den angreifenden roten Figuren.",
+                "flavor_text": "Die Au\u00dfenw\u00e4nde der wei\u00dfen Burg bieten einen <br>gewissen Schutz vor den angreifenden roten Figuren.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Wall - Dinmoney.jpg",
                 "clues": "1<per>",
@@ -7517,7 +7517,7 @@
                 "name": "<name>",
                 "subtitle": "",
                 "text": "",
-                "flavor_text": "<valign>Die Befestigungen der wei\u00dfen Schachfiguren <br>enden auf diesem Feld. Dahinter liegt ein offenes Schlachtfeld.",
+                "flavor_text": "<valign>Die Befestigungen der wei\u00dfen Schach-<br>figuren enden auf diesem Feld. \nDahinter liegt ein offenes Schlachtfeld.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Wall - Dinmoney.jpg",
@@ -7535,8 +7535,8 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe.",
-                "text": "<reaction> Nachdem du dich als erste Aktion in die <name> bewegt hast: Bewege dich an einen verbundenen Ort.",
-                "flavor_text": "Die Dritte Reihe ist offen und weitl\u00e4ufig, mit vielen gut ausgebauten Stra\u00dfen, die sie durchqueren.",
+                "text": "<reaction> Nachdem du dich als erste Aktion in <br>die <name> bewegt hast: Bewege dich <br>an einen verbundenen Ort.",
+                "flavor_text": "Die Dritte Reihe ist offen und weitl\u00e4ufig, mit vielen <br>gut ausgebauten Stra\u00dfen, die sie durchqueren.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Environment - Jonas Zavacky.jpg",
                 "clues": "1<per>",
@@ -7559,7 +7559,7 @@
                 "illustrator": "Illus. Jonas Zavacky",
                 "name": "<name>",
                 "subtitle": "",
-                "flavor_text": "<valign>Die weiten Felder sind perfekt quadratisch, doch dichte Heckenreihen versperren dir den Weg zu jeder anderen Spalte dieses Schachbretts.",
+                "flavor_text": "<valign>Die weiten Felder sind perfekt quadratisch, <br>doch dichte Heckenreihen versperren dir den Weg zu jeder anderen Spalte dieses Schachbretts.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Environment - Jonas Zavacky.jpg",
@@ -7577,8 +7577,8 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe.",
-                "text": "<for> Nachdem du die <name> enth\u00fcllt hast: Bringe die beiseitegelegte Karte Der Wei\u00dfe Springer an diesem Ort ins Spiel. Mische beide beiseitegelegten Kopien von Mit den Gedanken woanders in das Begegnungsdeck.\n<free> Lege die oberste Karte deines Decks ab: Mische eine beliebige andere Karte aus deinem Ablagestapel in dein Deck. (Nur ein Mal pro Runde.)",
-                "flavor_text": "Ein Wei\u00dfer Springer streift nahe der Grenze der F\u00fcnften Reihe umher und murmelt verwirrt vor sich hin.",
+                "text": "<for> Nachdem du die <name> enth\u00fcllt hast: Bringe die beiseitegelegte Karte Der Wei\u00dfe Springer an <br>diesem Ort ins Spiel. Mische beide beiseitegelegten Kopien von <br>Mit den Gedanken woanders in das Begegnungsdeck.\n<free> Lege die oberste Karte deines Decks ab: Mische eine beliebige andere Karte aus deinem Ablagestapel in dein Deck. (Nur ein Mal pro Runde.)",
+                "flavor_text": "Ein Wei\u00dfer Springer streift nahe der Grenze der F\u00fcnften Reihe umher<br> und murmelt verwirrt vor sich hin.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Environment - Chris Drake 1.jpg",
                 "clues": "1<per>",
@@ -7619,8 +7619,8 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "<for> Nachdem du die <name> enth\u00fcllt hast: Enth\u00fclle die obersten 5 Karten deines Decks. Ziehe jede enth\u00fcllte Schw\u00e4che und mische die verbleibenden Karten in dein Deck.",
-                "flavor_text": "Dein K\u00f6rper scheint dich bei jedem Schritt nach vorne zu bek\u00e4mpfen, als w\u00fcrde dein eigener Schatten dich <br>zur\u00fcckziehen.",
+                "text": "<for> Nachdem du die <name> enth\u00fcllt hast: Enth\u00fclle die obersten 5 Karten deines Decks. Ziehe jede enth\u00fcllte Schw\u00e4che und <br>mische die verbleibenden Karten in dein Deck.",
+                "flavor_text": "Dein K\u00f6rper scheint dich bei jedem Schritt <br>nach vorne zu bek\u00e4mpfen, als w\u00fcrde <br>dein eigener Schatten dich  zur\u00fcckziehen.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Environment - Nell Fallcard.jpg",
                 "clues": "1<per>",
@@ -7641,8 +7641,8 @@
                 "illustrator": "Illus. Nell Fallcard",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Als zus\u00e4tzliche Kosten, um die <name> zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
-                "flavor_text": "Eine Spalte im Feld trennt die Vierte von der F\u00fcnften Reihe. Am Grund wirbeln Schatten, die ihre Tiefe verschleiern.",
+                "text": "Als zus\u00e4tzliche Kosten, um die F\u00fcnfte<br> Reihe zu betreten, m\u00fcssen die Ermittler <br>als Gruppe 1<per_large> Hinweise ausgeben.",
+                "flavor_text": "Eine Spalte im Feld trennt die Vierte von der <br>F\u00fcnften Reihe. Am Grund wirbeln Schatten,<br> die ihre Tiefe verschleiern.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Environment - Nell Fallcard.jpg",
@@ -7661,7 +7661,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "<for> Nachdem du diesen Ort betreten hast: Lege eine <agility>-Probe (3) ab. Falls die Probe misslingt, verlierst du nach dieser Probe alle verbliebenen Aktionen und beendest sofort deinen Zug.",
+                "text": "<for> Nachdem du diesen Ort <br>betreten hast: Lege eine <agility>-Probe (3) ab. <br>Falls die Probe misslingt, verlierst du nach dieser Probe alle verbliebenen Aktionen und beendest <br>sofort deinen Zug.",
                 "flavor_text": "Schatten winden sich von den Seiten des Feldes heran, als wollten sie dich einkreisen.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Environment - Alex van der Linde 5.jpg",
@@ -7683,8 +7683,8 @@
                 "illustrator": "Illus. Alex van der Linde",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Als zus\u00e4tzliche Kosten, um die <name> zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
-                "flavor_text": "Das Gel\u00e4nde wird unwegsamer mit jedem Schritt, den du in feindliches Gebiet vorr\u00fcckst.",
+                "text": "Als zus\u00e4tzliche Kosten, um die Sechste <br>Reihe zu betreten, m\u00fcssen die Ermittler <br>als Gruppe 1<per_large> Hinweise ausgeben.",
+                "flavor_text": "Das Gel\u00e4nde wird unwegsamer mit jedem Schritt, <br>den du in feindliches Gebiet vorr\u00fcckst.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Environment - Alex van der Linde 5.jpg",
@@ -7702,7 +7702,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "<for> Nachdem du die <name> enth\u00fcllt hast: Durchsuche das Begegnungsdeck und den Ablage-<br>stapel nach einem <t>Schach</t>-Gegner, der in der <name> <br>erscheint. Falls es durchsucht wurde, mische das Begegnungs-<br>deck.",
+                "text": "<for> Nachdem du die <name> enth\u00fcllt hast: Durchsuche das Begegnungsdeck und den Ablagestapel nach einem <t>Schach</t>-Gegner, der in der <br>Siebten Reihe  erscheint. Falls es durchsucht wurde, <br>mische das Begegnungsdeck.",
                 "flavor_text": "Es f\u00e4llt dir schwer, nicht den Halt zu verlieren, w\u00e4hrend du dir deinen Weg durch die d\u00fcstere Landschaft und durch die durchbrochenen Verteidigungslinien der roten Schachfiguren bahnst.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Castle - James Wolf.jpg",
@@ -7724,8 +7724,8 @@
                 "illustrator": "Illus. James Wolf",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Als zus\u00e4tzliche Kosten, um die <name> zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
-                "flavor_text": "Die \u00e4u\u00dferen Befestigungen der roten Burg liegen in Tr\u00fcmmern, aber viele korrumpierte Figuren lauern immer noch in ihnen.",
+                "text": "Als zus\u00e4tzliche Kosten, um die Siebte <br>Reihe zu betreten, m\u00fcssen die Ermittler <br>als Gruppe 1<per_large> Hinweise ausgeben.",
+                "flavor_text": "Die \u00e4u\u00dferen Befestigungen der roten Burg liegen<br> in Tr\u00fcmmern, aber viele korrumpierte Figuren<br> lauern immer noch in ihnen.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Castle - James Wolf.jpg",
@@ -7743,8 +7743,8 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "Solange sich 1<per_large> oder weniger Hinweise an diesem Ort befinden: Als zus\u00e4tzliche Kosten, um in der Achten Reihe zu ermitteln, musst du 1 Karte von deiner Hand abwerfen.\n<reaction> Nachdem du 1 oder mehr Hinweise an diesem Ort entdeckt hast: F\u00fcge dem Roten K\u00f6nig genauso viel Schaden zu.",
-                "flavor_text": "Die Burg des Roten K\u00f6nigs liegt in Tr\u00fcmmern am Rande einer riesigen wolkigen Leere, ungleichm\u00e4\u00dfig zerfetzt von hungrigen <br>Klauen.",
+                "text": "Solange sich 1<per_large> oder weniger Hinweise an diesem <br>Ort befinden: Als zus\u00e4tzliche Kosten, um in der Achten <br>Reihe zu ermitteln, musst du 1 Karte von deiner Hand abwerfen.\n<reaction> Nachdem du 1 oder mehr Hinweise an diesem Ort entdeckt hast: F\u00fcge dem Roten K\u00f6nig genauso viel Schaden zu.",
+                "flavor_text": "<size 54>Die Burg des Roten K\u00f6nigs liegt in Tr\u00fcmmern am Rande einer riesigen wolkigen Leere, ungleichm\u00e4\u00dfig zerfetzt von hungrigen Klauen.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Castle - Stephanie Stutz.jpg",
                 "clues": "2<per>",
@@ -7768,8 +7768,8 @@
                 "name": "<name>",
                 "subtitle": "",
                 "traits": "Wunderland. Schach. Reihe. Schatten.",
-                "text": "Als zus\u00e4tzliche Kosten, um die <name> zu betreten, m\u00fcssen die Ermittler als Gruppe 1<per_large> Hinweise ausgeben.",
-                "flavor_text": "Eine wirbelnde Decke aus Dunkelheit verh\u00fcllt das <br>letzte Feld fast vollst\u00e4ndig.",
+                "text": "Als zus\u00e4tzliche Kosten, um die Achte <br>Reihe zu betreten, m\u00fcssen die Ermittler  <br>als Gruppe 1<per_large> Hinweise ausgeben.",
+                "flavor_text": "Eine wirbelnde Decke aus Dunkelheit verh\u00fcllt <br>das letzte Feld fast vollst\u00e4ndig.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Castle - Stephanie Stutz.jpg",
@@ -7787,8 +7787,8 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schach.",
-                "text": "<rev> Notiere im Kampagnonenlogbuch unter \u201eFragmente von Alice\u201c: <i>Neugierde.</i>\nDu kannst das Ferne Feld nicht betreten.\n<free> Falls der Wei\u00dfe Ritter sich auf dem Fernen Feld befindet, f\u00fcge ihm 1 Horror zu: Mache ihn spielbereit und bewege ihn an einen beliebigen enth\u00fcllten Ort. Ermittler an einem beliebigen Ort d\u00fcrfen diese F\u00e4higkeit aktivieren.",
-                "flavor_text": "Die Grinsekatze k\u00f6nnte beleidigt sein, wenn du ihr erz\u00e4hlst, <br>dass Neugierde der Katze Tod ist.",
+                "text": "<rev> Notiere im Kampagnonenlogbuch <br>unter \u201eFragmente von Alice\u201c: <i>Neugierde.</i>\nDu kannst das Ferne Feld nicht betreten.\n<free> Falls der Wei\u00dfe Ritter sich auf dem Fernen Feld befindet, f\u00fcge <br>ihm 1 Horror zu: Mache ihn spielbereit und bewege ihn an einen <br>beliebigen enth\u00fcllten Ort. Ermittler an einem beliebigen Ort d\u00fcrfen <br>diese F\u00e4higkeit aktivieren.",
+                "flavor_text": "Die Grinsekatze k\u00f6nnte beleidigt sein, <br>wenn du ihr erz\u00e4hlst, dass Neugierde der Katze Tod ist.",
                 "victory": "",
                 "illustration": "./images/expanded_images/Chess - Daniel Rocal.jpg",
                 "clues": "0",
@@ -7809,8 +7809,8 @@
                 "illustrator": "Illus. Daniel Rocal",
                 "name": "<name>",
                 "subtitle": "",
-                "text": "Du kannst das Ferne Feld nicht betreten.\n<action> Gib 1<per_large> Hinweise als Gruppe aus: Enth\u00fclle das Ferne Feld. Jeder Ermittler darf diese F\u00e4higkeit von einem beliebigen Ort aktivieren.",
-                "flavor_text": "Aus dem Augenwinkel kannst du sehen, wie sich Schachfiguren auf dieses Feld bewegen, aber es scheint meilenweit entfernt zu sein.",
+                "text": "Du kannst das Ferne Feld nicht betreten.\n<action> Gib 1<per_large> Hinweise als Gruppe aus: Enth\u00fclle das Ferne Feld. Jeder Ermittler darf diese F\u00e4higkeit von <br>einem beliebigen Ort aktivieren.",
+                "flavor_text": "Aus dem Augenwinkel kannst du sehen, wie sich <br>Schachfiguren auf dieses Feld bewegen, aber es <br>scheint meilenweit entfernt zu sein.",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "illustration": "./images/expanded_images/Chess - Daniel Rocal.jpg",
@@ -7831,7 +7831,7 @@
                 "victory": "",
                 "illustration": "./images/expanded_images/White Knight - Barry Moser 1.jpg",
                 "illustrator": "Illus. Barry Moser",
-                "flavor_text": "\u201eDa f\u00e4llt er schon! Genau auf den Kopf, <br>wie immer!\u201c",
+                "flavor_text": "<size 67>\u201eDa f\u00e4llt er schon! Genau auf den Kopf, wie immer!\u201c",
                 "illustration_pan_x": -19.0,
                 "illustration_pan_y": -204.0
             },
@@ -7909,7 +7909,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Regelkonformer Regent",
                 "traits": "Wunderland. Schach. Adlig.",
-                "text": "<reaction> Nachdem du eine Ziehen-Aktion genommen hast, ersch\u00f6pfe den Wei\u00dfen K\u00f6nig: Ziehe 1 zus\u00e4tzliche Karte.\n<reaction> Nachdem du eine Ressource-Aktion genommen hast, ersch\u00f6pfe den Wei\u00dfen K\u00f6nig: Erhalte 2 zus\u00e4tzliche Ressourcen.",
+                "text": "<reaction> Nachdem du eine Ziehen-Aktion <br>genommen hast, ersch\u00f6pfe den Wei\u00dfen K\u00f6nig: Ziehe 1 zus\u00e4tzliche Karte.\n<reaction> Nachdem du eine Ressource-Aktion <br>genommen hast, ersch\u00f6pfe den Wei\u00dfen K\u00f6nig: Erhalte 2 zus\u00e4tzliche Ressourcen.",
                 "health": "1",
                 "evade": "4",
                 "attack": "2",
@@ -7942,7 +7942,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott. Macht.",
-                "text": "Wagnis.\n<rev> Falls sich kein <t>Soldat</t>-Gegner im Spiel befindet, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten h\u00e4nge <name> an einen <t>Soldat</t>-Gegner an.\nDer Gegner mit dieser Verst\u00e4rkung bekommt +1 Kampf, +1 Entkommen und +1 Horror. \nFalls der Gegner Bauer ist, bekommt er zus\u00e4tzlich +1 Kampf, +2 Ausdauer und +1 Entkommen.",
+                "text": "Wagnis.\n<rev> Falls sich kein <t>Soldat</t>-Gegner im Spiel befindet, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten h\u00e4nge <name> an einen <t>Soldat</t>-Gegner an.\nDer Gegner mit dieser Verst\u00e4rkung bekommt <br>+1 Kampf, +1 Entkommen und +1 Horror. \nFalls der Gegner Bauer ist, bekommt er zus\u00e4tzlich <br>+1 Kampf, +2 Ausdauer und +1 Entkommen.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Chess - Jabnormalities.jpg",
@@ -7963,7 +7963,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nNachdem du einen Ort mit einem Gegner betreten hast oder ein Gegner deinen Ort betreten hat, platziere 1 Verderben auf jenem Gegner.\n<action>: Lege eine <willpower>- oder <intellect>-Probe (4) ab. Falls die Probe gelingt, lege <name> ab.",
+                "text": "<rev> Bringe <name> in deiner <br>Bedrohungszone ins Spiel.\nNachdem du einen Ort mit einem Gegner be-<br>treten hast oder ein Gegner deinen Ort betreten hat, platziere 1 Verderben auf jenem Gegner.\n<action>: Lege eine <willpower>- oder <intellect>-Probe (4) ab. <br>Falls die Probe gelingt, lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Chess - Bruce Rolff.jpg",
@@ -7985,7 +7985,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "",
                 "traits": "Abscheulichkeit. Schatten.",
-                "text": "Zur\u00fcckhaltend. J\u00e4ger.\n<name> kann nicht in einen Kampf verwickelt werden.\n<for> Sobald du den Ort von  Schatten des K\u00f6nigs verl\u00e4sst: <name> greift dich an.\n<reaction> Nachdem du erfolgreich ermittelt oder Hinweise entdeckt hast: F\u00fcge <name> 1 Schaden zu.",
+                "text": "Zur\u00fcckhaltend. J\u00e4ger.\n<name> kann nicht in einen Kampf verwickelt werden.\n<for> Sobald du den Ort von Schatten des<br> K\u00f6nigs verl\u00e4sst: <name> greift dich an.\n<reaction> Nachdem du erfolgreich ermittelt oder <br>Hinweise entdeckt hast: F\u00fcge <name> 1 Schaden zu.",
                 "health": "2",
                 "damage": 0,
                 "horror": 1,
@@ -8031,7 +8031,7 @@
             "front": {
                 "type": "treachery",
                 "traits": "Schach. Komplott.",
-                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit dieser Verst\u00e4rkung zu verlassen, musst du (w\u00e4hle zwei):\n<bullet> Nimm 1 Schaden.\n<bullet> Nimm 1 Horror.\n<bullet> Lege 1 zuf\u00e4llige Karte von deiner Hand ab.\n<bullet> Verliere 1 Ressource.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "<rev> H\u00e4nge diese Karte an deinen Ort an.\n<for> Als zus\u00e4tzliche Kosten, um den Ort mit <br>dieser Verst\u00e4rkung zu verlassen, musst du (w\u00e4hle zwei):\n<bullet> Nimm 1 Schaden.\n<bullet> Nimm 1 Horror.\n<bullet> Lege 1 zuf\u00e4llige Karte von deiner Hand ab.\n<bullet> Verliere 1 Ressource.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "flavor_text": "",
                 "victory": "",
                 "illustration": "./images/expanded_images/Chess - Troiscake.jpg",
@@ -8061,7 +8061,7 @@
                 "evade": "3",
                 "damage": "1",
                 "horror": "1",
-                "flavor_text": "\u201eAlles, woran sie sich erinnern kann, ist, dass sie Hand in Hand rannten, und die K\u00f6nigin so schnell lief, dass sie \u00e4u\u00dferste M\u00fche hatte, mit ihr mitzuhalten und immer noch rief die K\u00f6nigin fortw\u00e4hrend: \u201aSchneller! Schneller!\u2018\u201c",
+                "flavor_text": "\u201eAlles, woran sie sich erinnern kann, ist, dass sie Hand in Hand rannten, und die K\u00f6nigin so schnell lief, dass sie \u00e4u\u00dferste M\u00fche hatte, mit ihr mitzuhalten und immer noch rief die <br>K\u00f6nigin fortw\u00e4hrend: \u201aSchneller! Schneller!\u2018\u201c",
                 "illustration_pan_x": -740.0,
                 "illustration_pan_y": 394.0,
                 "illustration_scale": 2.4
@@ -8081,7 +8081,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Kurioser Kavalier",
                 "traits": "Wunderland. Schach. Soldat. Verr\u00fcckt.",
-                "text": "Ermittler am Ort des Wei\u00dfen Springers bekommen +1 auf jeden Fertigkeitswert w\u00e4hrend Fertigkeitsproben auf oder gegen <t>Schach</t>-<br>Karten.\n<action>: <b>Verhandlung.</b> Bewege den Wei\u00dfen Springer an einen verbundenen Ort.\n<for> Am Ende der Ermittlungsphase, falls der Wei\u00dfe Springer spielbereit ist und sich am Fernen Feld befindet: Bewege ihn an einen beliebigen Ort mit mindestens einem Ermittler.",
+                "text": "Ermittler am Ort des Wei\u00dfen Springers bekommen <br>+1 auf jeden Fertigkeitswert w\u00e4hrend Fertigkeitsproben <br>auf oder gegen <t>Schach</t>-Karten.\n<action>: <b>Verhandlung.</b> Bewege den Wei\u00dfen Springer an einen verbundenen Ort.\n<for> Am Ende der Ermittlungsphase, falls der Wei\u00dfe Springer spielbereit ist und sich am Fernen Feld befindet: Bewege ihn an einen beliebigen Ort mit mindestens einem Ermittler.",
                 "health": "1",
                 "sanity": "4",
                 "flavor_text": "",
@@ -10456,8 +10456,8 @@
             "front": {
                 "type": "act",
                 "index": "1a",
-                "flavor_text": "Fragmente und Echos des Wunderlandes durchdringen die vertrauten Stadtteile von Arkham. Du wirst die Schatten nur vertreiben, wenn du die Teile der Stadt, die mit Alices Verstand \u00fcberlappen, davon befreien kannst. Es ist an der Zeit, dass du das, was du auf deiner Reise gelernt hast, in die Tat umsetzt.",
-                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand und spielen sie als Gruppe. Dann d\u00fcrfen die Ermittler Alice an einen verbundenen Ort bewegen.\n<reaction> Nachdem du Gurathnaka erfolgreich angegriffen hast: Entdecke 1 Hinweis an deinem Ort.\n<obj> Sobald sich kein <t>Wunderland</t>-Ort im Spiel befindet, r\u00fccke sofort vor.",
+                "flavor_text": "Fragmente und Echos des Wunderlandes durch-<br>dringen die vertrauten Stadtteile von Arkham. Du wirst die Schatten nur vertreiben, wenn du die Teile der Stadt, die mit Alices Verstand \u00fcberlappen, davon befreien kannst. Es ist an der Zeit, dass du das, was du auf deiner Reise gelernt hast, in die Tat umsetzt.",
+                "text": "<for> Zu Beginn der Ermittlungsphase: Die Ermittler w\u00e4hlen 1 Karte von Alices Hand und spielen sie als Gruppe. Dann d\u00fcrfen die <br>Ermittler Alice an einen verbundenen Ort bewegen.\n<reaction> Nachdem du Gurathnaka erfolgreich angegriffen hast: Entdecke 1 Hinweis an deinem Ort.\n<obj> Sobald sich kein <br><t>Wunderland</t>-Ort im Spiel befindet, <br>r\u00fccke sofort vor.",
                 "illustrator": "Illus. Masateru Ikeda",
                 "illustration": "./images/expanded_images/Rabbit Hole - Masateru Ikeda.jpg",
                 "illustration_pan_x": 800.0,
@@ -10468,7 +10468,7 @@
                 "name": "Verst\u00e4rkte Realit\u00e4t",
                 "index": "1b",
                 "text": "Bringe die beiseitegelegten Orte Nordstadt, Innenstadt, Oststadt und Inhaltslose Leere ins Spiel. Bewege alle Ermittler und Schw\u00e4che-Gegner auf die Oststadt. Drehe Gurathnaka um und bewege Gurathnaka auf die Inhaltslose Leere. Lege alle anderen Gegner ab und entferne alle anderen Orte aus dem Spiel.",
-                "flavor_text": "W\u00e4hrend Alice versucht, ihre eigenen Tr\u00e4ume aus der realen Welt zu verdr\u00e4ngen, konzentrierst du dich auf deine Erinnerungen an die Menschen und Orte von Arkham. Jedes allt\u00e4gliche Ger\u00e4usch, jeder einzigartige Duft und jedes unvergessliche Wahrzeichen der Stadt, an das du dich erinnern kannst, hilft dabei, die beiden Welten voneinander zu trennen und die Grenzen neu zu ziehen. W\u00e4hrend du das Wunderland von Arkham abl\u00f6st, beginnt sich das unm\u00f6gliche Durcheinander, das du in der Nordstadt und Innenstadt zur\u00fcckgelassen hast, neu zu ordnen. Die \u00fcberw\u00e4ltigende Dunkelheit konzentriert sich an der Stelle, an der einst Alices Haus aufgetaucht ist, und jeder Schatten wird dorthin gezogen. Gurathnaka stottert, als versuche er, in mehreren Realit\u00e4ten gleichzeitig zu existieren, und br\u00fcllt vor abscheulicher Wut, w\u00e4hrend auch er von der wachsenden Leere angezogen wird."
+                "flavor_text": "W\u00e4hrend Alice versucht, ihre eigenen Tr\u00e4ume aus der realen Welt zu verdr\u00e4ngen, konzentrierst du dich auf deine Erinner-<br>ungen an die Menschen und Orte von Arkham. Jedes allt\u00e4gliche <br>Ger\u00e4usch, jeder einzigartige Duft und jedes unvergessliche Wahrzeichen der Stadt, an das du dich erinnern kannst, hilft dabei, die beiden Welten voneinander zu trennen und die Grenzen neu zu ziehen. W\u00e4hrend du das Wunderland von Arkham abl\u00f6st, beginnt sich das unm\u00f6gliche Durcheinander, das du in der Nordstadt und Innenstadt zur\u00fcckgelassen hast, neu zu ordnen. Die \u00fcberw\u00e4ltigende Dunkelheit konzentriert sich an der Stelle, an der einst Alices Haus aufgetaucht ist, und jeder Schatten wird dorthin gezogen. Gurathnaka stottert, als versuche er, in mehreren Realit\u00e4ten gleichzeitig zu existieren, und br\u00fcllt vor abscheulicher Wut, <br>w\u00e4hrend auch er von der wachsenden Leere angezogen wird."
             },
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "encounter_number": "5",
@@ -10492,7 +10492,7 @@
                 ],
                 "illustrator": "Illus. Jokubas Uogintas",
                 "illustration_pan_y": -326.0,
-                "flavor_text": "Wenn du die Risse finden kannst, an denen das Wunderland zuerst eingedrungen ist, dann gelingt es dir vielleicht, sie ein f\u00fcr alle Mal zu verschlie\u00dfen."
+                "flavor_text": "Wenn du die Risse finden kannst, an denen das <br>Wunderland zuerst eingedrungen ist, dann gelingt es dir vielleicht, sie ein f\u00fcr alle Mal zu verschlie\u00dfen."
             },
             "back": {
                 "type": "location_back",
@@ -10500,7 +10500,7 @@
                 "name": "<name>",
                 "traits": "Arkham.",
                 "victory": "",
-                "flavor_text": "<valign>Der Teil Arkhams, in der der ganze \u00c4rger seinen Anfang nahm. \u00dcberraschenderweise ist die Innenstadt gr\u00f6\u00dftenteils wieder zum Normalzustand zur\u00fcckgekehrt.",
+                "flavor_text": "<valign>Der Teil Arkhams, in der der ganze \u00c4rger <br>seinen Anfang nahm. \u00dcberraschenderweise <br>ist die Innenstadt gr\u00f6\u00dftenteils wieder zum <br>Normalzustand zur\u00fcckgekehrt.",
                 "illustration": "./images/expanded_images/Downtown - Jokubas Uogintas.jpg",
                 "collection_icon": "<exi>",
                 "collection_number": ""
