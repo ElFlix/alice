@@ -527,7 +527,7 @@
         },
         {
             "name": "Alice in Arkham",
-            "icon": "/run/media/felix/D0D6C116D6C0FE2A/alice/alice_git/images/Alice in Arkham.png",
+            "icon": "C:/alice/alice_git/images/Alice in Arkham.png",
             "id": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "card_amount": 34,
             "order": 11,
@@ -8172,7 +8172,7 @@
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/expanded_images/Alice - Aucher-fargue Nicolas.jpg",
+                "illustration": "C:/alice/alice_git/images/AlicePortraitpng.png",
                 "entries": [
                     [
                         "<b>Deckgr\u00f6\u00dfe</b>:",
@@ -8203,10 +8203,10 @@
                 "classes": [
                     "neutral"
                 ],
-                "illustration_pan_x": -637.0,
-                "illustration_pan_y": -343.0,
-                "illustration_scale": 1.58,
-                "flavor_text": "Auf eurer Reise durch das Wunderland konnte Alice euch nicht begleiten, <br>nur in ihren Tr\u00e4umen den Weg weisen. Jetzt, im finalen Kampf gegen <br>Gurathnaka, steht sie euch zur Seite. Doch welche Spuren haben Gurathnaka und eure Taten im Wunderland an Alices Psyche hinterlassen?"
+                "illustration_scale": 1.0,
+                "flavor_text": "Auf eurer Reise durch das Wunderland konnte Alice euch nicht begleiten, <br>nur in ihren Tr\u00e4umen den Weg weisen. Jetzt, im finalen Kampf gegen <br>Gurathnaka, steht sie euch zur Seite. Doch welche Spuren haben Gurathnaka und eure Taten im Wunderland an Alices Psyche hinterlassen?",
+                "illustration_pan_y": -50.0,
+                "illustration_pan_x": 20.0
             },
             "encounter_number": "1",
             "project_number": "229",
@@ -10153,11 +10153,11 @@
                 "classes": [
                     "seeker"
                 ],
-                "illustration": "./images/Alice - Aucher-fargue Nicolas.png",
+                "illustration": "./images/AliceFront.png",
                 "illustrator": "Illus. Nicolas Aucher-fargue",
-                "illustration_scale": 1.68,
-                "illustration_pan_x": -418.0,
-                "illustration_pan_y": 15.0,
+                "illustration_scale": 1.33,
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 0.0,
                 "willpower": "4",
                 "intellect": "4",
                 "combat": "2",
@@ -10165,10 +10165,10 @@
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/Alice - Aucher-fargue Nicolas.jpg",
-                "illustration_pan_y": -179.0,
-                "illustration_scale": 1.6,
-                "illustration_pan_x": -524.0,
+                "illustration": "./images/AlicePortraitpng.png",
+                "illustration_pan_y": -50.0,
+                "illustration_scale": 1.0,
+                "illustration_pan_x": 0.0,
                 "entries": [
                     [
                         "<b>Deckgr\u00f6\u00dfe</b>:",
@@ -10180,7 +10180,7 @@
                     ],
                     [
                         "<b>Deckbau-Optionen</b>:",
-                        "Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/oder <survivor>) Stufe 0."
+                        "Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0."
                     ],
                     [
                         "<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
@@ -10191,8 +10191,8 @@
                         ""
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/oder <survivor>) Stufe 0.\n<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
-                "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu verschmelzen. Alice versuchte, dem sich ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft, so viele von Arkhams bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren.",
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0.\n<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
+                "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice <br>musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort <br>gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu ver-<br>schmelzen. Alice versuchte, dem sich ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft,<br> so viele von Arkhams bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren.",
                 "classes": [
                     "seeker"
                 ]
@@ -10208,7 +10208,7 @@
                 "type": "treachery",
                 "title": "<unique> <name>",
                 "traits": "Wahnsinn.",
-                "text": "Anwendungen (0 Geheimnisse). Falls sich 4 oder mehr Geheimnisse auf <name> befinden, lege diese Karte ab.\n<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\nSolange <name> im Spiel ist, setze deinen Grund-<intellect>-<br>Fertigkeitswert auf X fest. X ist die Anzahl an Geheimnissen auf dieser Karte. \n<free> Bewege 1 Geheimnis von einer Vorteilskarte, die du kontrollierst, auf <name>. \n<for> Am Ende der Runde: Platziere 1 Ressource (<i>aus dem Markervorrat</i>) als Geheimnis auf dieser Karte.\n",
+                "text": "Anwendungen (0 Geheimnisse). Falls sich 4 oder mehr Geheimnisse <br>auf <name> befinden, lege diese Karte ab.\n<rev> Bringe diese Karte in deiner Bedrohungszone ins Spiel.\nSolange <name> im Spiel ist, setze deinen Grund-<intellect>-Fertigkeitswert auf X fest. X ist die Anzahl an Geheimnissen auf dieser Karte. \n<free> Bewege 1 Geheimnis von einer Vorteilskarte, die du kontrollierst, auf <name>. \n<for> Am Ende der Runde: Platziere 1 Ressource <br>(<i>aus dem Markervorrat</i>) als Geheimnis auf dieser Karte.",
                 "victory": "",
                 "classes": [
                     "weakness"
@@ -10529,11 +10529,11 @@
             "amount": 1,
             "front": {
                 "type": "mini_investigator",
-                "illustration": "./images/Alice - Aucher-fargue Nicolas.jpg",
+                "illustration": "./images/AliceMini.png",
                 "illustrator": "Illus. Nicolas Aucher-fargue",
-                "illustration_pan_x": -723.0,
-                "illustration_pan_y": -503.0,
-                "illustration_scale": 2.65
+                "illustration_pan_x": -590.0,
+                "illustration_pan_y": -360.0,
+                "illustration_scale": 2.2
             },
             "back": {
                 "type": "mini_investigator_back",
@@ -10559,7 +10559,8 @@
                         ""
                     ]
                 ],
-                "illustration": "./images/Alice - Aucher-fargue Nicolas.jpg"
+                "illustration": "./images/AliceMini.png",
+                "illustrator": "Illus. Nicolas Aucher-fargue"
             },
             "investigator": "Alice Liddell",
             "enumerated": "ignored"
