@@ -527,7 +527,7 @@
         },
         {
             "name": "Alice in Arkham",
-            "icon": "C:/alice/alice_git/images/Alice in Arkham.png",
+            "icon": "./images/Alice in Arkham.png",
             "id": "dbbbb81c-4f16-428c-985b-71b0d84267ea",
             "card_amount": 34,
             "order": 11,
@@ -1855,7 +1855,8 @@
                 "illustrator": "Illus. Mark Molnar",
                 "flavor_text": "Das Sanatorium hat nicht den besten Ruf, was die<br>Heilung seiner Patienten angeht. Du hoffst, dass du <br>Alice hier nicht lange zur\u00fccklassen musst.",
                 "illustration_pan_y": 100.0,
-                "collection_number": "<exn>a"
+                "collection_number": "<exn>a",
+                "name": "<name>"
             },
             "back": {
                 "type": "location",
@@ -2182,10 +2183,11 @@
                 "type": "encounter"
             },
             "encounter_number": "15",
-            "project_number": "14",
+            "project_number": "15",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "086ec58d-3d49-4140-90a5-f520c00cbd7d",
-            "amount": 1
+            "amount": 1,
+            "enumerated": "manual"
         },
         {
             "name": "Das Wei\u00dfe Kaninchen",
@@ -2210,10 +2212,11 @@
                 "type": "encounter"
             },
             "encounter_number": "14",
-            "project_number": "15",
+            "project_number": "14",
             "encounter_set": "815adf7b-9e62-4ad3-b4c8-59e036be1bb6",
             "id": "4798efd6-2b54-461c-86c4-ed02c0460ad7",
-            "amount": 1
+            "amount": 1,
+            "enumerated": "manual"
         },
         {
             "name": "Verlust der Vernunft",
@@ -5135,7 +5138,10 @@
                     "weakness"
                 ],
                 "illustration": "./images/expanded_images/Queen of Hearts - Cynthia Sheppard.jpg",
-                "illustrator": "Illus. Cynthia Sheppard"
+                "illustrator": "Illus. Cynthia Sheppard",
+                "illustration_pan_y": -300.0,
+                "illustration_scale": 2.2,
+                "illustration_pan_x": -250.0
             },
             "back": {
                 "type": "encounter"
@@ -8519,7 +8525,7 @@
                 "type": "event",
                 "title": "<unique> <name>",
                 "traits": "Wunderland. Geist. Schicksalhaft.",
-                "text": "Bringe diese Karte neben Alice ins Spiel.\nSenke die Kosten von F\u00e4higkeiten auf Schw\u00e4che- oder <br>Verratskarten um 1 Aktion. <i>(Falls eine F\u00e4higkeit auf einer Schw\u00e4che- oder Verratskarte nur 1 Aktion kosten w\u00fcrde, kann sie nun als freier Ausl\u00f6ser (<free>) ausgel\u00f6st werden.)</i>\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "Bringe diese Karte neben Alice ins Spiel.\nSenke die Kosten von F\u00e4higkeiten auf Schw\u00e4che- <br>oder Verratskarten um 1 Aktion. <i>(Falls eine F\u00e4higkeit auf <br>einer Schw\u00e4che- oder Verratskarte nur 1 Aktion kosten w\u00fcrde, <br>kann sie nun als freier Ausl\u00f6ser (<free>) ausgel\u00f6st werden.)</i>\n<for> Am Ende der Runde: Lege <name> ab.",
                 "cost": "0",
                 "level": "None",
                 "flavor_text": "<size 49>Mit siegreichem Jubel gallopiert der Wei\u00dfe Springer auf das Feld der Schlacht, wobei er sich gerade noch im Sattel h\u00e4lt.",
@@ -8528,7 +8534,8 @@
                     "neutral"
                 ],
                 "illustration": "./images/expanded_images/White Knight - Marc James.jpg",
-                "illustrator": "Illus. Marc James"
+                "illustrator": "Illus. Marc James",
+                "illustration_pan_y": -190.0
             },
             "back": {
                 "type": "alice_deck.json"
@@ -8749,7 +8756,8 @@
                 ],
                 "illustration": "./images/expanded_images/White King - Csaba Baity.jpg",
                 "illustrator": "Illus. Csaba Baity",
-                "flavor_text": "<size 55>Der wei\u00dfe K\u00f6nig erscheint und befehligt eine Armee von Schachfiguren, die ihm auf Schritt und Tritt gehorchen."
+                "flavor_text": "<size 55>Der wei\u00dfe K\u00f6nig erscheint und befehligt eine Armee von Schachfiguren, die ihm auf Schritt und Tritt gehorchen.",
+                "illustration_pan_y": -40.0
             },
             "back": {
                 "type": "alice_deck.json"
@@ -9018,7 +9026,7 @@
                 "illustration": "./images/expanded_images/Broken Sword - A Shipwright.jpg",
                 "illustrator": "Illus. A Shipwright",
                 "flavor_text": "Du findest ein zerbrochenes Schwert auf dem Boden <br>liegen, daneben mehrere verbeulte R\u00fcstungsteile.",
-                "illustration_pan_y": -200.0
+                "illustration_pan_y": -270.0
             },
             "back": {
                 "type": "alice_deck.json"
@@ -10011,9 +10019,9 @@
                 "illustrator": "Illus. Amelia Tzemis",
                 "name": "<unique><name>",
                 "level": "None",
-                "illustration_pan_x": -34.0,
-                "illustration_pan_y": 164.0,
-                "illustration_scale": 1.06,
+                "illustration_pan_x": 1.0,
+                "illustration_pan_y": 76.0,
+                "illustration_scale": 1.0,
                 "cost": "---"
             },
             "back": {
@@ -10041,7 +10049,7 @@
                 "level": "None",
                 "subtitle": "Gesellige Hofdame",
                 "illustration_pan_x": -68.0,
-                "illustration_pan_y": -128.0,
+                "illustration_pan_y": -170.0,
                 "illustration_scale": 1.14,
                 "name": "<unique><name>",
                 "cost": "---"
@@ -10127,7 +10135,7 @@
                 "illustration": "./images/expanded_images/White Queen - Victoria Ying.jpg",
                 "illustrator": "Illus. Victoria Ying",
                 "level": "None",
-                "illustration_pan_y": 180.0,
+                "illustration_pan_y": 150.0,
                 "name": "<unique><name>",
                 "cost": "---"
             },
@@ -10146,7 +10154,7 @@
                 "title": "<unique> <name>",
                 "subtitle": "Die Wunderwirkerin",
                 "traits": "Tr\u00e4umer.",
-                "text": "<reaction> Sobald ein Ermittler an deinem Ort eine beliebige Fertigkeitsprobe ablegt: Der Ermittler legt die Probe stattdessen mit deinem Grund-<intellect>-<br>Fertigkeitswert ab. (Nur ein Mal pro Runde.)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler deinem Ort darf diesen Effekt anstelle seines <elder_sign>-Effekts<br> abhandeln.",
+                "text": "<reaction> Sobald ein Ermittler an deinem Ort eine beliebige Fertigkeitsprobe ablegt: Der Ermittler legt die Probe stattdessen mit deinem Grund-<intellect>-<br>Fertigkeitswert ab. (Nur ein Mal pro Runde.)\n<elder_sign> +0. Mische 1 Karte aus deinem Ablagestapel in dein Deck. Jeder Ermittler an deinem Ort darf <br>diesen Effekt anstelle seines <br><elder_sign>-Effekts abhandeln.",
                 "health": "6",
                 "sanity": "8",
                 "flavor_text": "\u201eMerk- und merkerw\u00fcrdiger!\u201c",
@@ -10180,7 +10188,7 @@
                     ],
                     [
                         "<b>Deckbau-Optionen</b>:",
-                        "Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0."
+                        "Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen <br>(Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0."
                     ],
                     [
                         "<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
@@ -10191,7 +10199,7 @@
                         ""
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0.\n<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen <br>(Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0.\n<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
                 "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice <br>musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort <br>gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu ver-<br>schmelzen. Alice versuchte, dem sich ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft,<br> so viele von Arkhams bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren.",
                 "classes": [
                     "seeker"
@@ -10407,7 +10415,7 @@
         {
             "name": "Dideldums Rassel",
             "id": "57002c35-ad62-43f4-8e46-84264ab36549",
-            "amount": 3,
+            "amount": 1,
             "front": {
                 "type": "asset",
                 "name": "<unique><name>",
@@ -10748,16 +10756,16 @@
                 },
                 "pdf": {
                     "enabled": true,
-                    "flavor": "mbprint",
+                    "flavor": "azao",
                     "folder": null,
                     "export_images": true,
-                    "size_label": "MTG 375\u00d7519 px",
+                    "size_label": "FFG 1453\u00d72079 px",
                     "format": "png",
                     "quality": 100,
                     "include_backs": false,
                     "vector_text": true,
-                    "output_path": "",
-                    "back_output_path": null
+                    "output_path": "/run/media/felix/D0D6C116D6C0FE2A/alice/PRINT/front.pdf",
+                    "back_output_path": "/run/media/felix/D0D6C116D6C0FE2A/alice/PRINT/back.pdf"
                 },
                 "tts": {
                     "enabled": false,
