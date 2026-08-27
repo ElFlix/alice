@@ -1189,10 +1189,10 @@
                 "type": "enemy",
                 "illustration": "./images/expanded_images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
-                "name": "Gurathnaka",
+                "name": "<unique>Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <br><name> spielbereit ist: Platziere <br>1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1231,16 +1231,17 @@
                 "illustration_pan_y": 775.0,
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
-                "collection_number": "<exn>a"
+                "collection_number": "<exn>a",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/expanded_images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
-                "name": "Gurathnaka",
+                "name": "<unique>Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <br><name> spielbereit ist: Platziere <br>1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1279,16 +1280,17 @@
                 "illustration_pan_y": 775.0,
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
-                "collection_number": "<exn>a"
+                "collection_number": "<exn>a",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/expanded_images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
-                "name": "Gurathnaka",
+                "name": "<unique>Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig. Zur\u00fcckschlagen.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <br><name> spielbereit ist: Platziere <br>1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1327,15 +1329,16 @@
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
                 "health": "<dash>",
-                "collection_number": "<exn>a"
+                "collection_number": "<exn>a",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "enemy",
                 "illustrator": "Illus. Chris Cold",
-                "name": "Gurathnaka",
+                "name": "<unique>Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <br><name> spielbereit ist: Platziere <br>1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -1375,16 +1378,17 @@
                 "illustration_pan_x": -2223.0,
                 "illustration_scale": 2.72,
                 "subtitle": "Vollgestopfter Traumfresser",
-                "collection_number": "<exn>a"
+                "collection_number": "<exn>a",
+                "name": "<unique><name>"
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/expanded_images/Gurathnaka - Chris Cold.jpg",
                 "illustrator": "Illus. Chris Cold",
-                "name": "Gurathnaka",
+                "name": "<unique>Gurathnaka",
                 "subtitle": "F\u00e4nge der Niederlage",
                 "traits": "Gro\u00dfer Alter. Schatten. Elite.",
-                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <name> spielbereit ist: Platziere 1 Verderben auf die aktuelle Agenda.",
+                "text": "Gewaltig. Zur\u00fcckschlagen. Alarmiert.\n<name> bekommt +6<per_large> Audauer.\n<name> kann nicht durch Schaden besiegt werden.\n<name> kann keine Gelegenheitsangriffe durchf\u00fchren, wenn ein Ermittler eine Bewegen-Aktion nimmt.\n<for> Falls am Ende der Gegnerphase <br><name> spielbereit ist: Platziere <br>1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "",
                 "victory": "",
                 "title": "<unique> <name>",
@@ -3457,8 +3461,8 @@
                 ],
                 "illustrator": "Illus. Arthur Rackham",
                 "illustration_pan_x": -631.0,
-                "illustration_pan_y": -1230.0,
-                "illustration_scale": 3.16
+                "illustration_pan_y": -1330.0,
+                "illustration_scale": 3.3
             },
             "back": {
                 "type": "location_back",
@@ -3471,9 +3475,7 @@
                 "connections": [
                     "circle"
                 ],
-                "illustration_scale": 3.16,
                 "illustration": "./images/expanded_images/Mad Tea Party - Arthur Rackham.jpg",
-                "illustration_pan_x": -631.0,
                 "collection_icon": "<exi>",
                 "collection_number": ""
             },
@@ -8178,7 +8180,7 @@
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "C:/alice/alice_git/images/AlicePortraitpng.png",
+                "illustration": "./images/AlicePortraitpng.png",
                 "entries": [
                     [
                         "<b>Deckgr\u00f6\u00dfe</b>:",
@@ -10759,7 +10761,7 @@
                     "flavor": "azao",
                     "folder": null,
                     "export_images": true,
-                    "size_label": "FFG 1453\u00d72079 px",
+                    "size_label": "FFG 726\u00d71039 px (Default)",
                     "format": "png",
                     "quality": 100,
                     "include_backs": false,
