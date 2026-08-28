@@ -356,53 +356,124 @@
             "card_amount": 25,
             "order": 8,
             "meta": {
-                "location_graph": {
-                    "5e213d11-b222-4b10-9525-0b513e23f845_front": {
-                        "x": 6.460813866033817,
-                        "y": -74.74347786090169
-                    },
-                    "0af4e1b6-5689-4d36-a24e-8d60a62223be_front": {
-                        "x": 6.037919501741172,
-                        "y": -76.5805441477898
-                    },
-                    "cb85add6-cd68-4771-99e3-83b7eea59efd_front": {
-                        "x": 352.4292578854638,
-                        "y": -83.0741406870361
-                    },
-                    "22ec312a-ef12-4af9-bea7-eb83522880c5_front": {
-                        "x": 349.25073440157496,
-                        "y": -79.6837151057295
-                    },
-                    "d4b331e2-7a7c-4f9c-8022-cf2e42fa9fb1_front": {
-                        "x": 198.41729076857501,
-                        "y": 132.33809884016887
-                    },
-                    "b06b2927-c73d-442a-b253-4dbf129eed9e_front": {
-                        "x": 16.72407869931874,
-                        "y": 385.4341543963859
-                    },
-                    "1d7a9d39-cd96-44bb-8770-75ac5def1d89_front": {
-                        "x": 11.542530308364007,
-                        "y": 379.8013379056364
-                    },
-                    "8fdfc740-59c9-4149-8c84-94c23f7de896_front": {
-                        "x": 410.83450801058575,
-                        "y": 369.28844703738514
-                    },
-                    "d33c4bb6-c2c9-428f-a8df-1da71fe6e021_front": {
-                        "x": 413.6239916308432,
-                        "y": 369.4852540408235
-                    },
-                    "4d662916-5c5c-4753-b405-a43ab8b2c173_front": {
-                        "x": 562.7255161892192,
-                        "y": 208.05591252617816
-                    },
-                    "fa54f326-f19d-405a-9a0c-10a83c601772_front": {
-                        "x": -152.77539054255496,
-                        "y": 106.8002301355093
+                "tts": {},
+                "location_layouts": [
+                    {
+                        "id": "ac00ee40-21a4-4d76-acfa-3f37d1c62f2d",
+                        "name": "Layout 1",
+                        "show_arrows": true,
+                        "snap_enabled": false,
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "5e213d11-b222-4b10-9525-0b513e23f845_front": {
+                                "x": 6.460813866033817,
+                                "y": -74.74347786090169
+                            },
+                            "0af4e1b6-5689-4d36-a24e-8d60a62223be_front": {
+                                "x": 6.037919501741172,
+                                "y": -76.5805441477898
+                            },
+                            "cb85add6-cd68-4771-99e3-83b7eea59efd_front": {
+                                "x": 352.4292578854638,
+                                "y": -83.0741406870361
+                            },
+                            "22ec312a-ef12-4af9-bea7-eb83522880c5_front": {
+                                "x": 349.25073440157496,
+                                "y": -79.6837151057295
+                            },
+                            "d4b331e2-7a7c-4f9c-8022-cf2e42fa9fb1_front": {
+                                "x": 198.41729076857501,
+                                "y": 132.33809884016887
+                            },
+                            "b06b2927-c73d-442a-b253-4dbf129eed9e_front": {
+                                "x": 16.72407869931874,
+                                "y": 385.4341543963859
+                            },
+                            "1d7a9d39-cd96-44bb-8770-75ac5def1d89_front": {
+                                "x": 11.542530308364007,
+                                "y": 379.8013379056364
+                            },
+                            "8fdfc740-59c9-4149-8c84-94c23f7de896_front": {
+                                "x": 410.83450801058575,
+                                "y": 369.28844703738514
+                            },
+                            "d33c4bb6-c2c9-428f-a8df-1da71fe6e021_front": {
+                                "x": 413.6239916308432,
+                                "y": 369.4852540408235
+                            },
+                            "4d662916-5c5c-4753-b405-a43ab8b2c173_front": {
+                                "x": 562.7255161892192,
+                                "y": 208.05591252617816
+                            },
+                            "fa54f326-f19d-405a-9a0c-10a83c601772_front": {
+                                "x": -152.77539054255496,
+                                "y": 106.8002301355093
+                            },
+                            "2c764f5e-5236-4268-aae4-6c0875b4a69d_front": {
+                                "x": 200.0,
+                                "y": 0.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "712c8a22-e73d-483d-9ea9-b3f3c1d638da_front": {
+                                "x": 400.0,
+                                "y": 0.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "fefa4193-0504-4f38-b077-0bbb1e6f84da_front": {
+                                "x": 600.0,
+                                "y": 0.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "46a09064-9a67-437b-be26-6bebda1a08cd_front": {
+                                "x": 0.0,
+                                "y": 228.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "71d1b4fe-9fca-460a-9721-9193dbb67b9c_front": {
+                                "x": 200.0,
+                                "y": 228.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "ea2da5ac-00ca-4154-b558-70c0a080db40_front": {
+                                "x": 400.0,
+                                "y": 228.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "7ec7094c-15b8-4e3c-8a5d-966f18c5ca16_front": {
+                                "x": 600.0,
+                                "y": 228.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "e876d2c1-4729-4b21-a60a-b99def6afe81_front": {
+                                "x": 0.0,
+                                "y": 456.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "3a0e5719-fce7-4310-b122-741910fc2578_front": {
+                                "x": 200.0,
+                                "y": 456.0,
+                                "hidden": false,
+                                "flipped": false
+                            },
+                            "aafcc869-de23-427d-abdf-fd820656414f_front": {
+                                "x": 400.0,
+                                "y": 456.0,
+                                "hidden": false,
+                                "flipped": false
+                            }
+                        }
                     }
-                },
-                "tts": {}
+                ],
+                "location_active_layout": "ac00ee40-21a4-4d76-acfa-3f37d1c62f2d"
             }
         },
         {
@@ -625,7 +696,19 @@
             "card_amount": 7,
             "order": 19,
             "meta": {
-                "tts": {}
+                "tts": {},
+                "location_layouts": [
+                    {
+                        "id": "8b3a55d5-a652-4fcc-8e4d-1d465b3bd88f",
+                        "name": "Layout 1",
+                        "show_arrows": true,
+                        "snap_enabled": false,
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {}
+                    }
+                ],
+                "location_active_layout": "8b3a55d5-a652-4fcc-8e4d-1d465b3bd88f"
             }
         }
     ],
@@ -961,7 +1044,7 @@
                 ],
                 "illustrator": "Illus. Cristi Balanescu & Clement Caubet",
                 "flavor_text": "Die stattliche Architektur des Franz\u00f6sischen Viertels verschmilzt mit <br>kunstvollem Mauerwerk, das du vom Schloss der Herz-K\u00f6nigin kennst.",
-                "illustration_pan_y": 10.0,
+                "illustration_pan_y": -40.0,
                 "collection_number": "<exn>a"
             },
             "back": {
@@ -977,7 +1060,7 @@
                 "clues": "0",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 10.0,
+                "illustration_pan_y": -40.0,
                 "flavor_text": "<valign>Das Franz\u00f6sische Viertel erstrahlt wieder in<br> seiner gewohnten Pracht, auch wenn seine <br>Mansardend\u00e4cher unter dem Grollen, <br>das durch die ganze Stadt hallt, klappern.",
                 "collection_number": "<exn>b"
             },
@@ -1902,7 +1985,9 @@
                     "circle"
                 ],
                 "illustrator": "Illus. Unknown",
-                "collection_number": "<exn>a"
+                "collection_number": "<exn>a",
+                "illustration_pan_x": -150.0,
+                "illustration_scale": 3.0
             },
             "back": {
                 "type": "location",
@@ -1947,10 +2032,10 @@
                     "triangle"
                 ],
                 "illustrator": "Illus. Cristi Balanescu",
-                "illustration_pan_x": -2405.0,
-                "illustration_pan_y": -856.0,
                 "collection_number": "<exn>a",
-                "illustration_scale": 2.939
+                "illustration_scale": 3.849,
+                "illustration_pan_x": -1180.0,
+                "illustration_pan_y": -1400.0
             },
             "back": {
                 "type": "location",
@@ -1971,9 +2056,9 @@
                     "quote",
                     "triangle"
                 ],
-                "illustration_pan_x": -2405.0,
-                "illustration_pan_y": -856.0,
-                "illustration_scale": 2.939,
+                "illustration_pan_x": -1180.0,
+                "illustration_pan_y": -1400.0,
+                "illustration_scale": 3.849,
                 "collection_number": "<exn>b"
             },
             "encounter_number": "9",
@@ -2001,7 +2086,7 @@
                     "triangle"
                 ],
                 "illustrator": "Illus. Rowena Wang",
-                "illustration_pan_x": -500.0,
+                "illustration_pan_x": -650.0,
                 "collection_number": "<exn>a"
             },
             "back": {
@@ -2024,7 +2109,7 @@
                     "triangle"
                 ],
                 "level": "0",
-                "illustration_pan_x": -500.0,
+                "illustration_pan_x": -650.0,
                 "collection_number": "<exn>b"
             },
             "encounter_number": "10",
@@ -2094,7 +2179,7 @@
                     "moon"
                 ],
                 "illustrator": "Illus. Mark Molnar",
-                "illustration_pan_y": -200.0,
+                "illustration_pan_y": -100.0,
                 "collection_number": "<exn>a"
             },
             "back": {
@@ -2114,7 +2199,7 @@
                     "moon"
                 ],
                 "name": "<name>",
-                "illustration_pan_y": -200.0,
+                "illustration_pan_y": -100.0,
                 "collection_number": "<exn>b"
             },
             "encounter_number": "12",
@@ -2535,9 +2620,9 @@
                     "slash"
                 ],
                 "illustrator": "Illus. Mike Paolilli",
-                "illustration_pan_x": -400.0,
-                "illustration_pan_y": -492.0,
-                "illustration_scale": 1.56
+                "illustration_pan_x": -227.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 1.143
             },
             "back": {
                 "type": "location_back",
@@ -2553,9 +2638,7 @@
                     "moon",
                     "slash"
                 ],
-                "illustration_scale": 1.56,
                 "illustration": "./images/expanded_images/White Rabbit House - Mike Paolilli.jpg",
-                "illustration_pan_x": -400.0,
                 "collection_icon": "<exi>",
                 "collection_number": ""
             },
@@ -3098,13 +3181,13 @@
             "front": {
                 "type": "treachery",
                 "traits": "Komplott. Paradox.",
-                "text": "<size 61><rev> Falls sich alle Austern im Spiel auf den Orten des Walrosses oder des Zimmermanns befinden, erh\u00e4lt diese Karte Nachr\u00fcsten. Ansonsten, lege eine <br><willpower>-Probe (3) ab. Falls die Probe misslingt, bewege f\u00fcr jeden Punkt, um den die Probe gescheitert ist, 1 Auster, die sich nicht am Ort des Walrosses oder des Zimmermanns befindet, 1 Ort in Richtung des Walrosses oder des Zimmermanns <i>(zum jeweils n\u00e4chstgelegenen)</i>.",
+                "text": "<size 60><rev> Falls sich alle Austern im Spiel auf den Orten des Walrosses oder des Zimmermanns befinden, erh\u00e4lt diese Karte Nachr\u00fcsten. Ansonsten, lege eine <br><willpower>-Probe (3) ab. Falls die Probe misslingt, bewege f\u00fcr <br>jeden Punkt, um den die Probe gescheitert ist, 1 Auster, die sich nicht am Ort des Walrosses oder des Zimmermanns befindet, 1 Ort in Richtung des Walrosses oder des Zimmermanns <i>(zum jeweils n\u00e4chstgelegenen)</i>.",
                 "flavor_text": "<size 54> \u201eDie Zeit ist reif, zu sprechen nun\u201c, das Walross klang ganz hohl:",
                 "victory": "",
                 "illustration": "./images/expanded_images/Walrus and Carpenter - Harry Rountree.jpg",
                 "illustrator": "Illus. Harry Rountree",
-                "illustration_pan_x": 55.0,
-                "illustration_pan_y": -263.0,
+                "illustration_pan_x": 19.0,
+                "illustration_pan_y": -322.0,
                 "illustration_scale": 0.86
             },
             "back": {
@@ -3127,8 +3210,9 @@
                 "illustration": "./images/expanded_images/Walrus - Josefine Maier.jpg",
                 "illustrator": "Illus. Josefine Maier",
                 "flavor_text": "\u201eBewein' euch denn\u201c, das Walross sprach:<br>\u201eMit gro\u00dfer Sympathie.\u201c",
-                "illustration_pan_x": 140.0,
-                "illustration_pan_y": -40.0
+                "illustration_pan_x": 144.0,
+                "illustration_pan_y": -190.0,
+                "illustration_scale": 0.745
             },
             "back": {
                 "type": "encounter"
@@ -3501,9 +3585,9 @@
                     "square"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": -290.0,
+                "illustration_pan_y": -218.0,
                 "illustration_scale": 1.5,
-                "illustration_pan_x": -80.0
+                "illustration_pan_x": 0.0
             },
             "back": {
                 "type": "location_back",
@@ -3544,7 +3628,7 @@
                     "square"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 20
+                "illustration_pan_y": -40.0
             },
             "back": {
                 "type": "location_back",
@@ -3587,7 +3671,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 120.0
+                "illustration_pan_y": 39.0
             },
             "back": {
                 "type": "location_back",
@@ -3625,7 +3709,8 @@
                 "connections": [
                     "square"
                 ],
-                "illustrator": "Illus. n/a"
+                "illustrator": "Illus. n/a",
+                "illustration_pan_y": -20.0
             },
             "back": {
                 "type": "location_back",
@@ -3669,7 +3754,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 40.0
+                "illustration_pan_y": -60.0
             },
             "back": {
                 "type": "location_back",
@@ -3708,7 +3793,7 @@
                     "square"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 100.0
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "location_back",
@@ -3751,7 +3836,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 60.0
+                "illustration_pan_y": -40.0
             },
             "back": {
                 "type": "location_back",
@@ -3789,7 +3874,7 @@
                     "square"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 60.0
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "location_back",
@@ -3868,7 +3953,8 @@
                     "none",
                     "none"
                 ],
-                "illustrator": "Illus. n/a"
+                "illustrator": "Illus. n/a",
+                "illustration_pan_y": 40.0
             },
             "back": {
                 "type": "location_back",
@@ -3911,7 +3997,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 100.0
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "location_back",
@@ -3954,7 +4040,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 40
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "location_back",
@@ -3997,7 +4083,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 100.0
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "location_back",
@@ -4040,7 +4126,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": 50.0
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "location_back",
@@ -4128,7 +4214,7 @@
                 ],
                 "illustrator": "Illus. n/a",
                 "illustration_pan_x": 0.0,
-                "illustration_pan_y": 100.0
+                "illustration_pan_y": 30.0
             },
             "back": {
                 "type": "location_back",
@@ -4171,7 +4257,7 @@
                     "none"
                 ],
                 "illustrator": "Illus. n/a",
-                "illustration_pan_y": -200.0
+                "illustration_pan_y": -330.0
             },
             "back": {
                 "type": "location_back",
@@ -4292,9 +4378,7 @@
                 "victory": "",
                 "illustration": "./images/expanded_images/March Hare - Kadaric.jpg",
                 "illustrator": "Illus. Kadaric",
-                "illustration_pan_y": -548.0,
-                "illustration_scale": 2.26,
-                "illustration_pan_x": 28.0
+                "illustration_pan_y": -600.0
             },
             "back": {
                 "type": "encounter"
@@ -4859,7 +4943,7 @@
                 "type": "location",
                 "subtitle": "",
                 "traits": "Wunderland. Schloss.",
-                "text": "<for> Nachdem du eine beliebige Anzahl Hinweise im <name> entdeckt hast: Platziere 1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht  oder ziehe die oberste Karte des Begegnungsdecks.",
+                "text": "<for> Nachdem du eine beliebige Anzahl Hinweise im <name> entdeckt hast: Platziere <br>1 Anschuldigung auf deine Kopie von K\u00f6niglicher Verdacht  oder ziehe die oberste Karte des Begegnungsdecks.",
                 "flavor_text": "Der Saal ist voller kritischer Augen. <br>Um die Gunst der K\u00f6nigin zu erlangen, werfen die H\u00f6flinge nur allzu gerne mit Anschuldigungen um sich.",
                 "victory": "Sieg 1.",
                 "illustration": "./images/expanded_images/Heart Castle - Kaylea Hampson.jpg",
@@ -8947,7 +9031,7 @@
                 ],
                 "illustration": "./images/expanded_images/White Rabbit - Megan Tompkins.jpg",
                 "illustrator": "Illus. Megan Tompkins",
-                "illustration_pan_y": -250.0,
+                "illustration_pan_y": -300.0,
                 "flavor_text": "Das Wei\u00dfe Kaninchen springt an dir vorbei und klopft verzweifelt auf seine Taschenuhr. \u201eEs sind noch ein paar Sekunden \u00fcbrig! Nutze sie schnell!\u201c"
             },
             "back": {
@@ -9911,7 +9995,7 @@
                 "illustration": "./images/expanded_images/Gryphon and Mock Turtle - Ken Wong.jpg",
                 "illustrator": "Illus. Ken Wong",
                 "name": "<unique><size 77><name>",
-                "illustration_pan_x": -306.0,
+                "illustration_pan_x": -340.0,
                 "illustration_pan_y": 1008.0,
                 "illustration_scale": 2.48
             },
@@ -10225,8 +10309,8 @@
                 ],
                 "illustration": "./images/expanded_images/Rabbit Hole - Clement Caubet.jpg",
                 "illustrator": "Illus. Clement Caubet",
-                "illustration_pan_x": 14.0,
-                "illustration_pan_y": -510.0,
+                "illustration_pan_x": 12.0,
+                "illustration_pan_y": -300.0,
                 "illustration_scale": 3.0,
                 "flavor_text": " "
             },
@@ -10462,8 +10546,8 @@
                 "illustrator": "Illus. Robert Walker",
                 "name": "<unique><name>",
                 "illustration_pan_x": -132.0,
-                "illustration_pan_y": 955.0,
-                "illustration_scale": 1.2
+                "illustration_pan_y": 1015.0,
+                "illustration_scale": 1.1
             },
             "back": {
                 "type": "encounter"
@@ -10532,48 +10616,6 @@
             "project_number": "211",
             "encounter_set": "609e4283-cd05-4bff-97b9-30e239af582c",
             "id": "9205eae2-3552-419a-a255-a42f6695bc66"
-        },
-        {
-            "name": "Alice Liddell Mini",
-            "id": "a511f1c2-a71c-4ccd-86af-d56ec8b91c94",
-            "amount": 1,
-            "front": {
-                "type": "mini_investigator",
-                "illustration": "./images/AliceMini.png",
-                "illustrator": "Illus. Nicolas Aucher-fargue",
-                "illustration_pan_x": -590.0,
-                "illustration_pan_y": -360.0,
-                "illustration_scale": 2.2
-            },
-            "back": {
-                "type": "mini_investigator_back",
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "illustration": "./images/AliceMini.png",
-                "illustrator": "Illus. Nicolas Aucher-fargue"
-            },
-            "investigator": "Alice Liddell",
-            "enumerated": "ignored"
         }
     ],
     "id": "c6b18288-c528-4f8b-8878-b1cb8b6667cc",
