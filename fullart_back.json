@@ -1,0 +1,38 @@
+{
+  "orientation": "horizontal",
+  "parent": "investigator_back",
+  "editor": "investigator_back",
+  "template": "./images/alice_back.png",
+  "template_bleed": true,
+
+  "name_region": { "x": 952, "y": 116, "width": 848, "height": 144 },
+  "name_font": {
+    "font": "title",
+    "color": "white",
+    "size": 100,
+    "alignment": "left",
+    "outline": 1,
+    "outline_color": "#111111"
+  },
+  "subtitle_region": { "x": 960, "y": 232, "width": 700, "height": 100 },
+  "subtitle_font": {
+    "font": "semibold",
+    "alignment": "left",
+    "size": 56,
+    "color": "white",
+    "outline": 1,
+    "outline_color": "#111111"
+  },
+  "text_polygon": [
+    [785, 372],
+    [2060, 372],
+    [2060, 970],
+    [1950, 1000],
+    [2060, 1480],
+    [202, 1480],
+    [202, 1012],
+    [742, 1012],
+    [852, 972],
+    [785, 372]
+  ]
+}

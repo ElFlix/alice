@@ -1,0 +1,108 @@
+{
+    "name": "Alice Mini",
+    "code": "ZAM",
+    "icon": "",
+    "encounter_sets": [],
+    "cards": [
+        {
+            "name": "Alice Liddell Mini",
+            "id": "a511f1c2-a71c-4ccd-86af-d56ec8b91c94",
+            "amount": 1,
+            "front": {
+                "type": "mini_investigator",
+                "illustration": "./images/AliceMini.png",
+                "illustration_pan_x": -590.0,
+                "illustration_pan_y": -360.0,
+                "illustration_scale": 2.2,
+                "illustrator": " "
+            },
+            "back": {
+                "type": "mini_investigator_back",
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "illustration": "./images/AliceMini.png",
+                "illustrator": " "
+            },
+            "investigator": "Alice Liddell",
+            "enumerated": "ignored"
+        }
+    ],
+    "id": "6099fff4-e94d-4d0a-8ca8-819e6c73b6e4",
+    "meta": {
+        "dirty": []
+    },
+    "export_profiles": [
+        {
+            "id": "6034e1f3-a6e5-4002-a90c-30594e76aded",
+            "name": "Default",
+            "scope": {
+                "type": "all",
+                "encounter_set_ids": [],
+                "card_ids": []
+            },
+            "sections": {
+                "images": {
+                    "enabled": false,
+                    "folder": null,
+                    "size_label": "FFG 726\u00d71039 px (Default)",
+                    "format": "webp",
+                    "quality": 99,
+                    "filename_format": "id",
+                    "rotate": false,
+                    "bleed": true,
+                    "separate_versions": false,
+                    "include_backs": false
+                },
+                "pdf": {
+                    "enabled": true,
+                    "flavor": "azao",
+                    "folder": null,
+                    "export_images": true,
+                    "size_label": "FFG 726\u00d71039 px (Default)",
+                    "format": "png",
+                    "quality": 100,
+                    "include_backs": false,
+                    "vector_text": true,
+                    "output_path": "/run/media/felix/D0D6C116D6C0FE2A/alice/PRINT/mini front.pdf",
+                    "back_output_path": "/run/media/felix/D0D6C116D6C0FE2A/alice/PRINT/mini back.pdf"
+                },
+                "tts": {
+                    "enabled": false,
+                    "folder": null,
+                    "export_images": true,
+                    "sync": false
+                },
+                "arkham_build": {
+                    "enabled": false,
+                    "export_thumbnails": false,
+                    "url_pattern": null
+                },
+                "guides": {
+                    "enabled": false,
+                    "export_pdf": true,
+                    "export_html": true
+                }
+            }
+        }
+    ]
+}
