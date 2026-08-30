@@ -806,7 +806,7 @@
             "back": {
                 "type": "agenda_back",
                 "victory": "",
-                "text": "Jeder Ermittler, der nicht aufgegeben hat, wird besiegt.",
+                "text": "Jeder Ermittler, der nicht aufgegeben hat, ist besiegt.",
                 "index": "3b",
                 "flavor_text": "Das schrille Knacken und Zerbrechen von Glas \u00fcbert\u00f6nt das Grollen der zerfallenden Landschaft. Jetzt, wo alles k\u00fcnstliche Licht vollst\u00e4ndig erloschen ist, kannst du nur noch verzweifelt zusehen, wie der schwindende Glanz der D\u00e4mmerung zur Nacht wird und die Schatten dich von allen Seiten umschlingen.",
                 "name": "Die finsterste Nacht"
@@ -10281,15 +10281,15 @@
                         "Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen <br>(Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0."
                     ],
                     [
-                        "<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
-                        "Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che."
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Geheimnisse des Wunderlands, In Gedanken <br>verloren, 1 zuf\u00e4llige Grundschw\u00e4che."
                     ],
                     [
                         "<b>Deckbuilding Restrictions:</b>",
                         ""
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen <br>(Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0.\n<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, <br>Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen <br>(Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/<br>oder <survivor>) Stufe 0.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken <br>verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
                 "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice <br>musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort <br>gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu ver-<br>schmelzen. Alice versuchte, dem sich ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft,<br> so viele von Arkhams bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren.",
                 "classes": [
                     "seeker"
@@ -10668,15 +10668,15 @@
                         "Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/oder <survivor>) Stufe 0."
                     ],
                     [
-                        "<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
-                        "Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che."
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Geheimnisse des Wunderlands, In Gedanken <br>verloren, 1 zuf\u00e4llige Grundschw\u00e4che."
                     ],
                     [
                         "<b>Deckbuilding Restrictions:</b>",
                         ""
                     ]
                 ],
-                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/oder <survivor>) Stufe 0.\n<b>Deckbuilding-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
+                "text": "<b>Deckgr\u00f6\u00dfe</b>: 30\n<b>Deckbau-Optionen</b>: Sucherkarten (<seeker>) Stufe 0--5, Neutrale Karten Stufe 0--5, Karten mit \u201eAnwendungen (Geheimnisse)\u201c im Textfeld Stufe 0--2, bis zu f\u00fcnf andere Mystiker- und/oder \u00dcberlebenderkarten  (<mystic> und/oder <survivor>) Stufe 0.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Geheimnisse des Wunderlands, In Gedanken <br>verloren, 1 zuf\u00e4llige Grundschw\u00e4che.",
                 "flavor_text": "Man sagte oft, Alice lebe in ihrer eigenen kleinen Welt. Alice musste dem nat\u00fcrlich zustimmen, da sie schon mehrmals dort gewesen war. Sie wusste, dass das Wunderland ein Traum war, doch f\u00fcr sie wirkte alles so real wie ihre Heimat England. Dieser Glaube weckte das<br> Interesse eines schattenhaften Wesens namens Gurathnaka, das in Alices Tr\u00e4umen eine <br>Gelegenheit sah. W\u00e4hrend Alice heranwuchs, versuchte es, ihren Glauben an das Wunderland zu festigen, bis es begann, mit der realen Welt zu verschmelzen. Alice versuchte, dem sich <br>ausbreitenden Chaos zu entkommen, bis ihre Reisen sie nach Arkham, Massachusetts, f\u00fchrten, wo eine Gruppe von Ermittlern ihren Geist von Gurathnakas Einfluss befreite. Alice hat <br>geschworen, sich f\u00fcr ihre Taten zu revanchieren, indem sie dabei hilft, so viele von Arkhams <br>bizarren Vorf\u00e4llen wie m\u00f6glich aufzukl\u00e4ren.",
                 "classes": [
                     "seeker"
