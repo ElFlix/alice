@@ -717,7 +717,7 @@
             "name": "Am dunkelsten vor der Morgenr\u00f6te",
             "front": {
                 "type": "act",
-                "text": "<for> Zu Beginn der Ermittlungsphase: Die <br>Ermittler w\u00e4hlen 1 Karte von Alices Hand und spielen sie als Gruppe. Dann d\u00fcrfen die Ermittler Alice Liddell an einen verbundenen Ort bewegen.\n<reaction> Sobald du 1 oder mehr Hinweise an deinem Ort entdecken w\u00fcrdest, selbst wenn sich auf deinem Ort keine Hinweise befinden: Platziere stattdessen genauso viele deiner Hinweise auf Gurathnaka.\n<obj> Falls die verbleibende Ausdauer von Gurathnaka niedriger als die Anzahl an Hinweisen auf Gurathnaka ist, r\u00fccke vor.",
+                "text": "<for> Zu Beginn der Ermittlungsphase: Die <br>Ermittler w\u00e4hlen 1 Karte von Alices Hand und spielen sie als Gruppe. Dann d\u00fcrfen die Ermittler Alice Liddell an einen verbundenen Ort bewegen.\n<reaction> Sobald du 1 oder mehr Hinweise an deinem Ort entdecken w\u00fcrdest, selbst wenn sich auf deinem Ort keine Hinweise befinden: Platziere stattdessen genauso viele deiner Hinweise auf Gurathnaka.\n<obj> Falls die verbleibende Ausdauer von Gurathnaka niedriger ist als die Anzahl an Hinweisen auf Gurathnaka, r\u00fccke vor.",
                 "illustration": "./images/expanded_images/Rabbit Hole - Masateru Ikeda.jpg",
                 "index": "2a",
                 "illustrator": "Illus. Masateru Ikeda",
@@ -743,7 +743,7 @@
             "name": "Wachsende Dunkelheit",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle \u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice nicht angreifen oder <br>in einen Kampf verwickeln. Bei der Abhandlung <br>des Schl\u00fcsselwortes J\u00e4ger kann Alice Liddell nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
+                "text": "Alice Liddell kann die Kontrolle \u00fcber die Grinsekatze nicht \u00fcbernehmen. \nGegner k\u00f6nnen Alice nicht angreifen oder <br>in einen Kampf verwickeln. Bei der Abhandlung <br>des Schl\u00fcsselwortes J\u00e4ger kann Alice Liddell nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
                 "flavor_text": "Die Stabilit\u00e4t Arkhams verschlechtert sich zunehmend, wie vor deinem ersten Betreten des Wunderlandes. <br>Dunkelheit breitet sich vom Norden der Stadt her aus, und mit ihr Gurathnaka und seine Schergen. Gierig wie ein Waldbrand verzehren Schatten alles, was auf ihrem Weg liegt, und werden dabei st\u00e4rker und st\u00e4rker.",
                 "illustration": "./images/expanded_images/Shadows - Yoojin Rhee.jpg",
                 "doom": "7",
@@ -770,7 +770,7 @@
             "name": "Massenkonsum",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle <br>\u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice Liddell nicht angreifen oder <br>in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice Liddell nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
+                "text": "Alice Liddell kann die Kontrolle \u00fcber die Grinsekatze nicht \u00fcbernehmen. \nGegner k\u00f6nnen Alice Liddell nicht angreifen oder <br>in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice Liddell nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
                 "flavor_text": "Gurathnaka treibt seine Schatten an, alles zu <br>verschlingen, was sie zerrei\u00dfen k\u00f6nnen \u2013 sei es <br>tierischen, pflanzlichen oder mineralischen <br>Ursprungs. Sie hinterlassen eine dunkle Leere, die noch leerer ist als die Leere des Weltraums.",
                 "illustration": "./images/expanded_images/Shadows - Yoojin Rhee.jpg",
                 "doom": "7",
@@ -795,7 +795,7 @@
             "name": "Letzte Lichtstrahlen",
             "front": {
                 "type": "agenda",
-                "text": "Alice Liddell kann nicht die Kontrolle <br>\u00fcber die Grinsekatze \u00fcbernehmen.\nGegner k\u00f6nnen Alice Liddell nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice Liddell nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
+                "text": "Alice Liddell kann die Kontrolle <br>\u00fcber die Grinsekatze nicht \u00fcbernehmen.\nGegner k\u00f6nnen Alice Liddell nicht angreifen oder in einen Kampf verwickeln. Bei der Abhandlung des Schl\u00fcsselwortes J\u00e4ger kann Alice Liddell nicht als Ziel gew\u00e4hlt werden.\n<for> Am Ende der Gegnerphase: <br>Gurathnaka bewegt sich 1 Ort in Richtung <br>des Ortes mit den meisten Ermittlern.\n<for> Sobald Alice besiegt wird: <br>(<resolution><b>A2</b>).",
                 "illustration": "./images/expanded_images/Shadows - Yoojin Rhee.jpg",
                 "doom": "6",
                 "index": "3a",
@@ -1098,7 +1098,7 @@
                 "type": "location",
                 "illustration": "./images/expanded_images/Uptown - Nele Diel 2.jpg",
                 "illustrator": "Illus. Nele Diel",
-                "subtitle": " Geh\u00f6lz voll altem Spuk",
+                "subtitle": "Geh\u00f6lz voll altem Spuk",
                 "traits": "Arkham.",
                 "victory": "",
                 "shroud": "4",
