@@ -62,19 +62,19 @@
             },
             "sections": {
                 "images": {
-                    "enabled": false,
+                    "enabled": true,
                     "folder": null,
-                    "size_label": "FFG 363\u00d7519 px",
+                    "size_label": "MTG 1500\u00d72079 px",
                     "format": "webp",
-                    "quality": 99,
-                    "filename_format": "id",
+                    "quality": 97,
+                    "filename_format": "order",
                     "rotate": false,
-                    "bleed": true,
+                    "bleed": false,
                     "separate_versions": false,
                     "include_backs": false
                 },
                 "pdf": {
-                    "enabled": true,
+                    "enabled": false,
                     "flavor": "azao",
                     "folder": null,
                     "export_images": true,
